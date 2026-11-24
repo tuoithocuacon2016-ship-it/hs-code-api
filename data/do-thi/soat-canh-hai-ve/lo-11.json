@@ -1,0 +1,90 @@
+{
+  "khuon": "soat2ve@1",
+  "lo": 11,
+  "kq": [
+    {
+      "id": "C5:8210>7323:15554848055e",
+      "ketLuan": "CAN_CU_YEU",
+      "vi": "Chú giải 82.10 đúng là loại các đồ không có đặc tính cơ khí, nhưng chú giải 73.23 mục (d) cũng loại trừ các đồ gia dụng có đặc tính của dụng cụ (kể cả máy chiết nước trái cây, máy ép rau) sang Chương 82 (vd 82.05), nên gộp chung 'Dụng cụ ép trái cây' vào 73.23 là rộng hơn chú giải 73.23.",
+      "trichTotHon": {
+        "nguon": "nhom7323.nhom",
+        "trich": "Nhóm này không bao gồm: … (d) Các đồ gia dụng có đặc tính của các dụng cụ,… máy chiết nước trái cây, máy ép rau, máy nghiền rau (Chương 82)."
+      }
+    },
+    {
+      "id": "C5:8302>7616:0f8bbd8e2ffd",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 83.02 nêu nguyên văn thanh treo rèm, ống phù hợp để treo rèm chỉ đơn thuần cắt theo chiều dài và khoan được phân loại theo kim loại cấu thành, và 76.16 bao gồm sản phẩm bằng nhôm không thuộc các nhóm trước của Chương 76 hoặc Chương 82, 83.",
+      "chungMinh": "Các loại thanh treo rèm, ống phù hợp để treo rèm hoặc giữ thảm chỉ đơn thuần được cắt theo chiều dài và khoan được phân loại theo kim loại cấu thành."
+    },
+    {
+      "id": "C5:8308>8708:eaa9e5657f34",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 83.08 chỉ bao gồm khóa cài/khóa thắt lưng cho quần áo, giày dép, đồ du lịch, đồ da, còn chú giải 87.08 bao gồm phụ tùng, bộ phận phụ trợ (trong đó có dây đai an toàn gắn cố định trong xe) dùng duy nhất và chủ yếu cho xe cơ giới 87.01 đến 87.05 (cần kèm điều kiện (ii) không bị loại trừ bởi Chú giải Phần XVII).",
+      "chungMinh": "Nhóm này bao gồm toàn bộ các phụ tùng và bộ phận phụ trợ của xe cơ giới từ nhóm 87.01 đến 87.05, với điều kiện là chúng phải đáp ứng cả hai điều kiện sau đây: (i) Chúng phải được xác định là bộ phận phù hợp để sử dụng duy nhất và chủ yếu cho các loại phương tiện trên. … các dây đai an toàn để bảo vệ người được thiết kế gắn cố định trong xe;",
+      "trichTotHon": {
+        "nguon": "nhom8708.nhom",
+        "trich": "Nhóm này bao gồm toàn bộ các phụ tùng và bộ phận phụ trợ của xe cơ giới từ nhóm 87.01 đến 87.05… (i) Chúng phải được xác định là bộ phận phù hợp để sử dụng duy nhất và chủ yếu cho các loại phương tiện trên. và (ii) Chúng phải không bị loại trừ theo các qui định của các Chú giải cho Phần XVII"
+      }
+    },
+    {
+      "id": "C5:8414>8421:9215b71d3e05",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 84.21 nêu rõ thiết bị lọc hoặc tinh chế chất khí, bao gồm thiết bị lọc khí nạp và thiết bị khử bụi, lọc khói thuộc nhóm 84.21; câu trích Chú giải 2(a) Phần XVI không nằm nguyên văn trong chú giải 84.14 nên bổ sung trích trực tiếp từ 84.21.",
+      "chungMinh": "(B) Thiết bị lọc hoặc tinh chế chất khí. … (i) Thiết bị lọc khí nạp dùng cho động cơ đốt trong. … (v) Thiết bị khử bụi, lọc khói...",
+      "trichTotHon": {
+        "nguon": "nhom8421.nhom",
+        "trich": "(B) Thiết bị lọc hoặc tinh chế chất khí. Các thiết bị thuộc nhóm này được sử dụng để tách chất rắn hoặc lỏng từ khí… hoặc để khử các chất độc hại (ví dụ; khử bụi, khử hắc ín trong các loại khí hoặc khói…) … (v) Thiết bị khử bụi, lọc khói..."
+      }
+    },
+    {
+      "id": "C5:8419>8708:859355d30621",
+      "ketLuan": "CAN_CU_YEU",
+      "vi": "Câu trích (g) không nằm trong chú giải 84.19 trong gói (mục (g) trong chú giải 84.19 là lò nung, sấy); chú giải 87.08 trong gói không nêu chính bộ tản nhiệt (chỉ nêu 'các nắp của bộ tản nhiệt', còn wco.870891 ở ngoài gói) và chỉ áp dụng cho xe 87.01 đến 87.05 thỏa đủ điều kiện (i) và (ii), hẹp hơn 'Phần XVII'.",
+      "trichTotHon": {
+        "nguon": "nhom8708.nhom",
+        "trich": "Nhóm này bao gồm toàn bộ các phụ tùng và bộ phận phụ trợ của xe cơ giới từ nhóm 87.01 đến 87.05… (i) Chúng phải được xác định là bộ phận phù hợp để sử dụng duy nhất và chủ yếu cho các loại phương tiện trên. và (ii) Chúng phải không bị loại trừ theo các qui định của các Chú giải cho Phần XVII"
+      }
+    },
+    {
+      "id": "C5:8421>7304:6432aef4222b",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 73.04 chỉ loại trừ tại mục (f) các ống, ống dẫn và thanh dạng rỗng đã làm thành sản phẩm đặc thù có thể nhận dạng như bộ phận máy móc (Phần XVI); do đó ống sắt/thép không mối nối thông dụng chưa gia công thành bộ phận đặc thù của thiết bị lọc thuộc nhóm 73.04.",
+      "chungMinh": "Nhóm này không bao gồm: … (f) Các ống, ống dẫn và các thanh dạng rỗng được làm thành những sản phẩm đặc thù có thể nhận dạng, ví dụ như… các bộ phận máy móc khác (Phần XVI)"
+    },
+    {
+      "id": "C5:8421>8481:3fddc57004b6",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 84.81 nêu rõ nhóm này bao gồm van và thiết bị được thiết kế để điều chỉnh áp lực hoặc vận tốc dòng chảy của khí, bao gồm van giảm áp suất (bộ điều chỉnh áp suất) và van dùng trong truyền động khí nén.",
+      "chungMinh": "Nhóm này bao gồm những thiết bị được thiết kế để điều chỉnh áp lực hoặc vận tốc dòng chảy của chất lỏng hoặc khí. … Nhóm này cũng bao gồm van giảm áp suất (đôi khi được gọi là bộ điều chỉnh áp suất, bộ giảm áp suất hoặc bộ điều chỉnh giảm áp suất)",
+      "trichTotHon": {
+        "nguon": "nhom8481.nhom",
+        "trich": "Nhóm này bao gồm những thiết bị được thiết kế để điều chỉnh áp lực hoặc vận tốc dòng chảy của chất lỏng hoặc khí. … Nhóm này cũng bao gồm van giảm áp suất (đôi khi được gọi là bộ điều chỉnh áp suất, bộ giảm áp suất hoặc bộ điều chỉnh giảm áp suất)"
+      }
+    },
+    {
+      "id": "C5:8422>8477:f7e725ee9dd1",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 84.22 loại trừ máy có chức năng chủ yếu là chế biến nguyên liệu thô/bán thành phẩm thành sản phẩm cuối cùng thay vì đóng gói, còn chú giải 84.77 bao gồm máy gia công cao su hoặc plastic và máy ép tạo hình/đúc sản phẩm từ cao su hoặc plastic.",
+      "chungMinh": "Tuy nhiên, nhóm này không bao gồm các loại máy, trong đó chức năng chủ yếu không phải là đóng gói,... mà là chế biến nguyên liệu dạng thô hoặc bán thành phẩm thành sản phẩm cuối cùng … Nhóm này bao gồm máy móc để gia công cao su hoặc plastic hoặc dùng trong việc sản xuất ra các sản phẩm làm từ các vật liệu này, chưa được chi tiết hoặc ghi ở nơi khác trong chương này."
+    },
+    {
+      "id": "C5:8437>8479:e02b2e533e21",
+      "ketLuan": "SAI",
+      "vi": "Điều kiện đưa cả 'máy xay bột khô trong chế biến thức ăn cho động vật' vào nhóm 84.79, trái với chú giải 84.79 vốn chỉ xếp máy nghiền, máy xay không được thiết kế cho hàng hóa hoặc ngành công nghiệp cụ thể nào (chưa kể chú giải 84.37 loại trừ máy nghiền trang trại nhỏ sang nhóm 84.36 chứ không sang 84.79).",
+      "trichTotHon": {
+        "nguon": "nhom8479.nhom",
+        "trich": "(2) Máy ép, máy nghiền, máy xay, máy trộn, v.v.., không được thiết kế cho hàng hóa hoặc ngành công nghiệp cụ thể nào."
+      }
+    },
+    {
+      "id": "C5:8449>8479:c145909c8c16",
+      "ketLuan": "CAN_CU_YEU",
+      "vi": "Chú giải 84.79 đòi hỏi máy không bị loại trừ và đồng thời thỏa điều kiện (b) không được mô tả chi tiết hơn ở bất kỳ Chương nào khác của Danh mục (như máy hàn siêu âm/hàn điện thuộc Chương 85), nhưng điều kiện chỉ nêu 'chưa được chi tiết hoặc ghi ở nhóm khác của Chương 84' và không chứng minh loại trừ khỏi 84.49.",
+      "trichTotHon": {
+        "nguon": "nhom8479.nhom",
+        "trich": "Nhóm này được giới hạn đối với máy móc có các chức năng riêng biệt, mà: (a) Không bị loại trừ khỏi Chương này… (b) Không được mô tả chi tiết hơn bởi một nhóm trong bất kỳ Chương nào khác của Danh mục và (c) Không thể phân loại trong bất kỳ một nhóm cụ thể nào khác của chương này"
+      }
+    }
+  ]
+}

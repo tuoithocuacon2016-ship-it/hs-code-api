@@ -1,0 +1,104 @@
+{
+  "khuon": "soat2ve@1",
+  "lo": 14,
+  "kq": [
+    {
+      "id": "C5:8483>8479:2d25ed5c0315",
+      "ketLuan": "CAN_CU_YEU",
+      "vi": "Chú giải 84.79 đòi hỏi máy có chức năng riêng biệt phải thỏa đủ cả (a) không bị loại trừ, (b) không được mô tả chi tiết hơn ở bất kỳ Chương nào khác của Danh mục, và (c) không xếp được ở nhóm cụ thể nào của Chương 84; điều kiện bỏ sót (a)-(b) và chú giải 84.79 không nêu con lăn đỡ trục cán.",
+      "trichTotHon": {
+        "nguon": "nhom8479.nhom",
+        "trich": "Nhóm này được giới hạn đối với máy móc có các chức năng riêng biệt, mà: (a) Không bị loại trừ khỏi Chương này… (b) Không được mô tả chi tiết hơn bởi một nhóm trong bất kỳ Chương nào khác của Danh mục và (c) Không thể phân loại trong bất kỳ một nhóm cụ thể nào khác của chương này"
+      }
+    },
+    {
+      "id": "C5:8504>8536:e8db9d001632",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 85.04 mục (a) loại trừ các chuyển mạch thuộc nhóm 85.36, và chú giải 85.36 bao gồm thiết bị đóng ngắt dùng cho điện áp không quá 1000V, công tắc điện tử dùng thành phần bán dẫn và rơ le điện tử điều khiển tự động mạch điện (bổ sung trích chuẩn từ 85.36 thay cho đoạn nói về cuộn kháng ở 85.04).",
+      "chungMinh": "(a) Các chuyển mạch của nhóm 85.36 … Nói chung, nhóm này bao gồm các thiết bị điện dùng cho điện áp không quá 1000v… Công tắc điện tử mà nó hoạt động không cần tiếp xúc sử dụng thành phần bán dẫn (ví dụ, dùng transistor, thyristo, mạch tích hợp). … (C) Rơ le là những thiết bị điện điều khiển tự động mạch điện",
+      "trichTotHon": {
+        "nguon": "nhom8536.nhom",
+        "trich": "Nói chung, nhóm này bao gồm các thiết bị điện dùng cho điện áp không quá 1000v… Công tắc điện tử mà nó hoạt động không cần tiếp xúc sử dụng thành phần bán dẫn… (C) Rơ le là những thiết bị điện điều khiển tự động mạch điện"
+      }
+    },
+    {
+      "id": "C5:8515>8449:dd46719011a5",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 85.15 chỉ bao gồm máy và thiết bị để hàn, hàn thiếc, hàn thau (nên thao tác ép/dập cơ khí không hàn không thuộc 85.15), còn chú giải 84.49 bao gồm máy dùng để sản xuất hoặc hoàn thiện các mặt hàng làm từ phớt hoặc vải không dệt (bổ sung trích vì trích cũ bị cụt).",
+      "chungMinh": "Nhóm này bao gồm máy dùng để sản xuất hoặc hoàn thiện các loại phớt hoặc các sản phẩm không dệt hoặc các mặt hàng làm từ phớt hoặc vải không dệt, nhưng loại trừ máy móc dùng để sản xuất vải nỉ dệt.",
+      "trichTotHon": {
+        "nguon": "nhom8449.nhom",
+        "trich": "Nhóm này bao gồm máy dùng để sản xuất hoặc hoàn thiện các loại phớt hoặc các sản phẩm không dệt hoặc các mặt hàng làm từ phớt hoặc vải không dệt, nhưng loại trừ máy móc dùng để sản xuất vải nỉ dệt."
+      }
+    },
+    {
+      "id": "C5:8515>8479:151223758c8e",
+      "ketLuan": "SAI",
+      "vi": "Điều kiện không loại trừ cơ chế hàn (khác với cạnh 8515>8449) và chỉ kiểm 'chưa được chi tiết hoặc ghi ở nhóm khác của Chương 84' mà bỏ qua điều kiện (b) của 84.79 (không được mô tả chi tiết hơn ở Chương khác), nên lẫn cả máy dập quai hàn khẩu trang bằng hàn siêu âm/hàn điện vốn thuộc chính nhóm nguồn 85.15.",
+      "trichTotHon": {
+        "nguon": "nhom8479.nhom",
+        "trich": "Nhóm này được giới hạn đối với máy móc có các chức năng riêng biệt, mà: (a) Không bị loại trừ khỏi Chương này… (b) Không được mô tả chi tiết hơn bởi một nhóm trong bất kỳ Chương nào khác của Danh mục và (c) Không thể phân loại trong bất kỳ một nhóm cụ thể nào khác của chương này"
+      }
+    },
+    {
+      "id": "C5:8516>8533:8a516ec4de50",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 85.16 phần (F) chỉ xếp các điện trở nung nóng bằng điện, còn chú giải 85.33 nêu rõ điện trở (trở kháng) dùng cung cấp mức trở kháng hạn chế dòng điện, biến trở và chiết áp thuộc 85.33 và loại trừ điện trở nung nóng sang 85.16 hoặc 85.45.",
+      "chungMinh": "(A) Điện trở (trở kháng). Chúng đều là những vật dẫn có chức năng cung cấp mức trở kháng đã định vào mạch điện (ví dụ: hạn chế dòng điện chạy qua). … Nhóm này không bao gồm: (a) Các điện trở nung nóng (nhóm 85.16 hoặc 85.45). … (B) Biến trở… (C) Chiết áp:",
+      "trichTotHon": {
+        "nguon": "nhom8533.nhom",
+        "trich": "(A) Điện trở (trở kháng). Chúng đều là những vật dẫn có chức năng cung cấp mức trở kháng đã định vào mạch điện (ví dụ: hạn chế dòng điện chạy qua). … Nhóm này không bao gồm: (a) Các điện trở nung nóng (nhóm 85.16 hoặc 85.45). … (B) Biến trở… (C) Chiết áp:"
+      }
+    },
+    {
+      "id": "C5:8518>8531:1a2935b5766c",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 85.31 quy định rõ chuông điện, còi điện, còi báo điện và các thiết bị điện báo hiệu bằng âm thanh (trừ loại cho xe đạp/xe có động cơ 85.12 và điều khiển giao thông 85.30) thuộc nhóm 85.31 (bổ sung trích từ 85.31 vì trích 85.18 bị cụt).",
+      "chungMinh": "(A) Chuông điện, còi điện, chuông cửa điện có nhạc, v.v... … (B) Các thiết bị điện báo hiệu bằng hiệu âm thanh, còi điện, còi báo điện… Âm thanh sinh ra bởi một lưỡi gà rung, bởi một đĩa xoay chạy bằng điện hoặc máy phát âm thanh điện tử;",
+      "trichTotHon": {
+        "nguon": "nhom8531.nhom",
+        "trich": "(A) Chuông điện, còi điện, chuông cửa điện có nhạc, v.v... … (B) Các thiết bị điện báo hiệu bằng hiệu âm thanh, còi điện, còi báo điện… Âm thanh sinh ra bởi một lưỡi gà rung, bởi một đĩa xoay chạy bằng điện hoặc máy phát âm thanh điện tử;"
+      }
+    },
+    {
+      "id": "C5:8526>8537:b4bccbc88827",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 85.26 chỉ gồm thiết bị rađa, dẫn đường và điều khiển từ xa bằng sóng vô tuyến (radio), còn chú giải 85.37 bao gồm hệ thống các thiết bị đóng ngắt/điều khiển điện lắp ráp cùng nhau trên bảng, panel, giá đỡ hoặc tủ (trừ thiết bị điều khiển tự động 90.32 và hồng ngoại không dây 85.43).",
+      "chungMinh": "Chúng gồm một hệ thống các thiết bị thuộc hai nhóm nêu ở trên (ví dụ, các thiết bị đóng ngắt và cầu chì) được lắp ráp lại với nhau trên một bảng, panel, giá đỡ v.v… hoặc được gá trên tủ, bàn v.v..",
+      "trichTotHon": {
+        "nguon": "nhom8537.nhom",
+        "trich": "Chúng gồm một hệ thống các thiết bị thuộc hai nhóm nêu ở trên (ví dụ, các thiết bị đóng ngắt và cầu chì) được lắp ráp lại với nhau trên một bảng, panel, giá đỡ v.v… hoặc được gá trên tủ, bàn v.v.."
+      }
+    },
+    {
+      "id": "C5:8526>8543:28033aec57ff",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 85.26 chỉ gồm thiết bị điều khiển từ xa bằng sóng radio, còn chú giải 85.43 bao gồm các thiết bị điện có chức năng riêng chưa thuộc nhóm nào khác và nêu rõ tại mục (16) các thiết bị hồng ngoại không dây để điều khiển từ xa các thiết bị điện.",
+      "chungMinh": "Nhóm này bao gồm tất cả các thiết bị điện và dụng cụ điện, không nằm trong bất kỳ nhóm nào khác của Chương này, cũng không nằm trong một nhóm của bất kỳ Chương nào khác của Danh mục này… (16) Các thiết bị hồng ngoại không dây để điều khiển từ xa của máy thu hình, máy ghi video hoặc các thiết bị điện khác.",
+      "trichTotHon": {
+        "nguon": "nhom8543.nhom",
+        "trich": "Nhóm này bao gồm tất cả các thiết bị điện và dụng cụ điện, không nằm trong bất kỳ nhóm nào khác của Chương này… (16) Các thiết bị hồng ngoại không dây để điều khiển từ xa của máy thu hình, máy ghi video hoặc các thiết bị điện khác."
+      }
+    },
+    {
+      "id": "C5:8531>8518:eb25c75dd030",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 85.18 nêu rõ micrô, loa, tai nghe chụp đầu, tai nghe và các bộ thiết bị điện khuếch đại âm tần ở tất cả các dạng xuất trình riêng rẽ thuộc nhóm 85.18 (không phải chuông/còi báo hiệu 85.31; bổ sung trích đúng từ 85.18 thay cho trích cũ bị cụt).",
+      "chungMinh": "Nhóm này bao gồm micrô, loa, tai nghe chụp đầu, tai nghe và các bộ thiết bị điện khuyếch đại âm tần ở tất cả các dạng được xuất trình riêng rẽ, không quan tâm đến việc các thiết bị nêu trên được thiết kế cho mục đích sử dụng chuyên dùng",
+      "trichTotHon": {
+        "nguon": "nhom8518.nhom",
+        "trich": "Nhóm này bao gồm micrô, loa, tai nghe chụp đầu, tai nghe và các bộ thiết bị điện khuyếch đại âm tần ở tất cả các dạng được xuất trình riêng rẽ, không quan tâm đến việc các thiết bị nêu trên được thiết kế cho mục đích sử dụng chuyên dùng"
+      }
+    },
+    {
+      "id": "C5:8536>8512:f62c4a57f8bc",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 85.12 quy định rõ các thiết bị điện phát ánh sáng hoặc phát tín hiệu chuyên dùng cho xe đạp hoặc xe có động cơ, bao gồm mục (11) thiết bị cảnh báo chống trộm và mục (12) còi, thiết bị báo tín hiệu âm thanh bằng điện, thuộc nhóm 85.12.",
+      "chungMinh": "Nhóm này bao gồm các thiết bị điện và các thiết bị chuyên dùng sử dụng cho xe đạp hoặc xe có động cơ để phát ánh sáng hoặc phát tín hiệu. … (11) Thiết bị cảnh báo chống trộm mà phát ra tín hiệu hình ảnh hoặc âm thanh để cảnh báo ý định đột nhập vào xe. (12) Còi, còi báo hiệu và các thiết bị báo tín hiệu âm thanh bằng điện khác.",
+      "trichTotHon": {
+        "nguon": "nhom8512.nhom",
+        "trich": "Nhóm này bao gồm các thiết bị điện và các thiết bị chuyên dùng sử dụng cho xe đạp hoặc xe có động cơ để phát ánh sáng hoặc phát tín hiệu. … (11) Thiết bị cảnh báo chống trộm… (12) Còi, còi báo hiệu và các thiết bị báo tín hiệu âm thanh bằng điện khác."
+      }
+    }
+  ]
+}

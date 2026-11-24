@@ -1,0 +1,96 @@
+{
+  "khuon": "soat2ve@1",
+  "lo": 12,
+  "kq": [
+    {
+      "id": "C5:8449>8515:9d26a18177ae",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 85.15 quy định rõ nhóm này bao gồm máy hàn điện các loại và các máy, thiết bị để hàn bằng siêu âm (kể cả hàn phim nhựa), nên máy dập quai hàn khẩu trang bằng hàn siêu âm hoặc hàn điện thuộc 85.15.",
+      "chungMinh": "(I) MÁY VÀ THIẾT BỊ HÀN CÁC LOẠI … (IJ) Các máy và thiết bị để hàn bằng siêu âm. … Máy hàn điện các loại",
+      "trichTotHon": {
+        "nguon": "nhom8515.nhom",
+        "trich": "(I) MÁY VÀ THIẾT BỊ HÀN CÁC LOẠI Nhóm này bao gồm các máy và thiết bị cụ thể để hàn (welding)… (IJ) Các máy và thiết bị để hàn bằng siêu âm. … Máy hàn điện các loại"
+      }
+    },
+    {
+      "id": "C5:8460>8459:e745cef74b70",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 84.60 chỉ bao gồm máy gia công tinh bề mặt bằng đá mài, vật liệu mài hoặc đánh bóng, còn chú giải 84.59 nêu rõ nhóm 84.59 bao gồm máy công cụ để khoan, doa, phay, cắt ren hoặc tarô ren bằng cách cắt hoặc bóc tách kim loại.",
+      "chungMinh": "Nhóm này bao gồm máy công cụ dùng để khoan, doa, phay, cắt ren hoặc tarô ren bằng cách cắt hoặc bóc tách kim loại trừ máy tiện (kể cả trung tâm gia công tiện) thuộc nhóm 84.58. … (5) Máy tarô ren (như máy dùng để tạo ren trong một lỗ hiện có) và máy cắt ren dùng để cắt ren bu lông, trục vít",
+      "trichTotHon": {
+        "nguon": "nhom8459.nhom",
+        "trich": "Nhóm này bao gồm máy công cụ dùng để khoan, doa, phay, cắt ren hoặc tarô ren bằng cách cắt hoặc bóc tách kim loại … (5) Máy tarô ren (như máy dùng để tạo ren trong một lỗ hiện có) và máy cắt ren dùng để cắt ren bu lông, trục vít"
+      }
+    },
+    {
+      "id": "C5:8466>7616:ba3593718c1e",
+      "ketLuan": "SAI",
+      "vi": "Điều kiện loại cả 'Bàn gá nhôm... không có cơ cấu bàn trượt dịch chuyển' khỏi 84.66 sang 76.16 là lẫn hàng thuộc nhóm nguồn, vì chú giải 84.66 mục (2) xếp cả bàn và mâm cặp phôi (có hoặc không lắp thiết bị cài đặt), bàn kẹp và tấm đỡ góc dùng cho máy 84.56 đến 84.65 vào 84.66 mà không đòi hỏi cơ cấu bàn trượt.",
+      "trichTotHon": {
+        "nguon": "nhom8466.nhom",
+        "trich": "(2) Bộ phận kẹp sản phẩm được thiết kế để giữ và đôi khi để điều khiển (khi được yêu cầu cho một hoạt động đặc biệt) các chi tiết đang được gia công. Những bộ phận kẹp này bao gồm: … bàn và mâm cặp phôi (có hoặc không lắp thiết bị cài đặt hoặc điều chỉnh thước micromét); bàn kẹp và tấm đỡ góc;"
+      }
+    },
+    {
+      "id": "C5:8466>8479:ee619a144a68",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 84.66 giới hạn cho bộ phận và phụ kiện của máy thuộc nhóm 84.56 đến 84.65, nên bộ bàn trượt cơ khí có chức năng riêng biệt dùng chung cho nhiều loại máy và không phải phụ tùng của 84.56–84.65 bị loại khỏi 84.66 và phù hợp tiêu chí máy có chức năng riêng biệt công dụng chung (c)(iii), (A) của 84.79.",
+      "chungMinh": "(A) Các bộ phận của máy thuộc nhóm từ 84.56 đến 84.65. (B) Các phụ kiện của các loại máy này … (iii) Máy đó có thể cùng được xếp vào hai (hoặc nhiều) nhóm khác (những máy có công dụng chung). … (A) Thiết bị cơ khí, có hoặc không có động cơ hoặc lực dẫn động khác, chức năng của chúng có thể được thực hiện riêng biệt hoặc độc lập với bất kỳ máy hoặc thiết bị nào khác."
+    },
+    {
+      "id": "C5:8471>8543:32d0f83d29fb",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 84.71 loại trừ thiết bị kết hợp hoặc làm việc cùng máy xử lý dữ liệu tự động nhưng thực hiện một chức năng cụ thể, còn chú giải 85.43 bao gồm các thiết bị điện có chức năng riêng không nằm trong bất kỳ nhóm nào khác của Chương 85 hoặc Chương khác.",
+      "chungMinh": "Tuy nhiên, nhóm này không bao gồm máy, dụng cụ hoặc thiết bị kết hợp hoặc làm việc cùng với máy xử lý dữ liệu tự động và thực hiện một chức năng cụ thể. … Các thiết bị và dụng cụ điện của nhóm này phải có những chức năng riêng.",
+      "trichTotHon": {
+        "nguon": "nhom8543.nhom",
+        "trich": "Nhóm này bao gồm tất cả các thiết bị điện và dụng cụ điện, không nằm trong bất kỳ nhóm nào khác của Chương này, cũng không nằm trong một nhóm của bất kỳ Chương nào khác của Danh mục này… Các thiết bị và dụng cụ điện của nhóm này phải có những chức năng riêng."
+      }
+    },
+    {
+      "id": "C5:8477>8422:35714caeea15",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 84.77 chỉ bao gồm máy gia công hoặc sản xuất sản phẩm từ cao su, plastic, còn chú giải 84.22 bao gồm máy rót đầy các loại đồ chứa (kể cả túi), đóng kín vật chứa và các loại máy nói chung dùng để đóng gói hàng hóa.",
+      "chungMinh": "các loại máy dùng để rót hoặc đóng kín các loại vật chứa trên… và, các loại máy nói chung dùng để đóng gói hàng hóa … (2) Máy rót đầy các loại đồ chứa (như chai, lọ, liễn, ống, ống tiêm, bi đông, thùng, hộp kim loại, hộp hoặc túi)… và bộ phận đóng kín các vật chứa này.",
+      "trichTotHon": {
+        "nguon": "nhom8422.nhom",
+        "trich": "các loại máy dùng để rót hoặc đóng kín các loại vật chứa trên… và, các loại máy nói chung dùng để đóng gói hàng hóa… để bán, vận chuyển hoặc lưu kho. … (2) Máy rót đầy các loại đồ chứa (như… hộp hoặc túi)… và bộ phận đóng kín các vật chứa này."
+      }
+    },
+    {
+      "id": "C5:8477>8479:ecfba7b562e6",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 84.77 chỉ áp dụng cho máy gia công cao su hoặc plastic, còn chú giải 84.79 nêu rõ nhóm này bao gồm máy ép, máy nghiền, máy xay, máy trộn không được thiết kế cho hàng hóa hoặc ngành công nghiệp cụ thể nào.",
+      "chungMinh": "Nhóm này bao gồm máy móc để gia công cao su hoặc plastic hoặc dùng trong việc sản xuất ra các sản phẩm làm từ các vật liệu này … (2) Máy ép, máy nghiền, máy xay, máy trộn, v.v.., không được thiết kế cho hàng hóa hoặc ngành công nghiệp cụ thể nào.",
+      "trichTotHon": {
+        "nguon": "nhom8479.nhom",
+        "trich": "(2) Máy ép, máy nghiền, máy xay, máy trộn, v.v.., không được thiết kế cho hàng hóa hoặc ngành công nghiệp cụ thể nào."
+      }
+    },
+    {
+      "id": "C5:8479>7616:f17dd24a6d98",
+      "ketLuan": "CAN_CU_YEU",
+      "vi": "Câu trích của 84.79 bị cụt giữa câu ('mà:'); tuy tấm/thanh nhôm đơn thuần không phải máy có chức năng riêng biệt của 84.79, nhưng chú giải 84.79 vẫn bao gồm bộ phận của máy thuộc nhóm và chú giải 76.16 lại loại trừ hàng thuộc các nhóm trước của Chương 76 (như thanh/tấm nhôm), nên chưa đủ căn cứ chốt thẳng sang 76.16.",
+      "trichTotHon": {
+        "nguon": "nhom7616.nhom",
+        "trich": "Nhóm này bao gồm tất cả các sản phẩm bằng nhôm trừ các hàng hóa nằm trong các nhóm trước của chương này, hoặc Chú giải 1 phần XV, hoặc các hàng hóa được chi tiết hoặc thuộc chương 82 hoặc 83 hoặc được mô tả cụ thể hơn ở bất cứ phần nào trong danh mục."
+      }
+    },
+    {
+      "id": "C5:8479>8437:a4073376ce2f",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 84.79 loại trừ máy có thể phân loại ở nhóm cụ thể khác của Chương 84, và chú giải 84.37 quy định rõ máy xay, nghiền dùng trong công nghiệp xay xát và máy xay ngũ cốc hoặc rau đậu khô thành bột thuộc nhóm 84.37.",
+      "chungMinh": "(II) MÁY ĐƯỢC DÙNG TRONG CÔNG NGHIỆP XAY XÁT … (2) Máy cán hoặc máy xay \"vỡ\"… mà nó nghiền hạt thành các hạt có kích thước nhỏ, bột thô và bột mịn. … (5) Máy xay và máy nghiền đặc biệt để xay ngũ cốc (trừ lúa mì, xem Phần (I) (B) ở trên) hoặc rau đậu khô thành bột."
+    },
+    {
+      "id": "C5:8479>8449:19b2bef7cab6",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 84.79 loại trừ máy phân loại được ở nhóm cụ thể khác của Chương 84, và chú giải 84.49 nêu rõ nhóm này bao gồm máy dùng để sản xuất hoặc hoàn thiện các mặt hàng làm từ phớt hoặc vải không dệt (đúng với thao tác ép/dập cơ khí thuần túy, không phải hàn điện/siêu âm; bổ sung trích từ 84.49 vì trích cũ bị cụt ở 'vì:').",
+      "chungMinh": "Nhóm này bao gồm máy dùng để sản xuất hoặc hoàn thiện các loại phớt hoặc các sản phẩm không dệt hoặc các mặt hàng làm từ phớt hoặc vải không dệt, nhưng loại trừ máy móc dùng để sản xuất vải nỉ dệt.",
+      "trichTotHon": {
+        "nguon": "nhom8449.nhom",
+        "trich": "Nhóm này bao gồm máy dùng để sản xuất hoặc hoàn thiện các loại phớt hoặc các sản phẩm không dệt hoặc các mặt hàng làm từ phớt hoặc vải không dệt, nhưng loại trừ máy móc dùng để sản xuất vải nỉ dệt."
+      }
+    }
+  ]
+}
