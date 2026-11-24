@@ -1,0 +1,104 @@
+{
+  "khuon": "soat2ve@1",
+  "lo": 17,
+  "kq": [
+    {
+      "id": "C5:9017>9608:c44ad27d6dc9",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 96.08 nêu rõ nhóm này bao gồm bút bi, bút phớt, bút đánh dấu kể cả bút mực và bút máy, đồng thời loại trừ riêng bút vẽ kỹ thuật sang nhóm 90.17 tại mục (c); do đó bút mực thông dụng không phải bút vẽ kỹ thuật 90.17 thuộc nhóm 96.08 (bổ sung trích từ 96.08 thay cho mục (a) của 90.17).",
+      "chungMinh": "(1) Các bút bi. … (2) Các bút phớt, bút phớt có ngòi xốp khác và bút đánh dấu, bao gồm cả loại bút mực. (3) Các bút máy (bút máy ngòi ống) và các loại bút khác… Nhóm này không bao gồm: … (c) Bút vẽ kỹ thuật (nhóm 90.17).",
+      "trichTotHon": {
+        "nguon": "nhom9608.nhom",
+        "trich": "(1) Các bút bi. … (2) Các bút phớt, bút phớt có ngòi xốp khác và bút đánh dấu, bao gồm cả loại bút mực. (3) Các bút máy… Nhóm này không bao gồm: … (c) Bút vẽ kỹ thuật (nhóm 90.17)."
+      }
+    },
+    {
+      "id": "C5:9026>9030:46a00fcdc94f",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 90.26 chỉ bao gồm dụng cụ đo, kiểm tra các đại lượng của chất lỏng hoặc khí, còn chú giải 90.30 phần (B) quy định rõ dụng cụ và thiết bị đo hoặc kiểm tra đại lượng điện, bao gồm ampe kế và vôn kế, thuộc nhóm 90.30.",
+      "chungMinh": "(B) MÁY HIỆN SÓNG, MÁY PHÂN TÍCH PHỔ VÀ CÁC DỤNG CỤ VÀ CÁC THIẾT BỊ KHÁC ĐỂ ĐO HOẶC KIỂM TRA ĐẠI LƯỢNG ĐIỆN … (I) Dụng cụ đo cường độ dòng: công việc này được thực hiện riêng bằng điện kế hoặc ampe kế (ammeters). (II) Đo điện thế: bằng vôn kế, chiết áp, tĩnh điện kế, v.v...",
+      "trichTotHon": {
+        "nguon": "nhom9030.nhom",
+        "trich": "(B) MÁY HIỆN SÓNG, MÁY PHÂN TÍCH PHỔ VÀ CÁC DỤNG CỤ VÀ CÁC THIẾT BỊ KHÁC ĐỂ ĐO HOẶC KIỂM TRA ĐẠI LƯỢNG ĐIỆN … (I) Dụng cụ đo cường độ dòng… bằng điện kế hoặc ampe kế (ammeters). (II) Đo điện thế: bằng vôn kế, chiết áp, tĩnh điện kế, v.v..."
+      }
+    },
+    {
+      "id": "C5:9030>8536:109d78e60dab",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 85.36 nêu rõ thiết bị điện dùng cho điện áp không quá 1000V bao gồm rơ le điều khiển tự động mạch điện như rơ le dòng điện cực đại, rơ le điện áp cực đại hoặc cực tiểu (bổ sung trích trực tiếp từ 85.36 vì câu trích cũ không nằm trong chú giải 90.30 trong gói).",
+      "chungMinh": "Nói chung, nhóm này bao gồm các thiết bị điện dùng cho điện áp không quá 1000v… (C) Rơ le là những thiết bị điện điều khiển tự động mạch điện bằng sự thay đổi trên cùng mạch điện đó hoặc mạch điện khác. … Các rơ le dòng điện cực đại, rơ le điện áp cực đại hoặc cực tiểu",
+      "trichTotHon": {
+        "nguon": "nhom8536.nhom",
+        "trich": "Nói chung, nhóm này bao gồm các thiết bị điện dùng cho điện áp không quá 1000v… (C) Rơ le là những thiết bị điện điều khiển tự động mạch điện… Các rơ le dòng điện cực đại, rơ le điện áp cực đại hoặc cực tiểu"
+      }
+    },
+    {
+      "id": "C5:9030>9026:7184a744d5a4",
+      "ketLuan": "SAI",
+      "vi": "Điều kiện đưa cả 'áp kế' vào nhóm 90.26, ngược trực tiếp với chú giải nhóm 90.26 mục (c) vốn loại trừ rõ 'Nhiệt kế, hoả kế, áp kế, ẩm kế và thước đo ẩm (nhóm 90.25)' khỏi 90.26.",
+      "trichTotHon": {
+        "nguon": "nhom9026.nhom",
+        "trich": "Ngoại trừ các dụng cụ hoặc thiết bị được quy định cụ thể hơn trong các nhóm khác của Danh mục, như: … (c) Nhiệt kế, hoả kế, áp kế, ẩm kế và thước đo ẩm (nhóm 90.25); … nhóm này gồm các công cụ, thiết bị để đo đạc hoặc kiểm tra lưu lượng, mức độ, áp suất… của chất lỏng hoặc khí."
+      }
+    },
+    {
+      "id": "C5:9031>8543:bedb5e35bc28",
+      "ketLuan": "CAN_CU_YEU",
+      "vi": "Chú giải 90.31 đúng là chỉ dành cho dụng cụ, thiết bị đo hoặc kiểm tra, nhưng chú giải 85.43 không nêu module cảm biến chuyển động PIR/vi sóng và đòi hỏi thiết bị không nằm trong bất kỳ nhóm nào khác của Chương 85 (như báo động chống trộm 85.31, công tắc 85.36, rađa 85.26), mà điều kiện chưa loại trừ các nhóm này.",
+      "trichTotHon": {
+        "nguon": "nhom8543.nhom",
+        "trich": "Nhóm này bao gồm tất cả các thiết bị điện và dụng cụ điện, không nằm trong bất kỳ nhóm nào khác của Chương này, cũng không nằm trong một nhóm của bất kỳ Chương nào khác của Danh mục này… Các thiết bị và dụng cụ điện của nhóm này phải có những chức năng riêng."
+      }
+    },
+    {
+      "id": "C5:9032>9031:db0656b41828",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 90.32 chỉ áp dụng cho thiết bị điều khiển/điều chỉnh tự động (gồm đo, so sánh và tác động điều khiển), còn chú giải 90.31 bao gồm các dụng cụ, thiết bị, máy quang học hoặc không quang học để đo hoặc kiểm tra (kể cả bộ cảm biến quang điện và thiết bị phân nhóm 9031.49 vận hành bằng phương pháp quang học).",
+      "chungMinh": "Ngoài các máy chiếu biên dạng, nhóm này gồm các dụng cụ, thiết bị và máy quang học hoặc không quang học để đo hoặc kiểm tra. … bộ cảm biến điện tử, quang điện, và cảm biến khí nén … Phân nhóm 9031.49 Phân nhóm này không chỉ bao gồm các công cụ và thiết bị trợ giúp trực tiếp hoặc tăng cường thị giác con người mà còn bao gồm cả những công cụ và thiết bị khác vận hành bằng các thành phần hoặc phương pháp quang học.",
+      "trichTotHon": {
+        "nguon": "nhom9031.nhom",
+        "trich": "Ngoài các máy chiếu biên dạng, nhóm này gồm các dụng cụ, thiết bị và máy quang học hoặc không quang học để đo hoặc kiểm tra. … Phân nhóm 9031.49 … bao gồm cả những công cụ và thiết bị khác vận hành bằng các thành phần hoặc phương pháp quang học."
+      }
+    },
+    {
+      "id": "C5:9403>6913:ebf906b60b2e",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 69.13 nêu rõ nhóm này bao gồm các sản phẩm bằng gốm, sứ thiết kế chủ yếu để trang trí nội thất, đặc biệt phần (A) bao gồm các sản phẩm chỉ được dùng để đỡ hoặc chứa các sản phẩm trang trí khác hoặc để tăng thêm hiệu quả trang trí.",
+      "chungMinh": "Nhóm này bao gồm các loại sản phẩm bằng gốm, sứ được thiết kế chủ yếu để trang trí nội thất trong nhà, văn phòng phòng họp, nhà thờ.... … (A) Các sản phẩm mà không còn giữ được giá trị sử dụng nhưng hoàn toàn là các sản phẩm trang trí, và các sản phẩm chỉ được dùng để đỡ hoặc chứa các sản phẩm trang trí khác hoặc để tăng thêm hiệu quả trang trí",
+      "trichTotHon": {
+        "nguon": "nhom6913.nhom",
+        "trich": "Nhóm này bao gồm các loại sản phẩm bằng gốm, sứ được thiết kế chủ yếu để trang trí nội thất… (A) Các sản phẩm… hoàn toàn là các sản phẩm trang trí, và các sản phẩm chỉ được dùng để đỡ hoặc chứa các sản phẩm trang trí khác hoặc để tăng thêm hiệu quả trang trí"
+      }
+    },
+    {
+      "id": "C5:9405>8714:a50e5a470919",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 94.05 mục (g) loại trừ thiết bị chiếu sáng của xe đạp và xe có động cơ (85.12), còn chú giải 87.14 bao gồm các bộ phận và phụ kiện (nêu rõ mục (23) giá lắp đèn) chỉ dùng hoặc chủ yếu dùng cho xe môtô, xe máy, xe đạp (đáp ứng đủ hai điều kiện (i) và (ii)).",
+      "chungMinh": "Nhóm này gồm các bộ phận và phụ kiện dùng cho xe môtô (kể cả xe máy gắn bàn đạp), cho các xe đạp có động cơ phụ trợ, xe môtô thùng, xe đạp không có động cơ, hoặc xe chuyên chở người tàn tật, miễn là chúng phải đáp ứng cả hai điều kiện sau: (i) Chúng phải được xác định phù hợp để chỉ dùng hoặc chủ yếu dùng cho các loại xe trên. … (23) Các giá đỡ hàng, giá lắp đèn, và giá treo bi đông nước.",
+      "trichTotHon": {
+        "nguon": "nhom8714.nhom",
+        "trich": "Nhóm này gồm các bộ phận và phụ kiện dùng cho xe môtô… xe đạp… miễn là chúng phải đáp ứng cả hai điều kiện sau: (i) Chúng phải được xác định phù hợp để chỉ dùng hoặc chủ yếu dùng cho các loại xe trên. và (ii) Chúng phải không bị loại trừ… (23) Các giá đỡ hàng, giá lắp đèn"
+      }
+    },
+    {
+      "id": "C5:9503>5607:11ad14746d76",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 95.03 chỉ gồm bộ phận, đồ phụ trợ có thể xác định chỉ dùng hoặc chủ yếu dùng cho đồ chơi, còn chú giải 56.07 bao gồm dây xe, chão bện, dây thừng và cáp sản xuất bằng việc xoắn, bện hoặc tết (kể cả từ các loại sợi tổng hợp).",
+      "chungMinh": "Nhóm này bao gồm dây xe, chão bện, dây thừng và cáp được sản xuất bằng việc xoắn, bện hoặc tết. … Các sợi quan trọng nhất được sử dụng trong sản xuất dây xe, chão bện, dây thừng, cáp là sợi gai, đay, sợi xixan, sợi bông, và các loại sợi tổng hợp.",
+      "trichTotHon": {
+        "nguon": "nhom5607.nhom",
+        "trich": "Nhóm này bao gồm dây xe, chão bện, dây thừng và cáp được sản xuất bằng việc xoắn, bện hoặc tết. … Các sợi quan trọng nhất được sử dụng trong sản xuất dây xe, chão bện, dây thừng, cáp là… các loại sợi tổng hợp."
+      }
+    },
+    {
+      "id": "C5:9603>8212:f1bf13a499e4",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 82.12 nêu rõ nhóm này bao gồm dao cạo lưỡi hở, dao cạo râu an toàn bằng kim loại cơ bản, lưỡi dao cạo và dao cạo râu nhựa đã lắp kèm lưỡi dao (trừ dao cạo nhựa không có lưỡi 39.24 và dao cạo điện 85.10; bổ sung trích từ 82.12 vì câu trích (e) không nằm trong chú giải 96.03 trong gói).",
+      "chungMinh": "(2) Dao cạo râu an toàn và các bộ phận làm bằng kim loại cơ bản và lưỡi của chúng, đã hoàn tất hoặc chưa (3) Dao cạo râu nhựa đã lắp kèm các lưỡi dao.",
+      "trichTotHon": {
+        "nguon": "nhom8212.nhom",
+        "trich": "(1) Dao cạo có lưỡi hở, kể cả những lưỡi trình bày riêng… (2) Dao cạo râu an toàn và các bộ phận làm bằng kim loại cơ bản và lưỡi của chúng, đã hoàn tất hoặc chưa (3) Dao cạo râu nhựa đã lắp kèm các lưỡi dao."
+      }
+    }
+  ]
+}

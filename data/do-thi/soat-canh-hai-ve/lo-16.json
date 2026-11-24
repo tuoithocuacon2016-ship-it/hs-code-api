@@ -1,0 +1,100 @@
+{
+  "khuon": "soat2ve@1",
+  "lo": 16,
+  "kq": [
+    {
+      "id": "C5:8543>8539:47f37c0b4696",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 85.43 loại trừ các thiết bị điện đã thuộc nhóm khác của Chương 85, và chú giải 85.39 nêu rõ nhóm này bao gồm đèn điện có vỏ thủy tinh/thạch anh, đèn dây tóc, đèn phóng điện, đèn hồ quang, mô-đun LED (F) và đèn LED hoàn chỉnh (G).",
+      "chungMinh": "Những đèn điện có vỏ bọc bằng thủy tinh hoặc thạch anh với những hình dạng khác nhau, chứa những bộ phận cần thiết để biến đổi năng lượng điện thành ánh sáng… (F) MÔ-ĐUN ĐI-ỐT PHÁT QUANG (LED) … (G) ĐÈN ĐI ỐT PHÁT QUANG (LED)",
+      "trichTotHon": {
+        "nguon": "nhom8539.nhom",
+        "trich": "Những đèn điện có vỏ bọc bằng thủy tinh hoặc thạch anh với những hình dạng khác nhau, chứa những bộ phận cần thiết để biến đổi năng lượng điện thành ánh sáng… (F) MÔ-ĐUN ĐI-ỐT PHÁT QUANG (LED) … (G) ĐÈN ĐI ỐT PHÁT QUANG (LED)"
+      }
+    },
+    {
+      "id": "C5:8543>8541:99291c42d2e4",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 85.43 loại trừ các thiết bị điện đã thuộc nhóm khác của Chương 85, và chú giải 85.41 bao gồm các linh kiện bán dẫn cảm quang, đi-ốt phát quang (LED) và đi-ốt lade phát chùm sáng kết hợp.",
+      "chungMinh": "Nhóm này bao gồm các linh kiện bán dẫn cảm quang … Các đi-ốt phát quang (LED) hoặc đi-ốt quang điện… là những linh kiện biến đổi điện năng thành ánh sáng nhìn thấy được, tia hồng ngoại hoặc tia cực tím. … Các đi-ốt lade phát ra một chùm sáng kết hợp",
+      "trichTotHon": {
+        "nguon": "nhom8541.nhom",
+        "trich": "Nhóm này bao gồm các linh kiện bán dẫn cảm quang … (C) CÁC ĐI-ỐT PHÁT QUANG (LED) … Các đi-ốt lade phát ra một chùm sáng kết hợp"
+      }
+    },
+    {
+      "id": "C5:8543>9013:2b1c6d38b6d4",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 85.43 loại trừ các dụng cụ, thiết bị cụ thể thuộc Chương 90, và chú giải 90.13 mục (1) quy định rõ thiết bị tạo tia laser kết hợp môi trường kích hoạt, hệ thống kích thích và hốc quang học cộng hưởng trong đầu laser (trừ đi-ốt laser 85.41) thuộc nhóm 90.13.",
+      "chungMinh": "(1) Các thiết bị laser… Ngoài môi trường kích hoạt laser, nguồn năng lượng (hệ thống kích thích) và các hốc quang học cộng hưởng (hệ thống phản xạ), tức là các thành phần cơ bản được kết hợp trong đầu laser … laser compact… ví dụ bút chỉ laser … nhóm này không bao gồm… các điot laser (nhóm 85.41)",
+      "trichTotHon": {
+        "nguon": "nhom9013.nhom",
+        "trich": "(1) Các thiết bị laser… Ngoài môi trường kích hoạt laser, nguồn năng lượng (hệ thống kích thích) và các hốc quang học cộng hưởng (hệ thống phản xạ)… kết hợp trong đầu laser … ví dụ bút chỉ laser … nhóm này không bao gồm… các điot laser (nhóm 85.41)"
+      }
+    },
+    {
+      "id": "C5:8543>9031:d99de4eab766",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 85.43 loại trừ các dụng cụ, thiết bị cụ thể thuộc Chương 90, và chú giải 90.31 bao gồm dụng cụ, thiết bị đo hoặc kiểm tra (như bộ cảm biến điện tử, quang điện, thiết bị đo chiều dài, góc hoặc đại lượng hình học khác).",
+      "chungMinh": "Các hàng hóa chủ yếu dùng điện được mô tả cụ thể ở các Chương khác hơn như… các dụng cụ và thiết bị cụ thể thuộc Chương 90. … (7) Các máy so sánh chỉ báo có mặt số, dụng cụ đo vi, bộ cảm biến điện tử, quang điện, và cảm biến khí nén, tự động hoặc không tự động, cũng như tất cả các dụng cụ, thiết bị dùng để đo các chiều dài, góc",
+      "trichTotHon": {
+        "nguon": "nhom9031.nhom",
+        "trich": "Ngoài các máy chiếu biên dạng, nhóm này gồm các dụng cụ, thiết bị và máy quang học hoặc không quang học để đo hoặc kiểm tra. … (7) … bộ cảm biến điện tử, quang điện, và cảm biến khí nén… cũng như tất cả các dụng cụ, thiết bị dùng để đo các chiều dài, góc"
+      }
+    },
+    {
+      "id": "C5:8708>8308:3b6ee2d7ff87",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 87.08 chỉ gồm phụ tùng dùng duy nhất và chủ yếu cho xe cơ giới 87.01 đến 87.05, còn chú giải 83.08 mục (A), (C), (D) nêu rõ khóa có chốt, móc cài, khóa thắt lưng và móc cài khóa thắt lưng cho quần áo, dây thắt lưng, đồ du lịch bằng kim loại cơ bản thuộc 83.08.",
+      "chungMinh": "(A) Khóa có chốt, mắt cài khóa và khoen dùng cho quần áo, giày dép, vải bạt, lều hoặc vải buồm. … (D) Khoá thắt lưng (có kim gài hoặc không) và móc cài khóa thắt lưng, có hay không được trang trí, dùng cho quần áo, dây thắt lưng, dây đeo quần, găng tay, giày dép, ghệt, đồng hồ đeo tay, túi dết, đồ dùng cho du lịch và hàng hoá bằng da.",
+      "trichTotHon": {
+        "nguon": "nhom8308.nhom",
+        "trich": "(A) Khóa có chốt, mắt cài khóa và khoen dùng cho quần áo, giày dép… (C) Móc cài, khoá cài… (D) Khoá thắt lưng (có kim gài hoặc không) và móc cài khóa thắt lưng… dùng cho quần áo, dây thắt lưng… đồ dùng cho du lịch và hàng hoá bằng da."
+      }
+    },
+    {
+      "id": "C5:8708>8419:ddc9b68a63fc",
+      "ketLuan": "CAN_CU_YEU",
+      "vi": "Câu trích (e) không có nguyên văn trong chú giải 87.08 trong gói; ngoài ra chú giải 84.19 không nêu 'bộ tản nhiệt' và loại trừ nhiều thiết bị trao đổi nhiệt chuyên biệt như phụ trợ nồi hơi (84.04) hay thiết bị làm lạnh/bơm nhiệt (84.18), nên điều kiện rộng hơn chú giải 84.19.",
+      "trichTotHon": {
+        "nguon": "nhom8419.nhom",
+        "trich": "(B) Bộ trao đổi nhiệt trong đó lưu chất nóng (khí nóng, hơi nước hoặc chất lỏng nóng) và lưu chất lạnh được đẩy qua các dòng song song, nhưng thường ngược chiều nhau, được tách biệt bởi vách kim loại mỏng theo cách một lưu chất được làm lạnh và lưu chất kia được làm nóng."
+      }
+    },
+    {
+      "id": "C5:8708>8714:2c055e579eee",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 87.08 chỉ bao gồm phụ tùng xe cơ giới 87.01 đến 87.05, còn chú giải 87.14 bao gồm bộ phận và phụ kiện (trong đó có mục (23) giá lắp đèn) chỉ dùng hoặc chủ yếu dùng cho xe môtô, xe máy, xe đạp, xe người tàn tật (đáp ứng đủ hai điều kiện (i) và (ii)).",
+      "chungMinh": "Nhóm này gồm các bộ phận và phụ kiện dùng cho xe môtô (kể cả xe máy gắn bàn đạp), cho các xe đạp có động cơ phụ trợ, xe môtô thùng, xe đạp không có động cơ, hoặc xe chuyên chở người tàn tật, miễn là chúng phải đáp ứng cả hai điều kiện sau: (i) Chúng phải được xác định phù hợp để chỉ dùng hoặc chủ yếu dùng cho các loại xe trên. … (23) Các giá đỡ hàng, giá lắp đèn, và giá treo bi đông nước.",
+      "trichTotHon": {
+        "nguon": "nhom8714.nhom",
+        "trich": "Nhóm này gồm các bộ phận và phụ kiện dùng cho xe môtô… xe đạp… miễn là chúng phải đáp ứng cả hai điều kiện sau: (i) Chúng phải được xác định phù hợp để chỉ dùng hoặc chủ yếu dùng cho các loại xe trên. và (ii) Chúng phải không bị loại trừ… (23) Các giá đỡ hàng, giá lắp đèn"
+      }
+    },
+    {
+      "id": "C5:8714>3926:5bd9a42399b2",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 87.14 đòi hỏi điều kiện (i) phải được xác định phù hợp để chỉ dùng hoặc chủ yếu dùng cho xe thuộc nhóm 87.11 đến 87.13, nên sản phẩm bằng plastic không thỏa điều kiện này và chưa được chi tiết ở nơi khác được xếp vào nhóm 39.26 theo chú giải 39.26.",
+      "chungMinh": "(i) Chúng phải được xác định phù hợp để chỉ dùng hoặc chủ yếu dùng cho các loại xe trên. … Nhóm này bao gồm các sản phẩm, chưa được chi tiết hoặc ghi ở nơi khác, bằng plastic (như đã định nghĩa trong Chú giải 1 thuộc Chương này)"
+    },
+    {
+      "id": "C5:8714>8708:ae05b33cccf8",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 87.14 chỉ dành cho xe môtô, xe đạp, xe người tàn tật, còn chú giải 87.08 bao gồm phụ tùng và bộ phận phụ trợ (nêu rõ mục (B) các giá đỡ của biển số xe) phù hợp sử dụng duy nhất và chủ yếu cho xe cơ giới từ nhóm 87.01 đến 87.05 (kèm điều kiện (ii)).",
+      "chungMinh": "Nhóm này bao gồm toàn bộ các phụ tùng và bộ phận phụ trợ của xe cơ giới từ nhóm 87.01 đến 87.05, với điều kiện là chúng phải đáp ứng cả hai điều kiện sau đây: (i) Chúng phải được xác định là bộ phận phù hợp để sử dụng duy nhất và chủ yếu cho các loại phương tiện trên. … các giá đỡ của biển số xe;",
+      "trichTotHon": {
+        "nguon": "nhom8708.nhom",
+        "trich": "Nhóm này bao gồm toàn bộ các phụ tùng và bộ phận phụ trợ của xe cơ giới từ nhóm 87.01 đến 87.05… (i) Chúng phải được xác định là bộ phận phù hợp để sử dụng duy nhất và chủ yếu cho các loại phương tiện trên. … các giá đỡ của biển số xe;"
+      }
+    },
+    {
+      "id": "C5:9013>8543:f94fc0606d23",
+      "ketLuan": "CAN_CU_YEU",
+      "vi": "Chú giải 90.13 loại trừ các thiết bị laser đã lắp đặt cho chức năng chuyên dụng sang các nhóm tương ứng như 84.56 (gia công) hay 85.15 (hàn), còn chú giải 85.43 đòi hỏi thiết bị không thuộc bất kỳ nhóm nào khác của Chương 85 hoặc Chương khác; điều kiện chỉ loại trừ Chương 90 là chưa đủ để chốt 85.43.",
+      "trichTotHon": {
+        "nguon": "nhom8543.nhom",
+        "trich": "Nhóm này bao gồm tất cả các thiết bị điện và dụng cụ điện, không nằm trong bất kỳ nhóm nào khác của Chương này, cũng không nằm trong một nhóm của bất kỳ Chương nào khác của Danh mục này… Các thiết bị và dụng cụ điện của nhóm này phải có những chức năng riêng."
+      }
+    }
+  ]
+}
