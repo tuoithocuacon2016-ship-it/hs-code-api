@@ -1,0 +1,83 @@
+{
+  "khuon": "soat2ve@1",
+  "lo": 8,
+  "kq": [
+    {
+      "id": "C5:6006>6005:4d849923e0d7",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 60.06 loại trừ các nhóm trước và chú giải 60.05 quy định đích danh vải dệt kim sợi dọc (kể cả làm trên máy dệt kim dệt dải trang trí) khổ rộng trên 30 cm, không chứa hoặc chứa dưới 5% sợi đàn hồi/cao su thuộc 60.05.",
+      "chungMinh": "Nhóm này bao gồm vải dệt kim và móc loại trừ vải thuộc các nhóm trước của Chương này.… Loại trừ vải có tạo vòng lông nhóm 60.01, nhóm này bao gồm vải dệt kim sợi dọc có khổ rộng trên 30 cm, không chứa sợi đàn hồi (elastomeric) hoặc sợi cao su hoặc có tỷ trọng sợi đàn hồi (elastomeric) hoặc sợi cao su dưới 5%."
+    },
+    {
+      "id": "C5:6103>6203:5595a2eee22f",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 61.03 giới hạn chỉ áp dụng cho quần dài nam giới/trẻ em trai dệt kim hoặc móc, còn chú giải 62.03 áp dụng tương tự chú giải 61.03 cho nhóm 62.03; nên thay trích cũ bằng câu đầu chú giải 61.03.",
+      "chungMinh": "Nhóm này chỉ bao gồm bộ com-lê và bộ quần áo đồng bộ, áo jacket, áo Blazer, quần dài, quần ống chẽn và quần soóc (trừ bộ đồ bơi) và các loại quần yếm có dây đeo dùng cho nam giới hoặc trẻ em trai, dệt kim hoặc móc.… Những quy định của Chú giải chi tiết nhóm 61 .03 được áp dụng tương tự nhưng phải có sự sửa đổi sao cho phù hợp đối với các sản phẩm của nhóm này.",
+      "trichTotHon": {
+        "nguon": "nhom6103.nhom",
+        "trich": "Nhóm này chỉ bao gồm bộ com-lê và bộ quần áo đồng bộ, áo jacket, áo Blazer, quần dài, quần ống chẽn và quần soóc (trừ bộ đồ bơi) và các loại quần yếm có dây đeo dùng cho nam giới hoặc trẻ em trai, dệt kim hoặc móc."
+      }
+    },
+    {
+      "id": "C5:6108>6208:c6c9aed05aa8",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 61.08 chỉ áp dụng cho hàng dệt kim hoặc móc, còn chú giải 62.08 nêu đích danh toàn bộ đồ lót cho phụ nữ hoặc trẻ em gái không dệt kim hoặc móc (trừ xu chiêng, gen, áo nịt ngực 62.12) thuộc nhóm 62.08.",
+      "chungMinh": "dệt kim hoặc móc.… Nhóm này bao gồm toàn bộ đồ lót cho phụ nữ hoặc trẻ em gái (áo may ô và các loại áo lót khác, váy lót, quần lót, quần đùi bó và các loại tương tự), không dệt kim hoặc móc."
+    },
+    {
+      "id": "C5:6111>6103:016dce85a42c",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 61.11 giới hạn quần áo trẻ em ở chiều cao không quá 86cm, còn chú giải 61.03 bao gồm bộ com-lê và bộ quần áo đồng bộ dệt kim hoặc móc dùng cho nam giới hoặc trẻ em trai.",
+      "chungMinh": "áp dụng cho các sản phẩm dùng cho trẻ có chiều cao không quá 86cm.… Nhóm này chỉ bao gồm bộ com-lê và bộ quần áo đồng bộ, áo jacket, áo Blazer, quần dài, quần ống chẽn và quần soóc (trừ bộ đồ bơi) và các loại quần yếm có dây đeo dùng cho nam giới hoặc trẻ em trai, dệt kim hoặc móc."
+    },
+    {
+      "id": "C5:6111>6104:de36b1f8b9ad",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 61.11 chỉ áp dụng cho trẻ có chiều cao không quá 86cm, còn chú giải 61.04 quy định bộ com-lê và bộ quần áo đồng bộ dùng cho phụ nữ hoặc trẻ em gái thuộc nhóm 61.04.",
+      "chungMinh": "áp dụng cho các sản phẩm dùng cho trẻ có chiều cao không quá 86cm.… Tất cả các bộ phận cấu thành của một “bộ com-lê\" dùng cho phụ nữ hoặc trẻ em gái… bộ quần áo đồng bộ của phụ nữ và trẻ em gái"
+    },
+    {
+      "id": "C5:6116>4203:333297aec542",
+      "ketLuan": "CAN_CU_YEU",
+      "vi": "Chú giải 42.03 chỉ nêu găng tay bằng da thuộc hoặc da thuộc tổng hợp, không có chữ nào trong gói chứng minh \"da thuộc tổng hợp PU\" thuộc 42.03; câu trích cũ cũng lấy từ Chú giải chương ngoài chú giải 61.16.",
+      "trichTotHon": {
+        "nguon": "nhom4203.nhom",
+        "trich": "Nhóm này bao gồm tất cả hàng may mặc và đồ phụ trợ quần áo (trừ các loại được quy định dưới đây), bằng da thuộc hoặc da thuộc tổng hợp. Bởi vậy nó bao gồm áo ngoài, áo khoác, găng tay thường, găng tay hở ngón và găng tay bao"
+      }
+    },
+    {
+      "id": "C5:6203>6103:c96640f01a72",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải nhóm đích 61.03 quy định đích danh quần dài dùng cho nam giới hoặc trẻ em trai, dệt kim hoặc móc thuộc nhóm 61.03; câu trích cũ từ Chú giải Chương 62 không nằm trong chú giải 62.03 nên cần thay bằng trích 61.03.",
+      "chungMinh": "Nhóm này chỉ bao gồm bộ com-lê và bộ quần áo đồng bộ, áo jacket, áo Blazer, quần dài, quần ống chẽn và quần soóc (trừ bộ đồ bơi) và các loại quần yếm có dây đeo dùng cho nam giới hoặc trẻ em trai, dệt kim hoặc móc.",
+      "trichTotHon": {
+        "nguon": "nhom6103.nhom",
+        "trich": "Nhóm này chỉ bao gồm bộ com-lê và bộ quần áo đồng bộ, áo jacket, áo Blazer, quần dài, quần ống chẽn và quần soóc (trừ bộ đồ bơi) và các loại quần yếm có dây đeo dùng cho nam giới hoặc trẻ em trai, dệt kim hoặc móc."
+      }
+    },
+    {
+      "id": "C5:6307>5802:8dbec6b2336b",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 63.07 chỉ gồm mặt hàng may sẵn, còn chú giải 58.02 mục (A) bao gồm vải khăn lông và các loại vải dệt thoi tạo vòng lông tương tự ở dạng vải tấm/cuộn.",
+      "chungMinh": "Nhóm này bao gồm các mặt hàng may sẵn làm từ bất cứ vật liệu dệt nào… (A) VẢI KHĂN LÔNG VÀ CÁC LOẠI VẢI DỆT THOI TẠO VÒNG LÔNG TƯƠNG TỰ Những loại vải này là loại vải có sợi móc nổi vòng được sử dụng làm khăn lau"
+    },
+    {
+      "id": "C5:6307>5907:5674a3b53774",
+      "ketLuan": "CAN_CU_YEU",
+      "vi": "Điều kiện rộng hơn chú giải 59.07 vì bỏ sót ngoại trừ \"không kể các sản phẩm thuộc nhóm từ 59.01 đến 59.06\" (vải phủ plastic vào 59.03, cao su vào 59.06); câu trích cũ từ Chú giải phân chương cũng không có trong chú giải 63.07.",
+      "trichTotHon": {
+        "nguon": "nhom5907.nhom",
+        "trich": "Nhóm này gồm vải dệt (không kể các sản phẩm thuộc nhóm từ 59.01 đến 59.06), đã được ngâm tẩm, phủ hoặc tráng, với điều kiện việc ngâm tẩm, phủ, tráng có thể nhìn thấy bằng mắt thường"
+      }
+    },
+    {
+      "id": "C5:6307>5909:4c2a45b3c35c",
+      "ketLuan": "CAN_CU_YEU",
+      "vi": "Chú giải 59.09 chỉ nêu ống mềm bằng vật liệu dệt để dẫn chất lỏng (như ống chữa cháy), không có chữ nào trong gói chứng minh \"Cổ bạt mềm, khớp nối ống gió\" hay \"bọc vỏ cứng\" thuộc 59.09; trích cũ cũng ngoài chú giải 63.07.",
+      "trichTotHon": {
+        "nguon": "nhom5909.nhom",
+        "trich": "Nhóm này bao gồm ống mềm, ví dụ ống chữa cháy và các loại ống dẫn tương tự làm bằng vật liệu dệt để dẫn chất lỏng.… Ống dệt cũng được phân loại trong nhóm này, nếu được phủ ở mặt trong bằng cao su, hoặc plastic…"
+      }
+    }
+  ]
+}
