@@ -1,0 +1,247 @@
+{
+  "khuon": "soat@1",
+  "viec": "04",
+  "lo": 28,
+  "kq": [
+    {
+      "ma": "04-28-01",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8437 sang 8419 khớp sát nội dung câu trích nguồn nhom8437.nhom.",
+      "chungMinh": "(a) Máy hoạt động bởi sự thay đổi nhiệt độ (nhóm 84.19). Ví dụ, nhóm 84.19 gồm cột sấy khô hoặc làm mát, nhưng máy làm ẩm hạt với thiết bị nhiệt vẫn thuộc mục này."
+    },
+    {
+      "ma": "04-28-02",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8435 sang 8419 khớp sát nội dung câu trích nguồn nhom8435.nhom.",
+      "chungMinh": "(a) Thiết bị ướp lạnh, khử trùng, tiệt trùng và cô đặc (nhóm 84.19)."
+    },
+    {
+      "ma": "04-28-03",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8419 sang 8514 khớp sát nội dung câu trích nguồn nhom8419.nhom.",
+      "chungMinh": "(o) Thiết bị dùng trong công nghiệp hoặc trong phòng thí nghiệm để xử lý nhiệt vật liệu băng cảm ứng điện hoặc tổn hao điện môi kể cả thiết bị vi sóng (nhóm 85.14)."
+    },
+    {
+      "ma": "04-28-04",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8439 sang 8419 khớp sát nội dung câu trích nguồn nhom8439.nhom.",
+      "chungMinh": "(a) Nồi hơi nấu vải vụn, rơm,... ; nồi hơi (máy đun sôi) để chế biến bột gỗ hóa chất; trục làm nóng bằng hơi và các máy làm khô khác (nhóm 84.19)."
+    },
+    {
+      "ma": "04-28-05",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8437 sang 8419 khớp sát nội dung câu trích nguồn nhom8437.nhom.",
+      "chungMinh": "(a) Máy sấy bột mì (nhóm 84.19)."
+    },
+    {
+      "ma": "04-28-06",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8419 sang 8403 khớp sát nội dung câu trích nguồn nhom8419.nhom.",
+      "chungMinh": "(f) Nồi hơi nước sưởi trung tâm thuộc nhóm 84.03."
+    },
+    {
+      "ma": "04-28-07",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8420 sang 8419 khớp sát nội dung câu trích nguồn nhom8420.nhom.",
+      "chungMinh": "(a) Máy sấy kiểu trục lăn cho vải, giấy,... (nhóm 84.19 hoặc 84.51)."
+    },
+    {
+      "ma": "04-28-08",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8452 sang 8440 khớp sát nội dung câu trích nguồn nhom8452.nhom.",
+      "chungMinh": "Máy khâu sách được phân loại trong nhóm 84.40"
+    },
+    {
+      "ma": "04-28-09",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8514 sang 8419 khớp sát nội dung câu trích nguồn nhom8514.nhom.",
+      "chungMinh": "tuy nhiên, nếu chúng được trang bị thiết bị ngưng tụ để thu các sản phẩm chưng cất thì sẽ bị loại trừ (nhóm 84.19)."
+    },
+    {
+      "ma": "04-28-10",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8452 sang 8447 khớp sát nội dung câu trích nguồn nhom8452.nhom.",
+      "chungMinh": "tuy nhiên, máy được thiết kế chỉ để thêu (kể cả máy rút chỉ) lại thuộc nhóm 84.47."
+    },
+    {
+      "ma": "04-28-11",
+      "ketLuan": "SAI",
+      "vi": "Điều kiện nêu tâm bàn gồm một gương đơn giản hoàn toàn không khớp câu trích: câu trích loại trừ khoá dùng cho thang máy, lồng kéo sang nhóm 83.01.",
+      "chungMinh": "Khoá dùng cho thang máy, lồng kéo... (nhóm 83.01)."
+    },
+    {
+      "ma": "04-28-12",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8419 sang 8417 khớp sát nội dung câu trích nguồn nhom8419.nhom.",
+      "chungMinh": "Hàng hóa thuộc nhóm này không nên bị nhầm lẫn với các lò dùng trong công nghiệp hoặc trong phòng thí nghiệm thuộc nhóm 84.17."
+    },
+    {
+      "ma": "04-28-13",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8476 sang 8419 khớp sát nội dung câu trích nguồn nhom8476.nhom.",
+      "chungMinh": "Máy cung cấp đồ uống nóng hoặc lạnh tự động mà không có thiết bị chấp nhận thanh toán bị loại trừ (nhóm 84.19)"
+    },
+    {
+      "ma": "04-28-14",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8434 sang 8419 khớp sát nội dung câu trích nguồn nhom8434.nhom.",
+      "chungMinh": "Phần lớn những máy chế biến sữa phụ thuộc chủ yếu vào nguyên lý trao đổi nhiệt và do vậy nó bị loại trừ (nhóm 84.19), ví dụ thiết bị tiệt trùng, hoặc khử trùng; thiết bị cô đặc hoặc làm khô sữa; thiết bị làm lạnh sữa."
+    },
+    {
+      "ma": "04-28-15",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8437 sang 8419 khớp sát nội dung câu trích nguồn nhom8437.nhom.",
+      "chungMinh": "(a) Máy hoặc thiết bị hoạt động bằng việc trao đổi nhiệt độ (ví dụ: máy hấp, thiết bị sấy khô hoặc thiết bị rang để chế biến hạt hun khói hoặc hạt rang; máy chế biến lúa mạch thành mạch nha, máy rang xay bột,.v.v..) (nhóm 84.19)."
+    },
+    {
+      "ma": "04-28-16",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8419 sang 8417 khớp sát nội dung câu trích nguồn nhom8419.nhom.",
+      "chungMinh": "Các thiết bị chưng cất các nguyên liệu rắn (ví dụ: than, than non, gỗ,...) có cùng nguyên lý hoạt động, nhưng các sản phẩm chưng cất được đốt nóng trong lò nung, thì các thiết bị này được phân loại vào nhóm 84.17."
+    },
+    {
+      "ma": "04-28-17",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8440 sang 8452 khớp sát nội dung câu trích nguồn nhom8440.nhom.",
+      "chungMinh": "(f) Kim của máy khâu (nhóm 84.52)."
+    },
+    {
+      "ma": "04-28-18",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8419 sang 8401 khớp sát nội dung câu trích nguồn nhom8419.nhom.",
+      "chungMinh": "(d) Thiết bị chưng cất từng phần (ví dụ: loại dùng trong quá trình sản xuất nước nặng) và thiết bị tinh cất được thiết kế đặc biệt để phân tách chất đồng vị và các thiết bị trao đổi chất đồng vị sử dụng phương pháp “nhiệt độ kép” (nhóm 84.01)."
+    },
+    {
+      "ma": "04-28-19",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8419 sang 8418 khớp sát nội dung câu trích nguồn nhom8419.nhom.",
+      "chungMinh": "(h) Thiết bị làm lạnh và bơm nhiệt thuộc nhóm 84.18."
+    },
+    {
+      "ma": "04-28-20",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8419 sang 8451 khớp sát nội dung câu trích nguồn nhom8419.nhom.",
+      "chungMinh": "Thiết bị xử lý nhiệt đối với sợi, vải dệt hoặc các sản phẩm dệt (như máy xử lý sợi, máy đốt lông (bề mặt vải) (nhóm 84.51)."
+    },
+    {
+      "ma": "04-28-21",
+      "ketLuan": "SAI",
+      "vi": "Nhóm đích 8535 không khớp câu trích: câu trích loại trừ loại thuộc nhóm 39.18, 39.19 hoặc 39.20 (hoặc Chương 54), không có nhóm 85.35.",
+      "chungMinh": "Nhóm này bao gồm các tấm, phiến, màng, lá và dải, từ plastic, trừ loại thuộc nhóm 39.18, 39.19 hoặc 39.20 hoặc thuộc Chương 54."
+    },
+    {
+      "ma": "04-28-22",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8445 sang 8419 khớp sát nội dung câu trích nguồn nhom8445.nhom.",
+      "chungMinh": "Máy xử lý kén tằm bằng nhiệt để giết con tằm (nhóm 84.19)."
+    },
+    {
+      "ma": "04-28-23",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8419 sang 8486 khớp sát nội dung câu trích nguồn nhom8419.nhom.",
+      "chungMinh": "(n) Thiết bị làm lắng hóa chất bay hơi dùng cho sản xuất thiết bị bán dẫn (nhóm 84.86)."
+    },
+    {
+      "ma": "04-28-24",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8419 sang 7321 khớp sát nội dung câu trích nguồn nhom8419.nhom.",
+      "chungMinh": "(a) Bếp lò, ghi lò, bếp nấu và các thiết bị nấu nướng gia dụng khác thuộc nhóm 73.21."
+    },
+    {
+      "ma": "04-28-25",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8419 sang 8417 khớp sát nội dung câu trích nguồn nhom8419.nhom.",
+      "chungMinh": "và không được lẫn với các lò nung công nghiệp thuộc nhóm 84.17 có nhiệt nung rất cao."
+    },
+    {
+      "ma": "04-28-26",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8419 sang 9023 khớp sát nội dung câu trích nguồn nhom8419.nhom.",
+      "chungMinh": "Nhóm này cũng bao gồm các thiết bị được thiết kế đặc biệt cho phòng thí nghiệm, … nhưng không bao gồm các thiết bị dùng để trưng bày (nhóm 90.23)"
+    },
+    {
+      "ma": "04-28-27",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8419 sang 8514 khớp sát nội dung câu trích nguồn nhom8419.nhom.",
+      "chungMinh": "(p) Lò vi sóng sử dụng cho thương mại hoặc công nghiệp, loại được sử dụng trong các nhà hàng ăn uống hoặc các cơ sở tương tự (nhóm 85.14)."
+    },
+    {
+      "ma": "04-28-28",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8419 sang 8436 khớp sát nội dung câu trích nguồn nhom8419.nhom.",
+      "chungMinh": "(ij) Máy ươm hạt giống, máy ấp trứng, máy nuôi gia cầm mới sinh (nhóm 84.36)."
+    },
+    {
+      "ma": "04-28-29",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8419 sang 8437 khớp sát nội dung câu trích nguồn nhom8419.nhom.",
+      "chungMinh": "(k) Máy tạo ẩm cho hạt (nhóm 84.37)."
+    },
+    {
+      "ma": "04-28-30",
+      "ketLuan": "SAI",
+      "vi": "Nhóm đích 8517 không khớp câu trích: câu trích xếp đầu đốt vào nhóm 84.16, không phải 85.17.",
+      "chungMinh": "(c) Đầu đốt (nhóm 84.16)."
+    },
+    {
+      "ma": "04-28-31",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8419 sang 8404 khớp sát nội dung câu trích nguồn nhom8419.nhom.",
+      "chungMinh": "(e) Nồi hơi tạo hơi nước và nồi hơi nước quá nhiệt (nhóm 84.02) và các thiết bị phụ trợ kèm theo (nhóm 84.04)."
+    },
+    {
+      "ma": "04-28-32",
+      "ketLuan": "SAI",
+      "vi": "Điều kiện nêu máy xử lý sau quá trình làm bột hoàn toàn không khớp câu trích: câu trích loại trừ các loại máy xử lý ô zôn trong y tế sang nhóm 90.19.",
+      "chungMinh": "và các loại máy xử lý ô zôn trong y tế (nhóm 90.19)."
+    },
+    {
+      "ma": "04-28-33",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8475 sang 8419 khớp sát nội dung câu trích nguồn nhom8475.nhom.",
+      "chungMinh": "Một số máy dùng để sản xuất thủy tinh tôi cứng, trong đó tấm thủy tinh thường được đặt vào giữa hai đĩa nhiệt và sau đó được làm lạnh đột ngột (nhóm 84.19)."
+    },
+    {
+      "ma": "04-28-34",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8419 sang 8451 khớp sát nội dung câu trích nguồn nhom8419.nhom.",
+      "chungMinh": "(c) Máy được thiết kế đặc biệt để làm khô sợi dệt, vải hoặc các sản phẩm bằng chất liệu dệt (nhóm 84.51)."
+    },
+    {
+      "ma": "04-28-35",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7319 sang 8452 khớp sát nội dung câu trích nguồn nhom7319.nhom.",
+      "chungMinh": "Nhóm này không bao gồm: … kim máy khâu (nhóm 84.52)."
+    },
+    {
+      "ma": "04-28-36",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8419 sang 7418 khớp sát nội dung câu trích nguồn nhom8419.nhom.",
+      "chungMinh": "(c) Thiết bị nấu nướng hoặc sưởi ấm gia dụng thuộc nhóm 74.18."
+    },
+    {
+      "ma": "04-28-37",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8419 sang 8402 khớp sát nội dung câu trích nguồn nhom8419.nhom.",
+      "chungMinh": "(e) Nồi hơi tạo hơi nước và nồi hơi nước quá nhiệt (nhóm 84.02) và các thiết bị phụ trợ kèm theo (nhóm 84.04)."
+    },
+    {
+      "ma": "04-28-38",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8452 sang 8447 khớp sát nội dung câu trích nguồn nhom8452.nhom.",
+      "chungMinh": "máy khâu - dệt và các máy khâu đính khác thuộc nhóm 84.47."
+    },
+    {
+      "ma": "04-28-39",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8419 sang 8418 khớp sát nội dung câu trích nguồn nhom8419.nhom.",
+      "chungMinh": "các thùng chứa có hai vách hoặc hai đáy được phân loại vào Phần XIV hoặc XV … hoặc thuộc nhóm 84.18 nếu chúng có thêm bộ phận làm bay hơi thuộc máy làm lạnh (làm lạnh trực tiếp)"
+    },
+    {
+      "ma": "04-28-40",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8419 sang 7322 khớp sát nội dung câu trích nguồn nhom8419.nhom.",
+      "chungMinh": "(b) Máy sưởi không khí và thiết bị phân phối khí nóng, loại không làm nóng bằng điện thuộc nhóm 73.22."
+    }
+  ]
+}

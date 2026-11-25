@@ -1,0 +1,246 @@
+{
+  "khuon": "soat@1",
+  "viec": "04",
+  "lo": 27,
+  "kq": [
+    {
+      "ma": "04-27-01",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6103 sang 6110 khớp sát nội dung câu trích nguồn nhom6103.nhom.",
+      "chungMinh": "Nhóm này không bao gồm: … (a) Áo gi-lê riêng lẻ (nhóm 61.10)"
+    },
+    {
+      "ma": "04-27-02",
+      "ketLuan": "SAI",
+      "vi": "Điều kiện nêu tinh thể áp điện chưa lắp ráp hoàn toàn không khớp câu trích: câu trích loại trừ dây cách điện sang nhóm 85.44.",
+      "chungMinh": "(ii) Dây cách điện (nhóm 85.44)."
+    },
+    {
+      "ma": "04-27-03",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6403 sang 6309 khớp sát nội dung câu trích nguồn ch64.chuong.",
+      "chungMinh": "Các loại giày, dép đã qua sử dụng có dấu hiệu còn sử dụng được hoặc chúng phải được thể hiện ở dạng đóng gói cỡ lớn hoặc kiện, bao hoặc các kiểu bao gói tương tự (nhóm 63.09)"
+    },
+    {
+      "ma": "04-27-04",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8418 sang 8419 khớp sát nội dung câu trích nguồn nhom8418.nhom.",
+      "chungMinh": "(a) Máy kết đông loại dùng muối để kết đông (nhóm 82.10 hoặc 84.19)."
+    },
+    {
+      "ma": "04-27-05",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8419 sang 7019 khớp sát nội dung câu trích nguồn ch84.chuong.",
+      "chungMinh": "(c) Đồ thủy tinh dùng cho phòng thí nghiệm (nhóm 70.17); máy, thiết bị hoặc các sản phẩm khác dùng cho các mục đích kỹ thuật hoặc các bộ phận của chúng, bằng thủy tinh (nhóm 70.19 hoặc 70.20);"
+    },
+    {
+      "ma": "04-27-06",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8419 sang 7017 khớp sát nội dung câu trích nguồn ch84.chuong.",
+      "chungMinh": "(c) Đồ thủy tinh dùng cho phòng thí nghiệm (nhóm 70.17); máy, thiết bị hoặc các sản phẩm khác dùng cho các mục đích kỹ thuật hoặc các bộ phận của chúng, bằng thủy tinh (nhóm 70.19 hoặc 70.20);"
+    },
+    {
+      "ma": "04-27-07",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8419 sang 7017 khớp sát nội dung câu trích nguồn nhom8419.nhom.",
+      "chungMinh": "loại trừ các loại thiết bị chưng cất bằng chất liệu gốm sứ (nhóm 69.09) hoặc bằng thủy tinh (các nhóm 70.17 hoặc 70.20)"
+    },
+    {
+      "ma": "04-27-08",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6403 sang 9021 khớp sát nội dung câu trích nguồn ch64.chuong.",
+      "chungMinh": "Các loại giày, dép chỉnh hình (nhóm 90.21)"
+    },
+    {
+      "ma": "04-27-09",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6103 sang 6309 khớp sát nội dung câu trích nguồn ch61.chuong.",
+      "chungMinh": "(b) Quần áo hoặc các sản phẩm may mặc đã qua sử dụng khác thuộc nhóm 63.09; hoặc"
+    },
+    {
+      "ma": "04-27-10",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8716 sang 9508 khớp sát nội dung câu trích nguồn ch87.chuong.",
+      "chungMinh": "(d) Các phương tiện được thiết kế đặc biệt để sử dụng cho trò chơi di chuyển trong công viên giải trí hoặc trong các trò chơi hội chợ (nhóm 95.08)."
+    },
+    {
+      "ma": "04-27-11",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8417 sang 8419 khớp sát nội dung câu trích nguồn nhom8417.nhom.",
+      "chungMinh": "(b) Các thiết bị thuộc nhóm 84.19, kể cả máy lọc dầu, lò hấp, lò hơi nước và lò sấy."
+    },
+    {
+      "ma": "04-27-12",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8401 sang 8419 khớp sát nội dung câu trích nguồn nhom8401.nhom.",
+      "chungMinh": "Các loại máy dùng để tách các chất cháy bị bức xạ hoặc dùng để xử lý chất thải mang phóng xạ bằng cách cất phân đoạn (nhưng khác với loại dùng để sản xuất nước nặng) (nhóm 84.19)."
+    },
+    {
+      "ma": "04-27-13",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6404 sang 6812 khớp sát nội dung câu trích nguồn ch64.chuong.",
+      "chungMinh": "Các loại giày, dép bằng amiăng (nhóm 68.12)"
+    },
+    {
+      "ma": "04-27-14",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6103 sang 9021 khớp sát nội dung câu trích nguồn ch61.chuong.",
+      "chungMinh": "(c) Dụng cụ chỉnh hình, đai thắt phẫu thuật, băng giữ hoặc loại tương tự (nhóm 90.21)."
+    },
+    {
+      "ma": "04-27-15",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8419 sang 7020 khớp sát nội dung câu trích nguồn nhom8419.nhom.",
+      "chungMinh": "loại trừ các loại thiết bị chưng cất bằng chất liệu gốm sứ (nhóm 69.09) hoặc bằng thủy tinh (các nhóm 70.17 hoặc 70.20)"
+    },
+    {
+      "ma": "04-27-16",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6103 sang 6102 khớp sát nội dung câu trích nguồn nhom6103.nhom.",
+      "chungMinh": "Tuy nhiên, nhóm này không bao gồm áo khoác có mũ, áo gió, áo jacket trượt tuyết và các loại tương tự thuộc nhóm 61.01 hoặc 61.02."
+    },
+    {
+      "ma": "04-27-17",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6103 sang 6101 khớp sát nội dung câu trích nguồn nhom6103.nhom.",
+      "chungMinh": "Tuy nhiên, nhóm này không bao gồm áo khoác có mũ, áo gió, áo jacket trượt tuyết và các loại tương tự thuộc nhóm 61.01 hoặc 61.02."
+    },
+    {
+      "ma": "04-27-18",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6403 sang 6812 khớp sát nội dung câu trích nguồn ch64.chuong.",
+      "chungMinh": "Các loại giày, dép bằng amiăng (nhóm 68.12)"
+    },
+    {
+      "ma": "04-27-19",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8404 sang 8419 khớp sát nội dung câu trích nguồn nhom8404.nhom.",
+      "chungMinh": "Thiết bị chưng cất và các thiết bị ngưng tụ khác thuộc nhóm 84.19"
+    },
+    {
+      "ma": "04-27-20",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6103 sang 6812 khớp sát nội dung câu trích nguồn ch61.chuong.",
+      "chungMinh": "(a) Quần áo và đồ phụ trợ may mặc thuộc các nhóm 39.26, 40.15, 42.03 hoặc 68.12."
+    },
+    {
+      "ma": "04-27-21",
+      "ketLuan": "KHONG_RO",
+      "vi": "Câu trích bị cắt cụt ngữ cảnh (chỉ viết với qui định như vậy), không đủ dữ kiện để xác minh điều kiện luân chuyển chất lỏng làm lạnh và làm nóng giữa các thành."
+    },
+    {
+      "ma": "04-27-22",
+      "ketLuan": "SAI",
+      "vi": "Nhóm đích 9020 không khớp câu trích: câu trích xếp xe và bộ phận của xe, mô hình xe cắt ngang thiết kế trưng bày vào nhóm 90.23, không phải 90.20.",
+      "chungMinh": "(a) Xe và bộ phận của xe, mô hình xe cắt ngang, được thiết kế cho mục đích trưng bày, không sử dụng cho các mục đích khác (nhóm 90.23)."
+    },
+    {
+      "ma": "04-27-23",
+      "ketLuan": "SAI",
+      "vi": "Điều kiện nêu thiết bị điện gia dụng Chương 85 hoàn toàn không khớp câu trích: câu trích loại trừ các loại bơm, quạt gió và các loại máy khác sang nhóm 84.13 hoặc 84.14.",
+      "chungMinh": "Các loại bơm (kể cả bơm phụt, dùng để tiếp nước cho nồi hơi), quạt gió và các loại máy khác thuộc nhóm 84.13 hoặc 84.14."
+    },
+    {
+      "ma": "04-27-24",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8716 sang 9508 khớp sát nội dung câu trích nguồn nhom8716.nhom.",
+      "chungMinh": "(trừ loại được thiết kế đặc biệt để sử dụng cho và tạo thành các bộ phận của trò chơi hội chợ thuộc nhóm 95.08)"
+    },
+    {
+      "ma": "04-27-25",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6103 sang 4203 khớp sát nội dung câu trích nguồn ch61.chuong.",
+      "chungMinh": "(a) Quần áo và đồ phụ trợ may mặc thuộc các nhóm 39.26, 40.15, 42.03 hoặc 68.12."
+    },
+    {
+      "ma": "04-27-26",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6103 sang 6112 khớp sát nội dung câu trích nguồn nhom6103.nhom.",
+      "chungMinh": "(b) Bộ quần áo thể thao, bộ quần áo trượt tuyết và bộ quần áo bơi (nhóm 61.12)."
+    },
+    {
+      "ma": "04-27-27",
+      "ketLuan": "SAI",
+      "vi": "Nhóm đích 9021 không khớp câu trích: câu trích loại trừ các mặt hàng thuộc nhóm 83.06, không phải 90.21.",
+      "chungMinh": "Khái niệm \"bộ phận\" và \"bộ phận và phụ kiện\" không áp dụng cho các sản phẩm sau đây … (d) Các mặt hàng thuộc nhóm 83.06"
+    },
+    {
+      "ma": "04-27-28",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8419 sang 6909 khớp sát nội dung câu trích nguồn nhom8419.nhom.",
+      "chungMinh": "loại trừ các loại thiết bị chưng cất bằng chất liệu gốm sứ (nhóm 69.09) hoặc bằng thủy tinh (các nhóm 70.17 hoặc 70.20)"
+    },
+    {
+      "ma": "04-27-29",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8401 sang 8419 khớp sát nội dung câu trích nguồn nhom8401.nhom.",
+      "chungMinh": "Máy khử chất khoáng trong nước (chủ yếu là nhóm 84.19 hoặc nhóm 84.21)."
+    },
+    {
+      "ma": "04-27-30",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6103 sang 6107 khớp sát nội dung câu trích nguồn ch61.chuong.",
+      "chungMinh": "Khái niệm \"bộ quần áo đồng bộ\" có nghĩa là bộ quần áo (trừ bộ com-lê và quần áo thuộc nhóm 61.07, 61.08 hoặc 61.09)"
+    },
+    {
+      "ma": "04-27-31",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8716 sang 8474 khớp sát nội dung câu trích nguồn nhom8716.nhom.",
+      "chungMinh": "(c) Rơ moóc trộn bê tông (nhóm 84.74)."
+    },
+    {
+      "ma": "04-27-32",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6404 sang 9021 khớp sát nội dung câu trích nguồn ch64.chuong.",
+      "chungMinh": "Các loại giày, dép chỉnh hình (nhóm 90.21)"
+    },
+    {
+      "ma": "04-27-33",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6103 sang 4015 khớp sát nội dung câu trích nguồn ch61.chuong.",
+      "chungMinh": "(a) Quần áo và đồ phụ trợ may mặc thuộc các nhóm 39.26, 40.15, 42.03 hoặc 68.12."
+    },
+    {
+      "ma": "04-27-34",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6404 sang 6309 khớp sát nội dung câu trích nguồn ch64.chuong.",
+      "chungMinh": "Giày, dép đã qua sử dụng thuộc nhóm 63.09"
+    },
+    {
+      "ma": "04-27-35",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6103 sang 6212 khớp sát nội dung câu trích nguồn ch61.chuong.",
+      "chungMinh": "Chương này không bao gồm: (a) Những mặt hàng thuộc nhóm 62.12;"
+    },
+    {
+      "ma": "04-27-36",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8716 sang 9021 khớp sát nội dung câu trích nguồn nhom8716.nhom.",
+      "chungMinh": "(b) Mặt hàng hỗ trợ đi bộ được gọi là “Khung tập đi”, thường bao gồm khung kim loại hình ống, có 3 hoặc 4 bánh xe (một số bánh hoặc tất cả đều có thể quay được), có tay nắm và phanh tay (nhóm 90.21)"
+    },
+    {
+      "ma": "04-27-37",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8419 sang 7020 khớp sát nội dung câu trích nguồn ch84.chuong.",
+      "chungMinh": "(c) Đồ thủy tinh dùng cho phòng thí nghiệm (nhóm 70.17); máy, thiết bị hoặc các sản phẩm khác dùng cho các mục đích kỹ thuật hoặc các bộ phận của chúng, bằng thủy tinh (nhóm 70.19 hoặc 70.20);"
+    },
+    {
+      "ma": "04-27-38",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8716 sang 9023 khớp sát nội dung câu trích nguồn ch87.chuong.",
+      "chungMinh": "(a) Xe và bộ phận của xe, mô hình xe cắt ngang, được thiết kế cho mục đích trưng bày, không sử dụng cho các mục đích khác (nhóm 90.23)."
+    },
+    {
+      "ma": "04-27-39",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8418 sang 8419 khớp sát nội dung câu trích nguồn nhom8418.nhom.",
+      "chungMinh": "(b) Máy hoá lỏng khí (như máy Linde) (nhóm 84.19)."
+    },
+    {
+      "ma": "04-27-40",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6103 sang 6109 khớp sát nội dung câu trích nguồn ch61.chuong.",
+      "chungMinh": "Khái niệm \"bộ quần áo đồng bộ\" có nghĩa là bộ quần áo (trừ bộ com-lê và quần áo thuộc nhóm 61.07, 61.08 hoặc 61.09)"
+    }
+  ]
+}
