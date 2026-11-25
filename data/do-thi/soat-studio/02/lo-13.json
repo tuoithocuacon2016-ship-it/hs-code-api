@@ -1,0 +1,79 @@
+{
+  "khuon": "soat@1",
+  "viec": "02",
+  "lo": 13,
+  "kq": [
+    {
+      "ma": "02-13-01",
+      "ketLuan": "LOAI_TRU",
+      "vi": "Chú giải 84.34 loại trừ thùng không gắn thiết bị nhiệt hay cơ khí khỏi nhóm 84.34 và phân loại theo vật liệu cấu thành như nhóm 73.10.",
+      "chungMinh": "Những cái thùng, v.v..… không được gắn với thiết bị nhiệt hoặc thiết bị cơ khí được phân loại như những vật dụng của vật liệu cấu thành (ví dụ, nhóm 73.09, 73.10, 74.19, 76.11 hoặc 76.12)."
+    },
+    {
+      "ma": "02-13-02",
+      "ketLuan": "LOAI_TRU",
+      "vi": "Trong mục loại trừ (f) của 58.06, móc/mắt cài/bấm kim loại gắn cố định trên dải tạo đặc tính riêng bị loại khỏi 58.06 sang 83.08 hoặc 96.06.",
+      "chungMinh": "các móc, mắt cài khóa hoặc các bấm, làm từ kim loại thường, đã cố định tại các khoảng trên dải, với điều kiện các móc và các khóa hoặc… các bấm khác làm cho các mặt hàng có đặc tính riêng (nhóm 83.08 hoặc 96.06 tùy từng trường hợp cụ thể)."
+    },
+    {
+      "ma": "02-13-03",
+      "ketLuan": "LOAI_TRU",
+      "vi": "Chú giải 84.34 loại trừ thùng không gắn thiết bị nhiệt hay cơ khí khỏi nhóm 84.34 và phân loại theo vật liệu cấu thành như nhóm 76.12.",
+      "chungMinh": "Những cái thùng, v.v..… không được gắn với thiết bị nhiệt hoặc thiết bị cơ khí được phân loại như những vật dụng của vật liệu cấu thành (ví dụ, nhóm 73.09, 73.10, 74.19, 76.11 hoặc 76.12)."
+    },
+    {
+      "ma": "02-13-04",
+      "ketLuan": "PHAN_BIET",
+      "vi": "Chú giải 84.26 nêu quy tắc phân định giữa các nhóm 84.25–84.30 cho đế đẩy trang bị nhiều bộ phận làm việc theo Chú giải 3 Phần XVI hoặc GIR 3(c).",
+      "chungMinh": "Đế đẩy có thể được phân loại trong các nhóm từ 84.25 đến 84.30 bởi vì chúng có thể được trang bị với một vài bộ phận làm việc khác, được phân loại theo Chú giải 3 phần XVI hoặc Quy tác phân loại 3(c)."
+    },
+    {
+      "ma": "02-13-05",
+      "ketLuan": "LOAI_TRU",
+      "vi": "Chú giải 84.32 quy định xe/thiết bị kéo thay thế máy kéo (như nhóm 87.04) đi kèm máy nông nghiệp phải phân loại riêng vào 87.04 chứ không nhập vào 84.32.",
+      "chungMinh": "Bản thân máy kéo được phân loại riêng biệt trong nhóm 87.01.… Nguyên lý phân loại như vậy cũng được áp dụng trong trường hợp khi một loại thiết bị kéo khác được thay thế cho máy kéo (ví dụ một loại máy được phân trong nhóm 87.04)"
+    },
+    {
+      "ma": "02-13-06",
+      "ketLuan": "LOAI_TRU",
+      "vi": "Chú giải 84.34 loại trừ thùng không gắn thiết bị nhiệt hay cơ khí khỏi nhóm 84.34 và phân loại theo vật liệu cấu thành như nhóm 74.19.",
+      "chungMinh": "Những cái thùng, v.v..… không được gắn với thiết bị nhiệt hoặc thiết bị cơ khí được phân loại như những vật dụng của vật liệu cấu thành (ví dụ, nhóm 73.09, 73.10, 74.19, 76.11 hoặc 76.12)."
+    },
+    {
+      "ma": "02-13-07",
+      "ketLuan": "PHAN_BIET",
+      "vi": "Chú giải 84.26 nêu tiêu chí phân định giữa 84.26 và 84.30 cho đế đẩy đa bộ phận làm việc căn cứ Chú giải 3 Phần XVI hoặc GIR 3(c).",
+      "chungMinh": "Đế đẩy có thể được phân loại trong các nhóm từ 84.25 đến 84.30 bởi vì chúng có thể được trang bị với một vài bộ phận làm việc khác, được phân loại theo Chú giải 3 phần XVI hoặc Quy tác phân loại 3(c)."
+    },
+    {
+      "ma": "02-13-08",
+      "ketLuan": "LOAI_TRU",
+      "vi": "Chú giải 84.34 loại trừ thùng không gắn thiết bị nhiệt hay cơ khí khỏi nhóm 84.34 và phân loại theo vật liệu cấu thành như nhóm 73.09.",
+      "chungMinh": "Những cái thùng, v.v..… không được gắn với thiết bị nhiệt hoặc thiết bị cơ khí được phân loại như những vật dụng của vật liệu cấu thành (ví dụ, nhóm 73.09, 73.10, 74.19, 76.11 hoặc 76.12)."
+    },
+    {
+      "ma": "02-13-09",
+      "ketLuan": "LOAI_TRU",
+      "vi": "Chú giải 84.39 quy định máy phụ trợ như máy cắt giấy (84.41) nếu trình bày riêng rẽ sẽ không thuộc 84.39 mà phân vào nhóm tương ứng 84.41.",
+      "chungMinh": "máy cắt giấy (nhóm 84.41)). Với điều kiện chúng được hiện diện cùng trong một tổ hợp, các máy phụ trợ như vậy được phân loại cùng với các máy liên hợp trong nhóm này, nhưng nếu chúng được hiện diện riêng rẽ thì những máy này được phân vào các nhóm tương ứng của chúng."
+    },
+    {
+      "ma": "02-13-10",
+      "ketLuan": "LOAI_TRU",
+      "vi": "Chú giải 84.34 loại trừ thùng không gắn thiết bị nhiệt hay cơ khí khỏi nhóm 84.34 và phân loại theo vật liệu cấu thành như nhóm 76.11.",
+      "chungMinh": "Những cái thùng, v.v..… không được gắn với thiết bị nhiệt hoặc thiết bị cơ khí được phân loại như những vật dụng của vật liệu cấu thành (ví dụ, nhóm 73.09, 73.10, 74.19, 76.11 hoặc 76.12)."
+    },
+    {
+      "ma": "02-13-11",
+      "ketLuan": "PHAN_BIET",
+      "vi": "Chú giải 84.26 nêu quy tắc phân định máy đa chức năng thực hiện cả chức năng 84.26/84.28 và 84.29/84.30 theo Chú giải 3 Phần XVI hoặc GIR 3(c).",
+      "chungMinh": "MÁY ĐA CHỨC NĂNG Ngoài việc thực hiện các chức năng được miêu tả trong Nhóm này hoặc nhóm 84.25, 84.27 hoặc 84.28, nhiều máy cũng có thể thực hiện các chức năng được diễn tả trong nhóm 84.29 hoặc 84.30… Các máy này được phân loại theo Chú giải 3 của Phần XVI, hoặc theo quy tắc phân loại 3 (c)."
+    },
+    {
+      "ma": "02-13-12",
+      "ketLuan": "LOAI_TRU",
+      "vi": "Chú giải 84.30 loại trừ máy xúc lắp trên toa tàu hoặc toa chở hàng thích hợp nối đoàn tàu đường sắt, chuyển sang nhóm 86.04.",
+      "chungMinh": "Những trường hợp loại trừ gồm:… Các loại máy xúc..., được phân loại trong nhóm 86.04 nếu chúng được lắp trên các toa tàu hoặc toa chở hàng"
+    }
+  ]
+}

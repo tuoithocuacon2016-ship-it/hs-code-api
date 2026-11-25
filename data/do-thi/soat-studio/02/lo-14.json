@@ -1,0 +1,79 @@
+{
+  "khuon": "soat@1",
+  "viec": "02",
+  "lo": 14,
+  "kq": [
+    {
+      "ma": "02-14-01",
+      "ketLuan": "LOAI_TRU",
+      "vi": "Chú giải 84.83 loại trừ miếng đệm, đĩa, giá đỡ công xon không gắn thân ổ lăn khỏi 84.83 và phân theo vật liệu cấu thành như 73.25.",
+      "chungMinh": "nhưng miếng đệm, đĩa hoặc giá đỡ công xon , v.v.., không được gắn với một thân ổ dùng ổ lăn(hoặc bản thân chúng cũng không thiết kế để chứa một ổ bi) được phân loại theo vật liệu cấu thành (thường phân vào nhóm 73.25 hoặc 73.26)"
+    },
+    {
+      "ma": "02-14-02",
+      "ketLuan": "LOAI_TRU",
+      "vi": "Chú giải 84.79 loại trừ các bộ phận/khuôn đã được ghi ở nơi khác (đặc biệt là khuôn thuộc nhóm 84.80) khỏi phạm vi bộ phận của 84.79.",
+      "chungMinh": "nhóm này cũng bao gồm các bộ phận của máy móc thuộc nhóm, kể cả khuôn trừ những bộ phận đã được ghi ở nơi khác (đặc biệt, nhóm 84.80)"
+    },
+    {
+      "ma": "02-14-03",
+      "ketLuan": "LOAI_TRU",
+      "vi": "Chú giải 84.81 loại trừ đĩa nổ an toàn dùng thay van khỏi 84.81 và phân loại theo vật liệu cấu thành, trong đó có nhóm 76.16.",
+      "chungMinh": "Đĩa nổ (đĩa mỏng bằng plastic hoặc kim loại) được dùng trong những trường hợp nhất định như những thiết bị an toàn thay van… Chúng được phân loại theo vật liệu cấu thành (nhóm 39.26, 71.15, 73.26, 74.19, 75.08, 76.16,v.v.. )."
+    },
+    {
+      "ma": "02-14-04",
+      "ketLuan": "LOAI_TRU",
+      "vi": "Chú giải 84.81 loại trừ đĩa nổ an toàn dùng thay van khỏi 84.81 và phân loại theo vật liệu cấu thành, trong đó có nhóm 71.15.",
+      "chungMinh": "Đĩa nổ (đĩa mỏng bằng plastic hoặc kim loại) được dùng trong những trường hợp nhất định như những thiết bị an toàn thay van… Chúng được phân loại theo vật liệu cấu thành (nhóm 39.26, 71.15, 73.26, 74.19, 75.08, 76.16,v.v.. )."
+    },
+    {
+      "ma": "02-14-05",
+      "ketLuan": "LOAI_TRU",
+      "vi": "Chú giải 84.81 loại trừ đĩa nổ an toàn dùng thay van khỏi 84.81 và phân loại theo vật liệu cấu thành, trong đó có nhóm 73.26.",
+      "chungMinh": "Đĩa nổ (đĩa mỏng bằng plastic hoặc kim loại) được dùng trong những trường hợp nhất định như những thiết bị an toàn thay van… Chúng được phân loại theo vật liệu cấu thành (nhóm 39.26, 71.15, 73.26, 74.19, 75.08, 76.16,v.v.. )."
+    },
+    {
+      "ma": "02-14-06",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Chú giải 85.25 nhắc phương tiện lưu trữ nhóm 85.23 để mô tả cơ chế ghi hình của camera kỹ thuật số, không phải quan hệ loại trừ hay nguyên liệu.",
+      "chungMinh": "hình ảnh được ghi lên một thiết bị lưu trữ bên trong hoặc lên các phương tiện lưu trữ khác (ví dụ, băng từ, phương tiện quang học, phương tiện bán dẫn hoặc phương tiện khác của nhóm 85.23)."
+    },
+    {
+      "ma": "02-14-07",
+      "ketLuan": "LOAI_TRU",
+      "vi": "Chú giải 84.81 loại trừ đĩa nổ an toàn dùng thay van khỏi 84.81 và phân loại theo vật liệu cấu thành, trong đó có nhóm 39.26.",
+      "chungMinh": "Đĩa nổ (đĩa mỏng bằng plastic hoặc kim loại) được dùng trong những trường hợp nhất định như những thiết bị an toàn thay van… Chúng được phân loại theo vật liệu cấu thành (nhóm 39.26, 71.15, 73.26, 74.19, 75.08, 76.16,v.v.. )."
+    },
+    {
+      "ma": "02-14-08",
+      "ketLuan": "LOAI_TRU",
+      "vi": "Chú giải 84.81 loại trừ đĩa nổ an toàn dùng thay van khỏi 84.81 và phân loại theo vật liệu cấu thành, trong đó có nhóm 75.08.",
+      "chungMinh": "Đĩa nổ (đĩa mỏng bằng plastic hoặc kim loại) được dùng trong những trường hợp nhất định như những thiết bị an toàn thay van… Chúng được phân loại theo vật liệu cấu thành (nhóm 39.26, 71.15, 73.26, 74.19, 75.08, 76.16,v.v.. )."
+    },
+    {
+      "ma": "02-14-09",
+      "ketLuan": "NGUYEN_LIEU",
+      "vi": "Chú giải 12.08 quy định bột mịn hoặc bột thô của nhóm thu được từ việc xay xát hạt và quả có dầu thuộc nhóm 12.01 đến 12.07.",
+      "chungMinh": "Nhóm này gồm bột mịn hoặc bột thô không bị loại bỏ chất béo hay chỉ bị loại bỏ một phần chất béo thu được từ quá trình xay xát hạt và quả có dầu từ nhóm 12.01 đến 12.07."
+    },
+    {
+      "ma": "02-14-10",
+      "ketLuan": "LOAI_TRU",
+      "vi": "Chú giải 84.83 loại trừ miếng đệm, đĩa, giá đỡ công xon không gắn thân ổ lăn khỏi 84.83 và phân theo vật liệu cấu thành như 73.26.",
+      "chungMinh": "nhưng miếng đệm, đĩa hoặc giá đỡ công xon , v.v.., không được gắn với một thân ổ dùng ổ lăn(hoặc bản thân chúng cũng không thiết kế để chứa một ổ bi) được phân loại theo vật liệu cấu thành (thường phân vào nhóm 73.25 hoặc 73.26)"
+    },
+    {
+      "ma": "02-14-11",
+      "ketLuan": "LOAI_TRU",
+      "vi": "Chú giải 91.06 loại trừ máy đồng hồ cá nhân hoặc đồng hồ thời gian trình bày riêng khỏi 91.06 và phân vào các nhóm 91.08 đến 91.10.",
+      "chungMinh": "Nhóm này không bao gồm những mặt hàng… máy đồng hồ cá nhân hoặc đồng hồ thời gian (các nhóm từ 91.08 đến 91.10)"
+    },
+    {
+      "ma": "02-14-12",
+      "ketLuan": "LOAI_TRU",
+      "vi": "Chú giải 84.81 loại trừ đĩa nổ an toàn dùng thay van khỏi 84.81 và phân loại theo vật liệu cấu thành, trong đó có nhóm 74.19.",
+      "chungMinh": "Đĩa nổ (đĩa mỏng bằng plastic hoặc kim loại) được dùng trong những trường hợp nhất định như những thiết bị an toàn thay van… Chúng được phân loại theo vật liệu cấu thành (nhóm 39.26, 71.15, 73.26, 74.19, 75.08, 76.16,v.v.. )."
+    }
+  ]
+}

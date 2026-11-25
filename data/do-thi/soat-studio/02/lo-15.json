@@ -1,0 +1,43 @@
+{
+  "khuon": "soat@1",
+  "viec": "02",
+  "lo": 15,
+  "kq": [
+    {
+      "ma": "02-15-01",
+      "ketLuan": "LOAI_TRU",
+      "vi": "Chú giải 91.06 loại trừ máy đồng hồ và bộ phận máy đồng hồ khi trình bày riêng rẽ khỏi nhóm 91.06, phân vào các nhóm 91.08–91.10 hoặc 91.14.",
+      "chungMinh": "Nhóm này không bao gồm những mặt hàng sau đây… máy đồng hồ cá nhân hoặc đồng hồ thời gian (các nhóm từ 91.08 đến 91.10), và các bộ phận của máy đồng hồ này (thường thuộc nhóm 91.10 hay 91.14)."
+    },
+    {
+      "ma": "02-15-02",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Nhóm 84.87 được nhắc trong ngoặc ngoại trừ của Chú giải 2(a) khi loại trừ khỏi 90.33, không phải nhóm đích nhận hàng bị loại trừ từ 90.33.",
+      "chungMinh": "(2) Những mặt hàng trong Chú giải 2(a), bản thân chúng tạo thành các mặt hàng thiết bị, máy móc, dụng cụ thuộc bất cứ nhóm riêng nào của Chương 90 hoặc của Chương 84, Chương 85 hoặc Chương 91 (ngoại trừ các nhóm 84.87, 85.48 hoặc 90.33)."
+    },
+    {
+      "ma": "02-15-03",
+      "ketLuan": "LOAI_TRU",
+      "vi": "Chú giải 96.01 loại trừ các mảnh đã định hình là bộ phận vật phẩm nhóm khác, như mảnh gắn vào báng súng phân vào nhóm 93.05.",
+      "chungMinh": "các mảnh có thể xác định là các bộ phận của vật phẩm thuộc một nhóm khác của Danh mục thì bị loại khỏi nhóm này.… các phím đàn pianô và các mảnh gắn vào báng súng được xếp lần lượt vào nhóm 92.09 và 93.05."
+    },
+    {
+      "ma": "02-15-04",
+      "ketLuan": "NGUYEN_LIEU",
+      "vi": "Chú giải 89.08 quy định đối tượng đầu vào của nhóm là tàu thuyền và cấu kiện nổi thuộc nhóm 89.01 đến 89.07 ở dạng để phá huỷ.",
+      "chungMinh": "Nhóm này chỉ bao gồm những tàu thuyền và các cấu kiện nổi khác thuộc các nhóm từ 89.01 đến 89.07, ở dạng để phá huỷ."
+    },
+    {
+      "ma": "02-15-05",
+      "ketLuan": "LOAI_TRU",
+      "vi": "Chú giải 86.08 loại trừ biển báo hiệu đường bộ/đường ray không có tính chất cơ khí khỏi 86.08 và phân theo vật liệu cấu thành như nhóm 44.21.",
+      "chungMinh": "Loại này không bao gồm các biển báo hiệu cho đường bộ, đường ray v.v....… không có tính chất cơ khí… những biển báo này được phân loại theo nguyên liệu cấu thành của chúng (ví dụ, trong các nhóm 44.21 hoặc 83.10)."
+    },
+    {
+      "ma": "02-15-06",
+      "ketLuan": "NGUYEN_LIEU",
+      "vi": "Chú giải 89.08 quy định đối tượng đầu vào của nhóm là tàu thuyền và cấu kiện nổi thuộc các nhóm 89.01 đến 89.07 ở dạng để phá huỷ.",
+      "chungMinh": "Nhóm này chỉ bao gồm những tàu thuyền và các cấu kiện nổi khác thuộc các nhóm từ 89.01 đến 89.07, ở dạng để phá huỷ."
+    }
+  ]
+}
