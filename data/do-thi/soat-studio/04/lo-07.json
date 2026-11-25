@@ -1,0 +1,248 @@
+{
+  "khuon": "soat@1",
+  "viec": "04",
+  "lo": 7,
+  "kq": [
+    {
+      "ma": "04-07-01",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8482 sang 7326 khớp sát nội dung câu trích nguồn nhom8482.nhom.",
+      "chungMinh": "(1) Bi bằng thép đã đánh bóng … đường kính tối đa và tối thiểu của chúng không khác với đường kính danh nghĩa hơn 1% hoặc hơn 0,05mm tùy theo cái nhỏ hơn; bi không phù hợp theo định nghĩa này được phân loại vào nhóm 73.26 (xem Chú giải 7 của Chương)."
+    },
+    {
+      "ma": "04-07-02",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8532 sang 8501 khớp sát nội dung câu trích nguồn nhom8532.nhom.",
+      "chungMinh": "Nhóm này không bao gồm các động cơ đồng bộ được dùng để cải thiện hệ số công suất, mặc dù chúng thường được gọi là “các tụ đồng bộ” (nhóm 85.01)."
+    },
+    {
+      "ma": "04-07-03",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8501 sang 8431 khớp sát nội dung câu trích nguồn nhom8501.nhom.",
+      "chungMinh": "(a) Trống hoặc con lăn kết hợp với mô tơ điện dùng cho băng tải hoặc băng truyền (nhóm 84.31)."
+    },
+    {
+      "ma": "04-07-04",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 4016 sang 4017 khớp sát nội dung câu trích nguồn ch40.chuong.",
+      "chungMinh": "(f) Nhóm 40.17 bao gồm cao su cứng, ở tất cả các dạng, kể cả phế thải và mảnh vụn và các sản phẩm bằng cao su cứng."
+    },
+    {
+      "ma": "04-07-05",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8501 sang 9022 khớp sát nội dung câu trích nguồn nhom8501.nhom.",
+      "chungMinh": "(ij) Các máy phát của Chương 90 chẳng hạn như máy phát tia X (nhóm 90.22)"
+    },
+    {
+      "ma": "04-07-06",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8454 sang 7326 khớp sát nội dung câu trích nguồn nhom8454.nhom.",
+      "chungMinh": "Loại trừ nồi rót nhỏ bằng tay thuộc loại được sử dụng bởi thợ gò thùng hoặc thợ kim hoàn v.v.. (nhóm 73.25 hoặc 73.26)."
+    },
+    {
+      "ma": "04-07-07",
+      "ketLuan": "SAI",
+      "vi": "Nhóm đích 8417 không khớp câu trích: câu trích xếp bộ chỉnh hình tách tín hiệu truyền hình tần số cao như bộ phận của nhóm 85.29, không phải 84.17.",
+      "chungMinh": "Tuy nhiên, các thiết bị mà chỉ đơn giản là tách các tín hiệu truyền hình tần số cao (đôi khi gọi là bộ chỉnh hình) được phân loại như là bộ phận của nhóm 85.29."
+    },
+    {
+      "ma": "04-07-08",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 4016 sang 4008 khớp sát nội dung câu trích nguồn nhom4016.nhom.",
+      "chungMinh": "(2) Tấm phủ sàn và tấm, đệm trải sàn (kể cả thảm trong nhà tắm), trừ các loại thảm hình chữ nhật (kể cả hình vuông) cắt từ các tấm hoặc tờ bằng cao su và không được gia công thêm hơn mức gia công bề mặt (xem Chú giải nhóm 40.08)."
+    },
+    {
+      "ma": "04-07-09",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8501 sang 8506 khớp sát nội dung câu trích nguồn nhom8501.nhom.",
+      "chungMinh": "(e) Các pin và bộ pin (nhóm 85.06)"
+    },
+    {
+      "ma": "04-07-10",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8501 sang 8541 khớp sát nội dung câu trích nguồn ch85.chuong.",
+      "chungMinh": "2. Các nhóm từ 85.01 đến 85.04 không áp dụng cho các loại hàng hóa đã mô tả trong nhóm 85.11, 85.12, 85.40, 85.41 hoặc 85.42."
+    },
+    {
+      "ma": "04-07-11",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8501 sang 8479 khớp sát nội dung câu trích nguồn nhom8501.nhom.",
+      "chungMinh": "(b) Các động cơ rung và các thiết bị rung điện từ thuộc nhóm 84.79"
+    },
+    {
+      "ma": "04-07-12",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8501 sang 9023 khớp sát nội dung câu trích nguồn nhom8501.nhom.",
+      "chungMinh": "các máy phát được thiết kế cho mục đích trưng bày và không thích hợp cho mục đích sử dụng khác (nhóm 90.23)."
+    },
+    {
+      "ma": "04-07-13",
+      "ketLuan": "SAI",
+      "vi": "Điều kiện nêu tất dài cho người giãn tĩnh mạch hoàn toàn sai lệch với câu trích: câu trích loại trừ đuốc nhựa thông sang nhóm 36.06.",
+      "chungMinh": "(b) Đuốc nhựa thông (nhóm 36.06)."
+    },
+    {
+      "ma": "04-07-14",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8501 sang 8512 khớp sát nội dung câu trích nguồn nhom8501.nhom.",
+      "chungMinh": "(í) Các máy phát (đinamô và xoay chiều) được sử dụng chung với động cơ đốt trong, hoặc cho thiết bị phát ánh sáng hoặc thiết bị phát tín hiệu dùng cho xe đạp hoặc xe có động cơ (nhóm 85.11 và 85.12 tương ứng)."
+    },
+    {
+      "ma": "04-07-15",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9608 sang 7326 khớp sát nội dung câu trích nguồn nhom9608.nhom.",
+      "chungMinh": "(b) Bi bằng thép cho bút bi hoặc bút chì bi (nhóm 73.26 hoặc 84.82)."
+    },
+    {
+      "ma": "04-07-16",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8501 sang 8511 khớp sát nội dung câu trích nguồn ch85.chuong.",
+      "chungMinh": "2. Các nhóm từ 85.01 đến 85.04 không áp dụng cho các loại hàng hóa đã mô tả trong nhóm 85.11, 85.12, 85.40, 85.41 hoặc 85.42."
+    },
+    {
+      "ma": "04-07-17",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 4016 sang 6306 khớp sát nội dung câu trích nguồn nhom4016.nhom.",
+      "chungMinh": "(6) Đệm, gối và nệm bơm hơi và các mặt hàng có khả năng phồng lên khác (trừ các mặt hàng thuộc nhóm 40.14 hoặc 63.06))"
+    },
+    {
+      "ma": "04-07-18",
+      "ketLuan": "SAI",
+      "vi": "Điều kiện nêu máy san đất hoàn toàn không khớp câu trích: câu trích loại trừ các loại giày, dép thuộc nhóm 64.01.",
+      "chungMinh": "loại trừ các loại giày, dép thuộc nhóm 64.01"
+    },
+    {
+      "ma": "04-07-19",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 4016 sang 4008 khớp sát nội dung câu trích nguồn ch40.chuong.",
+      "chungMinh": "Chỉ sợi hoàn toàn bằng cao su lưu hoá, có kích thước mặt cắt ngang trên 5 mm, được phân loại như các loại dải, thanh hoặc dạng hình khác, thuộc nhóm 40.08."
+    },
+    {
+      "ma": "04-07-20",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8501 sang 8540 khớp sát nội dung câu trích nguồn ch85.chuong.",
+      "chungMinh": "2. Các nhóm từ 85.01 đến 85.04 không áp dụng cho các loại hàng hóa đã mô tả trong nhóm 85.11, 85.12, 85.40, 85.41 hoặc 85.42."
+    },
+    {
+      "ma": "04-07-21",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8487 sang 4016 khớp sát nội dung câu trích nguồn nhom8487.nhom.",
+      "chungMinh": "và các bộ phận khác làm từ cao su lưu hóa không cứng (nhóm 40.16)"
+    },
+    {
+      "ma": "04-07-22",
+      "ketLuan": "RONG",
+      "vi": "Điều kiện bỏ sót giới hạn trừ cao su cứng có trong câu trích (cao su cứng không thuộc nhóm 40.16).",
+      "dieuKienMoi": "Đệm lót, vòng đệm và sản phẩm tương tự bằng cao su lưu hoá trừ cao su cứng",
+      "chungMinh": "sản phẩm hay thiết bị làm từ cao su lưu hoá trừ cao su cứng (ví dụ các đệm lót, vòng đệm và những vật tương tự bằng cao su) (nhóm 40.16)"
+    },
+    {
+      "ma": "04-07-23",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8501 sang 8541 khớp sát nội dung câu trích nguồn nhom8501.nhom.",
+      "chungMinh": "(g) Các pin mặt trời, đã hoặc chưa lắp ráp thành môđun hoặc làm thành dạng tấm nhưng không gắn với các linh kiện dù là đơn giản, nó cung cấp năng lượng trực tiếp, ví dụ, cho động cơ, cho thiết bị điện phân (nhóm 85.41)."
+    },
+    {
+      "ma": "04-07-24",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8501 sang 8511 khớp sát nội dung câu trích nguồn nhom8501.nhom.",
+      "chungMinh": "(í) Các máy phát (đinamô và xoay chiều) được sử dụng chung với động cơ đốt trong, hoặc cho thiết bị phát ánh sáng hoặc thiết bị phát tín hiệu dùng cho xe đạp hoặc xe có động cơ (nhóm 85.11 và 85.12 tương ứng)."
+    },
+    {
+      "ma": "04-07-25",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8501 sang 8512 khớp sát nội dung câu trích nguồn ch85.chuong.",
+      "chungMinh": "2. Các nhóm từ 85.01 đến 85.04 không áp dụng cho các loại hàng hóa đã mô tả trong nhóm 85.11, 85.12, 85.40, 85.41 hoặc 85.42."
+    },
+    {
+      "ma": "04-07-26",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7326 sang 9403 khớp sát nội dung câu trích nguồn nhom7326.nhom.",
+      "chungMinh": "Vật liệu để đóng kệ, giá cỡ lớn để lắp đặt cố định trong các cửa hàng, phân xưởng, nhà kho,... (nhóm 73.08) và đồ nội thất dạng giá kệ thuộc nhóm 94.03."
+    },
+    {
+      "ma": "04-07-27",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8501 sang 8543 khớp sát nội dung câu trích nguồn nhom8501.nhom.",
+      "chungMinh": "(h) Các thiết bị điện, đôi khi cũng được biết như là máy phát mặc dù nó không sản sinh ra năng lượng điện, ví dụ như máy phát các tín hiệu (nhóm 85.43)."
+    },
+    {
+      "ma": "04-07-28",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8522 sang 8501 khớp sát nội dung câu trích nguồn nhom8522.nhom.",
+      "chungMinh": "(b) Các động cơ điện cho thiết bị ghi hoặc tái tạo âm thanh, mà không kết hợp với các bộ phận hoặc đồ phụ trợ của các thiết bị ghi hoặc tái tạo âm thanh này (nhóm 85.01)."
+    },
+    {
+      "ma": "04-07-29",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8501 sang 8502 khớp sát nội dung câu trích nguồn nhom8501.nhom.",
+      "chungMinh": "(c) Các máy phát điện kết hợp với phần kéo sơ cấp (nhóm 85.02)."
+    },
+    {
+      "ma": "04-07-30",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8431 sang 7326 khớp sát nội dung câu trích nguồn nhom8431.nhom.",
+      "chungMinh": "Móc nâng (nhóm 73.25 hoặc 73.26)."
+    },
+    {
+      "ma": "04-07-31",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 4008 sang 4016 khớp sát nội dung câu trích nguồn nhom4008.nhom.",
+      "chungMinh": "(b) Tấm, tờ và dải, … với các mép đã được cắt vát hoặc tạo gờ, hoặc với các góc được làm tròn, các đường biên có lỗ thủng hoặc được gia công theo cách khác, hoặc cắt thành các dạng trừ hình chữ nhật (kể cả hình vuông) (nhóm 40.14, 40.15 hoặc 40.16)."
+    },
+    {
+      "ma": "04-07-32",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8501 sang 8511 khớp sát nội dung câu trích nguồn nhom8501.nhom.",
+      "chungMinh": "Ngoại trừ các động cơ khởi động sử dụng trong các động cơ đốt trong (nhóm 85.11), nhóm này còn bao gồm tất cả các loại động cơ điện"
+    },
+    {
+      "ma": "04-07-33",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8501 sang 9109 khớp sát nội dung câu trích nguồn nhom8501.nhom.",
+      "chungMinh": "tuy nhiên loại trừ những động cơ đồng bộ như vậy mà đã được lắp ráp với hệ thống truyền động của đồng hồ (nhóm 91.09)"
+    },
+    {
+      "ma": "04-07-34",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8714 sang 4016 khớp sát nội dung câu trích nguồn phan87.phan.",
+      "chungMinh": "hoặc các sản phẩm khác bằng cao su lưu hoá trừ cao su cứng (nhóm 40.16)"
+    },
+    {
+      "ma": "04-07-35",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 4016 sang 4014 khớp sát nội dung câu trích nguồn nhom4016.nhom.",
+      "chungMinh": "(6) Đệm, gối và nệm bơm hơi và các mặt hàng có khả năng phồng lên khác (trừ các mặt hàng thuộc nhóm 40.14 hoặc 63.06))"
+    },
+    {
+      "ma": "04-07-36",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 4016 sang 9404 khớp sát nội dung câu trích nguồn nhom4016.nhom.",
+      "chungMinh": "(g) Đệm, gối và các loại nệm bằng cao su xốp, đã hoặc chưa được bọc, kể cả tấm làm ấm giường bằng điện được gắn bên trong bằng cao su xốp, thuộc nhóm 94.04."
+    },
+    {
+      "ma": "04-07-37",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7326 sang 8306 khớp sát nội dung câu trích nguồn nhom7326.nhom.",
+      "chungMinh": "Tượng, bình, lọ, bình đựng tro hoả táng và cây thánh giá thuộc loại dùng để trang trí (nhóm 83.06)."
+    },
+    {
+      "ma": "04-07-38",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9604 sang 7326 khớp sát nội dung câu trích nguồn nhom9604.nhom.",
+      "chungMinh": "Các sàng và giần mang tính chất các sản phẩm cố định (ví dụ phên mắt cáo hoặc lưới sắt đặt trên mặt đất để sàng đất hoặc sỏi, nói chung thuộc nhóm 73.26)."
+    },
+    {
+      "ma": "04-07-39",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8501 sang 8542 khớp sát nội dung câu trích nguồn ch85.chuong.",
+      "chungMinh": "2. Các nhóm từ 85.01 đến 85.04 không áp dụng cho các loại hàng hóa đã mô tả trong nhóm 85.11, 85.12, 85.40, 85.41 hoặc 85.42."
+    },
+    {
+      "ma": "04-07-40",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8428 sang 7326 khớp sát nội dung câu trích nguồn nhom8428.nhom.",
+      "chungMinh": "Nhóm cũng bao gồm các băng chuyền trục lăn, không có động cơ được gắn trên các vòng bi … nhưng loại trừ các thiết bị tương tự không có trục lăn, ví dụ, các máng trượt thẳng, cong hoặc xoắn ốc (nhóm 73.08, 73.25 hoặc 73.26 tùy loại)."
+    }
+  ]
+}
