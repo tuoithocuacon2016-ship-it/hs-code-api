@@ -1,0 +1,79 @@
+{
+  "khuon": "soat@1",
+  "viec": "02",
+  "lo": 7,
+  "kq": [
+    {
+      "ma": "02-07-01",
+      "ketLuan": "LOAI_TRU",
+      "vi": "Chú giải 31.03 đặt điều kiện không tạo dạng hoặc đóng gói như mô tả ở nhóm 31.05; nếu đạt quy cách đó sẽ bị loại khỏi 31.03 sang 31.05.",
+      "chungMinh": "Nhóm này chỉ áp dụng cho các mặt hàng sau, với điều kiện chúng không tạo thành dạng hoặc đóng gói như mô tả trong nhóm 31.05:"
+    },
+    {
+      "ma": "02-07-02",
+      "ketLuan": "LOAI_TRU",
+      "vi": "Chú giải 31.02 loại trừ phân đạm đã tạo dạng nhất định hoặc đóng gói sẵn theo quy cách của nhóm 31.05 để chuyển sang 31.05.",
+      "chungMinh": "Nhóm này chỉ áp dụng cho các mặt hàng sau, với điều kiện chúng không tạo thành dạng nhất định hoặc đóng gói sẵn như đã mô tả trong nhóm 31.05:"
+    },
+    {
+      "ma": "02-07-03",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Đoạn văn thuộc Phụ lục cấu trúc hoá học cuối Chương 29 liệt kê nhóm 29.39 bị gộp cuối chú giải 29.42, chỉ mang tính tham chiếu.",
+      "chungMinh": "Vegetable alkaloids, natural or reproduced by synthesis, and 29.39 their salts, ethers, esters and other derivatives"
+    },
+    {
+      "ma": "02-07-04",
+      "ketLuan": "LOAI_TRU",
+      "vi": "Chú giải 54.01 nêu rõ các loại chỉ thuộc phạm vi định nghĩa dây xe bị loại trừ khỏi nhóm 54.01 và chuyển sang nhóm 56.07.",
+      "chungMinh": "nếu các loại chỉ như thuộc phạm vi định nghĩa dây xe v.v... (xem Phần (I) (B) (2) của Chú giải tổng quát phần XI) thì bị loại trừ khỏi nhóm này (nhóm 56.07)."
+    },
+    {
+      "ma": "02-07-05",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Mục 29.41 Antibiotics nằm trong Phụ lục cấu trúc hoá học cuối Chương 29 bị dính cuối văn bản 29.42, chỉ là tham chiếu danh mục.",
+      "chungMinh": "29.41 Antibiotics"
+    },
+    {
+      "ma": "02-07-06",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Dòng VI- 2935 29.35 Sulphonamides thuộc Phụ lục cấu trúc hoá học cuối Chương 29 dính vào 29.42, không phải loại trừ hay nguyên liệu.",
+      "chungMinh": "VI- 2935 29.35 Sulphonamides -1"
+    },
+    {
+      "ma": "02-07-07",
+      "ketLuan": "LOAI_TRU",
+      "vi": "Chú giải 30.03 loại trừ keo lưu huỳnh đơn; nếu không đóng liều bán lẻ vào 30.04 thì keo lưu huỳnh phân loại vào nhóm 28.02.",
+      "chungMinh": "không bao gồm keo lưu huỳnh hoặc keo kim loại quý dạng đơn. Keo lưu huỳnh được phân loại vào nhóm 30.04… còn trong tất cả các trường hợp khác nó sẽ được phân vào nhóm 28.02."
+    },
+    {
+      "ma": "02-07-08",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Đoạn nhắc 29.38 Glycosides thuộc Phụ lục cấu trúc hoá học cuối Chương 29 bị ghép sau chú giải 29.42, chỉ mang tính tham chiếu.",
+      "chungMinh": "Glycosides, natural or reproduced by synthesis, and 29.38 their salts, ethers, esters and other derivatives"
+    },
+    {
+      "ma": "02-07-09",
+      "ketLuan": "NGUYEN_LIEU",
+      "vi": "Thuốc hỗn hợp thuộc nhóm 30.03 được điều chế trực tiếp từ các cây hoặc bộ phận cây dược liệu thuộc nhóm 12.11.",
+      "chungMinh": "(6) Hỗn hợp dùng làm thuốc của các cây hoặc các bộ phận của cây thuộc nhóm 12.11."
+    },
+    {
+      "ma": "02-07-10",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Đoạn nhắc nhóm 29.40 về đường tinh khiết hoá học nằm trong Phụ lục cấu trúc hoá học cuối Chương 29 dính sau 29.42, chỉ tham chiếu.",
+      "chungMinh": "Sugars, chemically pure, other than sucrose, lactose, maltose, glucose and fructose; sugar 29.40 ethers, sugar acetals and sugar esters"
+    },
+    {
+      "ma": "02-07-11",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Đoạn nhắc nhóm 29.37 về hormon nằm trong Phụ lục cấu trúc hoá học cuối Chương 29 dính cuối chú giải 29.42, chỉ mang tính tham chiếu.",
+      "chungMinh": "Hormones, prostaglandins, thromboxanes and leukotrienes, natural or reproduced by synthesis; derivatives and 29.37 structural analogues thereof"
+    },
+    {
+      "ma": "02-07-12",
+      "ketLuan": "LOAI_TRU",
+      "vi": "Chú giải 85.28 liệt kê loại trừ xe chuyên dùng gắn cố định thiết bị thu truyền hình hoặc thiết bị nhóm 85.28, chuyển sang nhóm 87.05.",
+      "chungMinh": "Nhóm này loại trừ, không kể những mặt hàng khác:… (b) Xe chuyên dùng (ví dụ xe van cho phát thanh truyền hình) được gắn cố định với thiết bị thu truyền hình hoặc các thiết bị khác của nhóm này (thường thuộc nhóm 87.05)."
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "khuon": "soat@1",
+  "viec": "02",
+  "lo": 12,
+  "kq": [
+    {
+      "ma": "02-12-01",
+      "ketLuan": "LOAI_TRU",
+      "vi": "Chú giải 84.05 nêu bộ phận lọc khí nếu trình bày riêng rẽ bị loại khỏi nhóm 84.05 và phân loại vào nhóm phù hợp như 84.21.",
+      "chungMinh": "Nếu được trình bày riêng rẽ, chúng sẽ được phân loại vào các nhóm phù hợp với chúng (ví dụ cho máy lọc, nhóm 84.21)."
+    },
+    {
+      "ma": "02-12-02",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Chú giải 82.07 liệt kê máy công cụ 84.57–84.65 làm loại máy lắp dụng cụ thay đổi được 82.07, chỉ mang tính dẫn chiếu phạm vi công dụng.",
+      "chungMinh": "(B) Dụng cụ cơ khí thuộc từ nhóm 84.57 đến nhóm 84.65 hoặc thuộc nhóm 84.79 theo phần chú giải 7 thuộc Chương 84,"
+    },
+    {
+      "ma": "02-12-03",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Chú giải 82.07 nhắc máy khoan đất nhóm 84.30 để xác định thiết bị sử dụng mũi khoan thay đổi được thuộc 82.07, không phải loại trừ.",
+      "chungMinh": "Nhóm này cũng có các dụng cụ sử dụng để khoan đá hoặc máy khoan đất nhóm 84.30."
+    },
+    {
+      "ma": "02-12-04",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Chú giải 84.04 nhắc nồi hơi thuộc nhóm 84.02 hoặc 84.03 để xác định hệ thống mà thiết bị phụ trợ 84.04 phục vụ.",
+      "chungMinh": "(A) THIẾT BỊ PHỤ TRỢ DÙNG CHO CÁC LOẠI NỒI HƠI THUỘC NHÓM 84.02 HOẶC 84.03"
+    },
+    {
+      "ma": "02-12-05",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Chú giải 82.07 nhắc dải máy công cụ 84.57–84.65 làm thiết bị đích lắp dụng cụ thay đổi được 82.07, chỉ mang tính dẫn chiếu.",
+      "chungMinh": "(B) Dụng cụ cơ khí thuộc từ nhóm 84.57 đến nhóm 84.65 hoặc thuộc nhóm 84.79 theo phần chú giải 7 thuộc Chương 84,"
+    },
+    {
+      "ma": "02-12-06",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Chú giải 82.07 nhắc dụng cụ cầm tay có động cơ nhóm 84.67 làm loại máy lắp mũi dụng cụ 82.07, không phải quan hệ loại trừ.",
+      "chungMinh": "(C) Các dụng cụ thuộc nhóm 84.67,"
+    },
+    {
+      "ma": "02-12-07",
+      "ketLuan": "LOAI_TRU",
+      "vi": "Chú giải 91.04 loại trừ máy đồng hồ và bộ phận máy đồng hồ trình bày riêng biệt khỏi nhóm 91.04, chuyển sang nhóm 91.10 (hoặc 91.08/91.14).",
+      "chungMinh": "Nhóm này không bao gồm những loại sau khi chúng được trình bày riêng biệt: máy (nhóm 91.08 hay 91.10), vỏ đồng hồ thời gian (nhóm 91.12) và các bộ phận của máy (thường thuộc nhóm 91.10 hay 91.14)."
+    },
+    {
+      "ma": "02-12-08",
+      "ketLuan": "LOAI_TRU",
+      "vi": "Chú giải 84.15 nêu các bộ phận khác của máy điều hoà trình bày riêng thuộc diện Chú giải 2(a) Phần XVI không ở 84.15 mà phân vào 84.14.",
+      "chungMinh": "Các bộ phận khác của máy điều hoà không khí… được phân loại theo các quy định của Chú giải 2(a) của Phần XVI (nhóm 84.14, 84.18, 84.19, 84.21, 84.79,...)"
+    },
+    {
+      "ma": "02-12-09",
+      "ketLuan": "LOAI_TRU",
+      "vi": "Chú giải 84.26 loại trừ các thành phần kết cấu thiếu cơ cấu vận hành phần chuyển động của máy nâng khỏi 84.26 và phân vào nhóm 73.08.",
+      "chungMinh": "Nếu không, các thành phần kết cấu này được phân loại vào nhóm 73.08."
+    },
+    {
+      "ma": "02-12-10",
+      "ketLuan": "LOAI_TRU",
+      "vi": "Chú giải 83.06 loại trừ gương kim loại là phần tử quang học khỏi nhóm 83.06 và dẫn sang nhóm 90.01 hoặc 90.02.",
+      "chungMinh": "Nhóm này còn bao gồm cả gương kim loại (không kể các phần tử quang học, xem chú giải chi tiết nhóm 90.01 và 90.02)"
+    },
+    {
+      "ma": "02-12-11",
+      "ketLuan": "NGUYEN_LIEU",
+      "vi": "Chú giải 61.13 quy định quần áo thuộc nhóm được may từ vải dệt kim hoặc móc thuộc các nhóm 59.03, 59.06 hoặc 59.07.",
+      "chungMinh": "nhóm này bao gồm tất cả các loại quần áo may từ các loại vải dệt kim hoặc móc thuộc nhóm 59.03, 59.06 hoặc 59.07"
+    },
+    {
+      "ma": "02-12-12",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Chú giải 82.07 nhắc máy thuộc nhóm 84.79 theo Chú giải 7 Chương 84 làm máy sử dụng dụng cụ thay đổi được 82.07, chỉ mang tính dẫn chiếu.",
+      "chungMinh": "(B) Dụng cụ cơ khí thuộc từ nhóm 84.57 đến nhóm 84.65 hoặc thuộc nhóm 84.79 theo phần chú giải 7 thuộc Chương 84,"
+    }
+  ]
+}

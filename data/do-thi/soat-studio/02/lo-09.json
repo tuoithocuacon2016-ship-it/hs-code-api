@@ -1,0 +1,79 @@
+{
+  "khuon": "soat@1",
+  "viec": "02",
+  "lo": 9,
+  "kq": [
+    {
+      "ma": "02-09-01",
+      "ketLuan": "PHAN_BIET",
+      "vi": "Chú giải 58.01 đối chiếu đặc điểm bề mặt nổi vòng bằng sợi sơnin giữa vải sơnin nhóm 58.01 với thảm sơnin nhóm 57.02.",
+      "chungMinh": "Vải sơnin rất giống với loại thảm sơnin thuộc nhóm 57.02; giống như những loại này, bề mặt nổi vòng của chúng (thường là cả hai mặt) được sản xuất bằng sợi bằng sợi sơnin."
+    },
+    {
+      "ma": "02-09-02",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Chú giải 44.10 mượn mô tả hình dạng gia công của nhóm 44.09 để khẳng định ván dăm dù tạo hình tương tự vẫn giữ nguyên ở 44.10.",
+      "chungMinh": "Các sản phẩm thuộc nhóm này vẫn được phân loại ở đây dù chúng đã hay chưa được gia công để tạo thành các hình dạng được quy định đối với các mặt hàng của nhóm 44.09"
+    },
+    {
+      "ma": "02-09-03",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Chú giải 61.06 loại trừ áo may từ vải 59.06 sang nhóm 61.13 chứ không sang 59.06; 59.06 chỉ được nhắc làm loại vải nhận diện diện loại trừ.",
+      "chungMinh": "Hơn nữa, nhóm này không bao gồm:… (b) Áo được làm từ các loại vải thuộc các nhóm 59.03, 59.06 hoặc 59.07 (nhóm 61.13)."
+    },
+    {
+      "ma": "02-09-04",
+      "ketLuan": "LOAI_TRU",
+      "vi": "Chú giải 48.17 loại trừ thẻ trơn chưa gia công thể hiện rõ công dụng văn phòng phẩm, chuyển sang nhóm 48.02, 48.10, 48.11 hoặc 48.23.",
+      "chungMinh": "Thẻ trơn không được gia công như vậy thì được phân loại vào nhóm 48.02, 48.10, 4811 hoặc 48.23, tuỳ trường hợp cụ thể."
+    },
+    {
+      "ma": "02-09-05",
+      "ketLuan": "PHAN_BIET",
+      "vi": "Chú giải 45.04 so sánh phạm vi sản phẩm và ứng dụng thực tế giữa lie kết dính nhóm 45.04 với lie tự nhiên nhóm 45.03.",
+      "chungMinh": "Lie kết dính được sử dụng để làm ra các sản phẩm cùng loại như các sản phẩm đã nêu trong nhóm 45.03 nhưng, trong khi nó hiếm khi được sử dụng để làm nút, nắp đậy, nó được dùng thường xuyên hơn lie tự nhiên để làm đệm tròn"
+    },
+    {
+      "ma": "02-09-06",
+      "ketLuan": "PHAN_BIET",
+      "vi": "Chú giải 43.02 phân định ranh giới với nhóm 43.01: các loại da lông bị loại khỏi 43.01 sẽ thuộc 43.02 nếu đã qua thuộc hoặc chuội.",
+      "chungMinh": "Cần chú ý rằng da còn lông các loại, bị loại trừ khỏi nhóm 43.01 (như da ngựa loại nhỏ, da bê và da cừu), thuộc nhóm này nếu đã thuộc hoặc chuội."
+    },
+    {
+      "ma": "02-09-07",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Chú giải 61.06 loại trừ áo may từ vải 59.07 sang nhóm 61.13 chứ không sang 59.07; 59.07 chỉ là nhóm vải xác định phạm vi loại trừ.",
+      "chungMinh": "Hơn nữa, nhóm này không bao gồm:… (b) Áo được làm từ các loại vải thuộc các nhóm 59.03, 59.06 hoặc 59.07 (nhóm 61.13)."
+    },
+    {
+      "ma": "02-09-08",
+      "ketLuan": "NGUYEN_LIEU",
+      "vi": "Chú giải 57.02 nêu rõ bề mặt nổi vòng của thảm sơnin được dệt bằng sợi sơnin thuộc nhóm 56.06 làm nguyên liệu cấu thành.",
+      "chungMinh": "Đặc tính chính của chúng là bề mặt nổi vòng được sản xuất bằng việc sử dụng các loại sợi sơnin (xem Chú giải chi tiết nhóm 56.06)."
+    },
+    {
+      "ma": "02-09-09",
+      "ketLuan": "PHAN_BIET",
+      "vi": "Chú giải 16.02 phân định ranh giới mức độ chế biến hoặc bảo quản với Chương 2 và nhóm 05.04: chế biến vượt ngoài 05.04 thì vào 16.02.",
+      "chungMinh": "(3) Thịt và phụ phẩm dạng thịt sau giết mổ đã chế biến hoặc bảo quản bằng các phương pháp khác không nêu trong Chương 2 hoặc nhóm 05.04"
+    },
+    {
+      "ma": "02-09-10",
+      "ketLuan": "LOAI_TRU",
+      "vi": "Chú giải 48.10 nêu giấy bìa cắt thành hình dạng ngoài hình chữ nhật hoặc vuông bị loại khỏi 48.10 sang các nhóm sau như 48.17, 48.21 hoặc 48.23.",
+      "chungMinh": "Nếu chúng bị cắt thành bất kỳ hình dạng nào khác, chúng thuộc các nhóm sau của Chương này (ví dụ, 48.17, 48.21 hoặc 48.23)."
+    },
+    {
+      "ma": "02-09-11",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Chú giải 61.13 loại trừ quần áo may từ vải chần 58.11 sang 61.01 hoặc 61.02 chứ không sang 58.11; 58.11 chỉ là vải nhận diện diện loại trừ.",
+      "chungMinh": "Hơn nữa, nhóm này không bao gồm:… (a) Quần áo được may từ các sản phẩm dệt đã chần dạng chiếc thuộc nhóm 58.11 (thường thuộc các nhóm 61.01 hoặc 61.02)."
+    },
+    {
+      "ma": "02-09-12",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Chú giải 61.06 loại trừ áo may từ vải 59.03 sang nhóm 61.13 chứ không sang 59.03; 59.03 chỉ là nhóm vải để nhận diện diện loại trừ.",
+      "chungMinh": "Hơn nữa, nhóm này không bao gồm:… (b) Áo được làm từ các loại vải thuộc các nhóm 59.03, 59.06 hoặc 59.07 (nhóm 61.13)."
+    }
+  ]
+}
