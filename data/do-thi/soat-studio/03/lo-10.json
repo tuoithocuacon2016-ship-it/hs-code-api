@@ -1,0 +1,103 @@
+{
+  "khuon": "soat@1",
+  "viec": "03",
+  "lo": 10,
+  "kq": [
+    {
+      "ma": "03-10-01",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 63.09 bao gồm quần áo đã qua sử dụng thỏa điều kiện, phân biệt với hàng may mặc mới chưa qua sử dụng thuộc nhóm 62.02.",
+      "chungMinh": "Để được phân vào nhóm này, các mặt hàng trong danh sách liệt kê hạn chế tại đoạn (1) và (2) của Chú giải này, cần phải thỏa mãn cả hai điều kiện sau đây."
+    },
+    {
+      "ma": "03-10-02",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 95.03 bao gồm đồ chơi và đồ dùng cho búp bê, tách biệt khỏi trang phục thiết kế cho phụ nữ mặc thuộc nhóm 62.02.",
+      "chungMinh": "(B) Xe dành cho búp bê (ví dụ, xe đẩy), kể cả kiểu gấp."
+    },
+    {
+      "ma": "03-10-03",
+      "ketLuan": "BO",
+      "vi": "Đảo ngược hoàn toàn hai vế: máy nghiền dùng trong các trang trại nhỏ bị loại trừ khỏi 84.37 sang nhóm 84.36, còn máy dùng trong công nghiệp xay xát thuộc nhóm 84.37.",
+      "chungMinh": "Nhóm này không bao gồm những máy nghiền loại dùng trong các trang trại nhỏ (nhóm 84.36)."
+    },
+    {
+      "ma": "03-10-04",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 62.15 loại trừ trực tiếp cà vạt, nơ bướm và nơ thường được dệt kim hoặc móc sang nhóm 61.17, hai vế đúng chiều.",
+      "chungMinh": "(a) Cà vạt, nơ con bướm và nơ thường được dệt kim hoặc móc (nhóm 61.17)."
+    },
+    {
+      "ma": "03-10-05",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 62.15 loại trừ cổ bẻ to và khăn đeo ngực sang nhóm 62.17, giữ lại cà vạt và phụ kiện thắt cổ áo nhóm 62.15.",
+      "chungMinh": "(b) Cổ bẻ to (rabat), khăn đeo ngực (jabot) và các mặt hàng tương tự thuộc nhóm 62.17."
+    },
+    {
+      "ma": "03-10-06",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 95.03 bao gồm đồ chơi và đồ cho búp bê, phân biệt với trang phục thiết kế cho người mặc thuộc nhóm 62.11.",
+      "chungMinh": "(B) Xe dành cho búp bê (ví dụ, xe đẩy), kể cả kiểu gấp."
+    },
+    {
+      "ma": "03-10-07",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 63.07 bao gồm mặt hàng dệt may sẵn khác chưa hoàn thiện thành trang phục, tách khỏi hàng may sẵn hoàn thiện thuộc 62.02.",
+      "chungMinh": "Nhóm này bao gồm các mặt hàng may sẵn làm từ bất cứ vật liệu dệt nào, không được đề cập một cách chi tiết hơn ở trong nhóm khác của phần XI hoặc ở nơi khác trong Danh mục."
+    },
+    {
+      "ma": "03-10-08",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 62.11 phân tách rõ hàng không dệt kim hoặc móc (62.11) với quần áo khác dệt kim hoặc móc thuộc nhóm 61.14.",
+      "chungMinh": "không giống như nhóm 61.14, nhóm này cũng bao gồm áo gi-lê may được trình bày riêng biệt, không dệt kim hoặc móc."
+    },
+    {
+      "ma": "03-10-09",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 62.11 bao gồm bộ đồ thể thao và bộ đồ trượt tuyết, tách khỏi bộ quần áo đồng bộ thông thường cho nữ thuộc 62.04.",
+      "chungMinh": "bộ đồ thể thao thuộc nhóm này có thể được lót."
+    },
+    {
+      "ma": "03-10-10",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 63.01 loại trừ các loại chăn có hình dáng đặc biệt dùng che phủ động vật sang nhóm 42.01, hai vế đúng chiều.",
+      "chungMinh": "(a) Các loại chăn có hình dáng đặc biệt dùng để che, phủ động vật (thuộc nhóm 42.01)"
+    },
+    {
+      "ma": "03-10-11",
+      "ketLuan": "BO",
+      "vi": "Đảo ngược hoàn toàn hai vế: đá mài có khung vận hành bằng tay hoặc bàn đạp thuộc nhóm 82.05, còn đá mài không có khung thuộc nhóm 68.04.",
+      "chungMinh": "Đá mài có khung được phân loại vào nhóm 82.05 nếu được vận hành bằng tay hoặc bàn đạp"
+    },
+    {
+      "ma": "03-10-12",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 63.01 loại trừ trực tiếp khăn trải giường và khăn phủ giường sang nhóm 63.04, hai vế chuẩn xác.",
+      "chungMinh": "(b) Khăn trải giường và khăn phủ giường (nhóm 63.04)"
+    },
+    {
+      "ma": "03-10-13",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 90.21 bao gồm dụng cụ chỉnh hình và đai giữ sau phẫu thuật, tách khỏi trang phục mặc ngoài thông thường thuộc 62.02.",
+      "chungMinh": "(I) DỤNG CỤ CHỈNH HÌNH … - Để trợ giúp hay giữ các bộ phận cơ thể sau khi ốm dậy, sau khi phẫu thuật hoặc chấn thương."
+    },
+    {
+      "ma": "03-10-14",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 90.21 bao gồm dụng cụ chỉnh hình và đai thắt phẫu thuật, tách biệt với trang phục may mặc thể thao/mặc ngoài thuộc 62.11.",
+      "chungMinh": "(I) DỤNG CỤ CHỈNH HÌNH … - Để trợ giúp hay giữ các bộ phận cơ thể sau khi ốm dậy, sau khi phẫu thuật hoặc chấn thương."
+    },
+    {
+      "ma": "03-10-15",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 63.09 áp dụng cho quần áo đã qua sử dụng thỏa điều kiện, phân biệt với hàng may mặc mới thuộc nhóm 62.11.",
+      "chungMinh": "Để được phân vào nhóm này, các mặt hàng trong danh sách liệt kê hạn chế tại đoạn (1) và (2) của Chú giải này, cần phải thỏa mãn cả hai điều kiện sau đây."
+    },
+    {
+      "ma": "03-10-16",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 63.07 bao gồm mặt hàng may sẵn dệt khác chưa hoàn thiện thành trang phục, tách với quần áo may sẵn hoàn thiện thuộc 62.11.",
+      "chungMinh": "Nhóm này bao gồm các mặt hàng may sẵn làm từ bất cứ vật liệu dệt nào, không được đề cập một cách chi tiết hơn ở trong nhóm khác của phần XI hoặc ở nơi khác trong Danh mục."
+    }
+  ]
+}

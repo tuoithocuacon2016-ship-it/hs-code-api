@@ -1,0 +1,103 @@
+{
+  "khuon": "soat@1",
+  "viec": "03",
+  "lo": 8,
+  "kq": [
+    {
+      "ma": "03-08-01",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 56.03 bao gồm tấm phủ không dệt dùng làm nguyên liệu sản xuất bỉm, khác với băng vệ sinh/bỉm tã lót thành phẩm thuộc 96.19.",
+      "chungMinh": "các tấm phủ dùng trong sản xuất khăn (bỉm) dùng một lần hay khăn tắm"
+    },
+    {
+      "ma": "03-08-02",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 59.09 xác nhận ống dệt phủ mặt trong bằng cao su vẫn thuộc 59.09, khác với ống cao su lưu hóa gia cố dệt bên trong thuộc 40.09.",
+      "chungMinh": "Ống dệt cũng được phân loại trong nhóm này, nếu được phủ ở mặt trong bằng cao su"
+    },
+    {
+      "ma": "03-08-03",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 61.05 loại trừ áo có túi ở phía dưới thắt lưng (như áo jacket thuộc 61.03), hai vế đúng chiều.",
+      "chungMinh": "- Có túi ở phía dưới thắt lưng; như áo jacket thuộc nhóm 61.03, hoặc áo cardigan thuộc nhóm 61.10."
+    },
+    {
+      "ma": "03-08-04",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 61.05 loại trừ trực tiếp áo ngủ thuộc nhóm 61.07 khỏi nhóm áo sơ mi dệt kim nam 61.05.",
+      "chungMinh": "Trừ áo ngủ thuộc nhóm 61.07 và áo phông, áo ba lỗ (singlet) và các loại áo lót khác thuộc nhóm 61.09"
+    },
+    {
+      "ma": "03-08-05",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 56.07 loại trừ các loại dây, dây tết dùng trong công nghiệp làm vật liệu đóng gói hoặc bôi trơn sang nhóm 59.11.",
+      "chungMinh": "(e) Các loại dây, dây tết và các loại tương tự, đã hoặc chưa được tráng, ngâm tẩm hoặc đã được gia cố bằng kim loại, loại được sử dụng trong"
+    },
+    {
+      "ma": "03-08-06",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 56.07 phân biệt dây tết chặt kết cấu vững làm dây xe/chão bện/thừng/cáp với dây quấn bọc trang trí thuộc nhóm 58.08.",
+      "chungMinh": "Tuy nhiên, những hàng hóa đã tết bện thuộc nhóm này ít khác với hàng hóa thuộc nhóm 58.08 bởi bản chất của sợi được sử dụng"
+    },
+    {
+      "ma": "03-08-07",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 56.07 loại trừ dây xe, sợi bện được tráng vật liệu mài sang nhóm 68.05, hai vế đúng chiều.",
+      "chungMinh": "(g) Dây xe, sợi bện (cord) được tráng vật liệu mài,... (nhóm 68.05)."
+    },
+    {
+      "ma": "03-08-08",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 61.05 chỉ gồm áo sơ mi dệt kim dành cho nam giới hoặc trẻ em trai, tách khỏi áo sơ mi nữ thuộc 61.06.",
+      "chungMinh": "dành cho nam giới hoặc trẻ em trai"
+    },
+    {
+      "ma": "03-08-09",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 61.05 tách áo sơ mi có tay áo và thiết kế mở cổ khỏi áo phông/áo ba lỗ không có cổ áo thuộc nhóm 61.09.",
+      "chungMinh": "Trừ áo ngủ thuộc nhóm 61.07 và áo phông, áo ba lỗ (singlet) và các loại áo lót khác thuộc nhóm 61.09"
+    },
+    {
+      "ma": "03-08-10",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 61.05 loại trừ áo có dây đai thắt gấu áo sang nhóm 61.01 (hoặc 61.10), giữ lại áo sơ mi không có đai gấu áo.",
+      "chungMinh": "- Có dây thắt lưng kẻ gân nổi hoặc có dây, đai khác thắt ở gấu áo, hoặc có bình quân dưới 10 mũi khâu/1 cm dài theo mỗi chiều; nhóm 61.01"
+    },
+    {
+      "ma": "03-08-11",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 56.07 loại trừ các mẩu dây xe, chão bện, dây thừng và cáp sang nhóm 63.10, hai vế chính xác.",
+      "chungMinh": "(f) Các mẩu dây xe, chão bện, dây thừng và cáp thuộc nhóm 63.10."
+    },
+    {
+      "ma": "03-08-12",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 56.07 loại trừ các mặt hàng làm từ dây/thừng thuộc nhóm 56.09, giữ lại dây/thừng/cáp chưa thành sản phẩm khác.",
+      "chungMinh": "(c) Các mặt hàng thuộc nhóm 56.09."
+    },
+    {
+      "ma": "03-08-13",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 61.05 loại trừ áo có mật độ dưới 10 mũi khâu/cm hoặc có đai thắt gấu áo sang nhóm 61.10, hai vế đúng chiều.",
+      "chungMinh": "Nhóm này không bao gồm các loại áo không có ống tay cũng như không bao gồm các loại áo có túi ở phía dưới thắt lưng, có dây thắt lưng kẻ gân"
+    },
+    {
+      "ma": "03-08-14",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 56.07 phân biệt sợi dệt gia cố tao kim loại dày không trang trí (56.07) với sợi trộn kim loại trang trí (56.05).",
+      "chungMinh": "Sợi dệt được gia cố bằng chỉ kim loại luôn được phân loại ở đây và phân biệt với các sợi trộn kim loại thuộc nhóm 56.05"
+    },
+    {
+      "ma": "03-08-15",
+      "ketLuan": "BO",
+      "vi": "Đảo ngược hoàn toàn hai vế: bộ phận chỉ dùng hoặc chủ yếu dùng với máy thuộc 84.70–84.72 (máy xử lý dữ liệu tự động) thuộc 84.73, còn bộ phận điện không xác định công dụng chính thuộc 85.48.",
+      "chungMinh": "nhóm này bao gồm các bộ phận và phụ kiện phù hợp để chỉ dùng hoặc chủ yếu dùng cho các máy thuộc nhóm 84.70 đến 84.72."
+    },
+    {
+      "ma": "03-08-16",
+      "ketLuan": "BO",
+      "vi": "Đảo ngược hoàn toàn hai vế: sách bài tập tranh ảnh cho trẻ em bị loại trừ khỏi 48.20 sang nhóm 49.03, còn vở có kẻ hàng hoặc mẫu viết tay thuộc nhóm 48.20.",
+      "chungMinh": "Các sách bài tập cho trẻ em bao gồm chủ yếu là các tranh ảnh, có phần chữ mang tính chất bổ sung, dùng làm bài tập viết hoặc các bài tập khác cũng bị loại trừ (nhóm 49.03)."
+    }
+  ]
+}

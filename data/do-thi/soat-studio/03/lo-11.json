@@ -1,0 +1,103 @@
+{
+  "khuon": "soat@1",
+  "viec": "03",
+  "lo": 11,
+  "kq": [
+    {
+      "ma": "03-11-01",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 68.05 xác nhận sản phẩm không dệt có gắn vật liệu mài thuộc nhóm 68.05, tách khỏi sản phẩm không dệt không phủ hạt mài thuộc 56.03.",
+      "chungMinh": "Nhóm này cũng bao gồm các sản phẩm không dệt tương tự, theo đó các vật liệu mài được phân tán toàn bộ và được gắn trên các xơ dệt"
+    },
+    {
+      "ma": "03-11-02",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 67.02 loại trừ hoa và cành lá tự nhiên kể cả nhuộm, tráng bạc, mạ vàng sang nhóm 06.03 (hoặc 06.04).",
+      "chungMinh": "(a) Hoa và cành, lá tự nhiên thuộc nhóm 06.03 hoặc 06.04 (ví dụ: được nhuộm, tráng bạc, mạ vàng)."
+    },
+    {
+      "ma": "03-11-03",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 63.09 quy định điều kiện cho hàng dệt đã qua sử dụng, phân biệt với chăn mới chưa qua sử dụng thuộc nhóm 63.01.",
+      "chungMinh": "Để được phân vào nhóm này, các mặt hàng trong danh sách liệt kê hạn chế tại đoạn (1) và (2) của Chú giải này, cần phải thỏa mãn cả hai điều kiện sau đây."
+    },
+    {
+      "ma": "03-11-04",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 67.02 loại trừ mẫu ren rời hình hoa hoặc vải thêu không lắp ghép sang nhóm 62.17, giữ lại hoa nhân tạo lắp ghép.",
+      "chungMinh": "(b) Mẫu ren rời hình hoa, vải thêu hoặc vải dệt khác, nhìn chung chúng có thể được sử dụng như vật trang trí cho quần áo"
+    },
+    {
+      "ma": "03-11-05",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 90.21 bao gồm dụng cụ và giày dép chỉnh hình, tách biệt khỏi giày dép thông thường thuộc nhóm 64.03.",
+      "chungMinh": "(I) DỤNG CỤ CHỈNH HÌNH … - Phòng ngừa hay chỉnh lại những bộ phận cơ thể dị dạng;"
+    },
+    {
+      "ma": "03-11-06",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 67.02 loại trừ cành, lá tự nhiên sang nhóm 06.04, giữ lại cành lá nhân tạo lắp ghép từ phần rời.",
+      "chungMinh": "(a) Hoa và cành, lá tự nhiên thuộc nhóm 06.03 hoặc 06.04 (ví dụ: được nhuộm, tráng bạc, mạ vàng)."
+    },
+    {
+      "ma": "03-11-07",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 67.02 loại trừ phụ kiện trang trí may mặc dệt kim móc không lắp ghép sang nhóm 61.17, hai vế đúng chiều.",
+      "chungMinh": "(b) Mẫu ren rời hình hoa, vải thêu hoặc vải dệt khác, nhìn chung chúng có thể được sử dụng như vật trang trí cho quần áo"
+    },
+    {
+      "ma": "03-11-08",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 95.06 bao gồm giày trượt có gắn lưỡi trượt băng hoặc bánh trượt patanh, tách khỏi giày thể thao không gắn lưỡi thuộc 64.03.",
+      "chungMinh": "(7) Lưỡi và bánh trượt băng, kể cả giầy trượt có gắn lưỡi ở dưới."
+    },
+    {
+      "ma": "03-11-09",
+      "ketLuan": "BO",
+      "vi": "Đảo ngược hoàn toàn hai vế: tấm che cửa sổ trong suốt bằng giấy thuộc nhóm 48.14 (không thuộc 49.08), còn đề can các loại mới thuộc nhóm 49.08.",
+      "chungMinh": "Các sản phẩm được mô tả trên không nên lẫn với tấm che cửa sổ trong suốt, mà thuộc nhóm 48.14 hoặc 49.11"
+    },
+    {
+      "ma": "03-11-10",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 48.10 bao gồm giấy bìa tráng cao lanh hoặc chất vô cơ dùng viết in, tách biệt khỏi giấy/bìa ráp phủ hạt mài thuộc nhóm 68.05.",
+      "chungMinh": "Các chất vô cơ, trừ cao lanh (đất sét Trung Quốc), được dùng thông dụng để tráng bao gồm bari sulphate, magiê silicate, canxi carbonate"
+    },
+    {
+      "ma": "03-11-11",
+      "ketLuan": "BO",
+      "vi": "Đảo ngược hoàn toàn hai vế: điện trở than hạn chế dòng điện bị loại trừ khỏi 85.45 sang nhóm 85.33, còn que điện trở đốt nóng bằng than thuộc nhóm 85.45.",
+      "chungMinh": "(b) Các điện trở than (nhóm 85.33)."
+    },
+    {
+      "ma": "03-11-12",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 59.07 và 68.05 phân tách rõ hạt mài/bột mài phủ trên lớp vải nền (68.05) với vải dệt tráng phủ khác không chứa hạt mài (59.07).",
+      "chungMinh": "Nhóm này gồm vải dệt (không kể các sản phẩm thuộc nhóm từ 59.01 đến 59.06), đã được ngâm tẩm, phủ hoặc tráng"
+    },
+    {
+      "ma": "03-11-13",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 56.02 và 68.05 tách biệt bột mài/hạt mài bồi trên nền phớt (68.05) với phớt nỉ không bồi hạt mài (56.02).",
+      "chungMinh": "Phớt, nỉ luôn thu được bởi quá trình ép chồng nhiều lớp xơ dệt, lớp này lên lớp khác"
+    },
+    {
+      "ma": "03-11-14",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 67.02 cho phép hoa nhân tạo ghép hoàn chỉnh làm từ lông vũ, tách khỏi lông vũ/phần lông vũ chưa thành sản phẩm hoàn chỉnh nhóm 67.01.",
+      "chungMinh": "những hàng hóa này có thể được làm bằng nguyên liệu dệt, nỉ, giấy, nhựa, cao su, da, lá kim loại, lông vũ, vỏ sò ốc"
+    },
+    {
+      "ma": "03-11-15",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 63.09 bao gồm giày dép đã qua sử dụng thỏa điều kiện đóng gói cỡ lớn, tách khỏi giày dép mới thuộc nhóm 64.03.",
+      "chungMinh": "(2) Giày dép, các loại mũ và vật đội đầu khác và làm từ bất cứ vật liệu gì trừ các sản phẩm làm bằng amilăng"
+    },
+    {
+      "ma": "03-11-16",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 46.02 bao gồm sản phẩm làm trực tiếp thành hình dạng từ vật liệu tết bện, phân tách khỏi hoa nhân tạo ghép từ nhiều phần thuộc 67.02.",
+      "chungMinh": "(i) các sản phẩm được làm trực tiếp thành hình dạng từ vật liệu tết bện;"
+    }
+  ]
+}
