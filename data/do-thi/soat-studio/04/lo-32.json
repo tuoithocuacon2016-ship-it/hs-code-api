@@ -1,0 +1,181 @@
+{
+  "khuon": "soat@1",
+  "viec": "04",
+  "lo": 32,
+  "kq": [
+    {
+      "ma": "04-32-01",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6212 sang 4015 khớp sát nội dung câu trích nguồn ch62.chuong.",
+      "chungMinh": "Các loại quần áo và hàng may mặc phụ trợ thuộc các nhóm 39.26, 40.15,42.03 hoặc 68.12"
+    },
+    {
+      "ma": "04-32-02",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9016 sang 9620 khớp sát nội dung câu trích nguồn nhom9016.nhom.",
+      "chungMinh": "Mặt khác, chân đế loại một chân (monopods), hai chân (bipods), ba chân (tripods) và các sản phẩm tương tự mặc dù được thiết kế riêng biệt cho các máy của nhóm, không được bao gồm trong nhóm này, (nhóm 96.20)”"
+    },
+    {
+      "ma": "04-32-03",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9006 sang 9620 khớp sát nội dung câu trích nguồn nhom9006.nhom.",
+      "chungMinh": "Mặt khác, chân đế loại một chân (monopods), hai chân (bipods), ba chân (tripods) và các sản phẩm tương tự không được bao gồm (nhóm 96.20)"
+    },
+    {
+      "ma": "04-32-04",
+      "ketLuan": "SAI",
+      "vi": "Nhóm đích 6117 không khớp câu trích: câu trích xếp dây, cáp cách điện vào nhóm 85.44, không phải 61.17.",
+      "chungMinh": "Tuy nhiên nhóm này không bao gồm dây, cáp cách điện (nhóm 85.44)."
+    },
+    {
+      "ma": "04-32-05",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6212 sang 6812 khớp sát nội dung câu trích nguồn ch62.chuong.",
+      "chungMinh": "Các loại quần áo và hàng may mặc phụ trợ thuộc các nhóm 39.26, 40.15,42.03 hoặc 68.12"
+    },
+    {
+      "ma": "04-32-06",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8505 sang 8523 khớp sát nội dung câu trích nguồn nhom8505.nhom.",
+      "chungMinh": "(c) Những phương tiện để ghi từ tính, như các thẻ được làm từ các vật liệu từ tính nhưng chưa từ hóa được ép giữa hai tấm nhựa và đặc biệt được dùng để mở khóa từ (nhóm 85.23)."
+    },
+    {
+      "ma": "04-32-07",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6212 sang 9021 khớp sát nội dung câu trích nguồn ch62.chuong.",
+      "chungMinh": "Dụng cụ chỉnh hình, đai thắt phẫu thuật, băng giữ hoặc loại tương tự (nhóm 90.21)"
+    },
+    {
+      "ma": "04-32-08",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8473 sang 9620 khớp sát nội dung câu trích nguồn nhom8473.nhom.",
+      "chungMinh": "(ij) Chân đế loại một chân (monopod), hai chân (bipod), ba chân (tripod) và các mặt hàng tương tự của nhóm 96.20."
+    },
+    {
+      "ma": "04-32-09",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8521 sang 8523 khớp sát nội dung câu trích nguồn nhom8521.nhom.",
+      "chungMinh": "(a) Phương tiện ghi âm của nhóm 85.23."
+    },
+    {
+      "ma": "04-32-10",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8523 sang 3702 khớp sát nội dung câu trích nguồn nhom8523.nhom.",
+      "chungMinh": "(b) Phim có phủ lớp chất nhạy để ghi quang điện (nhóm 37.02)."
+    },
+    {
+      "ma": "04-32-11",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9620 sang 9209 khớp sát nội dung câu trích nguồn nhom9620.nhom.",
+      "chungMinh": "(b) Chân đế dùng để giữ một dụng cụ (chẳng hạn, giữ trống thùng hoặc giữ kèn saxophones) (nhóm 92.09)."
+    },
+    {
+      "ma": "04-32-12",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8473 sang 8523 khớp sát nội dung câu trích nguồn nhom8473.nhom.",
+      "chungMinh": "(e) Hộp đĩa từ và phương tiện khác dùng để ghi từ (nhóm 85.23)."
+    },
+    {
+      "ma": "04-32-13",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6212 sang 4203 khớp sát nội dung câu trích nguồn ch62.chuong.",
+      "chungMinh": "Các loại quần áo và hàng may mặc phụ trợ thuộc các nhóm 39.26, 40.15,42.03 hoặc 68.12"
+    },
+    {
+      "ma": "04-32-14",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6102 sang 4015 khớp sát nội dung câu trích nguồn ch61.chuong.",
+      "chungMinh": "Chương này không bao gồm: (a) Quần áo và đồ phụ trợ may mặc thuộc các nhóm 39.26, 40.15, 42.03 hoặc 68.12."
+    },
+    {
+      "ma": "04-32-15",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8523 sang 9504 khớp sát nội dung câu trích nguồn nhom8523.nhom.",
+      "chungMinh": "(f) Hộp chứa của máy chơi game (nhóm 95.04)."
+    },
+    {
+      "ma": "04-32-16",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9007 sang 9620 khớp sát nội dung câu trích nguồn nhom9007.nhom.",
+      "chungMinh": "Mặt khác, chân đế loại một chân (monopods), hai chân (bipods), ba chân (tripods) và các sản phẩm tương tự không được bao gồm trong nhóm này (nhóm 96.20)"
+    },
+    {
+      "ma": "04-32-17",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8480 sang 8523 khớp sát nội dung câu trích nguồn nhom8480.nhom.",
+      "chungMinh": "(g) Bản khuôn mẫu và bản gốc dùng để sản xuất bản ghi (nhóm 85.23)."
+    },
+    {
+      "ma": "04-32-18",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6212 sang 4015 khớp sát nội dung câu trích nguồn nhom6212.nhom.",
+      "chungMinh": "The heading does not include corsets and belts made wholly of rubber (heading 40.15)."
+    },
+    {
+      "ma": "04-32-19",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8522 sang 8523 khớp sát nội dung câu trích nguồn nhom8522.nhom.",
+      "chungMinh": "(c) Phương tiện lưu trữ thông tin để ghi của nhóm 85.23."
+    },
+    {
+      "ma": "04-32-20",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 3702 sang 8523 khớp sát nội dung câu trích nguồn nhom3702.nhom.",
+      "chungMinh": "(c) Phim trắng chưa ghi dùng để ghi âm cơ học (nhóm 85.23)."
+    },
+    {
+      "ma": "04-32-21",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6109 sang 6212 khớp sát nội dung câu trích nguồn ch61.chuong.",
+      "chungMinh": "Tuy nhiên, Chương này không bao gồm xu chiêng, gen, áo nịt ngực, dây đeo quần, dây móc bít tất, nịt tất-, hoặc các sản phẩm tương tự hoặc các bộ phận của chúng, được dệt kim hoặc móc (nhóm 62.12)."
+    },
+    {
+      "ma": "04-32-22",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6102 sang 9021 khớp sát nội dung câu trích nguồn ch61.chuong.",
+      "chungMinh": "(c) Dụng cụ chỉnh hình, đai thắt phẫu thuật, băng giữ hoặc loại tương tự (nhóm 90.21)."
+    },
+    {
+      "ma": "04-32-23",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6212 sang 6209 khớp sát nội dung câu trích nguồn ch62.chuong.",
+      "chungMinh": "Những hàng hóa mà, thoạt nhìn, có thể vừa xếp được vào nhóm 62.09 vừa có thể xếp được vào các nhóm khác của Chương này, phải được xếp vào nhóm 62.09"
+    },
+    {
+      "ma": "04-32-24",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6102 sang 6309 khớp sát nội dung câu trích nguồn ch61.chuong.",
+      "chungMinh": "(b) Quần áo hoặc các sản phẩm may mặc đã qua sử dụng khác thuộc nhóm 63.09; hoặc"
+    },
+    {
+      "ma": "04-32-25",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6212 sang 6309 khớp sát nội dung câu trích nguồn ch62.chuong.",
+      "chungMinh": "Quần áo hoặc hàng may mặc đã qua sử dụng khác thuộc nhóm 63.09"
+    },
+    {
+      "ma": "04-32-26",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 3706 sang 8523 khớp sát nội dung câu trích nguồn nhom3706.nhom.",
+      "chungMinh": "Phim có rãnh tiếng được tạo ra đơn lẻ thông qua xử lý trừ quang điện (ví dụ, bằng cách khắc máy hoặc ghi băng từ) không thuộc nhóm này (nhóm 85.23)."
+    },
+    {
+      "ma": "04-32-27",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6102 sang 6812 khớp sát nội dung câu trích nguồn ch61.chuong.",
+      "chungMinh": "Chương này không bao gồm: (a) Quần áo và đồ phụ trợ may mặc thuộc các nhóm 39.26, 40.15, 42.03 hoặc 68.12."
+    },
+    {
+      "ma": "04-32-28",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6102 sang 4203 khớp sát nội dung câu trích nguồn ch61.chuong.",
+      "chungMinh": "Chương này không bao gồm: (a) Quần áo và đồ phụ trợ may mặc thuộc các nhóm 39.26, 40.15, 42.03 hoặc 68.12."
+    },
+    {
+      "ma": "04-32-29",
+      "ketLuan": "SAI",
+      "vi": "Điều kiện nêu thiết bị chẩn đoán y tế khám mắt, tai, tim hoàn toàn không khớp câu trích: câu trích loại trừ bình bơm dầu và súng phun dầu mỡ hoạt động bằng tay sang nhóm 82.05.",
+      "chungMinh": "Bình bơm dầu và súng phun dầu mỡ hoạt động bằng tay (nhóm 82.05) và súng phun dầu mỡ bằng khí nén (nhóm 84.67)."
+    }
+  ]
+}

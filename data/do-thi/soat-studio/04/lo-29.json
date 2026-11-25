@@ -1,0 +1,247 @@
+{
+  "khuon": "soat@1",
+  "viec": "04",
+  "lo": 29,
+  "kq": [
+    {
+      "ma": "04-29-01",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6104 sang 6812 khớp sát nội dung câu trích nguồn ch61.chuong.",
+      "chungMinh": "Chương này không bao gồm: (a) Quần áo và đồ phụ trợ may mặc thuộc các nhóm 39.26, 40.15, 42.03 hoặc 68.12."
+    },
+    {
+      "ma": "04-29-02",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6104 sang 6212 khớp sát nội dung câu trích nguồn ch61.chuong.",
+      "chungMinh": "2. Chương này không bao gồm: (a) Những mặt hàng thuộc nhóm 62.12;"
+    },
+    {
+      "ma": "04-29-03",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6104 sang 6112 khớp sát nội dung câu trích nguồn nhom6104.nhom.",
+      "chungMinh": "Khái niệm \"bộ quần áo đồng bộ\" không áp dụng cho bộ quần áo thể thao hoặc bộ quần áo trượt tuyết, thuộc nhóm 61.12"
+    },
+    {
+      "ma": "04-29-04",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6104 sang 4203 khớp sát nội dung câu trích nguồn ch61.chuong.",
+      "chungMinh": "Chương này không bao gồm: (a) Quần áo và đồ phụ trợ may mặc thuộc các nhóm 39.26, 40.15, 42.03 hoặc 68.12."
+    },
+    {
+      "ma": "04-29-05",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7009 sang 7013 khớp sát nội dung câu trích nguồn nhom7009.nhom.",
+      "chungMinh": "Tuy nhiên, khi việc in ấn vượt quá công dụng của gương, thì những sản phẩm này được phân loại vào nhóm 70.13 là các sản phẩm trang trí bằng thủy tinh."
+    },
+    {
+      "ma": "04-29-06",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7013 sang 9112 khớp sát nội dung câu trích nguồn nhom7013.nhom.",
+      "chungMinh": "(e) Vỏ đồng hồ thời gian (nhóm 91.12)."
+    },
+    {
+      "ma": "04-29-07",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6104 sang 9021 khớp sát nội dung câu trích nguồn ch61.chuong.",
+      "chungMinh": "(c) Dụng cụ chỉnh hình, đai thắt phẫu thuật, băng giữ hoặc loại tương tự (nhóm 90.21)."
+    },
+    {
+      "ma": "04-29-08",
+      "ketLuan": "SAI",
+      "vi": "Nhóm đích 9506 không khớp câu trích: câu trích xếp chốt cửa có gắn công tắc vào nhóm 83.01, không phải 95.06.",
+      "chungMinh": "Chốt cửa có gắn công tắc không nằm trong nhóm này (nhóm 83.01)."
+    },
+    {
+      "ma": "04-29-09",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7013 sang 7018 khớp sát nội dung câu trích nguồn nhom7013.nhom.",
+      "chungMinh": "(d) Các sản phẩm thuộc nhóm 70.18 phù hợp để trang trí nội thất (ví dụ hoa giả và bộ lá bằng hạt thủy tinh và các hạt cườm thủy tinh trang trí được gia công bằng đèn xì)."
+    },
+    {
+      "ma": "04-29-10",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7013 sang 7114 khớp sát nội dung câu trích nguồn nhom7013.nhom.",
+      "chungMinh": "Kim loại quý hay kim loại mạ kim loại quý có thể có mặt chỉ như đồ trang điểm cho gương, các sản phẩm mà trong đó những kim loại như vậy tạo thành những đồ vượt quá công dụng trang trí sẽ bị loại trừ (nhóm 71.14)."
+    },
+    {
+      "ma": "04-29-11",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 3921 sang 3920 khớp sát nội dung câu trích nguồn nhom3921.nhom.",
+      "chungMinh": "Nhóm này bao gồm các tấm, phiến, màng, lá và dải, từ plastic, trừ loại thuộc nhóm 39.18, 39.19 hoặc 39.20 hoặc thuộc Chương 54."
+    },
+    {
+      "ma": "04-29-12",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7013 sang 7016 khớp sát nội dung câu trích nguồn nhom7013.nhom.",
+      "chungMinh": "(c) Đèn phủ chì và các loại tương tự (nhóm 70.16)."
+    },
+    {
+      "ma": "04-29-13",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7612 sang 9617 khớp sát nội dung câu trích nguồn nhom7612.nhom.",
+      "chungMinh": "(g) Phích chân không và các loại bình chân không hoàn chỉnh có kèm vỏ, thuộc nhóm 96.17."
+    },
+    {
+      "ma": "04-29-14",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9404 sang 6304 khớp sát nội dung câu trích nguồn nhom9404.nhom.",
+      "chungMinh": "Nhóm này cũng loại trừ: … (f) Vỏ miếng nệm (nhóm 63.04)."
+    },
+    {
+      "ma": "04-29-15",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 3920 sang 3918 khớp sát nội dung câu trích nguồn nhom3920.nhom.",
+      "chungMinh": "trừ những loại thuộc nhóm 39.18 hoặc 39.19"
+    },
+    {
+      "ma": "04-29-16",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9404 sang 4205 khớp sát nội dung câu trích nguồn nhom9404.nhom.",
+      "chungMinh": "Nhóm này cũng loại trừ: … (c) Lớp bọc da dùng cho nệm ghế (nhóm 42.05)."
+    },
+    {
+      "ma": "04-29-17",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6701 sang 9404 khớp sát nội dung câu trích nguồn nhom6701.nhom.",
+      "chungMinh": "d) Các mặt hàng thuộc bộ đồ giường...vv, trong trường hợp lông vũ chỉ được đưa vào sử dụng như chất liệu để nhồi hoặc lót ở trong (thuộc nhóm 94.04)."
+    },
+    {
+      "ma": "04-29-18",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7020 sang 9617 khớp sát nội dung câu trích nguồn nhom7020.nhom.",
+      "chungMinh": "ngoài những loại được biến đổi bởi lớp phủ hay bất kỳ loại vỏ bảo vệ nào khác (hoàn toàn hay một phần) vào phích chân không hoặc các loại bình chân không khác thuộc nhóm 96.17."
+    },
+    {
+      "ma": "04-29-19",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6104 sang 4015 khớp sát nội dung câu trích nguồn ch61.chuong.",
+      "chungMinh": "Chương này không bao gồm: (a) Quần áo và đồ phụ trợ may mặc thuộc các nhóm 39.26, 40.15, 42.03 hoặc 68.12."
+    },
+    {
+      "ma": "04-29-20",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7013 sang 7009 khớp sát nội dung câu trích nguồn nhom7013.nhom.",
+      "chungMinh": "Nhóm này không bao gồm: (a) Gương kính, có hoặc không được gắn khung (nhóm 70.09)."
+    },
+    {
+      "ma": "04-29-21",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6104 sang 6212 khớp sát nội dung câu trích nguồn ch61.chuong.",
+      "chungMinh": "Tuy nhiên, Chương này không bao gồm xu chiêng, gen, áo nịt ngực, dây đeo quần, dây móc bít tất, nịt tất-, hoặc các sản phẩm tương tự hoặc các bộ phận của chúng, được dệt kim hoặc móc (nhóm 62.12)."
+    },
+    {
+      "ma": "04-29-22",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 3912 sang 3920 khớp sát nội dung câu trích nguồn nhom3912.nhom.",
+      "chungMinh": "Nó thường ở dạng tấm mỏng, trong suốt thì được phân loại vào nhóm 39.20 hoặc 39.21"
+    },
+    {
+      "ma": "04-29-23",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7009 sang 7013 khớp sát nội dung câu trích nguồn nhom7009.nhom.",
+      "chungMinh": "(a) Gương đã trở thành các sản phẩm khác bằng cách bổ sung thêm một vài bộ phận phụ, ví dụ một số loại khay phục vụ có tay cầm (nhóm 70.13); tuy nhiên phần trung tâm mặt bàn (xem lại từ này) bao gồm một gương đơn giản vẫn được phân loại trong nhóm này."
+    },
+    {
+      "ma": "04-29-24",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6104 sang 6309 khớp sát nội dung câu trích nguồn ch61.chuong.",
+      "chungMinh": "(b) Quần áo hoặc các sản phẩm may mặc đã qua sử dụng khác thuộc nhóm 63.09; hoặc"
+    },
+    {
+      "ma": "04-29-25",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6104 sang 6117 khớp sát nội dung câu trích nguồn ch61.chuong.",
+      "chungMinh": "Tuy nhiên, các bộ phận được móc của áo quần hoặc của đồ phụ trợ may mặc (trừ các chi tiết như vậy thuộc nhóm 62.12) được phân loại trong nhóm 61.17."
+    },
+    {
+      "ma": "04-29-26",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9404 sang 6302 khớp sát nội dung câu trích nguồn nhom9404.nhom.",
+      "chungMinh": "Nhóm này cũng loại trừ: … (e) Vỏ gối, vỏ chăn lông vịt (nhóm 63.02)."
+    },
+    {
+      "ma": "04-29-27",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9404 sang 7314 khớp sát nội dung câu trích nguồn nhom9404.nhom.",
+      "chungMinh": "Nhưng nhóm này loại trừ các lò xo xoắn được lắp với nhau sử dụng cho các loại ghế (nhóm 94.01) và tấm dây sắt hoặc thép lưới, chưa được lắp ráp (nhóm 73.14)."
+    },
+    {
+      "ma": "04-29-28",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6309 sang 9404 khớp sát nội dung câu trích nguồn nhom6309.nhom.",
+      "chungMinh": "Các mặt hàng nằm trong Chương 94 và đặc biệt là các mặt hàng được chi tiết trong nhóm 94.04 (các bộ phận hỗ trợ của nệm, đệm; các sản phẩm của giường và các đồ trang bị trong nhà tương tự có lò xo hoặc được nhồi hoặc gắn bên trong, ví dụ như, đệm, chăn bông, chăn lông vịt, nệm dùng làm ghế, nệm dài, gối) bị loại ra khỏi nhóm này không tính đến mức độ hao mòn của chúng hoặc phương thức đóng gói của chúng."
+    },
+    {
+      "ma": "04-29-29",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 3920 sang 3212 khớp sát nội dung câu trích nguồn ch39.chuong.",
+      "chungMinh": "lá phôi dập thuộc nhóm 32.12"
+    },
+    {
+      "ma": "04-29-30",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8509 sang 8452 khớp sát nội dung câu trích nguồn nhom8509.nhom.",
+      "chungMinh": "(k) Các máy khâu (nhóm 84.52)."
+    },
+    {
+      "ma": "04-29-31",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9617 sang 7020 khớp sát nội dung câu trích nguồn nhom9617.nhom.",
+      "chungMinh": "Nhóm này không bao gồm các đồ thủy tinh bên trong khi để riêng (nhóm 70.20)."
+    },
+    {
+      "ma": "04-29-32",
+      "ketLuan": "SAI",
+      "vi": "Điều kiện nêu máy đóng kiện rơm, cỏ khô hoàn toàn không khớp câu trích: câu trích loại trừ quần áo thuộc nhóm 61.07, 61.08 hoặc 61.09 khỏi bộ quần áo đồng bộ.",
+      "chungMinh": "Khái niệm \"bộ quần áo đồng bộ\" có nghĩa là bộ quần áo (trừ bộ com-lê và quần áo thuộc nhóm 61.07, 61.08 hoặc 61.09)"
+    },
+    {
+      "ma": "04-29-33",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7013 sang 7010 khớp sát nội dung câu trích nguồn nhom7013.nhom.",
+      "chungMinh": "(b) Chai, bình thót cổ, bình và lọ thuộc loại thường được sử dụng thông thường cho mục đích chuyên chở hay đóng hàng hóa, các bình bảo quản và nắp đậy dụng cụ nấu ăn nhà bếp được trình bày riêng biệt với dụng cụ nấu ăn (nhóm 70.10)."
+    },
+    {
+      "ma": "04-29-34",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 3920 sang 3921 khớp sát nội dung câu trích nguồn nhom3920.nhom.",
+      "chungMinh": "Nhóm này cũng loại trừ các sản phẩm loại xốp (nhóm 39.21)"
+    },
+    {
+      "ma": "04-29-35",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7013 sang 9617 khớp sát nội dung câu trích nguồn nhom7013.nhom.",
+      "chungMinh": "(h) Phích chân không và các loại bình chân không khác thuộc nhóm 96.17."
+    },
+    {
+      "ma": "04-29-36",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7013 sang 7009 khớp sát nội dung câu trích nguồn nhom7013.nhom.",
+      "chungMinh": "Tuy nhiên các trung tâm bàn bao gồm một gương đơn giản sẽ bị loại trừ (xem Chú giải Chi tiết nhóm 70.09)."
+    },
+    {
+      "ma": "04-29-37",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7013 sang 9616 khớp sát nội dung câu trích nguồn nhom7013.nhom.",
+      "chungMinh": "(g) Bình, lọ xịt nước hoa và bình, lọ xịt để trang điểm tương tự (nhóm 96.16)."
+    },
+    {
+      "ma": "04-29-38",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7006 sang 7013 khớp sát nội dung câu trích nguồn nhom7006.nhom.",
+      "chungMinh": "khay phục vụ có tấm kính, có hoặc không được phủ màu, có khung và tay cầm,... được phân loại trong nhóm 70.13"
+    },
+    {
+      "ma": "04-29-39",
+      "ketLuan": "SAI",
+      "vi": "Điều kiện nêu nguyên tố hóa học đã kích tạp dùng trong điện tử hoàn toàn không khớp câu trích: câu trích loại trừ bình, lon, hộp và các đồ chứa tương tự sang nhóm 73.10.",
+      "chungMinh": "Bình, lon, hộp và các đồ chứa tương tự, thuộc nhóm 73.10."
+    },
+    {
+      "ma": "04-29-40",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 3920 sang 4814 khớp sát nội dung câu trích nguồn ch39.chuong.",
+      "chungMinh": "Các loại tấm phủ tường thuộc nhóm 48.14"
+    }
+  ]
+}
