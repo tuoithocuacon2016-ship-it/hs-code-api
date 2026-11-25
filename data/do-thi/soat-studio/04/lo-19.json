@@ -1,0 +1,247 @@
+{
+  "khuon": "soat@1",
+  "viec": "04",
+  "lo": 19,
+  "kq": [
+    {
+      "ma": "04-19-01",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9017 sang 8471 khớp sát nội dung câu trích nguồn nhom9017.nhom.",
+      "chungMinh": "(b) Máy tính bảng đồ họa và thiết bị số hóa (nhóm 84.71)."
+    },
+    {
+      "ma": "04-19-02",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8514 sang 8516 khớp sát nội dung câu trích nguồn nhom8514.nhom.",
+      "chungMinh": "Nhóm này không bao gồm các máy móc và thiết bị điện nhiệt dùng trong gia đình (nhóm 85.16)."
+    },
+    {
+      "ma": "04-19-03",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8534 sang 8542 khớp sát nội dung câu trích nguồn ch85.chuong.",
+      "chungMinh": "Mạch điện màng mỏng hoặc dày bao gồm phần tử chủ động và thụ động hợp thành trong cùng một quy trình công nghệ được phân loại trong nhóm 85.42."
+    },
+    {
+      "ma": "04-19-04",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8473 sang 8542 khớp sát nội dung câu trích nguồn nhom8473.nhom.",
+      "chungMinh": "(f) Mạch điện tử tích hợp (nhóm 85.42)."
+    },
+    {
+      "ma": "04-19-05",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8516 sang 8545 khớp sát nội dung câu trích nguồn nhom8516.nhom.",
+      "chungMinh": "Ngoại trừ các loại làm từ cacbon (nhóm 85.45), tất cả các điện trở làm nóng được phân loại vào đây không phụ thuộc vào các máy móc hoặc thiết bị mà nó sẽ được sử dụng ở trong."
+    },
+    {
+      "ma": "04-19-06",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8516 sang 9613 khớp sát nội dung câu trích nguồn nhom8516.nhom.",
+      "chungMinh": "(f) Bật lửa châm thuốc lá, bật lửa châm ga và các loại tương tự (nhóm 96.13)."
+    },
+    {
+      "ma": "04-19-07",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8471 sang 8525 khớp sát nội dung câu trích nguồn ch84.chuong.",
+      "chungMinh": "camera kỹ thuật số thuộc nhóm 85.25;"
+    },
+    {
+      "ma": "04-19-08",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8516 sang 8451 khớp sát nội dung câu trích nguồn nhom8516.nhom.",
+      "chungMinh": "(b) Máy cán là (nhóm 84.20), máy là quần áo hoặc máy ép là khác (nhóm 84.51)."
+    },
+    {
+      "ma": "04-19-09",
+      "ketLuan": "SAI",
+      "vi": "Điều kiện nêu thiết bị đun nóng nước dùng điện hoàn toàn không khớp câu trích: câu trích loại trừ đồ dùng cắm trại (trong mục đệm khí, hơi) sang nhóm 63.06.",
+      "chungMinh": "Đệm khí, hơi (loại trừ đồ dùng để cắm trại thuộc nhóm 63.06)."
+    },
+    {
+      "ma": "04-19-10",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8516 sang 8420 khớp sát nội dung câu trích nguồn nhom8516.nhom.",
+      "chungMinh": "(b) Máy cán là (nhóm 84.20), máy là quần áo hoặc máy ép là khác (nhóm 84.51)."
+    },
+    {
+      "ma": "04-19-11",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7322 sang 8516 khớp sát nội dung câu trích nguồn nhom7322.nhom.",
+      "chungMinh": "Nhóm này không bao gồm … các lò sưởi điện (nhóm 85.16)"
+    },
+    {
+      "ma": "04-19-12",
+      "ketLuan": "SAI",
+      "vi": "Nhóm đích 8420 không khớp câu trích: câu trích xếp miếng vải dệt kim/móc đã qua một vài công đoạn gia công chưa hoàn thiện vào nhóm 63.07, không phải 84.20.",
+      "chungMinh": "(b) Miếng vải dệt kim hoặc móc đã trải qua 1 vài công đoạn gia công (như làm đường viền hoặc tạo đường viền cổ áo), dùng để sản xuất áo quần nhưng chưa được hoàn thiện đầy đủ để được xem như áo quần hoặc các chi tiết của áo quần (nhóm 63.07)."
+    },
+    {
+      "ma": "04-19-13",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8533 sang 8516 khớp sát nội dung câu trích nguồn nhom8533.nhom.",
+      "chungMinh": "(a) Các điện trở nung nóng (nhóm 85.16 hoặc 85.45)."
+    },
+    {
+      "ma": "04-19-14",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8471 sang 8517 khớp sát nội dung câu trích nguồn nhom8471.nhom.",
+      "chungMinh": "(b) Bộ điều biến-giải biến (modem), dùng để điều biến những thông tin thu thập được từ một máy xử lý dữ liệu tự động có thể được truyền phát qua mạng điện thoại, và chuyển đổi lại thành dạng số (nhóm 85.17)."
+    },
+    {
+      "ma": "04-19-15",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8542 sang 8534 khớp sát nội dung câu trích nguồn nhom8542.nhom.",
+      "chungMinh": "Nhóm này không bao gồm các mạch phim chỉ có bộ phận bị động (nhóm 85.34)."
+    },
+    {
+      "ma": "04-19-16",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8470 sang 8471 khớp sát nội dung câu trích nguồn nhom8470.nhom.",
+      "chungMinh": "(a) Máy xử lý dữ liệu thuộc nhóm 84.71."
+    },
+    {
+      "ma": "04-19-17",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8516 sang 8514 khớp sát nội dung câu trích nguồn nhom8516.nhom.",
+      "chungMinh": "(d) Lò nung, nóng vi sóng công nghiệp và các thiết bị tương tự (ví dụ lò nướng vi sóng loại thiết kế sử dụng trong nhà hàng) (nhóm 85.14)."
+    },
+    {
+      "ma": "04-19-18",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6912 sang 8516 khớp sát nội dung câu trích nguồn nhom6912.nhom.",
+      "chungMinh": "(f) Các thiết bị nhiệt-điện (dùng để nấu, nung nóng, v.v) kể cả các bộ phận làm nóng bằng điện (đĩa nấu, điện trở làm nóng, v.v) thuộc nhóm 85.16."
+    },
+    {
+      "ma": "04-19-19",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8542 sang 8523 khớp sát nội dung câu trích nguồn nhom8542.nhom.",
+      "chungMinh": "Nhóm này không gồm các thiết bị lưu trữ không xóa ở thể rắn, “các thẻ thông minh” và các phương tiện khác dùng để ghi âm hoặc các hiện tượng khác (xem nhóm 85.23 và Chú giải 6 Chương này)."
+    },
+    {
+      "ma": "04-19-20",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6103 sang 9503 khớp sát nội dung câu trích nguồn ch61.chuong.",
+      "chungMinh": "(d) Áo quần cho búp bê (nhóm 95.03)."
+    },
+    {
+      "ma": "04-19-21",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8471 sang 8473 khớp sát nội dung câu trích nguồn nhom8471.nhom.",
+      "chungMinh": "Theo các quy định chung liên quan đến phân loại các bộ phận (xem chú giải tổng quát của phần XVI), các bộ phận và phụ kiện của những máy thuộc nhóm này được phân loại vào nhóm 84.73."
+    },
+    {
+      "ma": "04-19-22",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6104 sang 9503 khớp sát nội dung câu trích nguồn ch61.chuong.",
+      "chungMinh": "(d) Áo quần cho búp bê (nhóm 95.03)."
+    },
+    {
+      "ma": "04-19-23",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8419 sang 8516 khớp sát nội dung câu trích nguồn nhom8419.nhom.",
+      "chungMinh": "(q) Thiết bị đun nước nóng kiểu nhúng, không gắn cố định để làm nóng chất lỏng, chất bán lỏng (trừ chất rắn) hoặc chất khí, cũng như thiết bị đun nước nóng kiểu nhúng gắn cố định trong thùng chứa và được thiết kế chỉ để đun nước nóng (nhóm 85.16)."
+    },
+    {
+      "ma": "04-19-24",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6109 sang 9503 khớp sát nội dung câu trích nguồn ch61.chuong.",
+      "chungMinh": "Chương này không bao gồm: … (d) Áo quần cho búp bê (nhóm 95.03)."
+    },
+    {
+      "ma": "04-19-25",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8509 sang 8516 khớp sát nội dung câu trích nguồn nhom8509.nhom.",
+      "chungMinh": "(m) Các thiết bị nhiệt điện gia dụng (nhóm 85.16)."
+    },
+    {
+      "ma": "04-19-26",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8471 sang 8542 khớp sát nội dung câu trích nguồn nhom8471.nhom.",
+      "chungMinh": "(c) Mạch điện tử tích hợp (nhóm 85.42)."
+    },
+    {
+      "ma": "04-19-27",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8516 sang 8512 khớp sát nội dung câu trích nguồn nhom8516.nhom.",
+      "chungMinh": "Nhóm này cũng loại trừ thiết bị gạt và chống tạo sương và tuyết. Những mặt hàng này gồm các dây điện trở được gắn trong khung cố định trên kính chắn gió (nhóm 85.12)."
+    },
+    {
+      "ma": "04-19-28",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8471 sang 8470 khớp sát nội dung câu trích nguồn nhom8471.nhom.",
+      "chungMinh": "(b) Máy tính, máy kế toán, máy tính tiền thuộc nhóm 84.70"
+    },
+    {
+      "ma": "04-19-29",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7319 sang 8516 khớp sát nội dung câu trích nguồn nhom7319.nhom.",
+      "chungMinh": "Nhóm này không bao gồm: … (c) Trâm cài tóc; cặp tóc; ghim uốn tóc, dụng cụ kẹp cuốn tóc, ống cuốn tóc và các sản phẩm tương tự (nhóm 85.16 hoặc 96.15)"
+    },
+    {
+      "ma": "04-19-30",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8516 sang 8419 khớp sát nội dung câu trích nguồn nhom8516.nhom.",
+      "chungMinh": "Các thiết bị bao gồm thiết bị làm nóng kiểu nhúng gắn cố định trong một thùng, bể hoặc các vật chứa khác được phân loại trong nhóm 84.19 trừ khi chúng được thiết kế chỉ làm nóng nước hoặc dùng trong gia đình"
+    },
+    {
+      "ma": "04-19-31",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8419 sang 8516 khớp sát nội dung câu trích nguồn nhom8419.nhom.",
+      "chungMinh": "Máy và thiết bị thuộc nhóm này có thể được làm nóng bởi bất kỳ hệ thống xử lý nhiên liệu nào (như than, dầu, khí đốt, hơi nước, điện...), trừ thiết bị đun nóng nước và đun chứa nước nóng tức thời thuộc nhóm 85.16 khi được đun nóng bằng điện."
+    },
+    {
+      "ma": "04-19-32",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8419 sang 8516 khớp sát nội dung câu trích nguồn nhom8419.nhom.",
+      "chungMinh": "(r) Thiết bị làm nóng đất dùng điện, thiết bị làm nóng không gian dùng điện, và các thiết bị gia dụng nhiệt điện thuộc nhóm 85.16."
+    },
+    {
+      "ma": "04-19-33",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8471 sang 8472 khớp sát nội dung câu trích nguồn nhom8471.nhom.",
+      "chungMinh": "(c) Máy chữ tự động và máy soạn thảo văn bản (nhóm 84.72)."
+    },
+    {
+      "ma": "04-19-34",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8516 sang 8403 khớp sát nội dung câu trích nguồn nhom8516.nhom.",
+      "chungMinh": "Nồi đun nước nóng trung tâm dùng điện được phân loại trong nhóm 84.03."
+    },
+    {
+      "ma": "04-19-35",
+      "ketLuan": "SAI",
+      "vi": "Nhóm đích 8705 không khớp câu trích: câu trích liệt kê quần áo và đồ phụ trợ may mặc thuộc các nhóm 39.26, 40.15, 42.03 hoặc 68.12, không có nhóm 87.05.",
+      "chungMinh": "Chương này không bao gồm: (a) Quần áo và đồ phụ trợ may mặc thuộc các nhóm 39.26, 40.15, 42.03 hoặc 68.12."
+    },
+    {
+      "ma": "04-19-36",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6108 sang 9503 khớp sát nội dung câu trích nguồn ch61.chuong.",
+      "chungMinh": "(d) Áo quần cho búp bê (nhóm 95.03)."
+    },
+    {
+      "ma": "04-19-37",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8471 sang 8517 khớp sát nội dung câu trích nguồn nhom8471.nhom.",
+      "chungMinh": "Tuy nhiên, bộ điều khiển và thích ứng dùng trong viễn thông nối mạng hữu tuyến hoặc không dây (như mạng máy tính cục bộ LAN hoặc mạng diện rộng WAN) thì bị loại trừ (nhóm 85.17)."
+    },
+    {
+      "ma": "04-19-38",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8516 sang 8419 khớp sát nội dung câu trích nguồn nhom8516.nhom.",
+      "chungMinh": "Thiết bị làm nóng nước bằng năng lượng mặt trời được phân loại ở nhóm 84.19."
+    },
+    {
+      "ma": "04-19-39",
+      "ketLuan": "SAI",
+      "vi": "Điều kiện nêu các ván buồm hoàn toàn không khớp câu trích: câu trích loại trừ máy móc và thiết bị lắp trên khung đơn giản có bánh xe thiết kế để kéo (như máy bơm/máy nén khí lưu động) sang nhóm 84.13 hoặc 84.14.",
+      "chungMinh": "(b) Các máy móc và thiết bị lắp trên một khung đơn giản có bánh xe, được thiết kế để kéo, như các máy bơm hoặc máy nén khí lưu động (nhóm 84.13 hoặc 84.14)"
+    },
+    {
+      "ma": "04-19-40",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6102 sang 9503 khớp sát nội dung câu trích nguồn ch61.chuong.",
+      "chungMinh": "(d) Áo quần cho búp bê (nhóm 95.03)."
+    }
+  ]
+}

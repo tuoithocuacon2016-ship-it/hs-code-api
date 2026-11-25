@@ -1,0 +1,247 @@
+{
+  "khuon": "soat@1",
+  "viec": "04",
+  "lo": 22,
+  "kq": [
+    {
+      "ma": "04-22-01",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8479 sang 8705 khớp sát nội dung câu trích nguồn nhom8479.nhom.",
+      "chungMinh": "(1) Máy rải vữa, bê tông (loại trừ máy trộn bê tông hoặc nhào vữa - nhóm 84.74 hoặc 87.05)."
+    },
+    {
+      "ma": "04-22-02",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8479 sang 8467 khớp sát nội dung câu trích nguồn nhom8479.nhom.",
+      "chungMinh": "dụng cụ nhỏ cầm tay hoạt động bằng khí nén, thuỷ lực hoặc gắn động cơ dùng hoặc không dùng điện (nhóm 84.67)."
+    },
+    {
+      "ma": "04-22-03",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8420 sang 8479 khớp sát nội dung câu trích nguồn nhom8420.nhom.",
+      "chungMinh": "(c) Máy nghiền kiểu con lăn (nhóm 84.36, 84.74 hoặc 84.79)."
+    },
+    {
+      "ma": "04-22-04",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8475 sang 8479 khớp sát nội dung câu trích nguồn nhom8475.nhom.",
+      "chungMinh": "nhưng không bao gồm máy ép thông dụng (nhóm 84.79)."
+    },
+    {
+      "ma": "04-22-05",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8463 sang 8479 khớp sát nội dung câu trích nguồn nhom8463.nhom.",
+      "chungMinh": "Máy móc để bện dây thừng, cáp tao bằng dây kim loại hoặc sợi tổng hợp cũng không được xếp vào nhóm này (nhóm 84.79)."
+    },
+    {
+      "ma": "04-22-06",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8439 sang 8479 khớp sát nội dung câu trích nguồn nhom8439.nhom.",
+      "chungMinh": "(f) Máy phủ chất mài mòn lên trên giấy, vải, gỗ,... (nhóm 84.79)."
+    },
+    {
+      "ma": "04-22-07",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8479 sang 8465 khớp sát nội dung câu trích nguồn nhom8479.nhom.",
+      "chungMinh": "Nhóm này không bao gồm máy xẻ gỗ, bóc vỏ liễu gai, vót tròn song, v.v.. (nhóm 84.65)."
+    },
+    {
+      "ma": "04-22-08",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8479 sang 8445 khớp sát nội dung câu trích nguồn nhom8479.nhom.",
+      "chungMinh": "(a) Máy guồng sợi vải, sợi xe, v.v.. thành quả tròn (nhóm 84.45)."
+    },
+    {
+      "ma": "04-22-09",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8479 sang 8474 khớp sát nội dung câu trích nguồn nhom8479.nhom.",
+      "chungMinh": "(1) Máy rải vữa, bê tông (loại trừ máy trộn bê tông hoặc nhào vữa - nhóm 84.74 hoặc 87.05)."
+    },
+    {
+      "ma": "04-22-10",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8403 sang 8479 khớp sát nội dung câu trích nguồn nhom8403.nhom.",
+      "chungMinh": "Bình hoặc khoang chứa giãn nở (nhóm 73.09 và 73.10 hoặc 84.79)."
+    },
+    {
+      "ma": "04-22-11",
+      "ketLuan": "SAI",
+      "vi": "Nhóm đích 8466 không khớp câu trích: câu trích xếp máy cạo rửa bằng hơi nước dùng cho nồi hơi vào nhóm 84.04, không phải 84.66.",
+      "chungMinh": "(b) Máy cạo rửa bằng hơi nước, dùng cho nồi hơi (nhóm 84.04)."
+    },
+    {
+      "ma": "04-22-12",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8428 sang 8479 khớp sát nội dung câu trích nguồn nhom8428.nhom.",
+      "chungMinh": "(c) Cầu di chuyển hành khách (nhóm 84.79)."
+    },
+    {
+      "ma": "04-22-13",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8515 sang 8422 khớp sát nội dung câu trích nguồn nhom8515.nhom.",
+      "chungMinh": "(a) Máy đóng gói được gắn cùng với các thiết bị hàn (nhóm 84.22)."
+    },
+    {
+      "ma": "04-22-14",
+      "ketLuan": "KHONG_RO",
+      "vi": "Câu trích bị cắt cụt chủ ngữ (chỉ viết Nếu chúng không thể phân biệt được là dùng cho mục đích cụ thể nào), không đủ ngữ cảnh xác minh đối tượng là máy khuấy trộn chế biến sữa."
+    },
+    {
+      "ma": "04-22-15",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8479 sang 8409 khớp sát nội dung câu trích nguồn nhom8479.nhom.",
+      "chungMinh": "Vì vậy, một bộ chế hòa khí hiện diện riêng rẽ được phân loại như một các bộ phận của động cơ thuộc nhóm 84.09."
+    },
+    {
+      "ma": "04-22-16",
+      "ketLuan": "SAI",
+      "vi": "Điều kiện nêu băng dùng trong y tế hoàn toàn không khớp câu trích: câu trích loại trừ các máy rửa bát đĩa sang nhóm 84.22.",
+      "chungMinh": "(e) Các máy rửa bát đĩa (nhóm 84.22)."
+    },
+    {
+      "ma": "04-22-17",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8479 sang 8509 khớp sát nội dung câu trích nguồn ch84.chuong.",
+      "chungMinh": "(f) Thiết bị cơ điện gia dụng thuộc nhóm 85.09; camera kỹ thuật số thuộc nhóm 85.25;"
+    },
+    {
+      "ma": "04-22-18",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8479 sang 8451 khớp sát nội dung câu trích nguồn nhom8479.nhom.",
+      "chungMinh": "(b) Máy dùng để hoàn thiện (làm láng, đánh bóng) sợi vải, sợi xe, v.v.. (nhóm 84.51)."
+    },
+    {
+      "ma": "04-22-19",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8479 sang 8429 khớp sát nội dung câu trích nguồn nhom8479.nhom.",
+      "chungMinh": "Tuy nhiên nhóm này không bao gồm máy san đất thuộc nhóm 84.29"
+    },
+    {
+      "ma": "04-22-20",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8476 sang 8479 khớp sát nội dung câu trích nguồn nhom8476.nhom.",
+      "chungMinh": "Máy đánh giầy dùng tiền xu (nhóm 84.79)."
+    },
+    {
+      "ma": "04-22-21",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8440 sang 8479 khớp sát nội dung câu trích nguồn nhom8440.nhom.",
+      "chungMinh": "nhưng loại trừ những máy nén có công dụng thông thường (nhóm 84.79)"
+    },
+    {
+      "ma": "04-22-22",
+      "ketLuan": "RONG",
+      "vi": "Điều kiện bỏ sót điều kiện giới hạn cốt lõi trong câu trích là dùng nhiệt độ cao tạo ra từ việc đốt cháy sắt hoặc thép trong luồng khí oxy.",
+      "dieuKienMoi": "Thiết bị để cắt hoặc khoan đá hoặc bê tông, dùng nhiệt độ cao tạo ra từ việc đốt cháy sắt hoặc thép trong luồng khí oxy",
+      "chungMinh": "(c) Thiết bị để cắt hoặc khoan đá hoặc bê tông, dùng nhiệt độ cao tạo ra từ việc đốt cháy sắt hoặc thép trong luồng khí oxy (nhóm 84.79)."
+    },
+    {
+      "ma": "04-22-23",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8479 sang 8415 khớp sát nội dung câu trích nguồn nhom8479.nhom.",
+      "chungMinh": "(1) Máy tạo ẩm hoặc hút ẩm không khí, trừ thiết bị thuộc nhóm 84.15, 84.24 hoặc 85.09."
+    },
+    {
+      "ma": "04-22-24",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8479 sang 8447 khớp sát nội dung câu trích nguồn nhom8479.nhom.",
+      "chungMinh": "nhưng loại trừ các loại máy quấn sợi thuộc nhóm 84.47."
+    },
+    {
+      "ma": "04-22-25",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8479 sang 8486 khớp sát nội dung câu trích nguồn nhom8479.nhom.",
+      "chungMinh": "Thiết bị siêu âm và bộ chuyển đổi chỉ dùng hoặc chủ yếu dùng để làm sạch tấm bán dẫn mỏng hoặc màn hình dẹt không được xếp vào Nhóm này (nhóm 84.86)"
+    },
+    {
+      "ma": "04-22-26",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8479 sang 8509 khớp sát nội dung câu trích nguồn nhom8479.nhom.",
+      "chungMinh": "(1) Máy tạo ẩm hoặc hút ẩm không khí, trừ thiết bị thuộc nhóm 84.15, 84.24 hoặc 85.09."
+    },
+    {
+      "ma": "04-22-27",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8479 sang 8419 khớp sát nội dung câu trích nguồn nhom8479.nhom.",
+      "chungMinh": "(a) Máy sát trùng lông cứng hoặc sợi (nhóm 84.19)."
+    },
+    {
+      "ma": "04-22-28",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8479 sang 8451 khớp sát nội dung câu trích nguồn nhom8479.nhom.",
+      "chungMinh": "Các thiết bị để chùi thảm theo trình tự, không phải loại chùi khô, và thiết kế để dùng trong các công trình tập thể (ngoài phạm vi gia đình) như khách sạn, bệnh viện, văn phòng, quán ăn và trường học được xếp vào nhóm 84.51."
+    },
+    {
+      "ma": "04-22-29",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8419 sang 8479 khớp sát nội dung câu trích nguồn nhom8419.nhom.",
+      "chungMinh": "Loại thùng chứa, chỉ lắp thêm các thiết bị cơ khí, mà không kèm bộ phận làm nóng trực tiếp hoặc gián tiếp được xếp trong nhóm 84.79, trừ khi chúng được thiết kế rõ ràng là các loại máy được nêu cụ thể trong nhóm khác."
+    },
+    {
+      "ma": "04-22-30",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8479 sang 8512 khớp sát nội dung câu trích nguồn nhom8479.nhom.",
+      "chungMinh": "(23) Bộ lau kính chắn gió bằng điện, thủy lực, khí nén, v.v.. dùng cho máy bay, tầu thủy và tất cả các loại phương tiện trừ những máy móc đó dùng cho xe đạp hoặc xe có động cơ (nhóm 85.12)."
+    },
+    {
+      "ma": "04-22-31",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8479 sang 8511 khớp sát nội dung câu trích nguồn nhom8479.nhom.",
+      "chungMinh": "(2) Bộ phận khởi động động cơ (bằng cơ khí, thủy lực, khí nén, v.v..) nhưng không phải là thiết bị điện thuộc nhóm 85.11."
+    },
+    {
+      "ma": "04-22-32",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8438 sang 8479 khớp sát nội dung câu trích nguồn nhom8438.nhom.",
+      "chungMinh": "nhưng không bao gồm các loại máy dùng để chiết suất hoặc chế biến mỡ hoặc dầu động vật hoặc mỡ hoặc dầu thực vật không bay hơi (nhóm 84.79)."
+    },
+    {
+      "ma": "04-22-33",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8479 sang 8508 khớp sát nội dung câu trích nguồn ch84.chuong.",
+      "chungMinh": "(e) Máy hút bụi thuộc nhóm 85.08;"
+    },
+    {
+      "ma": "04-22-34",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8479 sang 8705 khớp sát nội dung câu trích nguồn nhom8479.nhom.",
+      "chungMinh": "Bộ phận rải sỏi được gắn vào phương tiện có gắn động cơ không thuộc nhóm này (nhóm 87.05)."
+    },
+    {
+      "ma": "04-22-35",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8479 sang 8486 khớp sát nội dung câu trích nguồn nhom8479.nhom.",
+      "chungMinh": "(9) Máy phủ chất nhạy sáng lên nền trừ loại thuộc nhóm 84.86."
+    },
+    {
+      "ma": "04-22-36",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8445 sang 8479 khớp sát nội dung câu trích nguồn nhom8445.nhom.",
+      "chungMinh": "Máy dùng để gắn bộ chải lên trên trục chải, v.v.. (nhóm 84.79)."
+    },
+    {
+      "ma": "04-22-37",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8479 sang 8419 khớp sát nội dung câu trích nguồn nhom8479.nhom.",
+      "chungMinh": "Thiết bị làm nóng nhựa đường,... không thuộc nhóm này (nhóm 84.19)."
+    },
+    {
+      "ma": "04-22-38",
+      "ketLuan": "SAI",
+      "vi": "Nhóm đích 9004 không khớp câu trích: câu trích xếp đồ nội thất có tính chất đồ chơi vào nhóm 95.03, không phải 90.04.",
+      "chungMinh": "(l) Đồ nội thất có tính chất đồ chơi hoặc đèn (luminaires) và bộ đèn đồ chơi (nhóm 95.03)"
+    },
+    {
+      "ma": "04-22-39",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7322 sang 8479 khớp sát nội dung câu trích nguồn nhom7322.nhom.",
+      "chungMinh": "Tuy nhiên nhóm này không bao gồm các bộ phân phối khí điều hoà … (nhóm 84.79)."
+    },
+    {
+      "ma": "04-22-40",
+      "ketLuan": "SAI",
+      "vi": "Điều kiện nêu kim của máy khâu hoàn toàn không khớp câu trích: câu trích loại trừ bình tra dầu dùng tay và máy phun mỡ sang nhóm 82.05.",
+      "chungMinh": "(a) Bình tra dầu dùng tay và máy phun mỡ (nhóm 82.05) và súng phun mỡ bằng khí nén và các loại thiết bị cấp chất bôi trơn bằng áp lực tương tự (nhóm 84.67)."
+    }
+  ]
+}
