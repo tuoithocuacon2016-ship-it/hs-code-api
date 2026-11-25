@@ -1,0 +1,247 @@
+{
+  "khuon": "soat@1",
+  "viec": "04",
+  "lo": 15,
+  "kq": [
+    {
+      "ma": "04-15-01",
+      "ketLuan": "SAI",
+      "vi": "Nhóm đích 8540 không khớp câu trích: câu trích xếp trục truyền của động cơ xe ôtô, hộp số và vi sai vào nhóm 87.08, không phải 85.40.",
+      "chungMinh": "nhưng trục truyền của động cơ xe ôtô, hộp số và vi sai được phân loại vào nhóm 87.08"
+    },
+    {
+      "ma": "04-15-02",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6701 sang 9603 khớp sát nội dung câu trích nguồn nhom6701.nhom.",
+      "chungMinh": "chổi lông (nhóm 96.03)"
+    },
+    {
+      "ma": "04-15-03",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8466 sang 9603 khớp sát nội dung câu trích nguồn nhom8466.nhom.",
+      "chungMinh": "(ij) Bàn chải lắp trong máy (nhóm 96.03)."
+    },
+    {
+      "ma": "04-15-04",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 4419 sang 9603 khớp sát nội dung câu trích nguồn nhom4419.nhom.",
+      "chungMinh": "Chổi và bàn chải (nhóm 96.03)."
+    },
+    {
+      "ma": "04-15-05",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7007 sang 7015 khớp sát nội dung câu trích nguồn nhom7007.nhom.",
+      "chungMinh": "kính lồi an toàn có đặc tính của kính đồng hồ thời gian hoặc kính đồng hồ cá nhân hoặc của loại được sử dụng cho kính râm thì sẽ được phân loại trong nhóm 70.15"
+    },
+    {
+      "ma": "04-15-06",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8431 sang 7228 khớp sát nội dung câu trích nguồn nhom8431.nhom.",
+      "chungMinh": "Các thanh rỗng dùng cho khoan (nhóm 72.28)."
+    },
+    {
+      "ma": "04-15-07",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8428 sang 8431 khớp sát nội dung câu trích nguồn nhom8428.nhom.",
+      "chungMinh": "các bộ phận của các máy móc hoặc thiết bị thuộc nhóm này được xếp trong nhóm 84.31."
+    },
+    {
+      "ma": "04-15-08",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7006 sang 7007 khớp sát nội dung câu trích nguồn nhom7006.nhom.",
+      "chungMinh": "Tuy nhiên, nhóm này không bao gồm kính an toàn (nhóm 70.07), kính hộp nhiều lớp (nhóm 70.08) hoặc gương thủy tinh (nhóm 70.09)."
+    },
+    {
+      "ma": "04-15-09",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8431 sang 4205 khớp sát nội dung câu trích nguồn nhom8431.nhom.",
+      "chungMinh": "Băng chuyền hoặc băng tải hoặc dây đai, làm bằng plastic (Chương 39), bằng cao su lưu hoá (nhóm 40.10), bằng da (nhóm 42.05) hoặc bằng vật liệu dệt (nhóm 59.10)."
+    },
+    {
+      "ma": "04-15-10",
+      "ketLuan": "SAI",
+      "vi": "Điều kiện nêu đinh tán có dạng ống hoặc phân nhánh đôi hoàn toàn không khớp câu trích: câu trích loại trừ mô tơ điện sang nhóm 85.01.",
+      "chungMinh": "Mô tơ điện (nhóm 85.01)"
+    },
+    {
+      "ma": "04-15-11",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8427 sang 8431 khớp sát nội dung câu trích nguồn nhom8427.nhom.",
+      "chungMinh": "Theo các quy tắc về phân loại các bộ phận (xem phần chú giải tổng quát của Phần XVI), các bộ phận của các loại phương tiện thuộc nhóm này được xếp vào nhóm 84.31."
+    },
+    {
+      "ma": "04-15-12",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8487 sang 9603 khớp sát nội dung câu trích nguồn nhom8487.nhom.",
+      "chungMinh": "bàn chải (nhóm 96.03)."
+    },
+    {
+      "ma": "04-15-13",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8431 sang 4010 khớp sát nội dung câu trích nguồn nhom8431.nhom.",
+      "chungMinh": "Băng chuyền hoặc băng tải hoặc dây đai, làm bằng plastic (Chương 39), bằng cao su lưu hoá (nhóm 40.10), bằng da (nhóm 42.05) hoặc bằng vật liệu dệt (nhóm 59.10)."
+    },
+    {
+      "ma": "04-15-14",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8431 sang 8207 khớp sát nội dung câu trích nguồn nhom8431.nhom.",
+      "chungMinh": "Choòng, đục, mũi khoan đá, ống khoan lõi, mũi khoan và các dụng cụ khoan hoặc hàn tương tự (nhóm 82.07)."
+    },
+    {
+      "ma": "04-15-15",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7003 sang 7007 khớp sát nội dung câu trích nguồn nhom7003.nhom.",
+      "chungMinh": "loại trừ cả kính an toàn đã qua quá trình cán trong khi gia công (nhóm 70.07)."
+    },
+    {
+      "ma": "04-15-16",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8479 sang 9603 khớp sát nội dung câu trích nguồn ch84.chuong.",
+      "chungMinh": "(h) Máy quét sàn cơ khí thao tác bằng tay, không có động cơ (nhóm 96.03)."
+    },
+    {
+      "ma": "04-15-17",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 4602 sang 9603 khớp sát nội dung câu trích nguồn ch46.chuong.",
+      "chungMinh": "Chổi quét và bàn chải (nhóm 96.03) hoặc manacanh dùng trong ngành may, ...(nhóm 96.18)."
+    },
+    {
+      "ma": "04-15-18",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9603 sang 8479 khớp sát nội dung câu trích nguồn nhom9603.nhom.",
+      "chungMinh": "Nhóm này không bao gồm máy quét có gắn môtơ (nhóm 84.79)"
+    },
+    {
+      "ma": "04-15-19",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7007 sang 9004 khớp sát nội dung câu trích nguồn nhom7007.nhom.",
+      "chungMinh": "tương tự kính bảo hộ có chứa các thấu kính bằng kính an toàn sẽ thuộc nhóm 90.04"
+    },
+    {
+      "ma": "04-15-20",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9603 sang 5911 khớp sát nội dung câu trích nguồn nhom9603.nhom.",
+      "chungMinh": "Đĩa và miếng gạc để đánh bóng, làm bằng chất liệu dệt (nhóm 59.11)"
+    },
+    {
+      "ma": "04-15-21",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9305 sang 9603 khớp sát nội dung câu trích nguồn nhom9305.nhom.",
+      "chungMinh": "que lau nòng súng và các dụng cụ khác để lau chùi vũ khí (nhóm 82.05, 96.03, vv....)."
+    },
+    {
+      "ma": "04-15-22",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9603 sang 8473 khớp sát nội dung câu trích nguồn nhom9603.nhom.",
+      "chungMinh": "Đĩa để lau ổ đĩa trong các máy ADP,... (nhóm 84.73)"
+    },
+    {
+      "ma": "04-15-23",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9209 sang 9603 khớp sát nội dung câu trích nguồn nhom9209.nhom.",
+      "chungMinh": "(g) Chổi làm sạch cho sáo, kèn ôboa,... (nhóm 96.03)."
+    },
+    {
+      "ma": "04-15-24",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8431 sang 5910 khớp sát nội dung câu trích nguồn nhom8431.nhom.",
+      "chungMinh": "Băng chuyền hoặc băng tải hoặc dây đai, làm bằng plastic (Chương 39), bằng cao su lưu hoá (nhóm 40.10), bằng da (nhóm 42.05) hoặc bằng vật liệu dệt (nhóm 59.10)."
+    },
+    {
+      "ma": "04-15-25",
+      "ketLuan": "SAI",
+      "vi": "Nhóm đích 8502 không khớp câu trích: câu trích xếp tay biên, thanh đẩy và con đội xú pắp vào nhóm 84.09 (và trục khuỷu/cam/bánh đà vào 84.83), không phải 85.02.",
+      "chungMinh": "Tuy nhiên, nhóm này trừ các bộ phận bên trong động cơ như tay biên (tay dên), thanh đẩy (xú bắp) và con đội xú pắp thuộc nhóm 84.09 và các trục khuỷu, trục cam và bánh đà thuộc nhóm 84.83."
+    },
+    {
+      "ma": "04-15-26",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8428 sang 8431 khớp sát nội dung câu trích nguồn nhom8428.nhom.",
+      "chungMinh": "Khi được hiện diện riêng biệt, chúng được phân loại ở nhóm 84.31 với điều kiện là chúng được gắn hoặc được thiết kế để gắn các cấu trúc cơ khí cần thiết để vận hành các phần chuyển động của máy đã lắp ráp hoàn thiện (bánh xe, trục quay, pull, rãnh trượt hoặc ray dẫn hướng...). Nếu không, các thành phần kết cấu này sẽ được phân loại ở nhóm 73.08."
+    },
+    {
+      "ma": "04-15-27",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8426 sang 8431 khớp sát nội dung câu trích nguồn nhom8426.nhom.",
+      "chungMinh": "các bộ phận của các máy móc thuộc nhóm này được xếp trong nhóm 84.31."
+    },
+    {
+      "ma": "04-15-28",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7007 sang 7008 khớp sát nội dung câu trích nguồn nhom7007.nhom.",
+      "chungMinh": "Kính hộp nhiều lớp, ví dụ kính bao gồm một một hoặc hai tấm kính có một lớp xen giữa bằng sợi thủy tinh, sẽ thuộc nhóm 70.08."
+    },
+    {
+      "ma": "04-15-29",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9601 sang 9603 khớp sát nội dung câu trích nguồn nhom9601.nhom.",
+      "chungMinh": "Nhóm này cũng không bao gồm: … (m) Các vật phẩm của nhóm 96.03 (ví dụ, chổi và bàn chải)"
+    },
+    {
+      "ma": "04-15-30",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 3923 sang 6305 khớp sát nội dung câu trích nguồn nhom3923.nhom.",
+      "chungMinh": "các vật chứa đựng thuộc nhóm 42.02 và túi, bao đựng hàng loại lớn có thể gấp, mở linh hoạt của nhóm 63.05."
+    },
+    {
+      "ma": "04-15-31",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8431 sang 7308 khớp sát nội dung câu trích nguồn nhom8431.nhom.",
+      "chungMinh": "Thanh giằng kiểu ống lồng hoặc có điều chỉnh (nhóm 73.08)."
+    },
+    {
+      "ma": "04-15-32",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8714 sang 9603 khớp sát nội dung câu trích nguồn phan87.phan.",
+      "chungMinh": "(l) Bàn chải các loại được sử dụng như là bộ phận của các phương tiện (nhóm 96.03)."
+    },
+    {
+      "ma": "04-15-33",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8429 sang 8431 khớp sát nội dung câu trích nguồn nhom8429.nhom.",
+      "chungMinh": "các bộ phận của các máy móc thuộc nhóm này, đặc biệt là các dụng cụ làm việc (lưỡi ủi, gầu xúc...) kể cả có hoặc không được gắn với cần và các xi lanh khí hoặc thủy lực, thích hợp để gắn trực tiếp lên trên bệ đẩy, được phân loại ở nhóm 84.31."
+    },
+    {
+      "ma": "04-15-34",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9603 sang 8448 khớp sát nội dung câu trích nguồn nhom9603.nhom.",
+      "chungMinh": "Kim chải (nhóm 84.48)"
+    },
+    {
+      "ma": "04-15-35",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9603 sang 9616 khớp sát nội dung câu trích nguồn nhom9603.nhom.",
+      "chungMinh": "Nùi bông thoa phấn dùng trong trang điểm hoặc các sản phẩm vệ sinh (nhóm 96.16)"
+    },
+    {
+      "ma": "04-15-36",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 5404 sang 9603 khớp sát nội dung câu trích nguồn nhom5404.nhom.",
+      "chungMinh": "Các thắt nút và búi sợi đã được chuẩn bị sẵn để làm bàn chải (nhóm 96.03)"
+    },
+    {
+      "ma": "04-15-37",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9603 sang 9010 khớp sát nội dung câu trích nguồn nhom9603.nhom.",
+      "chungMinh": "không bao gồm chổi cao su dùng con lăn, gồm một hoặc nhiều con lăn lắp trên một tay cầm và được dùng trong nghề chụp ảnh (nhóm 90.10)"
+    },
+    {
+      "ma": "04-15-38",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9603 sang 9018 khớp sát nội dung câu trích nguồn nhom9603.nhom.",
+      "chungMinh": "Bàn chải chuyên dụng dùng trong nha khoa hoặc y tế, giải phẫu, hoặc thú y (bàn chải soi họng, bàn chải được thiết kế để gắn trên máy khoan răng) (nhóm 90.18)"
+    },
+    {
+      "ma": "04-15-39",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9603 sang 9503 khớp sát nội dung câu trích nguồn nhom9603.nhom.",
+      "chungMinh": "Bàn chải mang tính chất đồ chơi (nhóm 95.03)"
+    },
+    {
+      "ma": "04-15-40",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8480 sang 8207 khớp sát nội dung câu trích nguồn nhom8480.nhom.",
+      "chungMinh": "Nhóm này loại trừ các khuôn dập thuộc nhóm 82.07 vì những khuôn này tạo hình vật liệu chỉ dùng lực thổi hoặc nén (ví dụ, khuôn để dập miếng kim loại)."
+    }
+  ]
+}
