@@ -1,0 +1,107 @@
+{
+  "khuon": "soat@1",
+  "viec": "03",
+  "lo": 15,
+  "kq": [
+    {
+      "ma": "03-15-01",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 73.12 loại trừ trực tiếp dây cáp điện có cách điện sang nhóm 85.44, giữ lại cáp thép không cách điện.",
+      "chungMinh": "(b) Dây cáp điện có cách điện (nhóm 85.44)."
+    },
+    {
+      "ma": "03-15-02",
+      "ketLuan": "SUA",
+      "vi": "Đúng chiều phân loại theo chú giải 82.04 nhưng vế neu chép nguyên văn câu loại trừ kèm dấu ngoặc thừa 'thanh vặn tarô)'; cần viết lại gọn gàng.",
+      "sua": {
+        "neu": "thanh vặn tarô (tap wrench) bằng tay",
+        "conNeu": "cờ lê và thanh vặn đai ốc bằng tay"
+      },
+      "chungMinh": "Tuy vậy nhóm này không bao gồm thanh vặn tarô) (nhóm 82.05)."
+    },
+    {
+      "ma": "03-15-03",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 74.18 loại trừ dụng cụ nhiệt điện gia dụng sang nhóm 85.16, giữ lại dụng cụ nấu ăn bằng đồng không dùng điện.",
+      "chungMinh": "(f) Thiết bị gia dụng của chương 85 (đặc biệt các dụng cụ và thiết bị của nhóm 85.09 và 85.16)"
+    },
+    {
+      "ma": "03-15-04",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 84.83 áp dụng cho bộ phận cơ khí chuyên biệt truyền lực, tách khỏi dây thép bện/cáp công dụng chung nhóm 73.12.",
+      "chungMinh": "(i) Các bộ phận cơ khí chuyên biệt, được dùng để truyền lực từ nguồn ngoại lực vào một hoặc nhiều máy."
+    },
+    {
+      "ma": "03-15-05",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 76.04 loại trừ điện cực hàn bọc phủ hoặc có lõi chất trợ dung sang nhóm 83.11, hai vế đúng chiều.",
+      "chungMinh": "(b) Các điện cực hàn đã được bọc phủ,.... (nhóm 83.11)"
+    },
+    {
+      "ma": "03-15-06",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 74.18 và 73.23 tách đồ nhà bếp/gia dụng theo chất liệu đồng (74.18) với sắt hoặc thép (73.23).",
+      "chungMinh": "Chú giải Chi tiết nhóm 73.21, 73.23 và 73.24 áp dụng, với những sửa đổi phù hợp, cho nhóm này."
+    },
+    {
+      "ma": "03-15-07",
+      "ketLuan": "BO",
+      "vi": "Đảo ngược hoàn toàn hai vế: điện trở bán dẫn phi tuyến (thermistor, varistor) bị loại trừ khỏi 85.41 sang nhóm 85.33, còn linh kiện bán dẫn tiếp giáp p-n/quang điện thuộc nhóm 85.41.",
+      "chungMinh": "Tuy nhiên, nhóm này không bao gồm các linh kiện bán dẫn khác với các linh kiện bán dẫn mô tả trên"
+    },
+    {
+      "ma": "03-15-08",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 76.04 áp dụng cho thanh, que, dạng hình nhôm theo Chú giải 9(a)-(b) Phần XV, tách khỏi nhôm chưa gia công thuộc 76.01.",
+      "chungMinh": "Các sản phẩm này được định nghĩa trong chú giải 9 (a) và 9 (b) Phần XV"
+    },
+    {
+      "ma": "03-15-09",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 76.04 theo Chú giải 9(a)-(b) Phần XV tách biệt rõ với lá nhôm mỏng không quá 0,2 mm theo Chú giải 9(d) thuộc nhóm 76.07.",
+      "chungMinh": "Các sản phẩm này được định nghĩa trong chú giải 9 (a) và 9 (b) Phần XV"
+    },
+    {
+      "ma": "03-15-10",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 76.04 loại trừ thanh và dạng hình đã gia công/gắn kết chuyên dùng cho các kết cấu sang nhóm 76.10.",
+      "chungMinh": "(a) Các thanh và các dạng hình, dùng cho trong các kết cấu (nhóm 76.10)."
+    },
+    {
+      "ma": "03-15-11",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 74.18 loại trừ thiết bị nấu nước nóng/máy pha cà phê thương mại thuộc nhóm 84.19, giữ lại bếp nấu gia dụng bằng đồng.",
+      "chungMinh": "(e) Các máy, thiết bị làm nóng, nấu, rang, chưng cất,...hoặc các thiết bị thí nghiệm tương tự thuộc nhóm 84.19"
+    },
+    {
+      "ma": "03-15-12",
+      "ketLuan": "BO",
+      "vi": "Đảo ngược hoàn toàn hai vế: khuôn bất kỳ làm bằng gốm chịu lửa bị loại trừ khỏi 84.80 sang nhóm 69.03 (hoặc 69.09), còn khuôn không bằng gốm dùng đúc bột gốm nhão thuộc nhóm 84.80.",
+      "chungMinh": "(c) Khuôn bất kỳ làm bằng gốm (nhóm 69.03 hoặc 69.09 tùy trường hợp)."
+    },
+    {
+      "ma": "03-15-13",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 74.18 loại trừ trực tiếp đồ trang trí sang nhóm 83.06, hai vế đúng chiều.",
+      "chungMinh": "(d) Đồ trang trí thuộc nhóm 83.06."
+    },
+    {
+      "ma": "03-15-14",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 76.04 (thanh, que, dạng hình theo Chú giải 9(a)-(b)) tách biệt rõ với ống và ống dẫn theo Chú giải 9(e) thuộc nhóm 76.08.",
+      "chungMinh": "Các sản phẩm này được định nghĩa trong chú giải 9 (a) và 9 (b) Phần XV"
+    },
+    {
+      "ma": "03-15-15",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 74.18 loại trừ trực tiếp đèn xì sang nhóm 82.05, giữ lại dụng cụ làm nóng/bếp nấu gia dụng bằng đồng.",
+      "chungMinh": "(b) Đèn xì (nhóm 82.05)."
+    },
+    {
+      "ma": "03-15-16",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 74.18 loại trừ sàng tay sang nhóm 96.04, hai vế đúng chiều và chính xác.",
+      "chungMinh": "(h) Sàng tay (nhóm 96.04)."
+    }
+  ]
+}

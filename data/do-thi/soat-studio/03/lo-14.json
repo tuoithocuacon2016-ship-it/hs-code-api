@@ -1,0 +1,103 @@
+{
+  "khuon": "soat@1",
+  "viec": "03",
+  "lo": 14,
+  "kq": [
+    {
+      "ma": "03-14-01",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 85.22 bao gồm bộ phận phụ trợ như đầu kim đĩa hát bằng saphia/kim cương, tách khỏi sản phẩm đá quý khác thuộc 71.16.",
+      "chungMinh": "nhóm này bao gồm các bộ phận và thiết bị phụ trợ"
+    },
+    {
+      "ma": "03-14-02",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 73.12 loại trừ trực tiếp dây thép gai và dây kép xoắn lỏng không gai làm hàng rào sang nhóm 73.13.",
+      "chungMinh": "(a) Dây thép gai, và dây kép xoắn lỏng, không có gai để làm hàng rào (\"torsades\") (nhóm 73.13)."
+    },
+    {
+      "ma": "03-14-03",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 73.12 gồm dây bện tao xoắn chặt từ hai hay nhiều dây đơn, phân biệt với dây đơn bằng sắt thép không hợp kim thuộc 72.17.",
+      "chungMinh": "Nhóm này bao gồm dây bện tao (hoặc cáp dây) thu được bằng cách xoắn chặt hai hay nhiều dây đơn lại với nhau"
+    },
+    {
+      "ma": "03-14-04",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 73.11 loại trừ các loại ắc quy hơi nước sang nhóm 84.04, giữ lại bình chứa khí nén trong nhóm 73.11.",
+      "chungMinh": "Nhóm này loại trừ các loại ắc quy hơi nước (nhóm 84.04)"
+    },
+    {
+      "ma": "03-14-05",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 73.04 loại trừ ống và thanh rỗng đã làm thành sản phẩm đặc thù nhận dạng dùng trong kết cấu sang nhóm 73.08.",
+      "chungMinh": "(f) Các ống, ống dẫn và các thanh dạng rỗng được làm thành những sản phẩm đặc thù có thể nhận dạng"
+    },
+    {
+      "ma": "03-14-06",
+      "ketLuan": "BO",
+      "vi": "Đảo ngược hoàn toàn hai vế: giấy dạng tờ hình chữ nhật chưa cắt hình khác thuộc 48.02, còn khi bị cắt thành hình dạng khác hình chữ nhật mới thuộc 48.23.",
+      "chungMinh": "Nếu chúng bị cắt thành bất kỳ hình dạng nào khác, chúng thuộc các nhóm sau của Chương này (ví dụ, nhóm 48.17, 48.21 hoặc 48.23)."
+    },
+    {
+      "ma": "03-14-07",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 73.04 loại trừ các thanh khoan rỗng đạt định nghĩa Chú giải 1(p) Chương 72 sang nhóm 72.28, hai vế đúng chiều.",
+      "chungMinh": "(loại trừ các thanh khoan rỗng thuộc nhóm"
+    },
+    {
+      "ma": "03-14-08",
+      "ketLuan": "BO",
+      "vi": "Đảo ngược hoàn toàn hai vế: thẻ thông minh in sẵn theo Chú giải 4(b) Chương 85 bị loại trừ khỏi 49.11 sang nhóm 85.23, còn thẻ giấy in sẵn thông thường thuộc 49.11.",
+      "chungMinh": "(e) “Thẻ thông minh” in sẵn (kể cả thẻ hoặc nhãn an ninh) như đã định nghĩa tại Chú giải 4 (b) của Chương 85 (nhóm 85.23)."
+    },
+    {
+      "ma": "03-14-09",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 73.04 loại trừ trực tiếp ống dẫn dây điện đã được cách điện sang nhóm 85.47, hai vế đúng chiều.",
+      "chungMinh": "(e) Ống dẫn được cách điện (nhóm 85.47)."
+    },
+    {
+      "ma": "03-14-10",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 73.04 loại trừ ống có mối hàn/tán đinh thuộc nhóm 73.05 (đường kính ngoài trên 406,4 mm), giữ lại ống không mối nối.",
+      "chungMinh": "(a) Ống và ống dẫn bằng gang đúc (nhóm 73.03) và các ống và ống dẫn bằng sắt hoặc thép thuộc nhóm 73.05 hay 73.06."
+    },
+    {
+      "ma": "03-14-11",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 73.09 loại trừ đồ chứa khí nén và khí hóa lỏng sang nhóm 73.11, giữ lại thùng chứa trên 300 lít cho chất lỏng/rắn khác.",
+      "chungMinh": "Nhóm này bao gồm các đồ chứa cho bất kỳ vật liệu nào trừ khí nén và khí hoá lỏng."
+    },
+    {
+      "ma": "03-14-12",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 73.04 loại trừ ống và thanh dạng rỗng có mối nối/hàn thuộc nhóm 73.06, giữ lại ống không mối nối trong 73.04.",
+      "chungMinh": "(b) Các thanh dạng rỗng bằng gang đúc (nhóm 73.03) và các thanh dạng rỗng bằng sắt hoặc thép thuộc nhóm 73.06."
+    },
+    {
+      "ma": "03-14-13",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 73.04 loại trừ trực tiếp ống và ống dẫn làm bằng gang đúc sang nhóm 73.03, hai vế chuẩn xác.",
+      "chungMinh": "(a) Ống và ống dẫn bằng gang đúc (nhóm 73.03)"
+    },
+    {
+      "ma": "03-14-14",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 71.16 bao gồm tượng nhỏ và đồ trang trí thông thường bằng đá quý, tách khỏi tác phẩm điêu khắc nguyên bản thuộc 97.03.",
+      "chungMinh": "tượng nhỏ và các đồ trang trí (ví dụ: bằng ngọc bích);"
+    },
+    {
+      "ma": "03-14-15",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 73.12 gồm thừng/cáp xoắn từ các tao dây sắt thép, tách biệt rõ với xích bản lề hoặc xích mắt nối thuộc nhóm 73.15.",
+      "chungMinh": "Nhóm này bao gồm dây bện tao (hoặc cáp dây) thu được bằng cách xoắn chặt hai hay nhiều dây đơn lại với nhau"
+    },
+    {
+      "ma": "03-14-16",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 73.12 áp dụng cho dây bện tao/cáp sắt thép dùng nâng kéo, tách biệt với lò xo có tính đàn hồi thuộc nhóm 73.20.",
+      "chungMinh": "Nhóm này bao gồm dây bện tao (hoặc cáp dây) thu được bằng cách xoắn chặt hai hay nhiều dây đơn lại với nhau"
+    }
+  ]
+}
