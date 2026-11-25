@@ -1,0 +1,103 @@
+{
+  "khuon": "soat@1",
+  "viec": "03",
+  "lo": 22,
+  "kq": [
+    {
+      "ma": "03-22-01",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 90.05 loại trừ kính lục phân xác định vị trí mặt đất so với thiên thể sang nhóm 90.14, giữ lại kính thiên văn quan sát bầu trời.",
+      "chungMinh": "(e) Các dụng cụ (ví dụ kính lục phân) dùng để xác định một vị trí trên mặt đất so với các tinh thể vũ trụ"
+    },
+    {
+      "ma": "03-22-02",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 90.31 gồm dụng cụ điện chuyên dụng đo ứng lực và biến dạng vật liệu, phân biệt với dây điện trở đo biến dạng thuộc 85.33.",
+      "chungMinh": "(29) Các dụng cụ điện chuyên dụng đo ứng lực, ứng suất và biến dạng của vật liệu."
+    },
+    {
+      "ma": "03-22-03",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 90.11 bao gồm kính hiển vi có gắn cố định máy ảnh chụp hiển vi, tách khỏi máy ảnh rời thuộc nhóm 90.06.",
+      "chungMinh": "Chúng có thể bao gồm hoặc là một kính hiển vi có gắn cố định một máy ảnh hay máy quay phim"
+    },
+    {
+      "ma": "03-22-04",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 90.05 loại trừ kính hiển vi thiên thực dùng so sánh ảnh bầu trời sang nhóm 90.11, giữ lại kính viễn vọng quan sát trực tiếp.",
+      "chungMinh": "(c) Các kính hiển vi thiên thực, dùng trong thiên văn học để phát hiện những ngôi sao mới bằng so sánh các tấm"
+    },
+    {
+      "ma": "03-22-05",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 90.05 loại trừ máy kinh vĩ cỡ nhỏ dùng trong trắc địa sang nhóm 90.15, giữ lại kính phương vị/định vị mặt trời thiên văn.",
+      "chungMinh": "Máy kinh vĩ được thiết kế theo cùng một nguyên lý, nhưng cỡ nhỏ hơn, được dùng trong trắc địa bị loại trừ"
+    },
+    {
+      "ma": "03-22-06",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 90.05 gộp máy ảnh là bộ phận không thể thiếu của kính thiên văn vào 90.05, còn máy ảnh không phải bộ phận không thể thiếu thuộc 90.06.",
+      "chungMinh": "Khi có máy ảnh là bộ phận không thể thiếu của kính thiên văn, thì tập hợp đó được phân loại vào nhóm này"
+    },
+    {
+      "ma": "03-22-07",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 90.11 loại trừ máy chiếu biên dạng và thiết bị so sánh quang học không phải kính hiển vi sang nhóm 90.31.",
+      "chungMinh": "(e) Các máy chiếu biên dạng và các thiết bị khác có dụng cụ quang học để kiểm tra các bộ phận cơ khí"
+    },
+    {
+      "ma": "03-22-08",
+      "ketLuan": "BO",
+      "vi": "Đảo ngược hoàn toàn hai vế: đồ lót, đồ ngủ và áo choàng mặc trong nhà thuộc nhóm 62.08, còn áo sơ mi/áo mặc ngoài che phần trên cơ thể thuộc nhóm 62.06.",
+      "chungMinh": "áo choàng mặc ở nhà và các loại áo tương tự (các loại áo này thường mặc trong nhà)."
+    },
+    {
+      "ma": "03-22-09",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 90.11 loại trừ trực tiếp con trượt và nắp mẫu bằng thủy tinh sang nhóm 70.17, hai vế đúng chiều.",
+      "chungMinh": "(a) Các con trượt hoặc nắp mẫu, bằng thủy tinh (nhóm 70.17)."
+    },
+    {
+      "ma": "03-22-10",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 90.12 phân biệt kính hiển vi điện tử (dùng chùm điện tử) với kính hiển vi quang học (dùng thấu kính và tia sáng) thuộc 90.11.",
+      "chungMinh": "(A) Các kính hiển vi điện tử, khác với kính hiển vi quang học ở chỗ chúng dùng những chùm điện tử thay vì các"
+    },
+    {
+      "ma": "03-22-11",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 90.11 loại trừ kính hiển vi kiểu ống nhòm dùng trong nhãn khoa sang nhóm 90.18, giữ lại kính hiển vi phẫu thuật 3 chiều.",
+      "chungMinh": "(b) Các \"kính hiển vi\" kiểu ống nhòm dùng trong nhãn khoa (nhóm 90.18)."
+    },
+    {
+      "ma": "03-22-12",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 90.05 loại trừ kính ngắm vũ khí, kính tiềm vọng và thiết bị ngắm quang học lắp trên máy sang nhóm 90.13.",
+      "chungMinh": "(d) Thiết bị ngắm qua cửa (nhóm 90.13)."
+    },
+    {
+      "ma": "03-22-13",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 90.05 loại trừ vi quang kế và vi tỷ trọng kế nghiên cứu ảnh phổ sang nhóm 90.27, giữ lại kính quang phổ mặt trời.",
+      "chungMinh": "(f) Các vi quang kế hoặc các vi tỷ trọng kế dùng trong nghiên cứu các ảnh phổ (nhóm 90.27)."
+    },
+    {
+      "ma": "03-22-14",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 90.11 phân tách kính khuếch đại một bước công suất thấp (90.13) với kính hiển vi phức hợp khuếch đại hai bước (90.11).",
+      "chungMinh": "Trong khi các bộ khuyếch đại nhóm 90.13 chỉ có một bước khuyếch đại với công suất tương đối thấp"
+    },
+    {
+      "ma": "03-22-15",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 90.31 giữ dụng cụ đo quang học trong 90.31 kể cả khi lắp trên máy công cụ, tách với phụ tùng cân chỉnh đầu chia thuộc 84.66.",
+      "chungMinh": "Những công cụ và thiết bị nói trên vẫn được phân loại trong nhóm này kể cả khi chúng có phù hợp để lắp trên máy"
+    },
+    {
+      "ma": "03-22-16",
+      "ketLuan": "BO",
+      "vi": "Đảo ngược hoàn toàn hai vế: bu lông và đai ốc dùng lắp ráp/cố định ống dẫn bị loại trừ khỏi 74.12 sang nhóm 74.15, không phải phân vào 74.12.",
+      "chungMinh": "(a) Bu lông và đai ốc sử dụng để lắp ráp hoặc cố định ống và ống dẫn (nhóm 74.15)."
+    }
+  ]
+}

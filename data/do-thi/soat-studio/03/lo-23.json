@@ -1,0 +1,103 @@
+{
+  "khuon": "soat@1",
+  "viec": "03",
+  "lo": 23,
+  "kq": [
+    {
+      "ma": "03-23-01",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 90.31 loại trừ kính hiển vi không quang học sang nhóm 90.12, giữ lại dụng cụ đo kiểm tra thuộc nhóm 90.31.",
+      "chungMinh": "(b) Kính hiển vi (nhóm 90.11 hoặc 90.12)"
+    },
+    {
+      "ma": "03-23-02",
+      "ketLuan": "BO",
+      "vi": "Đảo ngược hoàn toàn hai vế: vật dẫn cung cấp trở kháng hạn chế dòng điện là điện trở thuộc nhóm 85.33, còn linh kiện tích điện (tụ điện) thuộc nhóm 85.32.",
+      "chungMinh": "(A) Điện trở (trở kháng). Chúng đều là những vật dẫn có chức năng cung cấp mức trở kháng đã định vào mạch điện"
+    },
+    {
+      "ma": "03-23-03",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 91.07 loại trừ hộp (vỏ) của thiết bị đóng ngắt định giờ khi trình bày riêng sang nhóm 91.12, hai vế đúng chiều.",
+      "chungMinh": "Nhóm này không bao gồm những mặt hàng sau nếu được trình bày riêng: hộp (vỏ) cho các thiết bị được mô tả"
+    },
+    {
+      "ma": "03-23-04",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 90.31 loại trừ dụng cụ, thiết bị đo lưu lượng, mức, áp suất chất lỏng hoặc khí sang nhóm 90.26.",
+      "chungMinh": "(g) Dụng cụ, thiết bị đo lưu lượng... thuộc nhóm 90.26."
+    },
+    {
+      "ma": "03-23-05",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 90.31 bao gồm giao thoa kế kiểm tra độ phẳng bề mặt, tách biệt với giao thoa kế đo chỉ số khúc xạ thuộc nhóm 90.27.",
+      "chungMinh": "(4) Các giao thoa kế để kiểm tra độ phẳng các bề mặt dựa trên nguyên lý giao thoa ánh sáng"
+    },
+    {
+      "ma": "03-23-06",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 90.31 loại trừ dụng cụ đo chiều dài dùng tay sang nhóm 90.17, giữ lại máy so sánh/đo dùng cảm biến điện tử, quang điện, khí nén.",
+      "chungMinh": "(d) Dụng cụ đo chiều dài, dùng tay (nhóm 90.17)."
+    },
+    {
+      "ma": "03-23-07",
+      "ketLuan": "BO",
+      "vi": "Đảo ngược hoàn toàn hai vế: giấy dùng viết, in, đồ bản thuộc nhóm 48.02, còn giấy dùng trong gia đình làm giấy vệ sinh bị loại trừ sang nhóm 48.03.",
+      "chungMinh": "(b) Giấy của nhóm 48.03."
+    },
+    {
+      "ma": "03-23-08",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 90.31 loại trừ trực tiếp dụng cụ thiên văn thuộc nhóm 90.05, giữ lại dụng cụ đo kiểm tra kỹ thuật.",
+      "chungMinh": "(a) Dụng cụ thiên vãn thuộc nhóm 90.05."
+    },
+    {
+      "ma": "03-23-09",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 90.31 loại trừ dụng cụ và thiết bị điều chỉnh hoặc kiểm soát tự động sang nhóm 90.32, hai vế đúng chiều.",
+      "chungMinh": "(ij) Dụng cụ và thiết bị để điều chỉnh hoặc kiểm soát tự động (nhóm 90.32)."
+    },
+    {
+      "ma": "03-23-10",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 90.13 loại trừ dụng cụ quang học dùng để đo hoặc kiểm tra sang nhóm 90.31, giữ lại dụng cụ quang học không dùng đo kiểm.",
+      "chungMinh": "Theo Chú giải 5 của Chương này, các máy móc, thiết bị và dụng cụ quang học để đo hoặc để kiểm tra bị loại trừ"
+    },
+    {
+      "ma": "03-23-11",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 91.07 xác định thiết bị thiết kế chủ yếu tự động nối/ngắt mạch điện theo thời điểm định trước, tách khỏi thiết bị ghi thời gian 91.06.",
+      "chungMinh": "được thiết kế chủ yếu để tự động nối hoặc ngắt mạch điện tại thời điểm đã định"
+    },
+    {
+      "ma": "03-23-12",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 84.82 gồm ổ bi, ổ đũa và bi ổ bi, phân tách rõ với thiết bị đóng ngắt định giờ có máy đồng hồ thuộc nhóm 91.07.",
+      "chungMinh": "Nhóm này bao gồm tất cả ổ bi, ổ đũa, ổ đũa hình kim."
+    },
+    {
+      "ma": "03-23-13",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 90.31 loại trừ kính hiển vi quang học phức hợp thuộc nhóm 90.11, giữ lại bàn đo kiểm tra gắn kính hiển vi vi kế.",
+      "chungMinh": "(b) Kính hiển vi (nhóm 90.11 hoặc 90.12)"
+    },
+    {
+      "ma": "03-23-14",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 90.31 gồm giao thoa kế kết hợp mặt phẳng chuẩn với thấu kính/dây chữ thập, tách với mặt phẳng quang học chuẩn trình bày riêng (90.01).",
+      "chungMinh": "gồm một mặt phẳng quang học chuẩn với các thấu kính cùng các dây chữ thập vi kế để đo các đám vân giao thoa."
+    },
+    {
+      "ma": "03-23-15",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 90.31 loại trừ trực tiếp dụng cụ và thiết bị y học, giải phẫu sang nhóm 90.18, hai vế đúng chiều.",
+      "chungMinh": "(e) Dụng cụ và thiết bị y học, giải phẫu, v.v... thuộc nhóm 90.18."
+    },
+    {
+      "ma": "03-23-16",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 90.31 loại trừ dụng cụ quan trắc độ cao đất liền sang nhóm 90.15, giữ lại ống thủy chuẩn bọt khí/nghiêng kế kiểm tra xưởng.",
+      "chungMinh": "(c) Dụng cụ và thiết bị về quan trắc... thuộc nhóm 90.15."
+    }
+  ]
+}

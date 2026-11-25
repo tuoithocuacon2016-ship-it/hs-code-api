@@ -1,0 +1,103 @@
+{
+  "khuon": "soat@1",
+  "viec": "03",
+  "lo": 21,
+  "kq": [
+    {
+      "ma": "03-21-01",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 87.12 xác nhận xe đạp hai bánh bàn đạp chân chế tạo đặc biệt cho người tàn tật vẫn thuộc 87.12, tách với xe lăn nhóm 87.13.",
+      "chungMinh": "Xe đạp hai bánh được chế tạo đặc biệt cho người tàn tật (ví dụ như xe có gắn bộ phận đặc biệt cho phép đạp bằng một chân"
+    },
+    {
+      "ma": "03-21-02",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 86.08 loại trừ biển báo hiệu không có tính chất cơ khí bằng kim loại sang nhóm 83.10, giữ lại thiết bị báo tín hiệu cơ khí.",
+      "chungMinh": "Loại này không bao gồm các biển báo hiệu cho đường bộ, đường ray v.v.... không có tính chất cơ khí"
+    },
+    {
+      "ma": "03-21-03",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 86.08 loại trừ cột tháp, giá cáp điện và chắn vượt kết cấu sắt thép sang nhóm 73.08, giữ lại thiết bị điều khiển chắn tàu.",
+      "chungMinh": "Các cột tháp và cổng dùng làm giá cho cáp điện không được xem là bộ phận cố định và ghép nối cho đường sắt"
+    },
+    {
+      "ma": "03-21-04",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 87.12 tách xe đạp dùng di chuyển thực tế khỏi mô hình thiết kế chỉ cho mục đích trưng bày thuộc nhóm 90.23.",
+      "chungMinh": "được thiết kế không sử dụng cho mục đích nào khác ngoài mục đích trưng bày"
+    },
+    {
+      "ma": "03-21-05",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 87.12 loại trừ trực tiếp xe đạp đặc biệt chỉ dùng cho các trò vui trong hội chợ sang nhóm 95.08.",
+      "chungMinh": "(c) Xe đạp đặc biệt chỉ dùng cho các trò vui trong hội chợ (nhóm 95.08)"
+    },
+    {
+      "ma": "03-21-06",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 86.08 chỉ gồm thiết bị tín hiệu vận hành cơ khí kể cả cơ-điện, tách khỏi thiết bị hoạt động bằng điện thuộc 85.30.",
+      "chungMinh": "Với điều kiện chúng được vận hành bằng cơ khí hoặc cơ - điện như được mô tả ở trên"
+    },
+    {
+      "ma": "03-21-07",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 87.12 áp dụng cho xe đạp không lắp động cơ chạy bằng bàn đạp, còn loại gắn động cơ phụ trợ thuộc nhóm 87.11.",
+      "chungMinh": "các xe đạp không lắp động cơ, nghĩa là có một hoặc nhiều bánh chuyển động nhờ các bàn đạp"
+    },
+    {
+      "ma": "03-21-08",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 85.46 gồm vật cách điện cố định, đỡ, dẫn hướng dây dẫn, tách biệt với tấm gia công làm bảng điều khiển thuộc 85.38.",
+      "chungMinh": "Vật cách điện thuộc nhóm này được dùng để cố định, đỡ hoặc dẫn hướng các dây dẫn điện"
+    },
+    {
+      "ma": "03-21-09",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 85.47 gồm phụ kiện làm hoàn toàn bằng vật liệu cách điện cho thiết bị điện, tách khỏi tấm bảng điều khiển gia công sẵn 85.38.",
+      "chungMinh": "(A) PHỤ KIỆN CÁCH ĐIỆN DÙNG CHO MÁY ĐIỆN, DỤNG CỤ ĐIỆN HAY THIẾT BỊ ĐIỆN, ĐƯỢC LÀM HOÀN TOÀN BẰNG VẬT LIỆU CÁCH ĐIỆN"
+    },
+    {
+      "ma": "03-21-10",
+      "ketLuan": "BO",
+      "vi": "Đảo ngược hoàn toàn hai vế: giấy chỉ qua xử lý trong phạm vi Chú giải 3 Chương 48 thuộc nhóm 48.02, còn giấy đã qua xử lý tráng phủ ngoài Chú giải 3 mới thuộc nhóm 48.11.",
+      "chungMinh": "Giấy và bìa đã qua cách xử lý khác, bị loại trừ (nói chung, thuộc các nhóm từ 48.06 đến 48.11)."
+    },
+    {
+      "ma": "03-21-11",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 86.08 loại trừ trực tiếp tà vẹt đường sắt bằng gỗ chưa lắp ráp sang nhóm 44.06, giữ lại đường ray đã lắp ráp cố định.",
+      "chungMinh": "Nhóm này không bao gồm các tà vẹt bằng gỗ (nhóm 44.06)"
+    },
+    {
+      "ma": "03-21-12",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 87.12 bao gồm xe đạp hai bánh cho trẻ em và loại trừ xe trẻ em khác (như xe ba bánh) sang nhóm 95.03.",
+      "chungMinh": "(b) Các xe đạp dùng cho trẻ em (trừ xe đạp hai bánh cho trẻ em) (thuộc nhóm 9503)"
+    },
+    {
+      "ma": "03-21-13",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 86.08 loại trừ sàn chuyển toa xe, thiết bị lật toa và đẩy xe goòng sang nhóm 84.28, giữ lại vòng quay/bệ giảm chấn cố định.",
+      "chungMinh": "Tuy nhiên, nhóm này không bao gồm các đầu máy hoặc sàn chuyển toa xe"
+    },
+    {
+      "ma": "03-21-14",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 87.14 gồm bộ phận và phụ kiện rời chỉ dùng cho xe nhóm 87.12, tách khỏi cụm bộ phận có đặc trưng xe hoàn chỉnh (87.12).",
+      "chungMinh": "Nhóm này gồm các bộ phận và phụ kiện dùng cho xe môtô (kể cả xe máy gắn bàn đạp), cho các xe đạp có động cơ phụ trợ"
+    },
+    {
+      "ma": "03-21-15",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 85.48 loại trừ bộ phận chuyên dùng cho thiết bị cụ thể (như thiết bị đóng ngắt thuộc 85.38), hai vế đúng chiều.",
+      "chungMinh": "Nhóm này cũng bao gồm tất cả các bộ phận điện trong máy, hoặc thiết bị trừ: (a) Các bộ phận chỉ dùng hoặc chủ yếu dùng"
+    },
+    {
+      "ma": "03-21-16",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 86.08 loại trừ ray, tà vẹt và vật liệu xây dựng đường ray tháo rời bằng sắt thép sang nhóm 73.02, giữ lại đường ray lắp ráp sẵn.",
+      "chungMinh": "và các tà vẹt, ray hoặc các bộ phận khác của vật liệu xây dựng đường ray tháo rời, bằng sắt hoặc thép"
+    }
+  ]
+}

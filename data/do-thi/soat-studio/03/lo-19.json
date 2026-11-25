@@ -1,0 +1,103 @@
+{
+  "khuon": "soat@1",
+  "viec": "03",
+  "lo": 19,
+  "kq": [
+    {
+      "ma": "03-19-01",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 84.59 bao gồm máy công cụ khoan, doa, phay, cắt ren, tarô ren kim loại, phân biệt với máy bào, xọc, chuốt, cắt răng cưa 84.61.",
+      "chungMinh": "Nhóm này bao gồm máy công cụ dùng để khoan, doa, phay, cắt ren hoặc tarô ren bằng cách cắt hoặc bóc tách kim loại"
+    },
+    {
+      "ma": "03-19-02",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 84.64 chỉ gồm máy gia công nguội thủy tinh và loại trừ máy gia công nóng thủy tinh sang nhóm 84.75.",
+      "chungMinh": "Loại này bao gồm các loại máy công cụ dùng để gia công nguội thủy tinh, loại trừ những loại máy dùng để gia công nóng"
+    },
+    {
+      "ma": "03-19-03",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 84.64 loại trừ máy gia công bột gốm nhão hoặc vật phẩm chưa nung sang nhóm 84.74, giữ lại máy gia công gốm đã nung cứng.",
+      "chungMinh": "trừ những máy để gia công bột gốm nhão hoặc những vật phẩm chưa nung bằng nguyên liệu gốm"
+    },
+    {
+      "ma": "03-19-04",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 85.03 áp dụng cho bộ phận của động cơ/máy phát điện 85.01–85.02, tách với bộ phận động cơ đốt trong piston 84.09.",
+      "chungMinh": "nhóm này bao gồm các bộ phận của máy móc nêu tại hai nhóm trước."
+    },
+    {
+      "ma": "03-19-05",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 84.87 loại trừ bộ phận chuyên dùng cho máy cụ thể (như 85.01–85.02 thuộc 85.03), giữ lại phụ tùng không điện dùng chung.",
+      "chungMinh": "(a) Các máy được thiết kế để chỉ dùng hoặc chủ yếu dùng với một máy cụ thể"
+    },
+    {
+      "ma": "03-19-06",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 84.59 loại trừ máy bóc tách kim loại bằng tia laser, siêu âm, phóng điện, điện hóa sang nhóm 84.56.",
+      "chungMinh": "(a) Máy công cụ dùng để gia công mọi loại vật liệu bằng cách bóc tách vật liệu bằng các quy trình công nghệ tia lade"
+    },
+    {
+      "ma": "03-19-07",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 84.64 loại trừ máy gia công bằng tia laser, chùm photon, siêu âm, plasma sang nhóm 84.56, hai vế chuẩn xác.",
+      "chungMinh": "(c) Máy công cụ dùng để gia công bất kỳ loại vật liệu nào bằng cắt gọt, bằng quy trình công nghệ tia lade hoặc tia sáng"
+    },
+    {
+      "ma": "03-19-08",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 84.64 phân biệt máy công cụ vận hành tay chân có bệ/khung đặt sàn với dụng cụ cầm tay không có bệ khung nhóm 82.05.",
+      "chungMinh": "Loại máy công cụ nhưng vận hành bằng tay hoặc đạp chân có thể phân biệt với dụng cụ cầm tay của nhóm 82.05"
+    },
+    {
+      "ma": "03-19-09",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 84.64 loại trừ máy cưa, mài tấm bán dẫn mỏng hoặc màn hình dẹt sang nhóm 84.86, hai vế đúng chiều.",
+      "chungMinh": "(f) Máy cưa, máy gạch đường kẻ, tạo rãnh tấm hoặc tấm bán dẫn mỏng"
+    },
+    {
+      "ma": "03-19-10",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 84.64 loại trừ máy chạm khắc bằng phun cát sang nhóm 84.24, giữ lại máy chạm khắc thủy tinh dùng đá mài/kim cương.",
+      "chungMinh": "(5) Máy chạm khắc loại dùng đá mài hoặc dùng kim cương; Tuy nhiên, máy chạm khắc bằng phun cát thì không thuộc nhóm này"
+    },
+    {
+      "ma": "03-19-11",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 84.59 phân biệt máy công cụ đặt sàn/giá máy/gắn tường có tấm đế với dụng cụ cầm tay gắn động cơ thuộc nhóm 84.67.",
+      "chungMinh": "những dụng cụ cầm tay thuộc nhóm 84.67 do thực tế là những máy này thường được thiết kế đặt trên sàn, trên giá máy"
+    },
+    {
+      "ma": "03-19-12",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 84.59 loại trừ trung tâm gia công và máy gia công chuyển dịch đa vị trí sang nhóm 84.57, hai vế đúng chiều.",
+      "chungMinh": "(b) Trung tâm gia công, máy kết cấu nguyên khối (một vị trí gia công) và máy gia công chuyển dịch đa vị trí"
+    },
+    {
+      "ma": "03-19-13",
+      "ketLuan": "BO",
+      "vi": "Đảo ngược hoàn toàn hai vế: ghế ngồi có lắp hệ thống âm thanh dùng với máy chơi video bị loại trừ khỏi 95.04 sang nhóm 94.01, còn bộ điều khiển và máy chơi trò chơi video thuộc nhóm 95.04.",
+      "chungMinh": "(c) Ghế ngồi có lắp hệ thống âm thanh và thích hợp để sử dụng với các bộ điều khiển và máy chơi video"
+    },
+    {
+      "ma": "03-19-14",
+      "ketLuan": "BO",
+      "vi": "Đảo ngược hoàn toàn hai vế: thiết bị chữa bệnh về khớp/cơ dưới giám sát y tế thuộc nhóm 90.19, còn máy tập thể lực thông thường ở nhà/phòng tập thuộc nhóm 95.06.",
+      "chungMinh": "Các thiết bị này được sử dụng chủ yếu để chữa các bệnh về khớp hay cơ bắp, bởi sự lặp lại cơ học các cử động khác nhau"
+    },
+    {
+      "ma": "03-19-15",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 84.59 bao gồm máy khoan, doa, phay, cắt ren, tarô ren trừ máy tiện thuộc nhóm 84.58, hai vế đúng chiều.",
+      "chungMinh": "Nhóm này bao gồm máy công cụ dùng để khoan, doa, phay, cắt ren hoặc tarô ren bằng cách cắt hoặc bóc tách kim loại"
+    },
+    {
+      "ma": "03-19-16",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 84.59 tách máy công cụ hoàn chỉnh (84.59) với bộ phận, phụ tùng rời của máy công cụ phân loại vào nhóm 84.66.",
+      "chungMinh": "các bộ phận và phụ tùng (trừ dụng cụ thuộc Chương 82) của các loại máy công cụ của nhóm này được phân vào nhóm 84.66."
+    }
+  ]
+}

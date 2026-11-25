@@ -1,0 +1,103 @@
+{
+  "khuon": "soat@1",
+  "viec": "03",
+  "lo": 20,
+  "kq": [
+    {
+      "ma": "03-20-01",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 85.25 gồm thiết bị phát sóng vô tuyến phát thanh truyền hình, tách biệt với thiết bị rađa/dẫn đường vô tuyến/điều khiển từ xa 85.26.",
+      "chungMinh": "Thiết bị phát thanh thuộc nhóm này phải có chức năng phát tín hiệu thông qua sóng điện từ được truyền trong không khí"
+    },
+    {
+      "ma": "03-20-02",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 85.03 chỉ gồm bộ phận của máy điện 85.01–85.02, tách với bộ phận dùng cho thiết bị đóng ngắt mạch điện thuộc 85.38.",
+      "chungMinh": "nhóm này bao gồm các bộ phận của máy móc nêu tại hai nhóm trước."
+    },
+    {
+      "ma": "03-20-03",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 85.26 chỉ gồm thiết bị dẫn đường/điều khiển từ xa bằng sóng vô tuyến, tách khỏi điều khiển từ xa tia hồng ngoại thuộc 85.43.",
+      "chungMinh": "Nhóm này bao gồm: … (1) Thiết bị dẫn đường bằng sóng vô tuyến"
+    },
+    {
+      "ma": "03-20-04",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 85.26 gồm la bàn vô tuyến và thiết bị dẫn đường bằng sóng vô tuyến, phân biệt với la bàn từ tính/con quay thuộc 90.14.",
+      "chungMinh": "kể cả la bàn vô tuyến được trang bị ăn-ten phức hợp hoặc ăn-ten có khung định hướng)."
+    },
+    {
+      "ma": "03-20-05",
+      "ketLuan": "BO",
+      "vi": "Đảo ngược hoàn toàn hai vế: dụng cụ nén nho, hoa quả làm rượu bị loại trừ khỏi 84.20 sang nhóm 84.35, còn máy cán bột nhão/vật liệu dạng tấm thuộc nhóm 84.20.",
+      "chungMinh": "(b) Dụng cụ nén nho, hoa quả để làm rượu (nhóm 84.35)."
+    },
+    {
+      "ma": "03-20-06",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 85.26 loại trừ kíp nổ hoàn chỉnh có gắn chất nổ sang nhóm 93.06, giữ lại thiết bị rađa kích nổ khoảng cách gần.",
+      "chungMinh": "Các kíp nổ hoàn chỉnh có gắn chất nổ nằm trong nhóm 93.06."
+    },
+    {
+      "ma": "03-20-07",
+      "ketLuan": "BO",
+      "vi": "Đảo ngược hoàn toàn hai vế: tấm che nắng dùng ở bên ngoài bị loại trừ khỏi 63.03 sang nhóm 63.06, còn màn che/rèm mờ phía bên trong thuộc nhóm 63.03.",
+      "chungMinh": "Nhóm này không bao gồm tấm che nắng ở bên ngoài (nhóm 63.06)."
+    },
+    {
+      "ma": "03-20-08",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 85.26 bao gồm thiết bị radio điều khiển từ xa cho mô hình/đồ chơi, tách biệt với bản thân mô hình đồ chơi thuộc 95.03.",
+      "chungMinh": "(11) Các thiết bị radio để điều khiển từ xa các tàu thuyền, hoặc máy bay không người lái"
+    },
+    {
+      "ma": "03-20-09",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 85.03 gồm giá đỡ chổi than, sta-to, rô-to máy điện, tách biệt với bản thân điện cực/chổi than bằng graphit/cacbon thuộc 85.45.",
+      "chungMinh": "các vành góp, các phiến đổi chiều, các giá đỡ chổi than, các cuộn kích từ."
+    },
+    {
+      "ma": "03-20-10",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 85.17 gồm thiết bị truyền nhận tiếng, hình ảnh, dữ liệu viễn thông, khác với thiết bị rađa/dẫn đường vô tuyến thuộc 85.26.",
+      "chungMinh": "Nhóm này bao gồm các thiết bị truyền hoặc nhận lời nói hoặc các âm thanh khác, hình ảnh hoặc các dữ liệu khác"
+    },
+    {
+      "ma": "03-20-11",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 85.34 loại trừ mạch đã gắn linh kiện/thiết bị đóng ngắt điều khiển điện (85.37), giữ lại tấm cách điện chỉ in mạch dẫn/thụ động.",
+      "chungMinh": "Các mạch mà trên đó những phần tử cơ khí hoặc những linh kiện điện đã được gắn hoặc được nối không được xem như những mạch"
+    },
+    {
+      "ma": "03-20-12",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 85.03 gồm bộ phận chỉ dùng/chủ yếu dùng cho động cơ và máy phát điện, tách với bộ phận điện chung không rõ máy thuộc 85.48.",
+      "chungMinh": "nhóm này bao gồm các bộ phận của máy móc nêu tại hai nhóm trước."
+    },
+    {
+      "ma": "03-20-13",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 85.03 dành cho bộ phận của 85.01–85.02, tách rõ với bộ phận thiết bị thu phát vô tuyến/truyền hình thuộc nhóm 85.29.",
+      "chungMinh": "nhóm này bao gồm các bộ phận của máy móc nêu tại hai nhóm trước."
+    },
+    {
+      "ma": "03-20-14",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 85.34 loại trừ phần tử chủ động phát/chỉnh lưu/khuếch đại tín hiệu (như mạch tích hợp 85.42), giữ lại mạch in thụ động.",
+      "chungMinh": "trừ các phần tử có thể phát (tạo ra), chỉnh lưu, dò tìm, điều biến hoặc khuếch đại tín hiệu điện"
+    },
+    {
+      "ma": "03-20-15",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 85.38 bao gồm tấm, bảng điều khiển không lắp đặt thiết bị, tách biệt với bảng đã lắp từ hai thiết bị đóng ngắt trở lên thuộc 85.37.",
+      "chungMinh": "nhóm này bao gồm các tấm dùng cho những bảng chuyển mạch, thường làm từ plastic hoặc kim loại, không lắp đặt thiết bị"
+    },
+    {
+      "ma": "03-20-16",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 40.16 bao gồm các mặt hàng bằng cao su lưu hóa trừ cao su cứng (kể cả dùng cho máy điện), tách với bộ phận vật liệu khác 85.38.",
+      "chungMinh": "Nhóm này bao gồm tất cả các mặt hàng bằng cao su lưu hoá (trừ cao su cứng) không nằm trong các nhóm trước của Chương này"
+    }
+  ]
+}
