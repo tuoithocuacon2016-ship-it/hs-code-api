@@ -1,0 +1,111 @@
+{
+  "khuon": "soat@1",
+  "viec": "03",
+  "lo": 3,
+  "kq": [
+    {
+      "ma": "03-03-01",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 39.24 loại trừ cốc không tay cầm có đặc tính vật chứa đóng gói, chuyên chở hàng hóa sang nhóm 39.23, hai vế đúng chiều.",
+      "chungMinh": "Tuy nhiên, nó loại trừ các loại cốc không có tay cầm có đặc tính của các vật chứa đựng được sử dụng để đóng gói hoặc chuyên chở hàng hóa (nhóm 39.23)."
+    },
+    {
+      "ma": "03-03-02",
+      "ketLuan": "SUA",
+      "vi": "Vế neu đưa mọi tấm gia công cạnh hoặc cắt khác chữ nhật vào 39.26 là hơi rộng vì chú giải 39.20 nêu thuộc các nhóm 39.18, 39.19 hoặc 39.22 đến 39.26.",
+      "sua": {
+        "neu": "tấm plastic có cạnh được mài, khoan, cán, làm viền, xoắn, đóng khung hoặc cắt khác hình chữ nhật và không thuộc các nhóm 39.18, 39.19 hay 39.22 đến 39.25",
+        "conNeu": "chưa cắt hoặc cắt hình chữ nhật (kể cả hình vuông) không gia công thêm"
+      },
+      "chungMinh": "có các cạnh được mài, được khoan, cán, làm viền, xoắn, đóng khung hoặc được gia công cách khác hoặc được cắt thành các hình dạng trừ hình chữ nhật (kể cả hình vuông) thì thường được phân loại như các sản phẩm thuộc các nhóm 39.18, 39.19 hoặc 39.22 đến 39.26."
+    },
+    {
+      "ma": "03-03-03",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 39.22 bao gồm phụ kiện vệ sinh lắp cố định nối hệ thống nước/nước thải, khác với đồ vệ sinh bằng plastic của 39.24.",
+      "chungMinh": "Nhóm này bao gồm các phụ kiện thiết kế để lắp cố định tại chỗ, trong nhà... thông thường bằng cách nối với các hệ thống nước hoặc hệ thống nước thải."
+    },
+    {
+      "ma": "03-03-04",
+      "ketLuan": "SUA",
+      "vi": "Vế conNeu gộp sản phẩm cắt hình dạng khác chữ nhật vào 39.26 mà không loại trừ sản phẩm phẳng tự dính (vốn vẫn thuộc 39.19 dù cắt khác chữ nhật).",
+      "sua": {
+        "neu": "hình dạng phẳng tự dính bằng plastic, có hoặc không ở dạng cuộn, kể cả cắt hình khác chữ nhật (trừ tấm trải sàn phủ tường trần nhóm 39.18)",
+        "conNeu": "sản phẩm bằng plastic không tự dính hoặc không ở dạng phẳng đã gia công cạnh hay cắt hình khác chữ nhật, không thuộc các nhóm 39.18 và 39.22 đến 39.25"
+      },
+      "chungMinh": "Nhóm này bao gồm tất cả các sản phẩm hình dạng phẳng tự dính bằng plastic, có hoặc không ở dạng cuộn, trừ các tấm trải sàn, phủ tường hoặc phủ trần thuộc nhóm 39.18."
+    },
+    {
+      "ma": "03-03-05",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 84.24 bao gồm máy và thiết bị cơ khí phun áp lực chất lỏng, phân tách khỏi vật dụng gia dụng bằng plastic nhóm 39.24.",
+      "chungMinh": "Nhóm này bao gồm các loại máy và thiết bị dùng để phun bắn, phun rải hoặc phun áp lực hơi nước, chất lỏng hoặc các chất rắn khác"
+    },
+    {
+      "ma": "03-03-06",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 42.02 bao gồm hòm, vali, túi xách và các đồ chứa tương tự kể cả làm từ plastic, phân biệt với đồ ăn/nhà bếp gia dụng 39.24.",
+      "chungMinh": "Theo các Chú giải 2 và 3 của Chương này, các mặt hàng trong phần thứ nhất của nhóm có thể làm bằng bất kỳ vật liệu nào."
+    },
+    {
+      "ma": "03-03-07",
+      "ketLuan": "BO",
+      "vi": "Đảo ngược hoàn toàn hai vế: khung xoắn xe sợi dệt và máy guồng sợi vải thành quả tròn bị loại trừ sang nhóm 84.45, còn máy làm chão/cáp thuộc nhóm 84.79.",
+      "chungMinh": "(D) Máy làm chão, cáp (máy bện dây, xoắn hoặc làm cáp, v.v..) từ hoặc sợi vải hoặc dây kim loại hoặc cả hai loại trên, kể cả máy dùng để xoắn dây dẫn điện co giãn, trừ khung xoắn dùng trong xe sợi dệt (nhóm 84.45)."
+    },
+    {
+      "ma": "03-03-08",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 39.24 loại trừ các sản phẩm lắp cố định bên trong hoặc trên tường bằng đinh vít, bu-lông, chất kết dính sang nhóm 39.25.",
+      "chungMinh": "Tuy nhiên, các sản phẩm trên dùng để lắp cố định bên trong hoặc trên tường hoặc các vị trí khác của tòa nhà (ví dụ, bằng các đinh ốc, đinh vít, bu- lông hoặc bằng các chất kết dính) thì bị loại trừ (nhóm 39.25)."
+    },
+    {
+      "ma": "03-03-09",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 32.12 có mục riêng cho lá phôi dập, tách khỏi tấm/màng/lá plastic thông thường của nhóm 39.20.",
+      "chungMinh": "(B) LÁ PHÔI DẬP"
+    },
+    {
+      "ma": "03-03-10",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 39.24 và 73.23 phân định rõ đồ gia dụng bàn ăn nhà bếp theo chất liệu plastic (39.24) với sắt hoặc thép (73.23).",
+      "chungMinh": "Nhóm này bao gồm một phạm vi rộng các sản phẩm bằng sắt hoặc thép, chưa được bao gồm một cách cụ thể hơn trong các nhóm của Danh mục, sử dụng cho bàn ăn, nhà bếp hoặc các mục đích gia đình khác"
+    },
+    {
+      "ma": "03-03-11",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 39.19 và 39.20 phân tách chính xác theo tính tự dính nhạy áp suất (39.19) và không tự dính, không xốp, chưa gia cố (39.20).",
+      "chungMinh": "Nhóm này bao gồm các tấm, phiến, màng, lá và dải từ plastic (chúng chưa được gia cố, gắn lớp mặt, bổ trợ hoặc kết hợp tương tự với các vật liệu khác), trừ những loại thuộc nhóm 39.18 hoặc 39.19."
+    },
+    {
+      "ma": "03-03-12",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 39.20 loại trừ trực tiếp các tấm trải sàn, phủ tường, phủ trần thuộc nhóm 39.18, hai vế đúng chiều.",
+      "chungMinh": "trừ những loại thuộc nhóm 39.18 hoặc 39.19."
+    },
+    {
+      "ma": "03-03-13",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 39.20 loại trừ sản phẩm tự dính thuộc nhóm 39.19, hai vế chính xác và đúng chiều.",
+      "chungMinh": "trừ những loại thuộc nhóm 39.18 hoặc 39.19."
+    },
+    {
+      "ma": "03-03-14",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 39.21 loại trừ sản phẩm phẳng tự dính thuộc 39.19, đồng thời bao gồm loại xốp hoặc đã gia cố, gắn lớp mặt.",
+      "chungMinh": "Nhóm này bao gồm các tấm, phiến, màng, lá và dải, từ plastic, trừ loại thuộc nhóm 39.18, 39.19 hoặc 39.20 hoặc thuộc Chương 54."
+    },
+    {
+      "ma": "03-03-15",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 39.19 khẳng định sản phẩm phẳng tự dính bằng plastic dù đã in hoa văn, ký tự, tranh ảnh vẫn thuộc 39.19 thay vì 49.11.",
+      "chungMinh": "Lưu ý rằng nhóm này bao gồm các sản phẩm đã in các hoa văn, ký tự hoặc biểu tượng tranh ảnh, không chỉ đơn thuần phục vụ cho công dụng chính của các sản phẩm (xem Chú giải 2 thuộc Phần VII)."
+    },
+    {
+      "ma": "03-03-16",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 39.20 loại trừ cả sản phẩm đã gia cố/gắn lớp mặt và sản phẩm loại xốp sang nhóm 39.21, hai vế đúng chiều.",
+      "chungMinh": "Nhóm này không bao gồm các sản phẩm, mà các sản phẩm này đã được gia cố, gắn lớp mặt, bổ trợ hoặc kết hợp tương tự với các vật liệu không phải plastic (nhóm 39.21)."
+    }
+  ]
+}

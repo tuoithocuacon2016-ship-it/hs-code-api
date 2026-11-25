@@ -1,0 +1,103 @@
+{
+  "khuon": "soat@1",
+  "viec": "03",
+  "lo": 5,
+  "kq": [
+    {
+      "ma": "03-05-01",
+      "ketLuan": "BO",
+      "vi": "Đảo ngược hoàn toàn hai vế: máy xé vải vụn thành xơ cho việc chải thô thuộc nhóm 84.45, còn máy cắt vải vụn dùng trong chế biến giấy thuộc nhóm 84.39.",
+      "chungMinh": "Máy dùng để xé quần áo rách, dây thừng cũ hoặc vải vụn tương tự để biến chúng thành dạng sợi phù hợp cho việc chải thô"
+    },
+    {
+      "ma": "03-05-02",
+      "ketLuan": "DUYET",
+      "vi": "Cùng định lượng trên 200 g/m2, chú giải 52.09 (theo 52.08) yêu cầu tỷ trọng bông từ 85% trở lên, còn 52.11 (theo 52.10) là dưới 85% pha xơ nhân tạo.",
+      "chungMinh": "Chú giải chi tiết của nhóm 52.08 được áp dụng tương tự với các mặt hàng của nhóm này."
+    },
+    {
+      "ma": "03-05-03",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 52.07 bao gồm sợi bông đóng gói bán lẻ trừ chỉ khâu, phân tách rõ với chỉ khâu xử lý hoàn tất có xoắn chữ Z cuối cùng thuộc 52.04.",
+      "chungMinh": "sợi bông (trừ chỉ khâu) khi đóng gói để bán lẻ, ở các dạng và phù hợp với các điều kiện được mô tả trong Phần (I) (B) (3) của Chú giải Tổng quát Phần XI."
+    },
+    {
+      "ma": "03-05-04",
+      "ketLuan": "BO",
+      "vi": "Đảo ngược hoàn toàn hai vế: cao su chưa lưu hóa thuộc nhóm 40.06, còn cao su đã lưu hóa (trừ cao su cứng) mới thuộc nhóm 40.08.",
+      "chungMinh": "Nhóm này bao gồm cao su chưa lưu hoá ở các dạng chưa được chi tiết trong các nhóm trước của Chương này và các mặt hàng bằng cao su chưa được lưu hoá, đã hoặc chưa được pha trộn."
+    },
+    {
+      "ma": "03-05-05",
+      "ketLuan": "DUYET",
+      "vi": "Cùng tỷ trọng bông từ 85% trở lên, chú giải 52.08 giới hạn định lượng không quá 200 g/m2, còn trên 200 g/m2 thuộc 52.09.",
+      "chungMinh": "mà trọng lượng không vượt quá 200g/m2, có tỷ trọng bông từ 85% trở lên."
+    },
+    {
+      "ma": "03-05-06",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 52.08/52.09 (bông từ 85%, trên 200 g/m2) và 52.10 (bông dưới 85% pha xơ nhân tạo, không quá 200 g/m2) phân định đúng cả hai vế.",
+      "chungMinh": "(a) Có tỷ trọng bông dưới 85%; … (b) Được pha chủ yếu hay chỉ pha duy nhất với xơ nhân tạo; … (c) Trọng lượng không quá 200g/m2."
+    },
+    {
+      "ma": "03-05-07",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 48.21 loại trừ nhãn làm từ tờ bền kim loại cơ bản (như kẽm thuộc 79.07) phủ giấy mỏng sang nhóm kim loại tương ứng.",
+      "chungMinh": "Nhóm này không bao gồm các “nhãn” bao gồm một tờ tương đối bền bằng kim loại cơ bản được phủ trên một mặt hoặc cả hai mặt bằng một tờ giấy mỏng, có hay không được in"
+    },
+    {
+      "ma": "03-05-08",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 48.17 loại trừ phong bì phát hành ngày đầu tiên có dán tem bưu điện sang nhóm 97.04, hai vế đúng chiều.",
+      "chungMinh": "(f) Phong bì có tem đóng dấu ngày phát hành đầu tiên được minh họa và các thẻ tối đa được minh họa để phát hành ngày đầu tiên: nếu không dán tem bưu điện (nhóm 49.11); nếu có tem"
+    },
+    {
+      "ma": "03-05-09",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 48.17 loại trừ bưu thiếp đã in hoặc có minh họa và thẻ in lời chúc sang nhóm 49.09, giữ lại bưu thiếp trơn.",
+      "chungMinh": "(d) Bưu thiếp đã in hoặc có minh họa và các thẻ đã in thuộc nhóm 49.09."
+    },
+    {
+      "ma": "03-05-10",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 48.21 loại trừ nhãn có nền tờ bền bằng sắt thép phủ giấy mỏng sang 73.26, còn nhãn giấy bìa dù gia cố lỗ kim loại vẫn thuộc 48.21.",
+      "chungMinh": "Nhóm này không bao gồm các “nhãn” bao gồm một tờ tương đối bền bằng kim loại cơ bản được phủ trên một mặt hoặc cả hai mặt bằng một tờ giấy mỏng, có hay không được in"
+    },
+    {
+      "ma": "03-05-11",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 48.17 loại trừ phong bì, bưu thiếp đã dán tem đang lưu hành sang nhóm 49.07, hai vế chính xác.",
+      "chungMinh": "(c) Phong bì, bưu thiếp, bưu thiếp dạng phong bì (letter cards),… đã dán tem bằng cách in hoặc cách khác, với các tem đang lưu hành (nhóm 49.07)."
+    },
+    {
+      "ma": "03-05-12",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 48.11 bao gồm giấy bìa tự dính dạng cuộn/tờ hình chữ nhật chưa thành nhãn, tách biệt với nhãn mác hoàn thiện thuộc 48.21.",
+      "chungMinh": "Giấy và bìa chỉ được phân loại trong nhóm này nếu chúng ở dạng dải hoặc dạng cuộn hoặc dạng tờ hình chữ nhật (kể cả hình vuông) với bất kỳ kích thước nào."
+    },
+    {
+      "ma": "03-05-13",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 48.17 loại trừ bức thư đã in thông báo nộp tiền, thư quảng cáo sang nhóm 49.11, đúng hai vế.",
+      "chungMinh": "(e) Các bức thư đã in và các mặt hàng tương tự, được thiết kế cho các mục đích đặc biệt, ví dụ, giấy báo nộp tiền, thông báo loại bỏ (removal notice), thư quảng cáo"
+    },
+    {
+      "ma": "03-05-14",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 48.21 loại trừ nhãn/biển báo bằng kim loại cơ bản phủ giấy mỏng sang 83.10, giữ lại nhãn mác bằng giấy bìa.",
+      "chungMinh": "Nhóm này không bao gồm các “nhãn” bao gồm một tờ tương đối bền bằng kim loại cơ bản được phủ trên một mặt hoặc cả hai mặt bằng một tờ giấy mỏng, có hay không được in"
+    },
+    {
+      "ma": "03-05-15",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 48.21 loại trừ nhãn tự dính thiết kế quảng cáo hoặc trang trí giản đơn như nhãn dán cửa sổ sang nhóm 49.11.",
+      "chungMinh": "Nhãn dính đã in tự dính được thiết kế, ví dụ, để quảng cáo hoặc trang trí giản đơn, ví dụ, \"nhãn tự dính mang tính hài hước\" và \"nhãn dính dán cửa sổ”, bị loại trừ (nhóm 49.11)."
+    },
+    {
+      "ma": "03-05-16",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 48.21 loại trừ nhãn làm từ tờ bền kim loại cơ bản (nhôm thuộc 76.16) phủ giấy mỏng sang nhóm kim loại tương ứng.",
+      "chungMinh": "Nhóm này không bao gồm các “nhãn” bao gồm một tờ tương đối bền bằng kim loại cơ bản được phủ trên một mặt hoặc cả hai mặt bằng một tờ giấy mỏng, có hay không được in"
+    }
+  ]
+}
