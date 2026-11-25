@@ -1,0 +1,247 @@
+{
+  "khuon": "soat@1",
+  "viec": "04",
+  "lo": 4,
+  "kq": [
+    {
+      "ma": "04-04-01",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7113 sang 4202 khớp sát nội dung câu trích nguồn nhom7113.nhom.",
+      "chungMinh": "(a) Các sản phẩm thuộc nhóm 42.02 hoặc 42.03 được nhắc đến trong Chú giải 3 (B) của Chương 42."
+    },
+    {
+      "ma": "04-04-02",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 4303 sang 4202 khớp sát nội dung câu trích nguồn nhom4303.nhom.",
+      "chungMinh": "Các mặt hàng thuộc phần đầu của nhóm 42.02."
+    },
+    {
+      "ma": "04-04-03",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 3923 sang 4202 khớp sát nội dung câu trích nguồn nhom3923.nhom.",
+      "chungMinh": "các vật chứa đựng thuộc nhóm 42.02 và túi, bao đựng hàng loại lớn có thể gấp, mở linh hoạt của nhóm 63.05."
+    },
+    {
+      "ma": "04-04-04",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9001 sang 8544 khớp sát nội dung câu trích nguồn nhom9001.nhom.",
+      "chungMinh": "Cáp sợi quang được làm từ những sợi đơn có vỏ bọc (nhóm 85.44)."
+    },
+    {
+      "ma": "04-04-05",
+      "ketLuan": "SAI",
+      "vi": "Nhóm đích 9506 không khớp câu trích: câu trích chỉ liệt kê các nhóm 39.26, 40.15, 42.03 hoặc 68.12, không nhắc nhóm 95.06.",
+      "chungMinh": "Các loại quần áo và hàng may mặc phụ trợ thuộc các nhóm 39.26, 40.15,42.03 hoặc 68.12"
+    },
+    {
+      "ma": "04-04-06",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8482 sang 8483 khớp sát nội dung câu trích nguồn nhom8482.nhom.",
+      "chungMinh": "Nhóm này không bao gồm các bộ phận máy móc có lắp ổ bi, ổ đũa hoặc ổ đũa hình kim; … (a) Thân ổ và giá đỡ ổ bi (nhóm 84.83)."
+    },
+    {
+      "ma": "04-04-07",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6307 sang 4202 khớp sát nội dung câu trích nguồn nhom6307.nhom.",
+      "chungMinh": "Đồ dùng du lịch (vali, ba lô,...), túi mua hàng, túi vệ sinh,... và tất cả các loại túi tương tự thuộc nhóm 42.02."
+    },
+    {
+      "ma": "04-04-08",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8406 sang 8483 khớp sát nội dung câu trích nguồn nhom8406.nhom.",
+      "chungMinh": "Bộ phận giảm tốc độ và bộ phận đảo chiều nếu trình bày riêng sẽ bị loại trừ (nhóm 84.83)."
+    },
+    {
+      "ma": "04-04-09",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8301 sang 8302 khớp sát nội dung câu trích nguồn nhom8301.nhom.",
+      "chungMinh": "nhóm này không bao gồm cả chốt cửa và then nhỏ đơn giản ... (nhóm 83.02)"
+    },
+    {
+      "ma": "04-04-10",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8302 sang 7117 khớp sát nội dung câu trích nguồn nhom8302.nhom.",
+      "chungMinh": "tuy nhiên những đồ phụ trợ trang trí cho các loại túi xách được phân loại vào nhóm 71.17"
+    },
+    {
+      "ma": "04-04-11",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8302 sang 8301 khớp sát nội dung câu trích nguồn nhom8302.nhom.",
+      "chungMinh": "(ngoài các loại khóa chốt có chìa thuộc nhóm 83.01)"
+    },
+    {
+      "ma": "04-04-12",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 4823 sang 4202 khớp sát nội dung câu trích nguồn ch48.chuong.",
+      "chungMinh": "(h) Các sản phẩm thuộc nhóm 42.02 (ví dụ, hàng du lịch);"
+    },
+    {
+      "ma": "04-04-13",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7614 sang 8544 khớp sát nội dung câu trích nguồn nhom7614.nhom.",
+      "chungMinh": "Tuy nhiên, nhóm này không bao gồm dây và cáp đã bọc cách điện (nhóm 85.44)."
+    },
+    {
+      "ma": "04-04-14",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7612 sang 4202 khớp sát nội dung câu trích nguồn nhom7612.nhom.",
+      "chungMinh": "Nhóm này không bao gồm: (a) Hàng hóa thuộc nhóm 42.02"
+    },
+    {
+      "ma": "04-04-15",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8306 sang 8302 khớp sát nội dung câu trích nguồn nhom8306.nhom.",
+      "chungMinh": "(d) Giá, khung, đồ dùng để lắp ráp, ghép, nối dùng cho các đồ đạc trong nhà, cửa ra vào, cầu thang và cửa sổ (nhóm 83.02)."
+    },
+    {
+      "ma": "04-04-16",
+      "ketLuan": "SAI",
+      "vi": "Nhóm đích 9018 không khớp câu trích: câu trích xếp thiết bị siêu âm làm sạch tấm bán dẫn/màn hình dẹt vào nhóm 84.86, không phải 90.18.",
+      "chungMinh": "Thiết bị siêu âm và bộ chuyển đổi chỉ dùng hoặc chủ yếu dùng để làm sạch tấm bán dẫn mỏng hoặc màn hình dẹt không được xếp vào Nhóm này (nhóm 84.86)"
+    },
+    {
+      "ma": "04-04-17",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 4202 sang 9307 khớp sát nội dung câu trích nguồn nhom4202.nhom.",
+      "chungMinh": "(g) Bao hoặc vỏ kiếm, lưỡi lê, dao găm hoặc vũ khí tương tự (nhóm 93.07)."
+    },
+    {
+      "ma": "04-04-18",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 4202 sang 4602 khớp sát nội dung câu trích nguồn ch42.chuong.",
+      "chungMinh": "(b) Sản phẩm bằng vật liệu tết bện (nhóm 46.02)."
+    },
+    {
+      "ma": "04-04-19",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9305 sang 4202 khớp sát nội dung câu trích nguồn nhom9305.nhom.",
+      "chungMinh": "(b) Bao súng (nhóm 42.02)."
+    },
+    {
+      "ma": "04-04-20",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8544 sang 8516 khớp sát nội dung câu trích nguồn nhom8544.nhom.",
+      "chungMinh": "các điện trở đốt nóng bằng điện có vỏ bọc cách điện (ví dụ, các dây hợp kim đặc biệt quấn xoắn ốc xung quanh một lõi bằng các sợi thủy tinh hay các sợi amiăng) thuộc nhóm 85.16"
+    },
+    {
+      "ma": "04-04-21",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 4202 sang 5608 khớp sát nội dung câu trích nguồn nhom4202.nhom.",
+      "chungMinh": "(d) Các mặt hàng bằng lưới (nhóm 56.08)."
+    },
+    {
+      "ma": "04-04-22",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9506 sang 4202 khớp sát nội dung câu trích nguồn nhom9506.nhom.",
+      "chungMinh": "(b) Túi thể thao và túi khác của nhóm 42.02, 43.03 hoặc 43.04."
+    },
+    {
+      "ma": "04-04-23",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8409 sang 8483 khớp sát nội dung câu trích nguồn nhom8409.nhom.",
+      "chungMinh": "(b) Trục quay (trục khuỷu) và trục cam (nhóm 84.83); hộp số (nhóm 84.83)."
+    },
+    {
+      "ma": "04-04-24",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7315 sang 8302 khớp sát nội dung câu trích nguồn nhom7315.nhom.",
+      "chungMinh": "Nhóm này không bao gồm: … (c) Thanh chắn cửa ra vào được gắn với xích (nhóm 83.02)."
+    },
+    {
+      "ma": "04-04-25",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 4202 sang 3923 khớp sát nội dung câu trích nguồn ch42.chuong.",
+      "chungMinh": "(a) Túi làm bằng các tấm plastic, đã hoặc chưa in, có tay cầm, không được thiết kế để sử dụng lâu dài (nhóm 39.23);"
+    },
+    {
+      "ma": "04-04-26",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8466 sang 8483 khớp sát nội dung câu trích nguồn nhom8466.nhom.",
+      "chungMinh": "(d) Hộp số và bộ phận thay đổi tốc độ, khớp nối và thiết bị truyền động tương tự (nhóm 84.83)."
+    },
+    {
+      "ma": "04-04-27",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8517 sang 8544 khớp sát nội dung câu trích nguồn nhom8517.nhom.",
+      "chungMinh": "Các dây, cáp cách điện…, cũng như các sợi cáp quang, có vỏ bọc riêng cho từng sợi, có hoặc chưa gắn với đầu nối, bao gồm dây và phích cắm cho tổng đài điện thoại (nhóm 85.44)."
+    },
+    {
+      "ma": "04-04-28",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 4202 sang 4205 khớp sát nội dung câu trích nguồn nhom4202.nhom.",
+      "chungMinh": "(c) Các mặt hàng, cho dù có đặc tính của vật chứa đựng, không giống với các mặt hàng đã được liệt kê trong nhóm này, … Những mặt hàng như vậy thuộc nhóm 42.05 nếu làm bằng (hoặc được bọc với) da thuộc hoặc da thuộc tổng hợp"
+    },
+    {
+      "ma": "04-04-29",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7806 sang 8544 khớp sát nội dung câu trích nguồn nhom7806.nhom.",
+      "chungMinh": "cáp có vỏ bọc ngoài bằng chì để cách điện (nhóm 85.44)"
+    },
+    {
+      "ma": "04-04-30",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9507 sang 4202 khớp sát nội dung câu trích nguồn nhom9507.nhom.",
+      "chungMinh": "(c) Túi thể thao và các loại bao bì khác (ví dụ hộp cần câu và túi thi đấu) của nhóm 42.02, 43.03 hoặc 43.04."
+    },
+    {
+      "ma": "04-04-31",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8483 sang 6815 khớp sát nội dung câu trích nguồn nhom8483.nhom.",
+      "chungMinh": "Nhóm này không bao gồm ổ bằng than chì hoặc các bon khác (nhóm 68.15)."
+    },
+    {
+      "ma": "04-04-32",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 3924 sang 4202 khớp sát nội dung câu trích nguồn ch39.chuong.",
+      "chungMinh": "(m) Yên cương hoặc bộ đồ yên cương (nhóm 42.01) hay các loại hòm, vali, túi xách tay hay các vật đựng khác thuộc nhóm 42.02;"
+    },
+    {
+      "ma": "04-04-33",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9403 sang 4202 khớp sát nội dung câu trích nguồn nhom9403.nhom.",
+      "chungMinh": "(a) Rương, hòm du lịch và những đồ tương tự, không có đặc điểm của đồ nội thất (nhóm 42.02)."
+    },
+    {
+      "ma": "04-04-34",
+      "ketLuan": "SAI",
+      "vi": "Điều kiện sai hoàn toàn so với câu trích: điều kiện nêu corset và đai cao su trong khi câu trích nêu bi thép không đạt dung sai phân loại vào nhóm 73.26.",
+      "chungMinh": "(1) Bi bằng thép đã đánh bóng … đường kính tối đa và tối thiểu của chúng không khác với đường kính danh nghĩa hơn 1% hoặc hơn 0,05mm tùy theo cái nhỏ hơn; bi không phù hợp theo định nghĩa này được phân loại vào nhóm 73.26 (xem Chú giải 7 của Chương)."
+    },
+    {
+      "ma": "04-04-35",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7326 sang 4202 khớp sát nội dung câu trích nguồn nhom7326.nhom.",
+      "chungMinh": "Các sản phẩm thuộc nhóm 42.02."
+    },
+    {
+      "ma": "04-04-36",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9503 sang 4202 khớp sát nội dung câu trích nguồn ch95.chuong.",
+      "chungMinh": "(d) Túi thể thao hoặc bao bì khác thuộc nhóm 42.02, 43.03 hoặc 43.04;"
+    },
+    {
+      "ma": "04-04-37",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8431 sang 8483 khớp sát nội dung câu trích nguồn nhom8431.nhom.",
+      "chungMinh": "Puli, hệ puli và ổ đỡ vòng bi (nhóm 84.83)."
+    },
+    {
+      "ma": "04-04-38",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8412 sang 8483 khớp sát nội dung câu trích nguồn nhom8412.nhom.",
+      "chungMinh": "Tuy nhiên, các trục truyền và trục khuỷu thì không thuộc nhóm này, mà thuộc nhóm 84.83."
+    },
+    {
+      "ma": "04-04-39",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 4202 sang 7117 khớp sát nội dung câu trích nguồn nhom4202.nhom.",
+      "chungMinh": "(e) Đồ trang sức làm bằng chất liệu khác (nhóm 71.17)."
+    },
+    {
+      "ma": "04-04-40",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 4202 sang 9606 khớp sát nội dung câu trích nguồn ch42.chuong.",
+      "chungMinh": "(m) Khuy các loại, khuy bấm, khóa bấm, khuy tán bấm, lõi khuy (loại khuy bọc) hoặc bộ phận khác của các mặt hàng này, khuy chưa hoàn chỉnh, thuộc nhóm 96.06."
+    }
+  ]
+}

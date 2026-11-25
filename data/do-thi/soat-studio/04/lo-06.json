@@ -1,0 +1,248 @@
+{
+  "khuon": "soat@1",
+  "viec": "04",
+  "lo": 6,
+  "kq": [
+    {
+      "ma": "04-06-01",
+      "ketLuan": "SAI",
+      "vi": "Nhóm đích 6307 không khớp câu trích: câu trích xếp khung sườn dây thép làm chụp đèn bằng vải hoặc giấy vào nhóm 94.05, không phải 63.07.",
+      "chungMinh": "Khung sườn bằng dây thép để làm các chụp đèn bằng vải hoặc giấy (nhóm 94.05)"
+    },
+    {
+      "ma": "04-06-02",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9405 sang 3406 khớp sát nội dung câu trích nguồn nhom9405.nhom.",
+      "chungMinh": "(a) Nến (nhóm 34.06)."
+    },
+    {
+      "ma": "04-06-03",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9503 sang 9405 khớp sát nội dung câu trích nguồn ch95.chuong.",
+      "chungMinh": "(u) Dây đèn các loại (nhóm 94.05);"
+    },
+    {
+      "ma": "04-06-04",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9405 sang 4905 khớp sát nội dung câu trích nguồn nhom9405.nhom.",
+      "chungMinh": "(d) Quả địa cầu in, có đèn sáng ở trong thuộc nhóm 49.05."
+    },
+    {
+      "ma": "04-06-05",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9405 sang 8513 khớp sát nội dung câu trích nguồn nhom9405.nhom.",
+      "chungMinh": "(5) Đèn xách tay (trừ đèn thuộc nhóm 85.13)"
+    },
+    {
+      "ma": "04-06-06",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7326 sang 7308 khớp sát nội dung câu trích nguồn nhom7326.nhom.",
+      "chungMinh": "giá treo, cột chống đỡ và các trụ đỡ tương tự để cố định hệ thống đường ống và hệ thống ống (trừ kẹp và các bộ phận khác được thiết kế đặc biệt để lắp ráp các thành phần hình ống cho các kết cấu kim loại, những loại mà đã roi vào nhóm 73.08)"
+    },
+    {
+      "ma": "04-06-07",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7307 sang 7326 khớp sát nội dung câu trích nguồn nhom7307.nhom.",
+      "chungMinh": "Nhóm này tuy nhiên không bao gồm các sản phẩm tuy dùng để lắp đặt các ống dẫn và ống nhưng lại không tạo thành một bộ phận của đầu lỗ … (nhóm 73.25 hoặc 73.26)."
+    },
+    {
+      "ma": "04-06-08",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7326 sang 7117 khớp sát nội dung câu trích nguồn nhom7326.nhom.",
+      "chungMinh": "hoa hoặc bộ lá cây giả bằng sắt hoặc thép đã được gia công (nhưng không bao gồm các sản phẩm thuộc nhóm 83.06 và đồ trang sức giả thuộc nhóm 71.17)"
+    },
+    {
+      "ma": "04-06-09",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7322 sang 7326 khớp sát nội dung câu trích nguồn nhom7322.nhom.",
+      "chungMinh": "Những bộ phận sau không được xem như các bộ phận rời của lò sưởi. … (b) Giá đỡ lò sưởi (nhóm 73.25 hoặc 73.26)."
+    },
+    {
+      "ma": "04-06-10",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7326 sang 7323 khớp sát nội dung câu trích nguồn nhom7326.nhom.",
+      "chungMinh": "các dụng cụ đo sức chứa (trừ các loại dùng trong gia đình - nhóm 73.23)"
+    },
+    {
+      "ma": "04-06-11",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9405 sang 9505 khớp sát nội dung câu trích nguồn nhom9405.nhom.",
+      "chungMinh": "(m) Đồ trang trí, như đèn lồng kéo quân (nhóm 95.05)."
+    },
+    {
+      "ma": "04-06-12",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7307 sang 7326 khớp sát nội dung câu trích nguồn nhom7307.nhom.",
+      "chungMinh": "(d) Vòng treo, thanh chống và các sản phẩm tương tự, như được mô tả ở trên; và các đầu ống, có ren hoặc không có ren, được gắn với một vành ống, móc,... (ví dụ những loại sử dụng để cố định đường ống rửa (nhóm 73.26)."
+    },
+    {
+      "ma": "04-06-13",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9405 sang 8512 khớp sát nội dung câu trích nguồn nhom9405.nhom.",
+      "chungMinh": "(g) Thiết bị chiếu sáng và thiết bị tín hiệu bằng điện dùng cho xe đạp và xe có động cơ (nhóm 85.12)."
+    },
+    {
+      "ma": "04-06-14",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7214 sang 7326 khớp sát nội dung câu trích nguồn nhom7214.nhom.",
+      "chungMinh": "(b) Các mẩu cắt từ các thanh hoặc que với chiều dài không vượt quá kích thước lớn nhất của mặt cắt ngang (nhóm 73.26)."
+    },
+    {
+      "ma": "04-06-15",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9405 sang 9018 khớp sát nội dung câu trích nguồn nhom9405.nhom.",
+      "chungMinh": "(l) Các đèn để chẩn đoán, thăm dò, phát xạ, vv dùng trong y tế (nhóm 90.18)."
+    },
+    {
+      "ma": "04-06-16",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7215 sang 7326 khớp sát nội dung câu trích nguồn nhom7215.nhom.",
+      "chungMinh": "Sắt hoặc thép ở dạng thanh và que đã được vuốt thon (nhóm 73.26)."
+    },
+    {
+      "ma": "04-06-17",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7326 sang 7310 khớp sát nội dung câu trích nguồn nhom7326.nhom.",
+      "chungMinh": "Các bể chứa, két, thùng và các đồ chứa tương tự thuộc nhóm 73.09 hoặc 73.10."
+    },
+    {
+      "ma": "04-06-18",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9405 sang 8539 khớp sát nội dung câu trích nguồn nhom9405.nhom.",
+      "chungMinh": "(h) Đèn dây tóc, đèn phóng điện (kể cả đèn pha hàn kín và bóng đèn tia cực tím hoặc tia hồng ngoại cũng như loại bóng đèn có hình dạng phức tạp như uốn cong, hình chữ cái, hình chữ số, hình sao,...), bóng đèn hồ quang và nguồn sáng đi-ốt phát quang (nhóm 85.39)."
+    },
+    {
+      "ma": "04-06-19",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9405 sang 7018 khớp sát nội dung câu trích nguồn nhom9405.nhom.",
+      "chungMinh": "(f) Các hạt thủy tinh và các đồ vật trang trí bằng thủy tinh (ví dụ các viền tua) làm bằng cách xâu hạt thủy tinh thành chuỗi nhằm trang trí cho chụp đèn (nhóm 70.18)."
+    },
+    {
+      "ma": "04-06-20",
+      "ketLuan": "SAI",
+      "vi": "Điều kiện sai hoàn toàn so với câu trích: điều kiện nêu đèn và bộ đèn trong khi câu trích loại trừ bàn bi-a và bàn cho trò ảo thuật thuộc nhóm 95.05.",
+      "chungMinh": "(p) Bàn bi-a hoặc các đồ nội thất khác làm ra để dùng cho các trò chơi nhóm 95.04 và bàn cho các trò ảo thuật thuộc nhóm 95.05."
+    },
+    {
+      "ma": "04-06-21",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9405 sang 9503 khớp sát nội dung câu trích nguồn ch94.chuong.",
+      "chungMinh": "Đồ nội thất có tính chất đồ chơi hoặc đèn (luminaires) và bộ đèn đồ chơi (nhóm 95.03)"
+    },
+    {
+      "ma": "04-06-22",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9405 sang 5908 khớp sát nội dung câu trích nguồn nhom9405.nhom.",
+      "chungMinh": "(e) Bấc đèn được dệt, tết hoặc đan bằng vật liệu dệt (nhóm 59.08)."
+    },
+    {
+      "ma": "04-06-23",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9405 sang 9006 khớp sát nội dung câu trích nguồn nhom9405.nhom.",
+      "chungMinh": "(ij) Các loại đèn chớp để chụp ảnh (kể cả bóng đèn phóng điện tử) (nhóm 90.06)."
+    },
+    {
+      "ma": "04-06-24",
+      "ketLuan": "SAI",
+      "vi": "Nhóm đích 8425 không khớp câu trích: câu trích xếp mô tơ dây cót hoặc đối trọng không phù hợp lắp bộ điều tốc vào nhóm 84.12, không phải 84.25.",
+      "chungMinh": "(a) Mô tơ chạy bằng dây cót hoặc đối trọng, v.v., không được lắp, cũng không phù hợp để lắp bộ phận điều tốc, thuộc nhóm 84.12 (ví dụ những mô tơ sử dụng trong hộp âm nhạc)."
+    },
+    {
+      "ma": "04-06-25",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7326 sang 8304 khớp sát nội dung câu trích nguồn nhom7326.nhom.",
+      "chungMinh": "Thiết bị văn phòng để bàn, ví dụ như kệ giữ sách, giá để lọ mực, khay để bút, bàn thấm, cái chẹn giấy và giá để con dấu cơ quan (nhóm 83.04)"
+    },
+    {
+      "ma": "04-06-26",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7326 sang 8306 khớp sát nội dung câu trích nguồn nhom7326.nhom.",
+      "chungMinh": "nhưng không bao gồm các đồ chứa thuộc nhóm 73.10 các đồ chứa dùng trong gia đình (nhóm 73.23), cũng không bao gồm các đồ chứa dùng để trang trí (nhóm 83.06)."
+    },
+    {
+      "ma": "04-06-27",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7326 sang 7309 khớp sát nội dung câu trích nguồn nhom7326.nhom.",
+      "chungMinh": "Các bể chứa, két, thùng và các đồ chứa tương tự thuộc nhóm 73.09 hoặc 73.10."
+    },
+    {
+      "ma": "04-06-28",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9405 sang 3606 khớp sát nội dung câu trích nguồn nhom9405.nhom.",
+      "chungMinh": "(b) Đuốc nhựa thông (nhóm 36.06)."
+    },
+    {
+      "ma": "04-06-29",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9403 sang 9405 khớp sát nội dung câu trích nguồn nhom9403.nhom.",
+      "chungMinh": "(o) Đèn cây và các loại đèn (luminaires), bộ đèn khác (nhóm 94.05)."
+    },
+    {
+      "ma": "04-06-30",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7323 sang 7326 khớp sát nội dung câu trích nguồn nhom7323.nhom.",
+      "chungMinh": "Sọt giấy loại (nhóm 73.25 hoặc 73.26 theo trường hợp có thể)."
+    },
+    {
+      "ma": "04-06-31",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9405 sang 9013 khớp sát nội dung câu trích nguồn nhom9405.nhom.",
+      "chungMinh": "(k) Thiết bị báo sáng bằng chùm tia quang học (nhóm 90.13)."
+    },
+    {
+      "ma": "04-06-32",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7326 sang 7323 khớp sát nội dung câu trích nguồn nhom7326.nhom.",
+      "chungMinh": "nhưng không bao gồm các đồ chứa thuộc nhóm 73.10 các đồ chứa dùng trong gia đình (nhóm 73.23), cũng không bao gồm các đồ chứa dùng để trang trí (nhóm 83.06)."
+    },
+    {
+      "ma": "04-06-33",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7326 sang 7317 khớp sát nội dung câu trích nguồn nhom7326.nhom.",
+      "chungMinh": "trụ đỡ hoặc con mã đúc (trừ các loại đinh của xưởng đúc, xem nhóm 73.17) cho các thao đúc ở xưởng đúc"
+    },
+    {
+      "ma": "04-06-34",
+      "ketLuan": "RONG",
+      "vi": "Điều kiện rộng hơn câu trích vì lược mất yêu cầu cấu tạo hàn hai nhánh dây lại với nhau sau khi kéo và xoắn vào lỗ xâu hoặc vòng ở đầu để buộc.",
+      "chungMinh": "Dây đôi như được sử dụng để làm bộ go máy dệt và được tạo thành bởi việc hàn (bằng hợp kim dễ nóng chảy) hai nhánh dây lại với nhau sau khi kéo, dây được xoắn vào các lỗ xâu hoặc các vòng tại một hoặc cả hai đầu để buộc (nhóm 73.26).",
+      "dieuKienMoi": "Dây đôi dùng làm bộ go máy dệt tạo thành bằng cách hàn hai nhánh dây sau khi kéo, xoắn vào các lỗ xâu hoặc vòng tại một hoặc cả hai đầu để buộc"
+    },
+    {
+      "ma": "04-06-35",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7326 sang 7323 khớp sát nội dung câu trích nguồn nhom7326.nhom.",
+      "chungMinh": "Thùng rác và thùng rác di động (kể loại sử dụng bên ngoài) của nhóm 73.23."
+    },
+    {
+      "ma": "04-06-36",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9405 sang 8310 khớp sát nội dung câu trích nguồn nhom9405.nhom.",
+      "chungMinh": "(c) Biển hiệu, biển tên và các loại tương tự, không được chiếu sáng hoặc chiếu sáng bởi một nguồn sáng không gắn cố định thường xuyên (nhóm 39.26, Chương 70, nhóm 83.10, vv)."
+    },
+    {
+      "ma": "04-06-37",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7326 sang 7308 khớp sát nội dung câu trích nguồn nhom7326.nhom.",
+      "chungMinh": "Vật liệu để đóng kệ, giá cỡ lớn để lắp đặt cố định trong các cửa hàng, phân xưởng, nhà kho,... (nhóm 73.08) và đồ nội thất dạng giá kệ thuộc nhóm 94.03."
+    },
+    {
+      "ma": "04-06-38",
+      "ketLuan": "SAI",
+      "vi": "Điều kiện sai hoàn toàn so với câu trích: điều kiện nêu các loại bơm và quạt gió trong khi câu trích loại trừ đĩa để lau ổ đĩa trong máy ADP thuộc nhóm 84.73.",
+      "chungMinh": "Đĩa để lau ổ đĩa trong các máy ADP,... (nhóm 84.73)"
+    },
+    {
+      "ma": "04-06-39",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7326 sang 7325 khớp sát nội dung câu trích nguồn nhom7326.nhom.",
+      "chungMinh": "Các sản phẩm đúc bằng sắt hoặc thép (nhóm 73.25)."
+    },
+    {
+      "ma": "04-06-40",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9405 sang 9620 khớp sát nội dung câu trích nguồn ch94.chuong.",
+      "chungMinh": "(m) Chân đế loại một chân (monopod), hai chân (bipod), ba chân (tripod) và các mặt hàng tương tự (nhóm 96.20)."
+    }
+  ]
+}
