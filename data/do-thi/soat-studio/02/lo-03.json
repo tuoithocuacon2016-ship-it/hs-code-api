@@ -1,0 +1,79 @@
+{
+  "khuon": "soat@1",
+  "viec": "02",
+  "lo": 3,
+  "kq": [
+    {
+      "ma": "02-03-01",
+      "ketLuan": "NGUYEN_LIEU",
+      "vi": "Axit HNO3 thuộc nhóm 28.08 là axit gốc tạo nên các muối nitrat kim loại thuộc nhóm 28.34.",
+      "chungMinh": "nhóm này bao gồm nitrat, các muối kim loại của axit HNO3 (nhóm 28.08)"
+    },
+    {
+      "ma": "02-03-02",
+      "ketLuan": "NGUYEN_LIEU",
+      "vi": "Axit thuộc nhóm 28.09 là axit nguồn tạo ra các muối phosphat và polyphosphat kim loại thuộc nhóm 28.35.",
+      "chungMinh": "nhóm này bao gồm phosphat và polyphosphat kim loại có nguồn gốc từ axit của nhóm 28.09"
+    },
+    {
+      "ma": "02-03-03",
+      "ketLuan": "LOAI_TRU",
+      "vi": "Chú giải 29.28 loại trừ trực tiếp nitrosoamin (đồng phân hỗ biến của quinoneimin oxim) sang nhóm 29.21.",
+      "chungMinh": "Nitrosophenol, là đồng phân hỗ biến của quinon oxim, và nitrosoamin là đồng phân hỗ biến của quinoneimin oxim, bị loại trừ khỏi nhóm này (xem Chú giải Chi tiết nhóm 29.08 và 29.21)"
+    },
+    {
+      "ma": "02-03-04",
+      "ketLuan": "NGUYEN_LIEU",
+      "vi": "Axit orthoboric (H3BO3) thuộc nhóm 28.10 là axit gốc hình thành các muối borat kim loại thuộc nhóm 28.40.",
+      "chungMinh": "nhóm này bao gồm borat, muối kim loại của các dạng axit boric khác nhau, phần lớn là axit boric thông dụng hoặc axit orthoboric (H3BO3) (nhóm 28.10)."
+    },
+    {
+      "ma": "02-03-05",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Chú giải 28.30 nhắc tham chiếu sản phẩm phái sinh 'khoáng kermes' tạo ra khi xử lý nóng antimon trisulphua với Na2CO3 thuộc nhóm 38.24.",
+      "chungMinh": "Xử lý nóng với Na2CO3 tạo ra “khoáng kermes”, chứa thành phần cơ bản là antimon trisulphua và natri pyro- antimonat và được sử dụng trong y học (nhóm 38.24)."
+    },
+    {
+      "ma": "02-03-06",
+      "ketLuan": "NGUYEN_LIEU",
+      "vi": "Axit nitrơ (HNO2) thuộc nhóm 28.11 là axit gốc tạo nên các muối nitrit kim loại của nhóm 28.34.",
+      "chungMinh": "nhóm này bao gồm nitrit, muối kim loại của axit nitrơ (HNO2) (nhóm 28.11)."
+    },
+    {
+      "ma": "02-03-07",
+      "ketLuan": "NGUYEN_LIEU",
+      "vi": "Quả tươi thuộc nhóm 08.07 (đến 08.10) là nguyên liệu ban đầu trước khi phơi khô hoặc sấy khô để phân loại vào nhóm 08.13.",
+      "chungMinh": "Nhóm này bao gồm các loại quả khô khi ở trạng thái tươi chúng được phân loại vào các nhóm 08.07 đến 08.10."
+    },
+    {
+      "ma": "02-03-08",
+      "ketLuan": "NGUYEN_LIEU",
+      "vi": "Anhydrit carbonic (CO2) thuộc nhóm 28.11 là oxit/axit gốc tương ứng của các muối carbonat kim loại thuộc nhóm 28.36.",
+      "chungMinh": "các muối kim loại của axit carbonic không phân lập được (H2CO3), anhydrit của nó (CO2) được xếp vào nhóm 28.11."
+    },
+    {
+      "ma": "02-03-09",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Chú giải 28.39 chỉ dẫn chiếu tham khảo sang Chú giải chi tiết nhóm 38.24 đối với các sản phẩm chống gỉ ứng dụng từ silicat.",
+      "chungMinh": "các sản phẩm chống gỉ (xem Chủ giải Chi tiết nhóm 38.24)."
+    },
+    {
+      "ma": "02-03-10",
+      "ketLuan": "NGUYEN_LIEU",
+      "vi": "Hydro xyanua (HCN) thuộc nhóm 28.11 là axit nguồn hình thành các muối xyanua kim loại thuộc nhóm 28.37.",
+      "chungMinh": "Xyanua là dạng muối kim loại của hydro xyanua (axit cyanhydric) (HCN) (nhóm 28.11)."
+    },
+    {
+      "ma": "02-03-11",
+      "ketLuan": "NGUYEN_LIEU",
+      "vi": "Axit phosphinic (H3PO2) thuộc nhóm 28.11 là axit gốc của các muối phosphinat (hypophosphit) kim loại thuộc nhóm 28.35.",
+      "chungMinh": "nhóm này bao gồm phosphinat (hypophosphit), các muối kim loại của axit phosphinic (hypophosphorous) (H3PO2) (nhóm 28.11)."
+    },
+    {
+      "ma": "02-03-12",
+      "ketLuan": "NGUYEN_LIEU",
+      "vi": "SiO2 thuộc nhóm 28.11 là oxit gốc chuyển hóa thành các axit silicic tạo nên muối silicat của nhóm 28.39.",
+      "chungMinh": "nhóm này bao gồm silicat, muối kim loại của các dạng axit silicic khác nhau, không phân lập được ở trạng thái tự do và được chuyển hóa từ SiO2 (nhóm 28.11)."
+    }
+  ]
+}

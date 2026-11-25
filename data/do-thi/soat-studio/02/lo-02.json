@@ -1,0 +1,79 @@
+{
+  "khuon": "soat@1",
+  "viec": "02",
+  "lo": 2,
+  "kq": [
+    {
+      "ma": "02-02-01",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Chú giải 28.17 chỉ nhắc tham chiếu rằng muối zincat tương ứng với oxit lưỡng tính này nằm ở nhóm 28.41.",
+      "chungMinh": "Dạng zincat của nhóm 28.41 tương ứng với dạng oxit lưỡng tính."
+    },
+    {
+      "ma": "02-02-02",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Đoạn giới thiệu Phân Chương V chỉ dẫn chiếu ví dụ rằng xyanua phức được đề cập riêng tại nhóm 28.37.",
+      "chungMinh": "Một vài loại muối kép hoặc muối phức được đề cập một cách đặc biệt trong các nhóm từ 28.26 đến 28.41 … xyanua phức (nhóm 28.37)."
+    },
+    {
+      "ma": "02-02-03",
+      "ketLuan": "NGUYEN_LIEU",
+      "vi": "Khí ga lỏng amoniac không tinh khiết từ lọc khí than (tham chiếu 38.25) là nguồn nguyên liệu đầu vào để thu amoniac của 28.14.",
+      "chungMinh": "Amoniac thu được hoặc từ sản xuất khí ga lỏng amoniac không tinh khiết trong lọc khí than hoặc trong chế biến than cốc (xem Chú giải Chi tiết nhóm 38.25, Phần (A) (3))"
+    },
+    {
+      "ma": "02-02-04",
+      "ketLuan": "LOAI_TRU",
+      "vi": "Câu dẫn phía trước ghi rõ 'Nhóm này loại trừ, không kể những mặt hàng khác:', nên xe chuyên dùng gắn thiết bị thu truyền hình bị loại trừ sang 87.05.",
+      "chungMinh": "Nhóm này loại trừ, không kể những mặt hàng khác: … (b) Xe chuyên dùng (ví dụ xe van cho phát thanh truyền hình) được gắn cố định với thiết bị thu truyền hình hoặc các thiết bị khác của nhóm này (thường thuộc nhóm 87.05)."
+    },
+    {
+      "ma": "02-02-05",
+      "ketLuan": "NGUYEN_LIEU",
+      "vi": "Sản phẩm thuộc nhóm 04.04 là nguyên liệu cấu thành các loại bột được nêu (nhóm đích loại trừ là 18.06/19.01, không phải 04.04).",
+      "chungMinh": "Các loại bột từ bột mịn, bột thô, tinh bột, chiết xuất malt hoặc từ các sản phẩm của các nhóm từ 04.01 đến 04.04"
+    },
+    {
+      "ma": "02-02-06",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Đoạn giới thiệu Phân Chương V chỉ liệt kê tham chiếu nhóm 28.26 là nơi đề cập fluorosilicat, fluoroborat và muối flo phức.",
+      "chungMinh": "Một vài loại muối kép hoặc muối phức được đề cập một cách đặc biệt trong các nhóm từ 28.26 đến 28.41; ví dụ, fluorosilicat, fluoroborat và các dạng phức khác của muối flo (nhóm 28.26)"
+    },
+    {
+      "ma": "02-02-07",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Chú giải 28.21 chỉ nhắc tham chiếu rằng hydroxit sắt III sau khi oxy hóa tạo ra dạng ferat thuộc nhóm 28.41.",
+      "chungMinh": "Nó là hydroxit lưỡng tính, sau khi oxy hóa, cho dạng ferat thuộc nhóm 28.41."
+    },
+    {
+      "ma": "02-02-08",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Chú giải 28.19 chỉ giải thích tham chiếu vì sao CrO3 hay bị gọi nhầm là axit cromic do có thể tạo ra cromat thuộc nhóm 28.41.",
+      "chungMinh": "vì nó có thể tạo ra cromat thuộc nhóm 28.41)."
+    },
+    {
+      "ma": "02-02-09",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Đoạn giới thiệu Phân Chương V chỉ dẫn chiếu ví dụ rằng phèn được phân loại tại nhóm 28.33.",
+      "chungMinh": "Một vài loại muối kép hoặc muối phức được đề cập một cách đặc biệt trong các nhóm từ 28.26 đến 28.41 … phèn (nhóm 28.33)"
+    },
+    {
+      "ma": "02-02-10",
+      "ketLuan": "NGUYEN_LIEU",
+      "vi": "Sản phẩm từ các nhóm 04.01 đến 04.04 được nhắc với vai trò nguyên liệu làm bột (còn nhóm đích phân loại của bột là 18.06 hoặc 19.01).",
+      "chungMinh": "Các loại bột từ bột mịn, bột thô, tinh bột, chiết xuất malt hoặc từ các sản phẩm của các nhóm từ 04.01 đến 04.04"
+    },
+    {
+      "ma": "02-02-11",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Chú giải 28.18 chỉ nhắc tham chiếu rằng muối aluminat tương ứng với hydroxit lưỡng tính này thuộc nhóm 28.41.",
+      "chungMinh": "Aluminat của nhóm 28.41 tương ứng với hydroxit lưỡng tính này."
+    },
+    {
+      "ma": "02-02-12",
+      "ketLuan": "LOAI_TRU",
+      "vi": "Nằm trong danh sách loại trừ Phân Chương V tại chú giải 28.25: tinh thể nuôi cấy ở dạng bộ phận quang học bị loại trừ sang nhóm 90.01.",
+      "chungMinh": "(ij) Các tinh thể nuôi cấy (trừ các bộ phận quang học) … khi chúng ở dạng bộ phận quang học, chúng được phân loại ở nhóm 90.01."
+    }
+  ]
+}
