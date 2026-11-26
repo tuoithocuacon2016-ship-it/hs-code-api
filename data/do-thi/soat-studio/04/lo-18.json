@@ -1,0 +1,247 @@
+{
+  "khuon": "soat@1",
+  "viec": "04",
+  "lo": 18,
+  "kq": [
+    {
+      "ma": "04-18-01",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8424 sang 8515 khớp sát nội dung câu trích nguồn nhom8424.nhom.",
+      "chungMinh": "(k) Máy và các thiết bị điện dùng phun nóng kim loại hoặc gốm kim loại thuộc nhóm 85.15."
+    },
+    {
+      "ma": "04-18-02",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8424 sang 8705 khớp sát nội dung câu trích nguồn nhom8424.nhom.",
+      "chungMinh": "nhưng nó không bao gồm các máy tạo thành phương tiện thực sự trong diễn giải tại nhóm 87.05"
+    },
+    {
+      "ma": "04-18-03",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8424 sang 8443 khớp sát nội dung câu trích nguồn nhom8424.nhom.",
+      "chungMinh": "(e) Máy in phun mực các loại (nhóm 84.43)."
+    },
+    {
+      "ma": "04-18-04",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8424 sang 9019 khớp sát nội dung câu trích nguồn nhom8424.nhom.",
+      "chungMinh": "(l) Máy khoan nha khoa loại tia áp lực (nhóm 90.18) và các thiết bị trị liệu xon khí (nhóm 90.19)."
+    },
+    {
+      "ma": "04-18-05",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8439 sang 8424 khớp sát nội dung câu trích nguồn nhom8439.nhom.",
+      "chungMinh": "(b) Máy bóc vỏ cây bằng tia nước (nhóm 84.24) và máy bóc tách gỗ (nhóm 84.65 hoặc 84.79)."
+    },
+    {
+      "ma": "04-18-06",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8424 sang 8467 khớp sát nội dung câu trích nguồn nhom8424.nhom.",
+      "chungMinh": "(a) Bình tra dầu dùng tay và máy phun mỡ (nhóm 82.05) và súng phun mỡ bằng khí nén và các loại thiết bị cấp chất bôi trơn bằng áp lực tương tự (nhóm 84.67)."
+    },
+    {
+      "ma": "04-18-07",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8205 sang 8424 khớp sát nội dung câu trích nguồn nhom8205.nhom.",
+      "chungMinh": "(c) Các dụng cụ để phóng, phân tán hoặc phun chất lỏng hoặc bột (ngay cả thao tác bằng tay) (nhóm 84.24)"
+    },
+    {
+      "ma": "04-18-08",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8424 sang 8404 khớp sát nội dung câu trích nguồn nhom8424.nhom.",
+      "chungMinh": "(b) Máy cạo rửa bằng hơi nước, dùng cho nồi hơi (nhóm 84.04)."
+    },
+    {
+      "ma": "04-18-09",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8479 sang 8424 khớp sát nội dung câu trích nguồn nhom8479.nhom.",
+      "chungMinh": "(2) Máy làm sạch hoặc đánh rỉ kim loại (bằng axít, trichloroethylene, v.v..) kể cả thiết bị cạo rỉ cho máy cán tôn, nhưng trừ thiết bị phun hơi nước hoặc cát thuộc nhóm 84.24."
+    },
+    {
+      "ma": "04-18-10",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9106 sang 9026 khớp sát nội dung câu trích nguồn nhom9106.nhom.",
+      "chungMinh": "(a) Dụng cụ và thiết bị của Chương 90, dù có hay không có máy đồng hồ cá nhân hay đồng hồ thời gian, nhưng không có mặt số thời gian, ví dụ như: … áp kế (nhóm 90.26)"
+    },
+    {
+      "ma": "04-18-11",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8432 sang 8424 khớp sát nội dung câu trích nguồn nhom8432.nhom.",
+      "chungMinh": "(c) Máy cơ khí nông nghiệp, làm vườn hoặc lâm nghiệp (vận hành bằng tay hoặc không vận hành bằng tay) để rải hoặc rắc chất lỏng hoặc chất bột (nhóm 84.24)."
+    },
+    {
+      "ma": "04-18-12",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8424 sang 8705 khớp sát nội dung câu trích nguồn nhom8424.nhom.",
+      "chungMinh": "(b) Bơm cứu hoả có hoặc không gắn bình chứa, nhóm 84.13 (loại không tự hành) hoặc nhóm 87.05 (loại tự hành)."
+    },
+    {
+      "ma": "04-18-13",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8468 sang 8424 khớp sát nội dung câu trích nguồn nhom8468.nhom.",
+      "chungMinh": "(b) Máy và thiết bị để phun kim loại nấu chảy (nhóm 84.24)"
+    },
+    {
+      "ma": "04-18-14",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9026 sang 9015 khớp sát nội dung câu trích nguồn nhom9026.nhom.",
+      "chungMinh": "(b) Phong tốc kế (dụng cụ đo gió) và thiết bị thủy học (nhóm 90.15);"
+    },
+    {
+      "ma": "04-18-15",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8424 sang 8476 khớp sát nội dung câu trích nguồn nhom8424.nhom.",
+      "chungMinh": "(f) Các máy bán hàng tự động loại phun nước hoa (nhóm 84.76)."
+    },
+    {
+      "ma": "04-18-16",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8424 sang 8205 khớp sát nội dung câu trích nguồn nhom8424.nhom.",
+      "chungMinh": "(a) Bình tra dầu dùng tay và máy phun mỡ (nhóm 82.05) và súng phun mỡ bằng khí nén và các loại thiết bị cấp chất bôi trơn bằng áp lực tương tự (nhóm 84.67)."
+    },
+    {
+      "ma": "04-18-17",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8424 sang 3813 khớp sát nội dung câu trích nguồn nhom8424.nhom.",
+      "chungMinh": "(a) Lựu đạn dập lửa, cũng như các chất nạp dùng cho các bình dập lửa (nhóm 38.13)."
+    },
+    {
+      "ma": "04-18-18",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8424 sang 8479 khớp sát nội dung câu trích nguồn nhom8424.nhom.",
+      "chungMinh": "(g) Các loại máy dùng để rắc vữa hoặc bê tông hoặc các máy dùng để rắc sỏi trên bề mặt đường hoặc các bề mặt tương tự (nhóm 84.79)."
+    },
+    {
+      "ma": "04-18-19",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8424 sang 8422 khớp sát nội dung câu trích nguồn nhom8424.nhom.",
+      "chungMinh": "(d) Các máy dùng để rửa thùng hoặc các loại đồ chứa tương tự bằng tia nước, hơi, cát.. (nhóm 84.22)."
+    },
+    {
+      "ma": "04-18-20",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8424 sang 9018 khớp sát nội dung câu trích nguồn nhom8424.nhom.",
+      "chungMinh": "(l) Máy khoan nha khoa loại tia áp lực (nhóm 90.18) và các thiết bị trị liệu xon khí (nhóm 90.19)."
+    },
+    {
+      "ma": "04-18-21",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8424 sang 8486 khớp sát nội dung câu trích nguồn nhom8424.nhom.",
+      "chungMinh": "(ij) Các thiết bị phun bấn dùng để khắc axit, hiện ảnh, tẩy rửa hoặc làm sạch các tấm bán dẫn mỏng và màn hình dẹt; … (nhóm 84.86)"
+    },
+    {
+      "ma": "04-18-22",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9301 sang 8424 khớp sát nội dung câu trích nguồn nhom9301.nhom.",
+      "chungMinh": "trừ loại súng phun lửa chuyên dùng để diệt cỏ (nhóm 84.24)."
+    },
+    {
+      "ma": "04-18-23",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8467 sang 8424 khớp sát nội dung câu trích nguồn nhom8467.nhom.",
+      "chungMinh": "(d) Bình phun chất lỏng hoặc chất bột, súng phun điều khiển bằng tay, máy phun bắn cát và các loại thiết bị tương tự (nhóm 84.24)."
+    },
+    {
+      "ma": "04-18-24",
+      "ketLuan": "SAI",
+      "vi": "Điều kiện nêu xilanh thuỷ lực/khí thuộc nhóm 84.12 hoàn toàn không khớp câu trích: câu trích xếp máy khâu sách vào nhóm 84.40.",
+      "chungMinh": "Máy khâu sách được phân loại trong nhóm 84.40"
+    },
+    {
+      "ma": "04-18-25",
+      "ketLuan": "SAI",
+      "vi": "Nhóm đích 7117 không khớp câu trích: câu trích xếp phụ kiện để ghép nối với vòi, van vào nhóm 84.81, không phải 71.17.",
+      "chungMinh": "Phụ kiện để ghép nối với vòi, van (nhóm 84.81)."
+    },
+    {
+      "ma": "04-18-26",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8479 sang 8424 khớp sát nội dung câu trích nguồn nhom8479.nhom.",
+      "chungMinh": "(1) Máy tạo ẩm hoặc hút ẩm không khí, trừ thiết bị thuộc nhóm 84.15, 84.24 hoặc 85.09."
+    },
+    {
+      "ma": "04-18-27",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8424 sang 9018 khớp sát nội dung câu trích nguồn nhom8424.nhom.",
+      "chungMinh": "(c) Các dụng cụ dùng trong y tế thuộc nhóm 90.18."
+    },
+    {
+      "ma": "04-18-28",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8515 sang 8424 khớp sát nội dung câu trích nguồn nhom8515.nhom.",
+      "chungMinh": "Nhóm này không bao gồm các súng phun kim loại được trình bày riêng rẽ của nhóm 84.24."
+    },
+    {
+      "ma": "04-18-29",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8424 sang 3808 khớp sát nội dung câu trích nguồn nhom8424.nhom.",
+      "chungMinh": "(a) Thuốc trừ sâu được đóng trong thùng có áp suất được gắn với van giảm áp đơn giản (nhóm 38.08)."
+    },
+    {
+      "ma": "04-18-30",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9026 sang 9015 khớp sát nội dung câu trích nguồn nhom9026.nhom.",
+      "chungMinh": "(a) Bánh guồng thủy văn để đo tốc độ dòng chảy trên sông, rạch, v.v... thuộc nhóm 90.15 được xem như các dụng cụ thủy văn."
+    },
+    {
+      "ma": "04-18-31",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8443 sang 8424 khớp sát nội dung câu trích nguồn nhom8443.nhom.",
+      "chungMinh": "Máy phun chống nhòe (nhóm 84.24)"
+    },
+    {
+      "ma": "04-18-32",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8424 sang 9616 khớp sát nội dung câu trích nguồn nhom8424.nhom.",
+      "chungMinh": "(d) Các bình xịt nước thơm và bình xịt toilét tương tự (nhóm 96.16)."
+    },
+    {
+      "ma": "04-18-33",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8424 sang 8479 khớp sát nội dung câu trích nguồn nhom8424.nhom.",
+      "chungMinh": "(h) Các máy để phun rải cát và muối để làm sạch tuyết, được thiết kế để gắn trên xe tải (nhóm 84.79)"
+    },
+    {
+      "ma": "04-18-34",
+      "ketLuan": "SAI",
+      "vi": "Điều kiện nêu máy mát xa hoàn toàn không khớp câu trích: câu trích loại trừ rơ le sang nhóm 85.36.",
+      "chungMinh": "rơ le (nhóm 85.36)"
+    },
+    {
+      "ma": "04-18-35",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8424 sang 8456 khớp sát nội dung câu trích nguồn ch84.chuong.",
+      "chungMinh": "Nhóm 84.24 không bao gồm: … (ii) Máy cắt bằng tia nước (nhóm 84.56)."
+    },
+    {
+      "ma": "04-18-36",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9026 sang 9028 khớp sát nội dung câu trích nguồn nhom9026.nhom.",
+      "chungMinh": "(b) Thiết bị chỉ báo tổng lưu lượng chất lỏng chảy trong một thời gian đã định và được xem như các thiết bị đo chất lỏng được cung cấp thuộc nhóm 90.28."
+    },
+    {
+      "ma": "04-18-37",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8424 sang 8416 khớp sát nội dung câu trích nguồn nhom8424.nhom.",
+      "chungMinh": "(c) Đầu đốt (nhóm 84.16)."
+    },
+    {
+      "ma": "04-18-38",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9026 sang 9027 khớp sát nội dung câu trích nguồn nhom9026.nhom.",
+      "chungMinh": "(d) Thiết bị và dụng cụ để phân tích lý, hoá... (nhóm 90.27),"
+    },
+    {
+      "ma": "04-18-39",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8716 sang 8424 khớp sát nội dung câu trích nguồn nhom8716.nhom.",
+      "chungMinh": "(a) Xe đẩy tay, xe súc vật kéo hoặc thiết bị phun rải loại rơmoóc của nhóm 84.24."
+    },
+    {
+      "ma": "04-18-40",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 3813 sang 8424 khớp sát nội dung câu trích nguồn nhom3813.nhom.",
+      "chungMinh": "Các bình dập lửa, có hoặc không thế xách tay được và có hoặc không nạp, mà chúng được vận hành bởi một đinh chốt, khi xoay ngược lên sẽ làm bật lẫy,... được xếp vào nhóm 84.24."
+    }
+  ]
+}

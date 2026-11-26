@@ -1,0 +1,247 @@
+{
+  "khuon": "soat@1",
+  "viec": "04",
+  "lo": 14,
+  "kq": [
+    {
+      "ma": "04-14-01",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6307 sang 9616 khớp sát nội dung câu trích nguồn nhom6307.nhom.",
+      "chungMinh": "Giẻ lau sàn (nhóm 96.03), giần và sàng tay (nhóm 96.04) và nùi bông thoa phấn (nhóm 96.16)."
+    },
+    {
+      "ma": "04-14-02",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6307 sang 5603 khớp sát nội dung câu trích nguồn ch63.chuong.",
+      "chungMinh": "Các sản phẩm không dệt chỉ được cắt thành hình vuông hoặc hình chữ nhật (ví dụ, tấm trải giường dùng một lần) (nhóm 56.03)"
+    },
+    {
+      "ma": "04-14-03",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6307 sang 5807 khớp sát nội dung câu trích nguồn nhom6307.nhom.",
+      "chungMinh": "Nhãn, phù hiệu và các mặt hàng tương tự thuộc các nhóm 58.07, 61.17 hoặc 62.17."
+    },
+    {
+      "ma": "04-14-04",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6307 sang 4201 khớp sát nội dung câu trích nguồn nhom6307.nhom.",
+      "chungMinh": "(đai có đặc trưng của bộ yên cương hoặc bộ đai bảo hộ bị loại ra khỏi nhóm này - nhóm 42.01)"
+    },
+    {
+      "ma": "04-14-05",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8205 sang 8207 khớp sát nội dung câu trích nguồn nhom8205.nhom.",
+      "chungMinh": "(b) Các dụng cụ có thể tháo lắp thay thế, được thiết kế để sử dụng trong các dụng cụ cầm tay, … (ví dụ mũi văn vít, mũi khoan đá) (nhóm 82.07)."
+    },
+    {
+      "ma": "04-14-06",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7228 sang 8207 khớp sát nội dung câu trích nguồn nhom7228.nhom.",
+      "chungMinh": "Thép này có thể được cắt thành các mẩu ngắn để sản xuất các mũi khoan, những mũi khoan này xếp vào nhóm 82.07"
+    },
+    {
+      "ma": "04-14-07",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6307 sang 6305 khớp sát nội dung câu trích nguồn nhom6307.nhom.",
+      "chungMinh": "Túi và bao các loại thuộc nhóm 63.05."
+    },
+    {
+      "ma": "04-14-08",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6307 sang 5608 khớp sát nội dung câu trích nguồn ch63.chuong.",
+      "chungMinh": "Các loại lưới hoàn chỉnh thuộc nhóm 56.08."
+    },
+    {
+      "ma": "04-14-09",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6307 sang 9113 khớp sát nội dung câu trích nguồn nhom6307.nhom.",
+      "chungMinh": "Dây đồng hồ (nhóm 91.13)."
+    },
+    {
+      "ma": "04-14-10",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8207 sang 9603 khớp sát nội dung câu trích nguồn nhom8207.nhom.",
+      "chungMinh": "(ij) Ban chải (kim loại hoặc không) được sử dụng như những bộ phận của máy) (nhóm 96.03)."
+    },
+    {
+      "ma": "04-14-11",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8207 sang 8205 khớp sát nội dung câu trích nguồn nhom8207.nhom.",
+      "chungMinh": "(c) Lưỡi bào và các bộ phận tương tự của dụng cụ (nhóm 82.05)."
+    },
+    {
+      "ma": "04-14-12",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6307 sang 6117 khớp sát nội dung câu trích nguồn nhom6307.nhom.",
+      "chungMinh": "Nhãn, phù hiệu và các mặt hàng tương tự thuộc các nhóm 58.07, 61.17 hoặc 62.17."
+    },
+    {
+      "ma": "04-14-13",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8205 sang 8207 khớp sát nội dung câu trích nguồn nhom8205.nhom.",
+      "chungMinh": "Các dụng cụ thay thế như khoan, mũi khoan, taro và khuôn để sử dụng với những dụng cụ cầm tay này bị loại khỏi nhóm (xem nhóm 82.07)."
+    },
+    {
+      "ma": "04-14-14",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6307 sang 9017 khớp sát nội dung câu trích nguồn nhom6307.nhom.",
+      "chungMinh": "Thước dây các loại (nhóm 90.17)."
+    },
+    {
+      "ma": "04-14-15",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8207 sang 9018 khớp sát nội dung câu trích nguồn ch82.chuong.",
+      "chungMinh": "(a) Các dụng cụ, kéo và các bộ dụng cụ cắt khác thuộc loại được sử dụng như các thiết bị hoặc dụng cụ dùng cho ngành y, nha khoa, phẫu thuật hoặc thú y (nhóm 90.18)."
+    },
+    {
+      "ma": "04-14-16",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8207 sang 8202 khớp sát nội dung câu trích nguồn nhom8207.nhom.",
+      "chungMinh": "(b) Các loại lưỡi cưa (nhóm 82.02)."
+    },
+    {
+      "ma": "04-14-17",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6307 sang 6306 khớp sát nội dung câu trích nguồn nhom6307.nhom.",
+      "chungMinh": "Tấm bảo vệ loại phẳng (loại trừ tấm vải bạt chống nước và tấm trải sàn thuộc nhóm 63.06)."
+    },
+    {
+      "ma": "04-14-18",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6307 sang 6217 khớp sát nội dung câu trích nguồn nhom6307.nhom.",
+      "chungMinh": "Nhãn, phù hiệu và các mặt hàng tương tự thuộc các nhóm 58.07, 61.17 hoặc 62.17."
+    },
+    {
+      "ma": "04-14-19",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6307 sang 9619 khớp sát nội dung câu trích nguồn nhom6307.nhom.",
+      "chungMinh": "Băng vệ sinh (miếng) và băng vệ sinh dạng ống (tampon), khăn (bỉm), tã lót và các vật phẩm tương tự của nhóm 96.19."
+    },
+    {
+      "ma": "04-14-20",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8207 sang 8466 khớp sát nội dung câu trích nguồn nhom8207.nhom.",
+      "chungMinh": "(g) Bộ phần kẹp dụng cụ của máy cơ khí hoặc dụng cụ cầm tay, bộ phận tự mở (nhóm 84.66)."
+    },
+    {
+      "ma": "04-14-21",
+      "ketLuan": "SAI",
+      "vi": "Điều kiện nêu tất dài cho người giãn tĩnh mạch hoàn toàn không khớp câu trích: câu trích loại trừ đồ chứa dùng để trang trí sang nhóm 83.06.",
+      "chungMinh": "nhưng không bao gồm các đồ chứa thuộc nhóm 73.10 các đồ chứa dùng trong gia đình (nhóm 73.23), cũng không bao gồm các đồ chứa dùng để trang trí (nhóm 83.06)."
+    },
+    {
+      "ma": "04-14-22",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8207 sang 8448 khớp sát nội dung câu trích nguồn nhom8207.nhom.",
+      "chungMinh": "(f) Máy đùn ép sợi để đùn ra sợi nhân tạo (nhóm 84.48)."
+    },
+    {
+      "ma": "04-14-23",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6307 sang 6117 khớp sát nội dung câu trích nguồn nhom6307.nhom.",
+      "chungMinh": "Băng/Dải bịt đầu dệt kim (nhóm 61.17)."
+    },
+    {
+      "ma": "04-14-24",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6307 sang 4201 khớp sát nội dung câu trích nguồn nhom6307.nhom.",
+      "chungMinh": "Bộ yên cương và yên cương cho bất cứ loại động vật nào (nhóm 42.01)."
+    },
+    {
+      "ma": "04-14-25",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8207 sang 8209 khớp sát nội dung câu trích nguồn nhom8207.nhom.",
+      "chungMinh": "(e) Đĩa cán, chọp và các bộ phận tương tự của các dụng cụ chưa lắp ráp, làm bằng gốm kim loại (nhóm 82.09)"
+    },
+    {
+      "ma": "04-14-26",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6307 sang 5804 khớp sát nội dung câu trích nguồn ch63.chuong.",
+      "chungMinh": "Mẫu hoa văn bằng ren hoặc đồ thêu thuộc nhóm 58.04 hoặc nhóm 58.10."
+    },
+    {
+      "ma": "04-14-27",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6307 sang 6306 khớp sát nội dung câu trích nguồn nhom6307.nhom.",
+      "chungMinh": "Đệm khí, hơi (loại trừ đồ dùng để cắm trại thuộc nhóm 63.06)."
+    },
+    {
+      "ma": "04-14-28",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9020 sang 6307 khớp sát nội dung câu trích nguồn nhom9020.nhom.",
+      "chungMinh": "Mặt nạ chống bụi, mùi khó chịu, v.v..,. không được trang bị một bộ lọc có thể thay thế nhưng lại gồm một vài lớp vải dệt tết lại với nhau, có hoặc không phủ than hoạt tính hoặc ở giữa có lớp sợi tổng hợp, cũng như các mặt nạ bằng vật liệu dệt mà các phẫu thuật viên, y tá, v.v... thường dùng trong khi mổ hay chăm sóc bệnh nhân (nhóm 63.07)."
+    },
+    {
+      "ma": "04-14-29",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6307 sang 6309 khớp sát nội dung câu trích nguồn ch63.chuong.",
+      "chungMinh": "Quần áo đã qua sử dụng hoặc các mặt hàng đã qua sử dụng khác thuộc nhóm 63.09"
+    },
+    {
+      "ma": "04-14-30",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8207 sang 8466 khớp sát nội dung câu trích nguồn ch82.chuong.",
+      "chungMinh": "trừ các bộ phận được chi tiết riêng và tay cầm cho các loại dụng cụ cầm tay (nhóm 84.66)"
+    },
+    {
+      "ma": "04-14-31",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6307 sang 5601 khớp sát nội dung câu trích nguồn ch63.chuong.",
+      "chungMinh": "Các sản phẩm mềm xơ thuộc nhóm 56.01."
+    },
+    {
+      "ma": "04-14-32",
+      "ketLuan": "SAI",
+      "vi": "Nhóm đích 9013 không khớp câu trích: câu trích xếp chân đế monopod, bipod, tripod và mặt hàng tương tự vào nhóm 96.20, không phải 90.13.",
+      "chungMinh": "(m) Chân đế loại một chân (monopod), hai chân (bipod), ba chân (tripod) và các mặt hàng tương tự (nhóm 96.20)."
+    },
+    {
+      "ma": "04-14-33",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8207 sang 8475 khớp sát nội dung câu trích nguồn nhom8207.nhom.",
+      "chungMinh": "(h) Khuôn để kéo sợi thuỷ tinh (nhóm 84.75)."
+    },
+    {
+      "ma": "04-14-34",
+      "ketLuan": "SAI",
+      "vi": "Điều kiện nêu bộ yên cương cho động vật hoàn toàn không khớp câu trích: câu trích loại trừ thanh chắn cửa ra vào gắn với xích sang nhóm 83.02.",
+      "chungMinh": "Nhóm này không bao gồm: … (c) Thanh chắn cửa ra vào được gắn với xích (nhóm 83.02)."
+    },
+    {
+      "ma": "04-14-35",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6307 sang 5810 khớp sát nội dung câu trích nguồn ch63.chuong.",
+      "chungMinh": "Mẫu hoa văn bằng ren hoặc đồ thêu thuộc nhóm 58.04 hoặc nhóm 58.10."
+    },
+    {
+      "ma": "04-14-36",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6307 sang 6702 khớp sát nội dung câu trích nguồn nhom6307.nhom.",
+      "chungMinh": "Hoa, cành, lá hoặc quả nhân tạo và các bộ phận của chúng và các sản phẩm làm bằng hoa, cành, lá hoặc quả nhân tạo (nhóm 67.02)."
+    },
+    {
+      "ma": "04-14-37",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6307 sang 8903 khớp sát nội dung câu trích nguồn nhom6307.nhom.",
+      "chungMinh": "Xuồng bơm hơi, thuyền kayaks và xuồng, thuyền khác (nhóm 89.03)."
+    },
+    {
+      "ma": "04-14-38",
+      "ketLuan": "SAI",
+      "vi": "Nhóm đích 8301 không khớp câu trích: câu trích liệt kê các nhóm 39.26, 40.15, 42.03 hoặc 68.12, không có nhóm 83.01.",
+      "chungMinh": "(a) Quần áo và đồ phụ trợ may mặc thuộc các nhóm 39.26, 40.15, 42.03 hoặc 68.12."
+    },
+    {
+      "ma": "04-14-39",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6307 sang 9604 khớp sát nội dung câu trích nguồn nhom6307.nhom.",
+      "chungMinh": "Giẻ lau sàn (nhóm 96.03), giần và sàng tay (nhóm 96.04) và nùi bông thoa phấn (nhóm 96.16)."
+    },
+    {
+      "ma": "04-14-40",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6307 sang 6601 khớp sát nội dung câu trích nguồn nhom6307.nhom.",
+      "chungMinh": "ô cầm tay và ô loại lớn che nắng (nhóm 66.01)."
+    }
+  ]
+}

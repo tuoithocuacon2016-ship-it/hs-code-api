@@ -1,0 +1,247 @@
+{
+  "khuon": "soat@1",
+  "viec": "04",
+  "lo": 17,
+  "kq": [
+    {
+      "ma": "04-17-01",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 3925 sang 4814 khớp sát nội dung câu trích nguồn ch39.chuong.",
+      "chungMinh": "(o) Các loại tấm phủ tường thuộc nhóm 48.14;"
+    },
+    {
+      "ma": "04-17-02",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8541 sang 8542 khớp sát nội dung câu trích nguồn nhom8541.nhom.",
+      "chungMinh": "các bộ chuyển đổi dựa trên chất bán dẫn thuộc nhóm này không bao gồm các cảm biến, bộ dẫn động, bộ cộng hưởng, bộ tạo dao động và tổ hợp chúng dựa trên silic, chứa một … hoặc nhiều mạch tích hợp nguyên khối, lai, đa chip hoặc đa thành phần như được định nghĩa trong Chú giải 12 (b) (iv) (3) của Chương này (nhóm 85.42)"
+    },
+    {
+      "ma": "04-17-03",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8506 sang 8541 khớp sát nội dung câu trích nguồn nhom8506.nhom.",
+      "chungMinh": "(b) Pin mặt trời (nhóm 85.41)"
+    },
+    {
+      "ma": "04-17-04",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8533 sang 8541 khớp sát nội dung câu trích nguồn nhom8533.nhom.",
+      "chungMinh": "các điện trở phi tuyến phụ thuộc vào điện áp nhưng không bao gồm các điốt biến đổi theo điện áp (varistor), thuộc nhóm 85.41."
+    },
+    {
+      "ma": "04-17-05",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8714 sang 8482 khớp sát nội dung câu trích nguồn phan87.phan.",
+      "chungMinh": "các mặt hàng thuộc nhóm 84.81 hoặc 84.82 hoặc, các mặt hàng thuộc nhóm 84.83 với điều kiện là chúng cấu thành các bộ phận bên trong của động cơ hay mô tơ"
+    },
+    {
+      "ma": "04-17-06",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8541 sang 7104 khớp sát nội dung câu trích nguồn nhom8541.nhom.",
+      "chungMinh": "Nhóm này không bao gồm các tinh thể áp điện chưa lắp ráp (nói chung thuộc nhóm 38.24, 71.03 hoặc 71.04)."
+    },
+    {
+      "ma": "04-17-07",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9025 sang 9026 khớp sát nội dung câu trích nguồn nhom9025.nhom.",
+      "chungMinh": "Đây là những công cụ dùng để đo áp suất khí quyển; những công cụ tương tự (áp kế) dùng để đo áp suất các chất lỏng hoặc khí (lực kế) bị loại trừ (nhóm 90.26)."
+    },
+    {
+      "ma": "04-17-08",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6115 sang 6406 khớp sát nội dung câu trích nguồn nhom6115.nhom.",
+      "chungMinh": "(d) Ống ôm sát chân (leggings) và ghệt (kể cả bít tất dài dùng trong môn thể thao leo núi, loại không có bàn chân\") (nhóm 64.06)."
+    },
+    {
+      "ma": "04-17-09",
+      "ketLuan": "SAI",
+      "vi": "Điều kiện nêu hộp chứa chất lỏng thuốc lá điện tử hoàn toàn không khớp câu trích: câu trích loại trừ mũ và vật đội đầu dành cho động vật sang nhóm 42.01.",
+      "chungMinh": "(a) Mũ và các vật đội đầu khác dành cho động vật (nhóm 42.01)."
+    },
+    {
+      "ma": "04-17-10",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6115 sang 6212 khớp sát nội dung câu trích nguồn ch61.chuong.",
+      "chungMinh": "Chương này không bao gồm xu chiêng, gen, áo nịt ngực, dây đeo quần, dây móc bít tất, nịt tất-, hoặc các sản phẩm tương tự hoặc các bộ phận của chúng, được dệt kim hoặc móc (nhóm 62.12)."
+    },
+    {
+      "ma": "04-17-11",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6115 sang 6111 khớp sát nội dung câu trích nguồn nhom6115.nhom.",
+      "chungMinh": "(a) Bít tất dài (trên đầu gối), bít tất ngắn và giầy len không có đế ngoài được dán keo, khâu hoặc gắn bằng cách khác vào mũ giầy, dùng cho trẻ em (nhóm 61.11)."
+    },
+    {
+      "ma": "04-17-12",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9033 sang 8541 khớp sát nội dung câu trích nguồn nhom9033.nhom.",
+      "chungMinh": "tế bào quang điện (nhóm 85.41)"
+    },
+    {
+      "ma": "04-17-13",
+      "ketLuan": "SAI",
+      "vi": "Nhóm đích 8487 không khớp câu trích: câu trích xếp xe đạp trẻ em vào nhóm 87.12, không phải 84.87.",
+      "chungMinh": "(o) Xe đạp trẻ em (nhóm 87.12);"
+    },
+    {
+      "ma": "04-17-14",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8541 sang 3818 khớp sát nội dung câu trích nguồn nhom8541.nhom.",
+      "chungMinh": "(c) Các tinh thể được kích tạp dùng trong điện tử, dưới dạng đĩa, tấm mỏng, hoặc các dạng tương tự, được đánh bóng hoặc không, có phủ hoặc không phủ lớp epitaxy đồng nhất, với điều kiện chúng không được pha trộn có chọn lọc hoặc khuếch tán để tạo ra vùng riêng biệt (nhóm 38.18)."
+    },
+    {
+      "ma": "04-17-15",
+      "ketLuan": "SAI",
+      "vi": "Nhóm đích 9021 không khớp câu trích: câu trích xếp thiết bị truyền hoặc nhận sóng phát thanh/truyền hình vào nhóm 85.25, 85.27 hoặc 85.28, không phải 90.21.",
+      "chungMinh": "Thiết bị truyền hoặc nhận sóng phát thanh hoặc tín hiệu truyền hình (nhóm 85.25, 85.27 hoặc 85.28)."
+    },
+    {
+      "ma": "04-17-16",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 3818 sang 8541 khớp sát nội dung câu trích nguồn nhom3818.nhom.",
+      "chungMinh": "Những hợp chất được gia công toàn diện hơn (ví dụ, bởi các quá trình khuyếch tán chọn lọc) được đưa vào nhóm 85.41 như các thiết bị bán dẫn."
+    },
+    {
+      "ma": "04-17-17",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8714 sang 9503 khớp sát nội dung câu trích nguồn ch87.chuong.",
+      "chungMinh": "(b) Đồ chơi có bánh xe được thiết kế để trẻ em lái và xe đạp đồ chơi (trừ xe đạp trẻ em) (nhóm 95.03)"
+    },
+    {
+      "ma": "04-17-18",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8541 sang 8522 khớp sát nội dung câu trích nguồn nhom8541.nhom.",
+      "chungMinh": "một đối tượng hoàn chỉnh (được gắn thêm tinh thể) có thể không còn được xem thuần tuý là một tinh thể được lắp ráp nhưng lại trở thành một bộ phận đặc biệt có thể nhận biết được của một máy móc hoặc thiết bị … ví dụ, pin áp điện dùng cho micro hoặc loa (nhóm 85.18), đầu âm (nhóm 85.22)"
+    },
+    {
+      "ma": "04-17-19",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8714 sang 9508 khớp sát nội dung câu trích nguồn phan87.phan.",
+      "chungMinh": "1.- Phần này không bao gồm các mặt hàng thuộc các nhóm 95.03 hoặc 95.08, hoặc xe trượt băng, xe trượt tuyết hoặc loại tương tự thuộc nhóm 95.06."
+    },
+    {
+      "ma": "04-17-20",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8482 sang 8714 khớp sát nội dung câu trích nguồn nhom8482.nhom.",
+      "chungMinh": "Nhóm này không bao gồm các bộ phận máy móc có lắp ổ bi, ổ đũa hoặc ổ đũa hình kim; … (b) Moay ơ xe đạp (nhóm 87.14)."
+    },
+    {
+      "ma": "04-17-21",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6115 sang 9021 khớp sát nội dung câu trích nguồn ch61.chuong.",
+      "chungMinh": "Dụng cụ chỉnh hình, đai thắt phẫu thuật, băng giữ hoặc loại tương tự (nhóm 90.21)."
+    },
+    {
+      "ma": "04-17-22",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8533 sang 8541 khớp sát nội dung câu trích nguồn nhom8533.nhom.",
+      "chungMinh": "(b) Các quang trở (nhóm 85.41)."
+    },
+    {
+      "ma": "04-17-23",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8714 sang 9503 khớp sát nội dung câu trích nguồn phan87.phan.",
+      "chungMinh": "1.- Phần này không bao gồm các mặt hàng thuộc các nhóm 95.03 hoặc 95.08, hoặc xe trượt băng, xe trượt tuyết hoặc loại tương tự thuộc nhóm 95.06."
+    },
+    {
+      "ma": "04-17-24",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6115 sang 6309 khớp sát nội dung câu trích nguồn ch61.chuong.",
+      "chungMinh": "Quần áo hoặc các sản phẩm dệt may đã qua sử dụng khác thuộc nhóm 63.09."
+    },
+    {
+      "ma": "04-17-25",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9021 sang 6115 khớp sát nội dung câu trích nguồn nhom9021.nhom.",
+      "chungMinh": "(a) Tất dài cho người bị giãn tĩnh mạch (nhóm 61.15)."
+    },
+    {
+      "ma": "04-17-26",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 3922 sang 3925 khớp sát nội dung câu trích nguồn nhom3922.nhom.",
+      "chungMinh": "Các loại đĩa đựng xà phòng, thanh để khăn tắm … và các sản phẩm tương tự cho phòng tắm, phòng vệ sinh hoặc bếp; các sản phẩm này thuộc nhóm 39.25 nếu được nhằm lắp đặt cố định bên trong hoặc trên tường hoặc các vị trí khác của tòa nhà, nếu không thì thuộc nhóm 39.24."
+    },
+    {
+      "ma": "04-17-27",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8541 sang 3818 khớp sát nội dung câu trích nguồn nhom8541.nhom.",
+      "chungMinh": "(b) Các hợp chất hóa học như cadimi selenua và sulphua, indi arsenua,.., có chứa một số chất phụ gia nhất định … nhằm mục đích sử dụng chúng trong điện tử, dù trong dạng hình trụ, thanh,.., hoặc cắt thành đĩa, tấm mỏng hoặc các dạng tương tự (nhóm 38.18)."
+    },
+    {
+      "ma": "04-17-28",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8541 sang 8542 khớp sát nội dung câu trích nguồn nhom8541.nhom.",
+      "chungMinh": "(d) Mạch điện tử tích hợp (nhóm 85.42)."
+    },
+    {
+      "ma": "04-17-29",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8714 sang 5608 khớp sát nội dung câu trích nguồn nhom8714.nhom.",
+      "chungMinh": "Các bộ phận bảo vệ quần áo, (trừ các lưới thuộc nhóm 56.08)"
+    },
+    {
+      "ma": "04-17-30",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8541 sang 9114 khớp sát nội dung câu trích nguồn nhom8541.nhom.",
+      "chungMinh": "một đối tượng hoàn chỉnh (được gắn thêm tinh thể) có thể không còn được xem thuần tuý là một tinh thể được lắp ráp nhưng lại trở thành một bộ phận đặc biệt có thể nhận biết được của một máy móc hoặc thiết bị … bộ dao động bằng thạch anh dùng cho đồng hồ điện tử (nhóm 91.14)."
+    },
+    {
+      "ma": "04-17-31",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8541 sang 7103 khớp sát nội dung câu trích nguồn nhom8541.nhom.",
+      "chungMinh": "Nhóm này không bao gồm các tinh thể áp điện chưa lắp ráp (nói chung thuộc nhóm 38.24, 71.03 hoặc 71.04)."
+    },
+    {
+      "ma": "04-17-32",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8541 sang 8533 khớp sát nội dung câu trích nguồn nhom8541.nhom.",
+      "chungMinh": "Tuy nhiên, nhóm này không bao gồm các linh kiện bán dẫn khác với các linh kiện bán dẫn mô tả trên, hoạt động của chúng phụ thuộc chủ yếu vào nhiệt độ, áp suất, v.v..., chẳng hạn như các điện trở bán dẫn phi tuyến (thermistors, varistors, điện trở từ, v.v...) (nhóm 85.33)."
+    },
+    {
+      "ma": "04-17-33",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8541 sang 3818 khớp sát nội dung câu trích nguồn nhom8541.nhom.",
+      "chungMinh": "(a) Các nguyên tố hóa học (ví dụ, silic và selen) đã được kích tạp để sử dụng trong điện tử, ở dạng không gia công như kéo, hoặc ở dạng hình trụ hoặc dạng thanh (Chương 28), khi được cắt ở dạng đĩa, tấm mỏng hoặc các dạng tương tự (nhóm 38.18)."
+    },
+    {
+      "ma": "04-17-34",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9026 sang 8540 khớp sát nội dung câu trích nguồn nhom9026.nhom.",
+      "chungMinh": "Nếu được trình bày tách rời, các ống nhiệt chân không (triode) bị loại trừ (nhóm 85.40)."
+    },
+    {
+      "ma": "04-17-35",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8541 sang 3824 khớp sát nội dung câu trích nguồn nhom8541.nhom.",
+      "chungMinh": "Nhóm này không bao gồm các tinh thể áp điện chưa lắp ráp (nói chung thuộc nhóm 38.24, 71.03 hoặc 71.04)."
+    },
+    {
+      "ma": "04-17-36",
+      "ketLuan": "SAI",
+      "vi": "Điều kiện nêu điện trở đốt nóng bọc cách điện hoàn toàn không khớp câu trích: câu trích loại trừ dao máy hoặc lưỡi dao cắt sang nhóm 82.08.",
+      "chungMinh": "(d) Dao máy hoặc lưỡi dao cắt (nhóm 82.08)."
+    },
+    {
+      "ma": "04-17-37",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8541 sang 8540 khớp sát nội dung câu trích nguồn nhom8541.nhom.",
+      "chungMinh": "Các ống điện tử phát quang (tế bào phát quang), hoạt động của chúng dựa trên hiệu ứng quang điện bên ngoài (sự xạ quang), thuộc nhóm 85.40."
+    },
+    {
+      "ma": "04-17-38",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8714 sang 9023 khớp sát nội dung câu trích nguồn ch87.chuong.",
+      "chungMinh": "Chương này loại trừ: (a) Xe và bộ phận của xe, mô hình xe cắt ngang, được thiết kế cho mục đích trưng bày, không sử dụng cho các mục đích khác (nhóm 90.23)."
+    },
+    {
+      "ma": "04-17-39",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8714 sang 8306 khớp sát nội dung câu trích nguồn phan87.phan.",
+      "chungMinh": "Khái niệm \"bộ phận\" và \"bộ phận và phụ kiện\" không áp dụng cho các sản phẩm sau đây … (d) Các mặt hàng thuộc nhóm 83.06"
+    },
+    {
+      "ma": "04-17-40",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9014 sang 9026 khớp sát nội dung câu trích nguồn nhom9014.nhom.",
+      "chungMinh": "Máy đo áp suất, máy đo mực nước và các thiết bị đo đạc khác thuộc nhóm 90.26."
+    }
+  ]
+}
