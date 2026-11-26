@@ -1,0 +1,247 @@
+{
+  "khuon": "soat@1",
+  "viec": "04",
+  "lo": 30,
+  "kq": [
+    {
+      "ma": "04-30-01",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6117 sang 6111 khớp sát nội dung câu trích nguồn ch61.chuong.",
+      "chungMinh": "(b) Những mặt hàng mà, thoạt nhìn, có thể vừa xếp vào nhóm 61.11, vừa xếp được vào các nhóm khác của Chương này phải được xếp vào nhóm 61.11."
+    },
+    {
+      "ma": "04-30-02",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 5807 sang 6117 khớp sát nội dung câu trích nguồn nhom5807.nhom.",
+      "chungMinh": "hoặc sản xuất bằng các phương thức khác ngoài cách cắt thành cỡ hoặc thành hình dạng (nhóm 61.17, 62.17 hoặc 63.07)."
+    },
+    {
+      "ma": "04-30-03",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8515 sang 8486 khớp sát nội dung câu trích nguồn nhom8515.nhom.",
+      "chungMinh": "(e) Máy và thiết bị hàn loại chỉ dùng hoặc chủ yếu dùng cho việc lắp ráp các vật liệu bán dẫn (nhóm 84.86)."
+    },
+    {
+      "ma": "04-30-04",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8515 sang 8545 khớp sát nội dung câu trích nguồn nhom8515.nhom.",
+      "chungMinh": "(b) Các điện cực bằng graphit hoặc carbon khác, có hoặc không có thành phần kim loại (thuộc nhóm 85.45)."
+    },
+    {
+      "ma": "04-30-05",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9027 sang 9025 khớp sát nội dung câu trích nguồn nhom9027.nhom.",
+      "chungMinh": "Các tỷ trọng kế, nhiệt kế, ẩm kế và các dụng cụ tương tự khác thuộc nhóm 90.25"
+    },
+    {
+      "ma": "04-30-06",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8514 sang 8515 khớp sát nội dung câu trích nguồn nhom8514.nhom.",
+      "chungMinh": "Tuy nhiên, các máy móc xử lý cảm ứng dùng cho hàn hoặc hàn thau kim loại và máy xử lý nhiệt bằng hao tổn điện môi được sử dụng để hàn nhựa hoặc vật liệu khác (ví dụ máy ép tần số cao để hàn và máy hàn dòng tần số cao) xếp vào nhóm 85.15."
+    },
+    {
+      "ma": "04-30-07",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6117 sang 5807 khớp sát nội dung câu trích nguồn nhom6117.nhom.",
+      "chungMinh": "đã được làm hoàn chỉnh, trừ được làm bằng cách cắt để tạo hình dạng và tạo kích cỡ (Khi được làm bằng cách cắt để tạo hình dạng hoặc kích cỡ thì các sản phẩm đó bị loại ra khỏi nhóm này - được phân loại vào nhóm 58.07)."
+    },
+    {
+      "ma": "04-30-08",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9025 sang 9027 khớp sát nội dung câu trích nguồn nhom9025.nhom.",
+      "chungMinh": "Nhóm này không bao gồm thiết bị xác định độ ẩm của chất cứng (nhóm 90.27)."
+    },
+    {
+      "ma": "04-30-09",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9025 sang 9017 khớp sát nội dung câu trích nguồn nhom9025.nhom.",
+      "chungMinh": "Nhóm này không tính các hoả kế, những công cụ loại compa, dùng để đo độ co của một mẫu nghiệm bằng đất sét v.v... lấy ra từ lò gốm trong quá trình nung để xác định đặc tính nung (nhóm 90.17 hoặc 90.31)."
+    },
+    {
+      "ma": "04-30-10",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8468 sang 8515 khớp sát nội dung câu trích nguồn nhom8468.nhom.",
+      "chungMinh": "(d) Máy và dụng cụ hàn đồng, hàn thiếc, dùng cả gas và điện (nhóm 85.15)."
+    },
+    {
+      "ma": "04-30-11",
+      "ketLuan": "SAI",
+      "vi": "Nhóm đích 6304 không khớp câu trích: câu trích liệt kê các nhóm 39.26, 40.15, 42.03 hoặc 68.12, không có nhóm 63.04.",
+      "chungMinh": "Các loại quần áo và hàng may mặc phụ trợ thuộc các nhóm 39.26, 40.15,42.03 hoặc 68.12"
+    },
+    {
+      "ma": "04-30-12",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9014 sang 9025 khớp sát nội dung câu trích nguồn nhom9014.nhom.",
+      "chungMinh": "Thiết bị đo khí áp và nhiệt kế (bao gồm cả nhiệt kế đổi chiều dùng trong việc nghiên cứu dưới nước) (nhóm 90.25)."
+    },
+    {
+      "ma": "04-30-13",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9025 sang 9016 khớp sát nội dung câu trích nguồn nhom9025.nhom.",
+      "chungMinh": "Nhóm này không bao gồm: (a) Những dụng cụ xác định trọng lượng riêng bằng các phương pháp khác, ví dụ: kế pyknomet (các bình tỷ trọng) (nhóm 70.17), các cân tỷ trọng hoặc thủy tĩnh (nhóm 90.16)."
+    },
+    {
+      "ma": "04-30-14",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8457 sang 8515 khớp sát nội dung câu trích nguồn nhom8457.nhom.",
+      "chungMinh": "(d) Máy và thiết bị hàn, hàn đồng thuộc các nhóm 84.68 và 85.15."
+    },
+    {
+      "ma": "04-30-15",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8515 sang 8502 khớp sát nội dung câu trích nguồn nhom8515.nhom.",
+      "chungMinh": "khi được xuất trình riêng rẽ, máy biến điện hoặc máy phát điện được phân loại theo các nhóm thích hợp của chúng (nhóm 85.02 hoặc 85.04)."
+    },
+    {
+      "ma": "04-30-16",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6117 sang 5810 khớp sát nội dung câu trích nguồn nhom6117.nhom.",
+      "chungMinh": "(8) Các loại nhãn mác, phù hiệu, biểu tượng, “flashes” và các sản phẩm tương tự (trừ các mẫu hoa văn được thêu thuộc nhóm 58.10)"
+    },
+    {
+      "ma": "04-30-17",
+      "ketLuan": "SAI",
+      "vi": "Điều kiện nêu áo quần cho búp bê hoàn toàn không khớp câu trích: câu trích loại trừ giày, dép chỉnh hình hoặc thiết bị chỉnh hình khác sang nhóm 90.21.",
+      "chungMinh": "(e) Giày, dép chỉnh hình hoặc các thiết bị chỉnh hình khác, hoặc các bộ phận của chúng (nhóm 90.21)"
+    },
+    {
+      "ma": "04-30-18",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8515 sang 8451 khớp sát nội dung câu trích nguồn nhom8515.nhom.",
+      "chungMinh": "(b) Máy ép nóng chảy (nhóm 84.51)"
+    },
+    {
+      "ma": "04-30-19",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6117 sang 6507 khớp sát nội dung câu trích nguồn nhom6117.nhom.",
+      "chungMinh": "và các phụ kiện của mũ và vật đội đầu (nhóm 65.07)."
+    },
+    {
+      "ma": "04-30-20",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6117 sang 4015 khớp sát nội dung câu trích nguồn ch61.chuong.",
+      "chungMinh": "Chương này không bao gồm: (a) Quần áo và đồ phụ trợ may mặc thuộc các nhóm 39.26, 40.15, 42.03 hoặc 68.12."
+    },
+    {
+      "ma": "04-30-21",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9025 sang 7017 khớp sát nội dung câu trích nguồn nhom9025.nhom.",
+      "chungMinh": "Nhóm này không bao gồm: (a) Những dụng cụ xác định trọng lượng riêng bằng các phương pháp khác, ví dụ: kế pyknomet (các bình tỷ trọng) (nhóm 70.17), các cân tỷ trọng hoặc thủy tĩnh (nhóm 90.16)."
+    },
+    {
+      "ma": "04-30-22",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6117 sang 6702 khớp sát nội dung câu trích nguồn nhom6117.nhom.",
+      "chungMinh": "(f) Hoa, cành, lá, và quả nhân tạo dùng để trang trí thuộc nhóm 67.02."
+    },
+    {
+      "ma": "04-30-23",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9025 sang 3822 khớp sát nội dung câu trích nguồn nhom9025.nhom.",
+      "chungMinh": "Mặt khác, những tờ giấy thấm chất hoá học có màu thay đổi theo độ ẩm khí quyển bị loại trừ (nhóm 38.22)."
+    },
+    {
+      "ma": "04-30-24",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9033 sang 9025 khớp sát nội dung câu trích nguồn nhom9033.nhom.",
+      "chungMinh": "nhiệt kế và ẩm kế (nhóm 90.25)."
+    },
+    {
+      "ma": "04-30-25",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6117 sang 6309 khớp sát nội dung câu trích nguồn ch61.chuong.",
+      "chungMinh": "(b) Quần áo hoặc các sản phẩm may mặc đã qua sử dụng khác thuộc nhóm 63.09; hoặc"
+    },
+    {
+      "ma": "04-30-26",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6117 sang 6701 khớp sát nội dung câu trích nguồn nhom6117.nhom.",
+      "chungMinh": "(e) Vật trang trí bằng lông vũ (nhóm 67.01)."
+    },
+    {
+      "ma": "04-30-27",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9025 sang 9032 khớp sát nội dung câu trích nguồn nhom9025.nhom.",
+      "chungMinh": "Nhiệt kế và hoả kế điện đôi khi được kết hợp với một cơ cấu điều chỉnh tự động để điều khiển hoạt động cho các lò nung, lò vi sóng, bể lên men, v.v..., những kết hợp đó thuộc nhóm 90.32."
+    },
+    {
+      "ma": "04-30-28",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8502 sang 8515 khớp sát nội dung câu trích nguồn nhom8502.nhom.",
+      "chungMinh": "Tuy nhiên, chúng được loại trừ (nhóm 85.15) khi mà hiện diện cùng đầu kẹp que hàn hoặc thiết bị hàn."
+    },
+    {
+      "ma": "04-30-29",
+      "ketLuan": "SAI",
+      "vi": "Điều kiện nêu mặt hàng nhóm 61.11 hoàn toàn không khớp câu trích: câu trích loại trừ các loại hòm, vali, túi xách tay hay vật đựng khác sang nhóm 42.02.",
+      "chungMinh": "hay các loại hòm, vali, túi xách tay hay các vật đựng khác thuộc nhóm 42.02;"
+    },
+    {
+      "ma": "04-30-30",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6117 sang 6212 khớp sát nội dung câu trích nguồn nhom6117.nhom.",
+      "chungMinh": "(b) Xu chiêng, gen, áo nịt ngực (corset), dây đeo quần, dây móc bít tất, nịt tất, các sản phẩm tương tự và các chi tiết của chúng (nhóm 62.12)."
+    },
+    {
+      "ma": "04-30-31",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6117 sang 6111 khớp sát nội dung câu trích nguồn nhom6117.nhom.",
+      "chungMinh": "Nhóm này không bao gồm: (a) Đồ phụ trợ may mặc dùng cho trẻ em, dệt kim hoặc móc, thuộc nhóm 61.11."
+    },
+    {
+      "ma": "04-30-32",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8515 sang 8468 khớp sát nội dung câu trích nguồn nhom8515.nhom.",
+      "chungMinh": "(d) Máy hàn ma sát (nhóm 84.68)."
+    },
+    {
+      "ma": "04-30-33",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9025 sang 7017 khớp sát nội dung câu trích nguồn nhom9025.nhom.",
+      "chungMinh": "(b) Một số dụng cụ phân giải nhất định như bơ kế (để đo hàm lượng chất béo của bơ), ure kế (đo liều lượng ure) mà không là dụng cụ nổi thì thuộc nhóm 70.17."
+    },
+    {
+      "ma": "04-30-34",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9025 sang 9014 khớp sát nội dung câu trích nguồn nhom9025.nhom.",
+      "chungMinh": "tuy nhiên cần lưu ý rằng nhóm này không bao gồm các đồng hồ đo độ cao (đặc biệt là dùng cho hàng không) chỉ dùng, để báo độ cao (nhóm 90.14)."
+    },
+    {
+      "ma": "04-30-35",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6117 sang 4203 khớp sát nội dung câu trích nguồn ch61.chuong.",
+      "chungMinh": "Chương này không bao gồm: (a) Quần áo và đồ phụ trợ may mặc thuộc các nhóm 39.26, 40.15, 42.03 hoặc 68.12."
+    },
+    {
+      "ma": "04-30-36",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6110 sang 6117 khớp sát nội dung câu trích nguồn ch61.chuong.",
+      "chungMinh": "Tuy nhiên, các bộ phận được móc của áo quần hoặc của đồ phụ trợ may mặc (trừ các chi tiết như vậy thuộc nhóm 62.12) được phân loại trong nhóm 61.17."
+    },
+    {
+      "ma": "04-30-37",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9018 sang 9025 khớp sát nội dung câu trích nguồn nhom9018.nhom.",
+      "chungMinh": "Nhiệt kế trong y tế (nhóm 90.25)."
+    },
+    {
+      "ma": "04-30-38",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8515 sang 8514 khớp sát nội dung câu trích nguồn nhom8515.nhom.",
+      "chungMinh": "Chỉ các máy và thiết bị mà được nhận biết để chỉ dùng hoặc chủ yếu dùng cho hàn thau hoặc hàn thiếc thuộc nhóm này bởi các thiết bị đặc biệt của chúng (ví dụ hệ thống để cung cấp dây hàn). Các thiết bị khác được xem như là lò nung, lò nướng hoặc thiết bị làm nóng theo nghĩa của nhóm 85.14."
+    },
+    {
+      "ma": "04-30-39",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6113 sang 6117 khớp sát nội dung câu trích nguồn nhom6113.nhom.",
+      "chungMinh": "(b) Găng tay, găng tay hở ngón và găng tay bao, dệt kim hoặc móc (nhóm 61.16) và hàng may mặc phụ trợ khác, dệt kim hoặc móc (nhóm 61.17)."
+    },
+    {
+      "ma": "04-30-40",
+      "ketLuan": "SAI",
+      "vi": "Nhóm đích 8417 không khớp câu trích: câu trích xếp máy tạo lề, gấp hoặc đánh dấu chữ ký lên trang dùng cùng máy in vào nhóm 84.43, không phải 84.17.",
+      "chungMinh": "(d) Máy tạo lề, gấp hoặc đánh dấu chữ ký lên trang dùng cùng với máy in (nhóm 84.43)"
+    }
+  ]
+}
