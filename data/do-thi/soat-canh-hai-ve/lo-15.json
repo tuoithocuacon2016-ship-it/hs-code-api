@@ -1,0 +1,101 @@
+{
+  "khuon": "soat2ve@1",
+  "lo": 15,
+  "kq": [
+    {
+      "id": "C5:8536>9030:1fdbc031049d",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 90.30 phần (B) nêu rõ dụng cụ và thiết bị để đo hoặc kiểm tra đại lượng điện, bao gồm ampe kế đo cường độ dòng và vôn kế đo điện thế, thuộc nhóm 90.30 (bổ sung trích trực tiếp từ 90.30 vì câu trích (m) Phần XVI không nằm trong chú giải 85.36 trong gói).",
+      "chungMinh": "(B) MÁY HIỆN SÓNG, MÁY PHÂN TÍCH PHỔ VÀ CÁC DỤNG CỤ VÀ CÁC THIẾT BỊ KHÁC ĐỂ ĐO HOẶC KIỂM TRA ĐẠI LƯỢNG ĐIỆN … (I) Dụng cụ đo cường độ dòng: công việc này được thực hiện riêng bằng điện kế hoặc ampe kế (ammeters). (II) Đo điện thế: bằng vôn kế, chiết áp, tĩnh điện kế, v.v...",
+      "trichTotHon": {
+        "nguon": "nhom9030.nhom",
+        "trich": "(B) MÁY HIỆN SÓNG, MÁY PHÂN TÍCH PHỔ VÀ CÁC DỤNG CỤ VÀ CÁC THIẾT BỊ KHÁC ĐỂ ĐO HOẶC KIỂM TRA ĐẠI LƯỢNG ĐIỆN … (I) Dụng cụ đo cường độ dòng… bằng điện kế hoặc ampe kế (ammeters). (II) Đo điện thế: bằng vôn kế, chiết áp, tĩnh điện kế, v.v..."
+      }
+    },
+    {
+      "id": "C5:8537>8526:6812a1c09164",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 85.26 mục (11) và (12) nêu rõ các thiết bị radio để điều khiển từ xa (tàu thuyền, mô hình, kích nổ mìn hoặc điều khiển máy móc từ xa) thuộc nhóm 85.26, không phải bảng/tủ lắp ráp thiết bị đóng ngắt của 85.37.",
+      "chungMinh": "(11) Các thiết bị radio để điều khiển từ xa các tàu thuyền, hoặc máy bay không người lái, các tên lửa hành trình, đạn pháo, đạn đồ chơi, các mô hình tàu và máy bay, v.v... (12) Các thiết bị radio để kích nổ mìn hoặc để điều khiển máy móc từ xa.",
+      "trichTotHon": {
+        "nguon": "nhom8526.nhom",
+        "trich": "(11) Các thiết bị radio để điều khiển từ xa các tàu thuyền, hoặc máy bay không người lái… (12) Các thiết bị radio để kích nổ mìn hoặc để điều khiển máy móc từ xa."
+      }
+    },
+    {
+      "id": "C5:8539>9013:b19217a717d1",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 90.13 mục (1) nêu rõ thiết bị tạo ra hoặc khuếch đại bức xạ điện từ kết hợp môi trường kích hoạt laser, nguồn năng lượng (hệ thống kích thích) và hốc quang học cộng hưởng trong đầu laser (trừ đi-ốt laser thuộc 85.41) thuộc nhóm 90.13.",
+      "chungMinh": "(1) Các thiết bị laser, là những máy tạo ra hoặc khuếch đại một bức xạ điện từ trong dải bước sóng trong khoảng giữa 1 nanomet và một milimet … Ngoài môi trường kích hoạt laser, nguồn năng lượng (hệ thống kích thích) và các hốc quang học cộng hưởng (hệ thống phản xạ), tức là các thành phần cơ bản được kết hợp trong đầu laser",
+      "trichTotHon": {
+        "nguon": "nhom9013.nhom",
+        "trich": "(1) Các thiết bị laser… Ngoài môi trường kích hoạt laser, nguồn năng lượng (hệ thống kích thích) và các hốc quang học cộng hưởng (hệ thống phản xạ), tức là các thành phần cơ bản được kết hợp trong đầu laser … nhóm này không bao gồm… các điot laser (nhóm 85.41)"
+      }
+    },
+    {
+      "id": "C5:8539>9405:8828debbcf4f",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 94.05 nêu rõ đèn (luminaires) và bộ đèn điện trang bị đui đèn, công tắc, dây điện, phích cắm, máy biến áp dùng chiếu sáng phòng và dây đèn trang trí thuộc 94.05, khác với mô-đun hoặc bóng đèn LED của 85.39 (bổ sung trích từ 94.05 vì trích 85.39 bị cụt).",
+      "chungMinh": "Đèn (luminaires) điện và bộ đèn điện của nhóm này có thể được trang bị cả đui đèn, công tắc, dây điện và phích cắm, máy biến áp, vv... … (1) Đèn (luminaires) và các bộ đèn thường sử dụng cho chiếu sáng phòng… dây đèn (kể cả các đèn trang trí cho các lễ hội hoặc các mục đích giải trí hoặc trang trí cây nôen).",
+      "trichTotHon": {
+        "nguon": "nhom9405.nhom",
+        "trich": "Đèn (luminaires) điện và bộ đèn điện của nhóm này có thể được trang bị cả đui đèn, công tắc, dây điện và phích cắm, máy biến áp, vv... … (1) Đèn (luminaires) và các bộ đèn thường sử dụng cho chiếu sáng phòng… dây đèn (kể cả các đèn trang trí…)"
+      }
+    },
+    {
+      "id": "C5:8541>8536:f3981f9d77ea",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 85.36 nêu rõ công tắc điện tử hoạt động không cần tiếp xúc sử dụng thành phần bán dẫn và rơ le quang điện điều khiển tự động mạch điện áp không quá 1000V thuộc 85.36 (lưu ý linh kiện ghép quang và rơle quang bán dẫn đơn lẻ vẫn thuộc 85.41 theo mục (iii) của 85.41).",
+      "chungMinh": "Nói chung, nhóm này bao gồm các thiết bị điện dùng cho điện áp không quá 1000v… Công tắc điện tử mà nó hoạt động không cần tiếp xúc sử dụng thành phần bán dẫn (ví dụ, dùng transistor, thyristo, mạch tích hợp). … (1) Theo cách điều khiển điện: các rơ le điện từ, rơ le nam châm vĩnh cửu, rơ le nhiệt, rơ le cảm ứng, rơ le tĩnh điện, rơ le quang điện, rơ le điện tử...",
+      "trichTotHon": {
+        "nguon": "nhom8536.nhom",
+        "trich": "Nói chung, nhóm này bao gồm các thiết bị điện dùng cho điện áp không quá 1000v… Công tắc điện tử mà nó hoạt động không cần tiếp xúc sử dụng thành phần bán dẫn… (C) Rơ le… (1) Theo cách điều khiển điện: … rơ le quang điện, rơ le điện tử..."
+      }
+    },
+    {
+      "id": "C5:8541>8539:92b16d2d024a",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 85.39 bao gồm đèn điện có vỏ bọc bằng thủy tinh hoặc thạch anh, đèn dây tóc, đèn phóng điện, đèn hồ quang và đèn đi ốt phát quang (LED) hoàn chỉnh có vỏ, mạch chuyển đổi điện áp và đầu đèn (loại trừ đi-ốt LED rời thuộc 85.41 tại mục (e)).",
+      "chungMinh": "Những đèn điện có vỏ bọc bằng thủy tinh hoặc thạch anh với những hình dạng khác nhau, chứa những bộ phận cần thiết để biến đổi năng lượng điện thành ánh sáng… (G) ĐÈN ĐI ỐT PHÁT QUANG (LED) … Nhóm này không bao gồm: … (e) Đi ốt phát quang (LED) của nhóm 85.41",
+      "trichTotHon": {
+        "nguon": "nhom8539.nhom",
+        "trich": "Những đèn điện có vỏ bọc bằng thủy tinh hoặc thạch anh… biến đổi năng lượng điện thành ánh sáng… (G) ĐÈN ĐI ỐT PHÁT QUANG (LED) … Nhóm này không bao gồm: … (e) Đi ốt phát quang (LED) của nhóm 85.41"
+      }
+    },
+    {
+      "id": "C5:8541>8543:3b71cd76c8fb",
+      "ketLuan": "CAN_CU_YEU",
+      "vi": "Điều kiện chỉ nêu 'chưa được chi tiết hay ghi ở nơi khác trong Chương 85' mà bỏ sót điều kiện bắt buộc của chú giải 85.43 là 'cũng không nằm trong một nhóm của bất kỳ Chương nào khác của Danh mục này' (đặc biệt các dụng cụ, thiết bị cụ thể thuộc Chương 90 như đầu laser nhóm 90.13).",
+      "trichTotHon": {
+        "nguon": "nhom8543.nhom",
+        "trich": "Nhóm này bao gồm tất cả các thiết bị điện và dụng cụ điện, không nằm trong bất kỳ nhóm nào khác của Chương này, cũng không nằm trong một nhóm của bất kỳ Chương nào khác của Danh mục này… Các hàng hóa chủ yếu dùng điện được mô tả cụ thể ở các Chương khác hơn như… Chương 90."
+      }
+    },
+    {
+      "id": "C5:8541>9013:bef6871611a5",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 90.13 mục (1) nêu rõ thiết bị tạo tia laser kết hợp môi trường kích hoạt, hệ thống kích thích và hốc quang học cộng hưởng trong đầu laser (kể cả laser compact, bút chỉ laser) thuộc nhóm 90.13 và loại trừ riêng các đi-ốt laser sang nhóm 85.41.",
+      "chungMinh": "(1) Các thiết bị laser… Ngoài môi trường kích hoạt laser, nguồn năng lượng (hệ thống kích thích) và các hốc quang học cộng hưởng (hệ thống phản xạ), tức là các thành phần cơ bản được kết hợp trong đầu laser … laser compact… ví dụ bút chỉ laser … nhóm này không bao gồm… các điot laser (nhóm 85.41)",
+      "trichTotHon": {
+        "nguon": "nhom9013.nhom",
+        "trich": "(1) Các thiết bị laser… Ngoài môi trường kích hoạt laser, nguồn năng lượng (hệ thống kích thích) và các hốc quang học cộng hưởng (hệ thống phản xạ)… kết hợp trong đầu laser … ví dụ bút chỉ laser … nhóm này không bao gồm… các điot laser (nhóm 85.41)"
+      }
+    },
+    {
+      "id": "C5:8543>8471:96325c7eb0a5",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 85.43 loại trừ các thiết bị điện được mô tả cụ thể ở Chương 84, và chú giải 84.71 nêu rõ máy xử lý dữ liệu tự động đáp ứng đồng thời các điều kiện của Chú giải 6(A) Chương 84 thuộc nhóm 84.71.",
+      "chungMinh": "Các hàng hóa chủ yếu dùng điện được mô tả cụ thể ở các Chương khác hơn như các thiết bị điện thuộc Chương 84 … Máy xử lý dữ liệu tự động của nhóm này phải có khả năng đáp ứng đồng thời các điều kiện của Chú giải 6(A) chương này."
+    },
+    {
+      "id": "C5:8543>8526:e36ad568d3c5",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 85.43 loại trừ thiết bị đã thuộc nhóm khác của Chương 85 (mục (16) của 85.43 chỉ là điều khiển từ xa hồng ngoại không dây), còn chú giải 85.26 mục (11)-(12) xếp các thiết bị radio để điều khiển từ xa vào nhóm 85.26.",
+      "chungMinh": "(11) Các thiết bị radio để điều khiển từ xa các tàu thuyền, hoặc máy bay không người lái… (12) Các thiết bị radio để kích nổ mìn hoặc để điều khiển máy móc từ xa.",
+      "trichTotHon": {
+        "nguon": "nhom8526.nhom",
+        "trich": "(11) Các thiết bị radio để điều khiển từ xa các tàu thuyền, hoặc máy bay không người lái… (12) Các thiết bị radio để kích nổ mìn hoặc để điều khiển máy móc từ xa."
+      }
+    }
+  ]
+}

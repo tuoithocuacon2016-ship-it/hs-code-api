@@ -1,0 +1,92 @@
+{
+  "khuon": "soat2ve@1",
+  "lo": 13,
+  "kq": [
+    {
+      "id": "C5:8479>8466:f2f906b5c0cf",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 84.79 phân biệt máy có chức năng riêng biệt với bộ phận của máy, còn chú giải 84.66 quy định rõ bộ phận, phụ kiện và thiết bị tăng độ chính xác (kể cả bàn trượt, bàn kẹp phôi) chỉ dùng hoặc chủ yếu dùng cho máy thuộc nhóm 84.56 đến 84.65 thuộc 84.66.",
+      "chungMinh": "(A) Các bộ phận của máy thuộc nhóm từ 84.56 đến 84.65. (B) Các phụ kiện của các loại máy này … (7) Những thiết bị phụ trợ đặc biệt khác, được thiết kế để tăng độ chính xác của máy mà không ảnh hưởng đến sự vận hành của máy. Chúng bao gồm những dụng cụ chỉnh tâm hoặc độ cao; đầu chia; bàn chia độ; bàn trượt;",
+      "trichTotHon": {
+        "nguon": "nhom8466.nhom",
+        "trich": "(A) Các bộ phận của máy thuộc nhóm từ 84.56 đến 84.65. … (7) Những thiết bị phụ trợ đặc biệt khác, được thiết kế để tăng độ chính xác của máy mà không ảnh hưởng đến sự vận hành của máy. Chúng bao gồm những dụng cụ chỉnh tâm hoặc độ cao; đầu chia; bàn chia độ; bàn trượt;"
+      }
+    },
+    {
+      "id": "C5:8479>8477:fb90a166858a",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 84.79 chỉ xếp máy nghiền, máy xay không thiết kế cho hàng hóa hoặc ngành công nghiệp cụ thể nào, còn chú giải 84.77 nêu rõ máy móc để gia công cao su hoặc plastic hoặc dùng trong việc sản xuất ra sản phẩm từ các vật liệu này thuộc nhóm 84.77.",
+      "chungMinh": "(2) Máy ép, máy nghiền, máy xay, máy trộn, v.v.., không được thiết kế cho hàng hóa hoặc ngành công nghiệp cụ thể nào. … Nhóm này bao gồm máy móc để gia công cao su hoặc plastic hoặc dùng trong việc sản xuất ra các sản phẩm làm từ các vật liệu này, chưa được chi tiết hoặc ghi ở nơi khác trong chương này."
+    },
+    {
+      "id": "C5:8479>8483:aded02600b91",
+      "ketLuan": "CAN_CU_YEU",
+      "vi": "Câu trích của 84.79 bị cụt ở 'mà:'; chú giải 84.83 không nêu 'con lăn đỡ trục cán' mà chỉ xếp thân ổ và gối đỡ trục dùng ổ trượt vào 84.83, đồng thời loại trừ ổ bi, ổ đũa riêng lẻ (84.82) và giá đỡ không gắn/không thiết kế chứa ổ bi (phân loại theo vật liệu cấu thành).",
+      "trichTotHon": {
+        "nguon": "nhom8483.nhom",
+        "trich": "Thân ổ dùng ổ lăn gắn ổ bi, ổ đũa hoặc ổ đũa kim cũng được phân loại vào nhóm này; nhưng ổ bi, ổ đũa hoặc ổ đũa kim riêng lẻ thì được phân loại vào nhóm 84.82. Mặt khác, gối đỡ trục dùng ổ trượt được phân loại vào nhóm này ngay cả khi chúng hiện diện mà không có gối đỡ (thân ổ)."
+      }
+    },
+    {
+      "id": "C5:8479>8515:ac597f5f9fba",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 84.79 mục (b) loại trừ máy được mô tả chi tiết hơn bởi một nhóm ở Chương khác, và chú giải 85.15 nêu rõ các máy hàn điện các loại cùng máy, thiết bị hàn bằng siêu âm thuộc nhóm 85.15 (bổ sung trích từ 85.15 vì trích cũ bị cụt ở 'vì:').",
+      "chungMinh": "(IJ) Các máy và thiết bị để hàn bằng siêu âm. … Máy hàn điện các loại",
+      "trichTotHon": {
+        "nguon": "nhom8515.nhom",
+        "trich": "(I) MÁY VÀ THIẾT BỊ HÀN CÁC LOẠI Nhóm này bao gồm các máy và thiết bị cụ thể để hàn (welding)… (IJ) Các máy và thiết bị để hàn bằng siêu âm. … Máy hàn điện các loại"
+      }
+    },
+    {
+      "id": "C5:8481>3924:f354fc504ec3",
+      "ketLuan": "CAN_CU_YEU",
+      "vi": "Câu trích của 84.81 bị cụt ở 'Nhóm này cũng không bao gồm:'; chú giải 39.24 mục (D) không nêu bát sen tắm/tay sen và đặc biệt loại trừ sản phẩm vệ sinh dùng để lắp cố định bên trong hoặc trên tường/vị trí khác của tòa nhà sang nhóm 39.25, nhưng điều kiện chưa loại trừ trường hợp lắp cố định này.",
+      "trichTotHon": {
+        "nguon": "nhom3924.nhom",
+        "trich": "(D) Sản phẩm vệ sinh và các sản phẩm phục vụ vệ sinh… không lắp cố định bên trong hoặc trên tường. Tuy nhiên, các sản phẩm trên dùng để lắp cố định bên trong hoặc trên tường hoặc các vị trí khác của tòa nhà… thì bị loại trừ (nhóm 39.25)."
+      }
+    },
+    {
+      "id": "C5:8481>8421:bfc55e3b952b",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 84.81 chỉ bao gồm vòi, van và thiết bị điều chỉnh lưu lượng/áp lực dòng chảy, còn chú giải 84.21 quy định rõ các loại máy và thiết bị lọc hoặc tinh lọc chất lỏng hoặc chất khí (tách chất rắn hoặc lỏng từ khí, khử bụi, lọc tạp chất) thuộc nhóm 84.21.",
+      "chungMinh": "(II) Các loại máy và thiết bị lọc hoặc tinh lọc chất lỏng hoặc chất khí … (B) Thiết bị lọc hoặc tinh chế chất khí. Các thiết bị thuộc nhóm này được sử dụng để tách chất rắn hoặc lỏng từ khí",
+      "trichTotHon": {
+        "nguon": "nhom8421.nhom",
+        "trich": "(II) Các loại máy và thiết bị lọc hoặc tinh lọc chất lỏng hoặc chất khí … (B) Thiết bị lọc hoặc tinh chế chất khí. Các thiết bị thuộc nhóm này được sử dụng để tách chất rắn hoặc lỏng từ khí… hoặc để khử các chất độc hại"
+      }
+    },
+    {
+      "id": "C5:8483>7616:2ad3791c89c9",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 84.83 loại trừ nguyên văn các trục đơn giản không truyền lực mà chỉ dùng cho một bánh xe hoặc bộ phận quay khác, và chú giải 76.16 bao gồm sản phẩm bằng nhôm trừ hàng thuộc các nhóm trước của Chương 76 hoặc được mô tả cụ thể hơn ở nơi khác.",
+      "chungMinh": "Nhóm này không bao gồm những trục đơn giản không truyền lực mà chỉ dùng cho một bánh xe hoặc bộ phận quay khác."
+    },
+    {
+      "id": "C5:8483>7616:588fad5cd935",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 84.83 nêu rõ miếng đệm, đĩa hoặc giá đỡ không gắn với thân ổ dùng ổ lăn và không thiết kế để chứa ổ bi được phân loại theo vật liệu cấu thành (tương ứng 73.25/73.26), và chú giải 76.16 mục (5) bao gồm các mặt hàng bằng nhôm tương ứng với 73.25 và 73.26.",
+      "chungMinh": "nhưng miếng đệm, đĩa hoặc giá đỡ công xon , v.v.., không được gắn với một thân ổ dùng ổ lăn(hoặc bản thân chúng cũng không thiết kế để chứa một ổ bi) được phân loại theo vật liệu cấu thành (thường phân vào nhóm 73.25 hoặc 73.26) … (5) Các mặt hàng bằng nhôm tương ứng với các mặt hàng bằng sắt và bằng thép được đề cập tới trong các chú giải nhóm 73.25 và 73.26"
+    },
+    {
+      "id": "C5:8483>8466:47e16b97b094",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 84.83 loại trừ trục đơn giản không truyền lực, còn chú giải 84.66 bao gồm bộ phận, phụ kiện, bộ phận kẹp sản phẩm và thiết bị giữ hướng chuyên dùng cho máy công cụ thuộc nhóm từ 84.56 đến 84.65.",
+      "chungMinh": "(A) Các bộ phận của máy thuộc nhóm từ 84.56 đến 84.65. (B) Các phụ kiện của các loại máy này … (2) Bộ phận kẹp sản phẩm … thiết bị giữ hướng",
+      "trichTotHon": {
+        "nguon": "nhom8466.nhom",
+        "trich": "(A) Các bộ phận của máy thuộc nhóm từ 84.56 đến 84.65. (B) Các phụ kiện của các loại máy này … (2) Bộ phận kẹp sản phẩm… thiết bị giữ hướng (các dụng cụ hình vòng tròn được thiết kế để trợ giúp chi tiết dài trong quá trình quay…)"
+      }
+    },
+    {
+      "id": "C5:8483>8466:ac80af4806f2",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 84.83 chủ yếu gồm các bộ phận truyền lực cơ khí chuyên biệt, còn chú giải 84.66 quy định rõ bộ phận, phụ kiện và thiết bị tăng độ chính xác (bao gồm bàn trượt) chuyên dùng cho máy công cụ thuộc nhóm 84.56 đến 84.65 thuộc 84.66.",
+      "chungMinh": "(A) Các bộ phận của máy thuộc nhóm từ 84.56 đến 84.65. … (7) Những thiết bị phụ trợ đặc biệt khác, được thiết kế để tăng độ chính xác của máy mà không ảnh hưởng đến sự vận hành của máy. Chúng bao gồm những dụng cụ chỉnh tâm hoặc độ cao; đầu chia; bàn chia độ; bàn trượt;",
+      "trichTotHon": {
+        "nguon": "nhom8466.nhom",
+        "trich": "(A) Các bộ phận của máy thuộc nhóm từ 84.56 đến 84.65. … (7) Những thiết bị phụ trợ đặc biệt khác, được thiết kế để tăng độ chính xác của máy mà không ảnh hưởng đến sự vận hành của máy. Chúng bao gồm những dụng cụ chỉnh tâm hoặc độ cao; đầu chia; bàn chia độ; bàn trượt;"
+      }
+    }
+  ]
+}
