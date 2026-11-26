@@ -1,0 +1,97 @@
+{
+  "khuon": "soat@1",
+  "viec": "03",
+  "lo": 24,
+  "kq": [
+    {
+      "ma": "03-24-01",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 96.20 bao gồm chân đế đơn/hai/ba chân tách rời, tách biệt hoàn toàn với đàn piano dây phím bấm thuộc nhóm 92.01.",
+      "chungMinh": "Nhóm này bao gồm các chân đế dạng đơn, dạng hai chân, ba chân và các loại tương tự"
+    },
+    {
+      "ma": "03-24-02",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 91.07 chỉ gồm thiết bị đóng ngắt định giờ có máy đồng hồ thật, tách biệt với đồng hồ đồ chơi thuộc nhóm 95.03.",
+      "chungMinh": "Nhóm này gồm các thiết bị không có đặc tính của đồng hồ thời gian thuộc nhóm 91.05, nhưng được thiết kế chủ yếu để tự động"
+    },
+    {
+      "ma": "03-24-03",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 96.10 loại trừ đá phiến dạng khối/tấm chưa sẵn sàng để viết vẽ sang nhóm 25.14 (hoặc 68.03), hai vế đúng chiều.",
+      "chungMinh": "Nhóm này không bao gồm các bảng dùng để viết hoặc vẽ nhưng chưa sẵn sàng để sử dụng (nhóm 25.14 hoặc 68.03)."
+    },
+    {
+      "ma": "03-24-04",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 97.06 bao gồm mọi đồ cổ có tuổi trên 100 năm, phân tách rõ với đàn piano tuổi đời không quá 100 năm thuộc 92.01.",
+      "chungMinh": "Nhóm này bao gồm mọi đồ vật cổ có hơn 100 năm tuổi, với điều kiện chúng không thuộc vào nhóm 97.01 đến 97.05."
+    },
+    {
+      "ma": "03-24-05",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 91.07 tách thiết bị đóng ngắt định giờ hoàn chỉnh khỏi bộ phận rời của máy đồng hồ trình bày riêng (nhóm 91.14).",
+      "chungMinh": "máy đồng hồ cá nhân hay đồng hồ thời gian (các nhóm từ 91.08 đến 91.10) và bộ phận của các máy này"
+    },
+    {
+      "ma": "03-24-06",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 96.10 bao gồm bề mặt bảng đá đen/bảng thiết kế để viết vẽ lên, tách khỏi phấn hay bút chì đá dùng để viết (96.09).",
+      "chungMinh": "Nhóm này bao gồm bảng đá đen và bảng, rõ ràng được thiết kế để dùng để viết hoặc vẽ bằng bút chì đá, phấn"
+    },
+    {
+      "ma": "03-24-07",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 92.01 gồm đàn piano thông thường, tách khỏi vật phẩm sưu tập có ý nghĩa lịch sử/dân tộc học thuộc nhóm 97.05.",
+      "chungMinh": "Nhóm này bao gồm: … (1) Đàn piano, với bàn phím và dây đàn được gõ bằng những chiếc búa gõ"
+    },
+    {
+      "ma": "03-24-08",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 92.01 gồm đàn piano dây gõ búa, phân tách rõ với mô đun điện tử âm nhạc không phải nhạc cụ thuộc nhóm 85.43.",
+      "chungMinh": "Nhóm này bao gồm: … (1) Đàn piano, với bàn phím và dây đàn được gõ bằng những chiếc búa gõ"
+    },
+    {
+      "ma": "03-24-09",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 92.01 tách đàn piano điện tử cần thiết bị điện để phát âm thanh (nhóm 92.07) khỏi piano dây gõ búa dù có gắn bộ khuếch đại điện.",
+      "chungMinh": "Tuy nhiên, “đàn piano điện tử” cũng như những nhạc cụ điện tử, có thể hòa với piano để tạo hiệu ứng âm thanh"
+    },
+    {
+      "ma": "03-24-10",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 92.01 gồm đàn piano/đàn dây phím bấm nhạc cụ thực thụ, tách khỏi nhạc cụ đồ chơi thuộc nhóm 95.03.",
+      "chungMinh": "Nhóm này bao gồm: … (1) Đàn piano, với bàn phím và dây đàn được gõ bằng những chiếc búa gõ"
+    },
+    {
+      "ma": "03-24-11",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 96.10 loại trừ tấm đá phiến đã gia công nhưng chưa sẵn sàng viết vẽ sang nhóm 68.03, giữ lại bảng hoàn thiện viết vẽ.",
+      "chungMinh": "Nhóm này không bao gồm các bảng dùng để viết hoặc vẽ nhưng chưa sẵn sàng để sử dụng (nhóm 25.14 hoặc 68.03)."
+    },
+    {
+      "ma": "03-24-12",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 92.08 bao gồm hộp phát nhạc cơ khí tự động không có mặt đồng hồ, tách biệt với thiết bị đóng ngắt định giờ mạch điện 91.07.",
+      "chungMinh": "(1) Hộp nhạc. Chúng là những máy cơ khí nhỏ"
+    },
+    {
+      "ma": "03-24-13",
+      "ketLuan": "BO",
+      "vi": "Đảo ngược hoàn toàn hai vế: giấy kraft ghép hai lớp bằng chất kết dính thuộc nhóm 48.07, còn giấy bìa kraft không tráng ép lớp không dùng chất kết dính thuộc nhóm 48.04.",
+      "chungMinh": "Các sản phẩm của nhóm này được phân biệt với các sản phẩm của các nhóm trước (được làm bằng cách gắn các lớp"
+    },
+    {
+      "ma": "03-24-14",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 96.10 bao gồm bảng viết/vẽ học tập thông báo, tách khỏi sản phẩm đồ chơi thuộc nhóm 95.03.",
+      "chungMinh": "Nhóm này bao gồm bảng đá đen và bảng, rõ ràng được thiết kế để dùng để viết hoặc vẽ bằng bút chì đá, phấn"
+    },
+    {
+      "ma": "03-24-15",
+      "ketLuan": "BO",
+      "vi": "Đảo ngược hoàn toàn hai vế: dao cạo râu điện cùng lưỡi/đĩa cắt của nó bị loại trừ khỏi 82.12 sang nhóm 85.10, còn dao cạo khô không dùng điện thuộc nhóm 82.12.",
+      "chungMinh": "(b) Dao cạo râu điện, lưỡi cắt và đĩa cắt của các loại dao cạo râu này (nhóm 85.10)."
+    }
+  ]
+}
