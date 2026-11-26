@@ -1,0 +1,111 @@
+{
+  "khuon": "soat@1",
+  "viec": "03",
+  "lo": 1,
+  "kq": [
+    {
+      "ma": "03-01-01",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải nhóm 25.08 loại trừ rõ các chế phẩm đặc biệt sản xuất đồ gốm sang nhóm 38.24, hai vế đúng chiều.",
+      "chungMinh": "(c) Các chế phẩm đặc biệt để sản xuất một số loại đồ gốm nhất định (nhóm 38.24)"
+    },
+    {
+      "ma": "03-01-02",
+      "ketLuan": "SUA",
+      "vi": "Vế neu đưa mọi dạng khối vào 38.24 là quá rộng vì chú giải 34.07 nêu phân loại theo thành phần cấu tạo (34.04, 38.24, vv..).",
+      "sua": {
+        "neu": "chế phẩm làm khuôn răng đóng ở dạng khác như dạng khối và có thành phần cấu tạo thuộc nhóm 38.24",
+        "conNeu": "đóng thành bộ, đóng gói để bán lẻ hoặc ở dạng phiến, dạng móng ngựa, dạng thanh"
+      },
+      "chungMinh": "Mặt khác, khi chúng được đóng ở dạng khác (ví dụ, dạng khối) chúng được phân loại theo thành phần cấu tạo của chúng (các nhóm 34.04, 38.24, vv..)."
+    },
+    {
+      "ma": "03-01-03",
+      "ketLuan": "DUYET",
+      "vi": "Nhóm 28.13 gồm hợp chất sulphua phi kim xác định riêng biệt như carbon disulphua, loại trừ chế phẩm tẩy gỉ bề mặt kim loại sang nhóm 38.10.",
+      "chungMinh": "(f) Các chế phẩm chắn ánh sáng để làm cho sợi nhân tạo không bị bóng (nhóm 38.09) và các chế phẩm tẩy gỉ bề mặt kim loại (nhóm 38.10)."
+    },
+    {
+      "ma": "03-01-04",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 25.08 loại trừ đất sét trương nở dùng làm cốt bê tông nhẹ hoặc cách nhiệt sang nhóm 68.06, đúng hai vế.",
+      "chungMinh": "(d) Các loại đất sét trương nở (được dùng làm cốt bê tông nhẹ hoặc cho cách nhiệt) thậm chí nếu thu được bằng cách duy nhất là nung đất sét tự nhiên (nhóm 68.06)."
+    },
+    {
+      "ma": "03-01-05",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 25.08 loại trừ đất sét là chất màu đất sang nhóm 25.30, hai vế phân tách rõ và đúng chiều.",
+      "chungMinh": "(a) Đất sét mà là chất màu đất trong phạm vi của nhóm 25.30"
+    },
+    {
+      "ma": "03-01-06",
+      "ketLuan": "BO",
+      "vi": "Đảo ngược hoàn toàn hai vế: lốp chưa qua sử dụng kể cả cắt rãnh thuộc 40.11 còn lốp đã qua sử dụng hoặc đắp lại mới thuộc 40.12.",
+      "chungMinh": "Nhóm này bao gồm lốp bơm hơi đã được đắp lại bằng cao su và lốp hơi đã qua sử dụng bằng cao su, phù hợp cho việc dùng tiếp hoặc cho việc đắp lại."
+    },
+    {
+      "ma": "03-01-07",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 25.08 bao gồm chất chứa sét tự nhiên trừ kaolin và đất sét kaolin của nhóm 25.07, đúng hai vế.",
+      "chungMinh": "Nhóm này bao gồm toàn bộ các chất chứa sét tự nhiên (trừ kaolin và các loại đất sét kaolin khác của nhóm 25.07)"
+    },
+    {
+      "ma": "03-01-08",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 34.07 phân biệt rõ chế phẩm nha khoa chứa phụ gia với thạch cao chỉ có lượng nhỏ chất tăng tốc/ức chế thuộc 25.20.",
+      "chungMinh": "Cần lưu ý rằng không nhầm lẫn các chế phẩm này với thạch cao mà chỉ có chứa một lượng nhỏ chất tăng tốc hoặc chất ức chế (nhóm 25.20)."
+    },
+    {
+      "ma": "03-01-09",
+      "ketLuan": "DUYET",
+      "vi": "Nhóm 25.08 là khoáng chứa sét chủ yếu nhôm silicat, khác với xi măng poóc lăng nung thành clinker thuộc nhóm 25.23.",
+      "chungMinh": "thành phần chủ yếu là nhôm silicat"
+    },
+    {
+      "ma": "03-01-10",
+      "ketLuan": "BO",
+      "vi": "Đảo ngược hoàn toàn hai vế: ống đã làm thành sản phẩm đặc thù nhận dạng cho kết cấu thuộc 73.08, còn chưa làm thành sản phẩm kết cấu thuộc 73.06.",
+      "chungMinh": "(f) Các ống, ống dẫn và các thanh dạng rỗng được làm thành các sản phẩm đặc thù để nhận dạng, ví như những sản phẩm được làm để sử dụng trong các kết cấu (nhóm 73.08)"
+    },
+    {
+      "ma": "03-01-11",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 25.08 loại trừ trực tiếp đất sét hoạt tính sang nhóm 38.02, hai vế đúng chiều.",
+      "chungMinh": "(b) Các loại đất sét hoạt tính (nhóm 38.02)"
+    },
+    {
+      "ma": "03-01-12",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 34.07 loại trừ xi măng hàn răng và chất hàn răng khác sang nhóm 30.06, đúng hai vế.",
+      "chungMinh": "Nhóm này không bao gồm xi măng hàn răng và các chất hàn răng khác (nhóm 30.06)."
+    },
+    {
+      "ma": "03-01-13",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 38.10 loại trừ điện cực kim loại cơ bản đã bọc, phủ hoặc có lõi chất trợ dung sang nhóm 83.11.",
+      "chungMinh": "bằng kim loại cơ bản hoặc bằng cacbua kim loại, được bọc, phủ hoặc có lõi bằng chất trợ dung (flux), bị loại trừ (nhóm 83.11)."
+    },
+    {
+      "ma": "03-01-14",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 38.10 loại trừ rõ các chế phẩm làm sạch kim loại sang nhóm 34.02, hai vế đúng chiều.",
+      "chungMinh": "Nhóm này không bao gồm các chế phẩm làm sạch kim loại (nhóm 34.02)."
+    },
+    {
+      "ma": "03-01-15",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 33.06 bao gồm kem đánh răng và chế phẩm vệ sinh răng miệng, tách biệt khỏi chế phẩm làm khuôn răng của 34.07.",
+      "chungMinh": "(1) Các loại kem đánh răng và các chế phẩm dùng cho răng khác."
+    },
+    {
+      "ma": "03-01-16",
+      "ketLuan": "SUA",
+      "vi": "Vế neu đưa mọi dạng khối vào 34.04 là quá rộng vì chú giải 34.07 quy định phân loại theo thành phần cấu tạo (34.04, 38.24, vv..).",
+      "sua": {
+        "neu": "chế phẩm làm khuôn răng đóng ở dạng khác như dạng khối và có thành phần cấu tạo là sáp nhân tạo thuộc nhóm 34.04",
+        "conNeu": "đóng thành bộ, đóng gói để bán lẻ hoặc ở dạng phiến, dạng móng ngựa, dạng thanh"
+      },
+      "chungMinh": "Mặt khác, khi chúng được đóng ở dạng khác (ví dụ, dạng khối) chúng được phân loại theo thành phần cấu tạo của chúng (các nhóm 34.04, 38.24, vv..)."
+    }
+  ]
+}

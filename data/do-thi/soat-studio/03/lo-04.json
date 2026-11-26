@@ -1,0 +1,115 @@
+{
+  "khuon": "soat@1",
+  "viec": "03",
+  "lo": 4,
+  "kq": [
+    {
+      "ma": "03-04-01",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 44.15 phân định rõ hộp, thùng thưa cũ còn dùng tiếp thuộc 44.15, còn chỉ dùng được như nhiên liệu bị loại trừ sang 44.01.",
+      "chungMinh": "Hộp, thùng thưa... đã qua sử dụng, có thể dùng tiếp được, vẫn được phân loại vào nhóm này, nhưng những loại đó không thể sử dụng được trừ việc sử dụng như nhiên liệu"
+    },
+    {
+      "ma": "03-04-02",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 48.17 loại trừ tập viết thư, tập ghi nhớ sang nhóm 48.20, giữ lại phong bì và thẻ thư tín trong nhóm 48.17.",
+      "chungMinh": "(b) Tập viết thư, tập ghi nhớ,… thuộc nhóm 48.20."
+    },
+    {
+      "ma": "03-04-03",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 44.20 loại trừ vỏ gươm và bao súng sang nhóm 93.07, giữ lại hòm, hộp nhỏ bằng gỗ trong nhóm 44.20.",
+      "chungMinh": "(e) Vỏ gươm và bao súng (nhóm 93.07)"
+    },
+    {
+      "ma": "03-04-04",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 48.17 loại trừ giấy viết thư dạng gấp hoặc tờ không gấp sang nhóm 48.02 (hoặc 48.10, 48.11), hai vế đúng chiều.",
+      "chungMinh": "(a) Giấy viết thư ở dạng gấp hoặc dạng tờ không gấp, được in hoặc không in, và đã hoặc chưa đóng hộp hoặc gói (nhóm 48.02, 48.10 hoặc 48.11, tuỳ trường hợp cụ thể)."
+    },
+    {
+      "ma": "03-04-05",
+      "ketLuan": "BO",
+      "vi": "Đảo ngược hoàn toàn hai vế: tấm ốp bảo vệ ống chân dùng trong thể thao bị loại trừ khỏi 64.06 sang nhóm 95.06, còn ghệt che phủ chân thuộc nhóm 64.06.",
+      "chungMinh": "(f) Đệm bảo vệ ống chân, tấm ốp bảo vệ ống chân, miếng đệm đầu gối và các sản phẩm bảo vệ khác dùng trong các hoạt động thể thao (nhóm 95.06)."
+    },
+    {
+      "ma": "03-04-06",
+      "ketLuan": "BO",
+      "vi": "Đảo ngược hoàn toàn hai vế: khung rây dùng trong công nghiệp xay lúa mì thuộc nhóm 84.37, còn vải dùng để rây sàng bằng vật liệu dệt bị loại trừ sang nhóm 59.11.",
+      "chungMinh": "Sàng và các khung rây được sử dụng trong công nghiệp xay lúa mì (trừ vải dùng để rây, sàng đã hoặc chưa được làm sẵn thành sản phẩm - nhóm 59.11);"
+    },
+    {
+      "ma": "03-04-07",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 44.15 chỉ gồm hộp làm bằng gỗ lạng hay tách lớp không bện tết, phân biệt với sản phẩm tết bện thuộc 46.02.",
+      "chungMinh": "Hộp làm bằng gỗ lạng hay tách lớp (nhưng không phải là loại gỗ được bện tết)"
+    },
+    {
+      "ma": "03-04-08",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 44.20 loại trừ đồ trang sức bằng chất liệu khác sang nhóm 71.17, giữ lại tráp, hộp đựng đồ kim hoàn và đồ trang trí bằng gỗ.",
+      "chungMinh": "(b) Đồ trang sức làm bằng chất liệu khác (nhóm 71.17)."
+    },
+    {
+      "ma": "03-04-09",
+      "ketLuan": "SUA",
+      "vi": "Vế conNeu chép nhầm câu loại trừ của Chương 94 (mô tả chính hàng nhóm 44.20) gán vào nhóm 94.03; cần viết lại rõ hai vế đối lập.",
+      "sua": {
+        "neu": "đồ gỗ mỹ thuật nhỏ, giá treo mũ áo khoác, khay giấy tờ, gạt tàn, khay bút bằng gỗ không thuộc đồ nội thất Chương 94",
+        "conNeu": "đồ nội thất bằng gỗ thuộc Chương 94 như tủ, bàn, giá sách thiết kế đặt trên sàn hoặc kệ cố định vào tường"
+      },
+      "chungMinh": "(2) Mặt hàng của đồ nội thất bằng gỗ, trừ những mặt hàng trong Chương 94 (xem Chú giải tổng quát của Chương đó). Bởi vậy nhóm này gồm các hàng hóa như giá treo mũ hoặc áo khoác"
+    },
+    {
+      "ma": "03-04-10",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 44.15 loại trừ tráp và các loại hộp đựng thuộc nhóm 44.20, giữ lại bao bì đóng gói và vận chuyển bằng gỗ.",
+      "chungMinh": "(b) Tráp, các loại hộp đựng, và các mặt hàng tương tự thuộc nhóm 44.20."
+    },
+    {
+      "ma": "03-04-11",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 44.20 loại trừ hộp đựng nhạc cụ/súng bằng gỗ và hộp bọc da/giấy/plastic/vải sang 42.02, còn mặt hàng lót vật liệu khác nhưng về bản chất bằng gỗ thuộc 44.20.",
+      "chungMinh": "(a) Hộp đựng nhạc cụ hay đựng súng, bằng gỗ, và bao, hòm, hộp và các đồ chứa tương tự được bọc da thuộc hay da thuộc tổng hợp, giấy hay bìa, sợi lưu hoá, tấm plastic, hay các vật"
+    },
+    {
+      "ma": "03-04-12",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 44.15 loại trừ các mặt hàng thuộc nhóm 42.02, tách rõ bao bì đóng gói bằng gỗ với đồ chứa cá nhân nhóm 42.02.",
+      "chungMinh": "(a) Các mặt hàng thuộc nhóm 42.02."
+    },
+    {
+      "ma": "03-04-13",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 44.15 loại trừ công-ten-nơ thiết kế chuyên dùng vận chuyển đa phương thức sang nhóm 86.09, đúng hai vế.",
+      "chungMinh": "(c) Công-ten-nơ (container) được thiết kế và trang bị đặc biệt để vận chuyển theo một hoặc nhiều phương thức (nhóm 86.09)."
+    },
+    {
+      "ma": "03-04-14",
+      "ketLuan": "SUA",
+      "vi": "Ý đúng chiều nhưng vế neu chép nguyên văn câu loại trừ 'Tuy nhiên, nhóm này loại trừ...' khiến câu điều kiện thiếu tự nhiên; cần chuẩn hóa ngắn gọn.",
+      "sua": {
+        "neu": "hộp đựng gia vị và đồ chứa nhà bếp thông thường bằng gỗ",
+        "conNeu": "hòm và hộp bằng gỗ đựng dao kéo, thiết bị khoa học hoặc hộp nhỏ bỏ túi, túi xách"
+      },
+      "chungMinh": "Tuy nhiên, nhóm này loại trừ các hộp đựng gia vị nhà bếp thông thường,… (nhóm 44.19)."
+    },
+    {
+      "ma": "03-04-15",
+      "ketLuan": "SUA",
+      "vi": "Ý đúng chiều nhưng vế neu chép nguyên văn câu 'bị loại trừ (nhóm 44.21)'; cần diễn đạt lại thành điều kiện nhận diện rõ ràng.",
+      "sua": {
+        "neu": "chi tiết hoặc bộ phận rời bằng gỗ của các mặt hàng thuộc nhóm 44.20",
+        "conNeu": "tượng nhỏ, tượng thú, tượng người và các đồ trang trí hoàn chỉnh bằng gỗ"
+      },
+      "chungMinh": "Những chi tiết gỗ của các mặt hàng trong nhóm này bị loại trừ (nhóm 44.21)."
+    },
+    {
+      "ma": "03-04-16",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 44.15 xác nhận thùng hình trống không có đai thuộc 44.15, còn thùng ghép tấm ván cong có rãnh giữ bởi đai thuộc 44.16.",
+      "chungMinh": "(4) Thùng hình trống và vật chứa hình tròn, không phải loại thùng có đai"
+    }
+  ]
+}

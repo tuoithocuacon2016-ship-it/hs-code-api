@@ -1,0 +1,107 @@
+{
+  "khuon": "soat@1",
+  "viec": "03",
+  "lo": 2,
+  "kq": [
+    {
+      "ma": "03-02-01",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 35.06 xác nhận sản phẩm dùng như keo hoặc chất kết dính đóng gói bán lẻ trọng lượng không quá 1 kg thuộc nhóm 35.06, tách khỏi polyme nguyên sinh 39.04.",
+      "chungMinh": "(A) Các sản phẩm phù hợp dùng như keo hoặc chất kết dính và đã đóng gói để bán lẻ như keo hoặc chất kết dính, trọng lượng tịnh không quá 1kg."
+    },
+    {
+      "ma": "03-02-02",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 32.08 nêu rõ dung dịch polyme trong dung môi hữu cơ bay hơi vượt quá 50% trọng lượng thuộc 32.08, không quá 50% thuộc Chương 39.",
+      "chungMinh": "trong dung môi hữu cơ bay hơi nếu trọng lượng dung môi vượt quá 50 % trọng lượng dung dịch. … Các dung dịch như vậy được xếp vào Chương 39 nếu trọng lượng dung môi hữu cơ bay hơi không quá 50 % trọng lượng dung dịch."
+    },
+    {
+      "ma": "03-02-03",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 39.14 xác nhận chất trao đổi ion là polyme có liên kết ngang chứa nhóm ion hoạt động, phân biệt với polyme etylen thông thường nhóm 39.01.",
+      "chungMinh": "Các chất trao đổi ion thuộc nhóm này là các polyme có liên kết ngang, thường ở dạng hạt, chứa các nhóm ion hoạt động"
+    },
+    {
+      "ma": "03-02-04",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 39.07 phân biệt rõ chức axetal/ete nằm trong mạch polyme (39.07) với chức thay thế trên mạch như polyvinyl acetal (39.05).",
+      "chungMinh": "được đặc trưng bởi sự có mặt của các chức axetal trong mạch polyme. Chúng không lẫn với các polyvinyl acetal của nhóm 39.05, trong đó chức acetal là chức thay thế trong mạch polyme"
+    },
+    {
+      "ma": "03-02-05",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 32.08 xác nhận ngưỡng 50% dung môi hữu cơ bay hơi tách biệt dung dịch polyme thuộc 32.08 với Chương 39 (nhóm 39.07).",
+      "chungMinh": "trong dung môi hữu cơ bay hơi nếu trọng lượng dung môi vượt quá 50 % trọng lượng dung dịch. … Các dung dịch như vậy được xếp vào Chương 39 nếu trọng lượng dung môi hữu cơ bay hơi không quá 50 % trọng lượng dung dịch."
+    },
+    {
+      "ma": "03-02-06",
+      "ketLuan": "BO",
+      "vi": "Đảo ngược hoàn toàn hai vế: xe lăn chở người tàn tật ngoài phố thuộc nhóm 87.13 (bị loại trừ khỏi 94.02), còn cáng/băng ca đẩy bệnh nhân trong bệnh viện thuộc nhóm 94.02.",
+      "chungMinh": "Tuy nhiên xe dùng để chở người tàn tật ngoài phố được loại trừ khỏi nhóm này (Chương 87)."
+    },
+    {
+      "ma": "03-02-07",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 39.14 quy định chất trao đổi ion là polyme liên kết ngang có nhóm ion hoạt động, tách khỏi polyme acrylic thông thường nhóm 39.06.",
+      "chungMinh": "Các chất trao đổi ion thuộc nhóm này là các polyme có liên kết ngang, thường ở dạng hạt, chứa các nhóm ion hoạt động"
+    },
+    {
+      "ma": "03-02-08",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 39.07 nêu polyeste có chức este carboxylic trong mạch polyme, phân biệt với polyme acrylic nhóm 39.06.",
+      "chungMinh": "Các polyme này được đặc trưng bởi sự có mặt của các chức este carboxylic trong mạch polyme"
+    },
+    {
+      "ma": "03-02-09",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 39.14 phân biệt chất trao đổi ion (liên kết ngang chứa nhóm ion hoạt động) với polystyren/copolyme styren thường nhóm 39.03.",
+      "chungMinh": "Các chất trao đổi ion thuộc nhóm này là các polyme có liên kết ngang, thường ở dạng hạt, chứa các nhóm ion hoạt động"
+    },
+    {
+      "ma": "03-02-10",
+      "ketLuan": "SUA",
+      "vi": "Vế conNeu chỉ ghi trọng lượng phân tử thấp là hơi rộng; chú giải 38.24 nêu rõ trọng lượng phân tử rất thấp và loại trừ loại có đặc tính sáp nhân tạo sang 34.04.",
+      "sua": {
+        "neu": "poly(oxyethylene) có tối thiểu 5 đơn vị monome liên tục và không có đặc tính sáp nhân tạo",
+        "conNeu": "poly(oxyethylene) có trọng lượng phân tử rất thấp (như hỗn hợp di-, tri- và tetra-oxyethylene glycol) và không có đặc tính sáp nhân tạo"
+      },
+      "chungMinh": "(10) Poly(oxyethylene) (polyethylene glycol) với trọng lượng phân tử rất thấp, ví dụ, các hỗn hợp của di-, tri- và tetra (oxyethylene) glycols. … Tuy nhiên, các loại khác của poly(oxyethylene) (polyethylene glycol) bị loại trừ (nhóm 39.07 hoặc, nếu chúng có đặc tính của sáp nhân tạo, nhóm 34.04)."
+    },
+    {
+      "ma": "03-02-11",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 39.07 nêu rõ dầu thực vật hoặc động vật đã epoxide hóa thuộc nhóm 15.18, tách khỏi nhựa epoxide nguyên sinh nhóm 39.07.",
+      "chungMinh": "Các loại dầu thực vật hoặc động vật đã được epoxide hóa được phân loại ở nhóm 15.18."
+    },
+    {
+      "ma": "03-02-12",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 39.04 liệt kê PVC và polyme từ olefin halogen hóa, phân biệt rõ với polyme từ vinyl axetat/vinyl este thuộc nhóm 39.05.",
+      "chungMinh": "Nhóm này bao gồm poly(vinyl chlorua) (PVC), các copolyme vinyl clorua, các polyme vinyliden clorua, các fluoropolymer và các polyme từ các olefin đã bị halogen hóa khác."
+    },
+    {
+      "ma": "03-02-13",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 39.14 chỉ gồm chất trao đổi ion dạng nguyên sinh (thường dạng hạt), tách với cột trao đổi ion đã nạp sẵn dạng thành phẩm 39.26.",
+      "chungMinh": "Các chất trao đổi ion thuộc nhóm này là các polyme có liên kết ngang, thường ở dạng hạt, chứa các nhóm ion hoạt động"
+    },
+    {
+      "ma": "03-02-14",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 39.19 loại trừ trực tiếp tấm trải sàn, phủ tường hoặc phủ trần thuộc nhóm 39.18, hai vế chuẩn xác.",
+      "chungMinh": "Nhóm này bao gồm tất cả các sản phẩm hình dạng phẳng tự dính bằng plastic, có hoặc không ở dạng cuộn, trừ các tấm trải sàn, phủ tường hoặc phủ trần thuộc nhóm 39.18."
+    },
+    {
+      "ma": "03-02-15",
+      "ketLuan": "BO",
+      "vi": "Đảo ngược hoàn toàn hai vế: máy kiểm tra hoạt động theo nguyên lý cân thuộc nhóm 84.23, còn máy thử độ cứng/độ bền kéo nén vật liệu thuộc nhóm 90.24.",
+      "chungMinh": "(C) Loại có trọng lượng cân xác định trước dùng để kiểm tra tính đồng nhất hoặc chỉ ra những hao hụt của sản phẩm căn cứ trên trọng lượng, hoặc dùng để chia hàng hóa thành các trọng lượng cố định sẵn sàng cho việc đóng gói."
+    },
+    {
+      "ma": "03-02-16",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 39.14 xác định chất trao đổi ion là polyme liên kết ngang có nhóm ion hoạt động, tách khỏi nhựa phenolic thông thường nhóm 39.09.",
+      "chungMinh": "Các chất trao đổi ion thuộc nhóm này là các polyme có liên kết ngang, thường ở dạng hạt, chứa các nhóm ion hoạt động"
+    }
+  ]
+}

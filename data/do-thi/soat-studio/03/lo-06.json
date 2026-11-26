@@ -1,0 +1,107 @@
+{
+  "khuon": "soat@1",
+  "viec": "03",
+  "lo": 6,
+  "kq": [
+    {
+      "ma": "03-06-01",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 55.11 bao gồm sợi (trừ chỉ khâu) từ xơ staple nhân tạo đóng gói bán lẻ, tách rõ với xơ staple tổng hợp chưa kéo sợi thuộc 55.03.",
+      "chungMinh": "Nhóm này bao gồm các loại sợi (trừ chỉ khâu) làm từ xơ staple nhân tạo, đã được đóng gói để bán lẻ"
+    },
+    {
+      "ma": "03-06-02",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 54.02 loại trừ sợi tạo nên sợi xe/dây xe của nhóm 56.07, hai vế đúng chiều và rõ tiêu chí.",
+      "chungMinh": "Tuy nhiên, các loại sợi nói trên bị loại trừ khỏi nhóm này nếu chúng tạo nên sợi xe của nhóm 56.07"
+    },
+    {
+      "ma": "03-06-03",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 52.09 (theo 52.08) yêu cầu tỷ trọng bông từ 85% trở lên, phân biệt với vải xơ staple tổng hợp pha bông định lượng nhẹ thuộc 55.13.",
+      "chungMinh": "Chú giải chi tiết của nhóm 52.08 được áp dụng tương tự với các mặt hàng của nhóm này."
+    },
+    {
+      "ma": "03-06-04",
+      "ketLuan": "SUA",
+      "vi": "Ý và chiều phân loại đúng theo chú giải 56.01 (xơ vụn dài không quá 5 mm) và 55.11, nhưng vế neu bị lỗi lặp chữ 'không quá quá 5mm'.",
+      "sua": {
+        "neu": "các loại xơ dệt dài không quá 5 mm (xơ vụn)",
+        "conNeu": "sợi từ xơ staple nhân tạo đóng gói để bán lẻ"
+      },
+      "chungMinh": "“Xơ vụn” bao gồm các loại xơ dệt có chiều dài không quá 5 mm (lụa, lông cừu, bông, sợi nhân tạo...)."
+    },
+    {
+      "ma": "03-06-05",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 54.02 nêu rõ sợi filament tái tạo chưa đóng gói bán lẻ thuộc nhóm 54.03, phân biệt với sợi filament tổng hợp thuộc 54.02.",
+      "chungMinh": "54.03 - Sợi filament tái tạo (trừ chỉ khâu), chưa đóng gói để bán lẻ, kể cả sợi monofilament tái tạo có độ mảnh dưới 67 decitex."
+    },
+    {
+      "ma": "03-06-06",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 52.09 (bông từ 85% trở lên) và 55.14 (xơ staple tổng hợp pha bông định lượng trên 170 g/m2) phân định đúng hai vế.",
+      "chungMinh": "Chú giải chi tiết của nhóm 55.13 được áp dụng, một cách tương tự, cho các mặt hàng thuộc nhóm này."
+    },
+    {
+      "ma": "03-06-07",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 68.12 bao gồm sợi amiăng đã gia công và các mặt hàng từ amiăng, phân biệt với sợi từ xơ staple nhân tạo thuộc 55.11.",
+      "chungMinh": "Nhóm này gồm sợi amiăng được gia công hơn mức làm đập, làm sạch, chọn lọc hoặc phân loại (ví dụ, sợi đã được chải và nhuộm)."
+    },
+    {
+      "ma": "03-06-08",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 53.09 loại trừ băng dùng trong y tế đã tẩm thuốc hoặc đóng gói bán lẻ sang nhóm 30.05, hai vế đúng chiều.",
+      "chungMinh": "Băng dùng trong y tế, đã tẩm thuốc hay đã đóng gói để bán lẻ (nhóm 30.05) bị loại trừ khỏi nhóm này."
+    },
+    {
+      "ma": "03-06-09",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 54.02 loại trừ sợi đã đóng gói bán lẻ sang nhóm 54.06, giữ lại sợi chưa đóng gói bán lẻ trong nhóm 54.02.",
+      "chungMinh": "Tuy nhiên, các loại sợi nói trên bị loại trừ khỏi nhóm này nếu chúng tạo nên sợi xe của nhóm 56.07 hoặc sợi đã được đóng gói để bán lẻ thuộc nhóm 54.06"
+    },
+    {
+      "ma": "03-06-10",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 53.09 và 52.12 phân định vải dệt thoi từ sợi lanh (53.09) với vải dệt thoi khác từ bông (52.12) theo quy tắc tỷ trọng trội của Phần XI.",
+      "chungMinh": "Nhóm này bao gồm các vải dệt thoi (như đã định nghĩa tại Phần (I) (c) của Chú giải tổng quát Phần XI) được làm từ sợi lanh."
+    },
+    {
+      "ma": "03-06-11",
+      "ketLuan": "BO",
+      "vi": "Đảo ngược hoàn toàn hai vế: giấy, bìa phủ tấm mỏng plastic hai mặt giữ đặc trưng cơ bản của giấy thuộc nhóm 48.11, còn tấm plastic kết hợp vật liệu khác giữ đặc trưng plastic thuộc nhóm 39.21.",
+      "chungMinh": "Nhóm này bao gồm các tấm, phiến, màng, lá và dải, từ plastic, trừ loại thuộc nhóm 39.18, 39.19 hoặc 39.20 hoặc thuộc Chương 54."
+    },
+    {
+      "ma": "03-06-12",
+      "ketLuan": "BO",
+      "vi": "Đảo ngược hoàn toàn hai vế: các loại dụng cụ cắt thuộc nhóm 82.14 bị loại trừ khỏi 82.11, còn dao có lưỡi cắt có hoặc không có răng cưa thuộc nhóm 82.11.",
+      "chungMinh": "(b) Các loại dụng cụ cắt thuộc nhóm 82.14."
+    },
+    {
+      "ma": "03-06-13",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 54.02 loại trừ sợi kết hợp với sợi kim loại hoặc phủ bằng kim loại sang nhóm 56.05, hai vế chuẩn xác.",
+      "chungMinh": "(e) Sợi trộn kim loại, kể cả sợi của nhóm này được kết hợp với sợi kim loại với tỷ lệ bất kỳ hoặc được phủ bằng kim loại (nhóm 56.05)."
+    },
+    {
+      "ma": "03-06-14",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 55.09 loại trừ sợi từ xơ staple tổng hợp đã đóng gói bán lẻ sang nhóm 55.11, hai vế đúng chiều.",
+      "chungMinh": "Tuy nhiên, sợi từ xơ staple tổng hợp không được xếp trong nhóm này nếu chúng được đóng gói để bán lẻ (nhóm 55.11)"
+    },
+    {
+      "ma": "03-06-15",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 54.02 loại trừ tô filament tổng hợp có chiều dài trên 2 mét sang nhóm 55.01, hai vế đúng chiều.",
+      "chungMinh": "(b) Tô filament tổng hợp có chiều dài trên 2 mét của nhóm 55.01."
+    },
+    {
+      "ma": "03-06-16",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 54.02 chỉ gồm monofilament dưới 67 decitex và loại trừ monofilament tổng hợp từ 67 decitex trở lên sang nhóm 54.04.",
+      "chungMinh": "(1) Sợi monofilament (monophin) có độ mảnh dưới 67 decitex."
+    }
+  ]
+}
