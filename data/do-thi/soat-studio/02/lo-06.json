@@ -1,0 +1,79 @@
+{
+  "khuon": "soat@1",
+  "viec": "02",
+  "lo": 6,
+  "kq": [
+    {
+      "ma": "02-06-01",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Nằm trong bảng phụ lục cấu trúc hóa học Chương 29 đính cuối chú giải 29.42, chỉ mang tính tham chiếu nhóm 29.27.",
+      "chungMinh": "Diazo-, azo- or azoxy- … 29.27 compounds"
+    },
+    {
+      "ma": "02-06-02",
+      "ketLuan": "NGUYEN_LIEU",
+      "vi": "Polyme thuộc các nhóm từ 39.01 đến 39.13 là thành phần nguyên liệu chính tạo nên vecni dung dịch polyme thuộc nhóm 32.08.",
+      "chungMinh": "(3) Vecni được tạo bởi các dung dịch polyme được miêu tả trong phần (C) ở dưới, tức là của loại thuộc các nhóm từ 39.01 đến 39.13"
+    },
+    {
+      "ma": "02-06-03",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Nằm trong bảng phụ lục cấu trúc hóa học Chương 29 đính cuối chú giải 29.42, chỉ mang tính tham chiếu nhóm 29.31.",
+      "chungMinh": "Other organo-inorganic … 29.31 compounds"
+    },
+    {
+      "ma": "02-06-04",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Nằm trong bảng phụ lục cấu trúc hóa học Chương 29 đính cuối chú giải 29.42, chỉ mang tính tham chiếu nhóm 29.24.",
+      "chungMinh": "Carboxyamide-function … 29.24 compounds; amide-function compounds of carbonic acid"
+    },
+    {
+      "ma": "02-06-05",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Nằm trong bảng phụ lục cấu trúc hóa học Chương 29 đính cuối chú giải 29.42, chỉ dẫn chiếu mô tả nhóm 29.28.",
+      "chungMinh": "Organic derivatives of hydrazine … 29.28 or of hydroxylamine"
+    },
+    {
+      "ma": "02-06-06",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Nằm trong bảng phụ lục cấu trúc hóa học Chương 29 cuối chú giải 29.42, chỉ mang tính tham chiếu nhóm 29.34.",
+      "chungMinh": "Nucleic acids and their salts, … 29.34 whether or not chemically"
+    },
+    {
+      "ma": "02-06-07",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Nằm trong bảng phụ lục cấu trúc hóa học Chương 29 cuối chú giải 29.42, chỉ dẫn chiếu mô tả nhóm 29.29.",
+      "chungMinh": "Compounds with other nitrogen … 29.29 function"
+    },
+    {
+      "ma": "02-06-08",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Nằm trong bảng phụ lục cấu trúc hóa học Chương 29 cuối chú giải 29.42, chỉ mang tính tham chiếu nhóm 29.25.",
+      "chungMinh": "Carboxy imide-function compounds (including saccharin … 29.25 and its salts)"
+    },
+    {
+      "ma": "02-06-09",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Nằm trong bảng phụ lục cấu trúc hóa học Chương 29 cuối chú giải 29.42, chỉ dẫn chiếu tên nhóm 29.26.",
+      "chungMinh": "29.26 Nitrile-function compounds"
+    },
+    {
+      "ma": "02-06-10",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Nằm trong bảng phụ lục cấu trúc hóa học Chương 29 cuối chú giải 29.42, chỉ mang tính tham chiếu nhóm 29.30.",
+      "chungMinh": "29.30 Organo-sulphur compounds"
+    },
+    {
+      "ma": "02-06-11",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Nằm trong bảng phụ lục cấu trúc hóa học Chương 29 cuối chú giải 29.42, chỉ dẫn chiếu mô tả nhóm 29.33.",
+      "chungMinh": "Heterocyclic compounds with … 29.33 nitrogen hetero-atom(s) only"
+    },
+    {
+      "ma": "02-06-12",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Nằm trong bảng phụ lục cấu trúc hóa học Chương 29 cuối chú giải 29.42, chỉ mang tính tham chiếu nhóm 29.23.",
+      "chungMinh": "Quaternary ammonium salts and hydroxides; lecithins and other … 29.23 phosphoaminolipids"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "khuon": "soat@1",
+  "viec": "02",
+  "lo": 4,
+  "kq": [
+    {
+      "ma": "02-04-01",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Nằm trong phụ lục bảng cấu trúc hóa học các sản phẩm Chương 29 đính cuối chú giải 29.42, chỉ mang tính tra cứu tham chiếu nhóm 29.05.",
+      "chungMinh": "Acyclic alcohols and their … 29.05 halogenated, sulphonated, nitrated or nitrosated derivatives"
+    },
+    {
+      "ma": "02-04-02",
+      "ketLuan": "LOAI_TRU",
+      "vi": "Chú giải 86.04 loại trừ trực tiếp máy móc, thiết bị đặt trên bệ có bánh xe không lắp trên khung gầm đường sắt sang nhóm 84.29 (và 84.25, 84.26, 84.28, 84.30).",
+      "chungMinh": "các máy móc, thiết bị đo đạc và các thiết bị khác, bị loại trừ khỏi nhóm này và được xếp trong các nhóm cụ thể hơn (nhóm 84.25, 84.26, 84.28, 84.29, 84.30 v.v...)."
+    },
+    {
+      "ma": "02-04-03",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Nằm trong bảng phụ lục cấu trúc hóa học Chương 29 cuối chú giải 29.42, chỉ mang tính tham chiếu nhóm 29.06.",
+      "chungMinh": "Cyclic alcohols and their … 29.06 halogenated, sulphonated, nitrated or nitrosated derivatives"
+    },
+    {
+      "ma": "02-04-04",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Nằm trong bảng phụ lục cấu trúc hóa học Chương 29 cuối chú giải 29.42, chỉ dẫn chiếu mô tả nhóm 29.07.",
+      "chungMinh": "29.07 Phenols; phenol-alcohols"
+    },
+    {
+      "ma": "02-04-05",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Chú giải 28.42 chỉ dẫn chiếu tham khảo sang Chú giải chi tiết nhóm 32.06 về việc điều chế bột màu xanh từ đồng asenit.",
+      "chungMinh": "để điều chế một số bột màu xanh (xem Chú giải Chi tiết nhóm 32.06)."
+    },
+    {
+      "ma": "02-04-06",
+      "ketLuan": "NGUYEN_LIEU",
+      "vi": "Nhóm 29.05 (trong dải 29.05 đến 29.20) được nêu là thành phần chứa chức oxy tạo nên dẫn xuất thay thế của amin thuộc nhóm 29.22.",
+      "chungMinh": "Nhóm này bao gồm các hợp chất amino là dẫn xuất thay thế của các amin có chứa chức oxy thuộc các nhóm từ 29.05 đến 29.20"
+    },
+    {
+      "ma": "02-04-07",
+      "ketLuan": "LOAI_TRU",
+      "vi": "Chú giải 90.08 loại trừ rõ ràng các bộ phận quang học trình bày riêng lẻ sang nhóm 90.01 (hoặc 90.02 tùy trường hợp).",
+      "chungMinh": "Các bộ phận quang học được trình bày riêng lẻ thì bị loại trừ (nhóm 90.01 hoặc 90.02, tùy trường hợp)."
+    },
+    {
+      "ma": "02-04-08",
+      "ketLuan": "NGUYEN_LIEU",
+      "vi": "Nhóm 29.20 (trong dải 29.05 đến 29.20) là nhóm chức oxy thành phần cấu tạo nên hợp chất amino chức oxy của nhóm 29.22.",
+      "chungMinh": "Nhóm này bao gồm các hợp chất amino là dẫn xuất thay thế của các amin có chứa chức oxy thuộc các nhóm từ 29.05 đến 29.20"
+    },
+    {
+      "ma": "02-04-09",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Chú giải 29.21 loại trừ hợp chất chức oxy sang nhóm 29.22 (không phải 29.05); nhóm 29.05 chỉ được dẫn chiếu để định nghĩa các nhóm chức có oxy.",
+      "chungMinh": "nhưng loại trừ các dẫn xuất thay thế có chứa nhóm chức có oxy của các nhóm từ 29.05 đến 29.20, và các dạng muối của nó (nhóm 29.22)."
+    },
+    {
+      "ma": "02-04-10",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Chú giải 29.21 loại trừ sang nhóm 29.22 (không phải 29.20); nhóm 29.20 chỉ được nhắc tham chiếu để xác định phạm vi nhóm chức có oxy.",
+      "chungMinh": "nhưng loại trừ các dẫn xuất thay thế có chứa nhóm chức có oxy của các nhóm từ 29.05 đến 29.20, và các dạng muối của nó (nhóm 29.22)."
+    },
+    {
+      "ma": "02-04-11",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Nằm trong bảng phụ lục cấu trúc hóa học Chương 29 đính cuối chú giải 29.42, chỉ mang tính tham chiếu nhóm 29.09.",
+      "chungMinh": "Ethers, ether-alcohols, ether- phenols, ether-alcohol-phenols … 29.09 peroxide, ketone peroxides"
+    },
+    {
+      "ma": "02-04-12",
+      "ketLuan": "NGUYEN_LIEU",
+      "vi": "Axit asenious và axit asenic thuộc nhóm 28.11 là axit gốc hình thành các muối asenit và asenat kim loại thuộc nhóm 28.42.",
+      "chungMinh": "Đây là dạng muối kim loại của axit asenic; asenit là các muối của axit asenious, và asenat là muối của asenic (nhóm 28.11)."
+    }
+  ]
+}

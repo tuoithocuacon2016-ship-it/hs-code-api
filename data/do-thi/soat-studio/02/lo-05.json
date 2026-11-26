@@ -1,0 +1,79 @@
+{
+  "khuon": "soat@1",
+  "viec": "02",
+  "lo": 5,
+  "kq": [
+    {
+      "ma": "02-05-01",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Nằm trong phụ lục bảng cấu trúc hóa học Chương 29 đính cuối chú giải 29.42, chỉ mang tính tham chiếu nhóm 29.10.",
+      "chungMinh": "Epoxides, epoxyalcohols, epoxyphenols and epoxyethers, … 29.10 with a three-membered ring"
+    },
+    {
+      "ma": "02-05-02",
+      "ketLuan": "LOAI_TRU",
+      "vi": "Chú giải 97.06 nêu rõ nhóm chỉ gồm sách in, bản đồ, bản khắc cổ trừ loại thuộc nhóm 97.02 (loại trừ bản khắc gốc sang 97.02).",
+      "chungMinh": "(2) Các sản phẩm của công nghiệp in: sách in cổ trước năm 1500 và các sách khác, âm nhạc, bản đồ, bản khắc (trừ loại thuộc nhóm 97.02)."
+    },
+    {
+      "ma": "02-05-03",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Nằm trong bảng phụ lục cấu trúc hóa học Chương 29 đính cuối chú giải 29.42, chỉ dẫn chiếu tham khảo nhóm 29.22.",
+      "chungMinh": "Oxygen-function amino- … 29.22 compounds"
+    },
+    {
+      "ma": "02-05-04",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Nằm trong bảng phụ lục cấu trúc hóa học Chương 29 cuối chú giải 29.42, chỉ dẫn chiếu mô tả nhóm 29.16.",
+      "chungMinh": "Unsaturated acyclic monocarboxylic acids, cyclic monocarboxylic acids, their … 29.16 anhydrides, halides, peroxides and peroxyacids"
+    },
+    {
+      "ma": "02-05-05",
+      "ketLuan": "LOAI_TRU",
+      "vi": "Chú giải 84.31 loại trừ dây cáp và xích khi đứng riêng rẽ hoặc ở dạng cuộn ra khỏi 84.31 sang Phần XV (thường là nhóm 73.12 hoặc 73.15).",
+      "chungMinh": "Tuy nhiên, khi đứng riêng rẽ, chúng được phân loại ở Phần XV (thường là nhóm 73.12 hoặc 73.15)."
+    },
+    {
+      "ma": "02-05-06",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Nằm trong bảng phụ lục cấu trúc hóa học Chương 29 đính cuối chú giải 29.42, chỉ mang tính tham chiếu nhóm 29.20.",
+      "chungMinh": "Esters of other inorganic acids of non-metals (excluding esters of … 29.20 hydrogen halides)"
+    },
+    {
+      "ma": "02-05-07",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Nằm trong bảng phụ lục cấu trúc hóa học Chương 29 đính cuối chú giải 29.42, chỉ mang tính tham chiếu nhóm 29.12.",
+      "chungMinh": "Aldehydes, whether or not with other oxygen function; cyclic … 29.12 polymers of aldehydes; paraformaldehyde"
+    },
+    {
+      "ma": "02-05-08",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Nằm trong bảng phụ lục cấu trúc hóa học Chương 29 đính cuối chú giải 29.42, chỉ dẫn chiếu mô tả nhóm 29.19.",
+      "chungMinh": "Phosphoric esters and their salts … 29.19 halogenated, sulphonated"
+    },
+    {
+      "ma": "02-05-09",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Nằm trong bảng phụ lục cấu trúc hóa học Chương 29 cuối chú giải 29.42, chỉ mang tính tham chiếu nhóm 29.21.",
+      "chungMinh": "29.21 Amine-function compounds"
+    },
+    {
+      "ma": "02-05-10",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Nằm trong bảng phụ lục cấu trúc hóa học Chương 29 cuối chú giải 29.42, chỉ mang tính tham chiếu nhóm 29.11.",
+      "chungMinh": "Acetals and hemiacetals, whether or not with other oxygen … 29.11 function"
+    },
+    {
+      "ma": "02-05-11",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Nằm trong bảng phụ lục cấu trúc hóa học Chương 29 đính cuối chú giải 29.42, chỉ mang tính tham chiếu nhóm 29.18.",
+      "chungMinh": "Carboxylic acids with additional oxygen function and their anhydrides, halides, peroxides … 29.18 and peroxyacids"
+    },
+    {
+      "ma": "02-05-12",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Nằm trong bảng phụ lục cấu trúc hóa học Chương 29 đính cuối chú giải 29.42, chỉ dẫn chiếu mô tả nhóm 29.14.",
+      "chungMinh": "Ketones and quinones, whether … 29.14 or not with other oxygen function"
+    }
+  ]
+}

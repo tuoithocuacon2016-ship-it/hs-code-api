@@ -1,0 +1,79 @@
+{
+  "khuon": "soat@1",
+  "viec": "02",
+  "lo": 1,
+  "kq": [
+    {
+      "ma": "02-01-01",
+      "ketLuan": "PHAN_BIET",
+      "vi": "Chú giải 20.05 tả rõ hai bên: ô liu xử lý đặc biệt ăn được thuộc 20.05, còn ô liu chỉ bảo quản tạm thời trong nước muối thuộc 07.11.",
+      "chungMinh": "(1) Ô liu, ăn được vì qua một công đoạn xử lý đặc biệt trong dung dịch soda hoặc ngâm lâu trong nước muối. (Ô liu được bảo quản tạm thời trong nước muối được phân loại trong nhóm 07.11- xem Chú giải chi tiết của nhóm đó)."
+    },
+    {
+      "ma": "02-01-02",
+      "ketLuan": "NGUYEN_LIEU",
+      "vi": "Nhóm 07.01 được nêu là trạng thái nguyên liệu rau tươi hoặc ướp lạnh trước khi gia công đông lạnh sang nhóm 07.10.",
+      "chungMinh": "Nhóm này bao gồm các loại rau đông lạnh mà khi ở dạng tươi hoặc ướp lạnh thì được phân loại vào các nhóm từ 07.01 đến 07.09."
+    },
+    {
+      "ma": "02-01-03",
+      "ketLuan": "NGUYEN_LIEU",
+      "vi": "Động vật sống thuộc nhóm 01.06 là nguồn nguyên liệu đầu vào cho thịt và phụ phẩm sau giết mổ thuộc nhóm 02.08.",
+      "chungMinh": "Nhóm này bao gồm thịt và phụ phẩm dạng thịt sau giết mổ của động vật thuộc nhóm 01.06, miễn là chúng thích hợp dùng làm thức ăn cho người"
+    },
+    {
+      "ma": "02-01-04",
+      "ketLuan": "NGUYEN_LIEU",
+      "vi": "Động vật họ trâu bò thuộc nhóm 01.02 là động vật nguồn cung cấp thịt đông lạnh của nhóm 02.02.",
+      "chungMinh": "Nhóm này gồm thịt đông lạnh của động vật họ trâu bò nuôi hoặc hoang thuộc nhóm 01.02."
+    },
+    {
+      "ma": "02-01-05",
+      "ketLuan": "NGUYEN_LIEU",
+      "vi": "Động vật sống thuộc nhóm 01.01 là nguồn nguyên liệu của thịt tươi, ướp lạnh hoặc đông lạnh thuộc nhóm 02.05.",
+      "chungMinh": "Nhóm này gồm thịt tươi, ướp lạnh hoặc đông lạnh của những động vật mà khi còn sống được phân loại vào nhóm 01.01."
+    },
+    {
+      "ma": "02-01-06",
+      "ketLuan": "NGUYEN_LIEU",
+      "vi": "Quặng kẽm nung thuộc nhóm 26.08 là nguyên liệu đầu vào để điều chế kẽm clorua (ZnCl2) thuộc nhóm 28.27.",
+      "chungMinh": "Kẽm clorua thu được khi thổi khí HCl lên quặng kẽm nung (blende hoặc calamine) (nhóm 26.08);"
+    },
+    {
+      "ma": "02-01-07",
+      "ketLuan": "NGUYEN_LIEU",
+      "vi": "Động vật họ trâu bò thuộc nhóm 01.02 là động vật nguồn tạo ra thịt tươi hoặc ướp lạnh của nhóm 02.01.",
+      "chungMinh": "Nhóm này gồm thịt tươi hoặc ướp lạnh của động vật họ trâu bò nuôi hoặc hoang thuộc nhóm 01.02."
+    },
+    {
+      "ma": "02-01-08",
+      "ketLuan": "LOAI_TRU",
+      "vi": "Câu dẫn ngay phía trước ghi 'Nhóm này cũng loại trừ:', nên kính thuộc các nhóm 70.04 đến 70.06 bị loại trừ khỏi 70.16.",
+      "chungMinh": "Nhóm này cũng loại trừ: … (a) Kính thuộc các nhóm 70.04 đến 70.06"
+    },
+    {
+      "ma": "02-01-09",
+      "ketLuan": "PHAN_BIET",
+      "vi": "Chú giải 19.05 phân biệt hai bên rõ ràng: bánh đa từ bột/tinh bột thuộc 19.05 với loại 'rice paper' thái lát thân cây cọ thuộc 14.04.",
+      "chungMinh": "Không nên nhầm lẫn bánh đa với một loại “rice paper” được làm bằng cách thái lát phần xốp thân cây cọ (xem Chú giải Chi tiết nhóm 14.04)."
+    },
+    {
+      "ma": "02-01-10",
+      "ketLuan": "NGUYEN_LIEU",
+      "vi": "Gia cầm nuôi thuộc nhóm 01.05 là động vật nguồn của thịt và phụ phẩm ăn được sau giết mổ thuộc nhóm 02.07.",
+      "chungMinh": "Nhóm này chỉ bao gồm thịt và phụ phẩm ăn được sau giết mổ, tươi, ướp lạnh hoặc đông lạnh của gia cầm nuôi mà khi sống, được phân loại vào nhóm 01.05."
+    },
+    {
+      "ma": "02-01-11",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Chú giải 11.04 chỉ dẫn chiếu sang Mục (2) đến (5) của Chú giải nhóm 10.06 để tham khảo định nghĩa các công đoạn chế biến hạt.",
+      "chungMinh": "và nêu trong Mục (2) đến (5) của Chú giải nhóm 10.06."
+    },
+    {
+      "ma": "02-01-12",
+      "ketLuan": "NGUYEN_LIEU",
+      "vi": "Nhóm 07.09 là trạng thái rau tươi hoặc ướp lạnh ban đầu trước khi được làm đông lạnh để xếp vào nhóm 07.10.",
+      "chungMinh": "Nhóm này bao gồm các loại rau đông lạnh mà khi ở dạng tươi hoặc ướp lạnh thì được phân loại vào các nhóm từ 07.01 đến 07.09."
+    }
+  ]
+}
