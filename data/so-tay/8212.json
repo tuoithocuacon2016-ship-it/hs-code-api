@@ -21,6 +21,17 @@
       "nguon": "nhom8212.nhom",
       "trich": "(b) Dao cạo râu điện, lưỡi cắt và đĩa cắt của các loại dao cạo râu này (nhóm 85.10).",
       "nguonLoai": "NGUOI_DUYET"
+    },
+    {
+      "dieuKien": "Bàn chải cạo râu, bàn chải xoa xà phòng để cạo râu, bàn chải vệ sinh cá nhân không có lưỡi dao cạo",
+      "sangNhom": "9603",
+      "nguon": "nhom8212.nhom",
+      "trich": "Nhóm này bao gồm: (1) Dao cạo có lưỡi hở … (2) Dao cạo râu an toàn và các bộ phận làm bằng kim loại cơ bản và lưỡi của chúng, đã hoàn tất hoặc chưa (3) Dao cạo râu nhựa đã lắp kèm các lưỡi dao. … Nhóm này cũng không bao gồm: (a) Dao cạo râu nhựa không có lưỡi (nhóm 39.24).",
+      "canCuLoaiTru": {
+        "nguon": "nhom9603.nhom",
+        "trich": "Nhóm này bao gồm: … (2) Bàn chải xoa xà phòng để cạo râu. (3) Bàn chải dùng cho vệ sinh (bàn chải tóc, bàn chải râu, ria, bàn chải mi mắt, bàn chải móng tay, bàn chải nhuộm tóc, ...); bàn chải xoa cổ của thợ cắt tóc."
+      },
+      "nguonLoai": "AI_DA_KIEM"
     }
   ],
   "phanBiet": [
@@ -197,8 +208,8 @@
     "ms": 1
   },
   "kiemTra": {
-    "tong": 11,
-    "dat": 11,
+    "tong": 12,
+    "dat": 12,
     "loai": 0,
     "nguonBiCat": []
   }
