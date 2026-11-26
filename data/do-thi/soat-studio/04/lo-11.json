@@ -1,0 +1,247 @@
+{
+  "khuon": "soat@1",
+  "viec": "04",
+  "lo": 11,
+  "kq": [
+    {
+      "ma": "04-11-01",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8518 sang 9021 khớp sát nội dung câu trích nguồn nhom8518.nhom.",
+      "chungMinh": "(c) Máy trợ thính nhóm 90.21."
+    },
+    {
+      "ma": "04-11-02",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8541 sang 8518 khớp sát nội dung câu trích nguồn nhom8541.nhom.",
+      "chungMinh": "một đối tượng hoàn chỉnh (được gắn thêm tinh thể) có thể không còn được xem thuần tuý là một tinh thể được lắp ráp nhưng lại trở thành một bộ phận đặc biệt có thể nhận biết được của một máy móc hoặc thiết bị … ví dụ, pin áp điện dùng cho micro hoặc loa (nhóm 85.18)"
+    },
+    {
+      "ma": "04-11-03",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9404 sang 9401 khớp sát nội dung câu trích nguồn nhom9404.nhom.",
+      "chungMinh": "Nhưng nhóm này loại trừ các lò xo xoắn được lắp với nhau sử dụng cho các loại ghế (nhóm 94.01) và tấm dây sắt hoặc thép lưới, chưa được lắp ráp (nhóm 73.14)."
+    },
+    {
+      "ma": "04-11-04",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 3919 sang 4814 khớp sát nội dung câu trích nguồn ch39.chuong.",
+      "chungMinh": "(o) Các loại tấm phủ tường thuộc nhóm 48.14;"
+    },
+    {
+      "ma": "04-11-05",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8208 sang 8510 khớp sát nội dung câu trích nguồn ch82.chuong.",
+      "chungMinh": "Đầu, lưỡi dao và lưỡi cắt của máy cạo râu dùng điện hoặc tông đo cắt tóc dùng điện được xếp vào nhóm 85.10."
+    },
+    {
+      "ma": "04-11-06",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8401 sang 8414 khớp sát nội dung câu trích nguồn nhom8401.nhom.",
+      "chungMinh": "Quạt không khí (nhóm 84.14)."
+    },
+    {
+      "ma": "04-11-07",
+      "ketLuan": "SAI",
+      "vi": "Điều kiện nêu dụng cụ vận hành bằng tay/khí nén/thuỷ lực không khớp câu trích: câu trích loại trừ máy chiếu phim (90.07) và máy chiếu hình ảnh (90.08).",
+      "chungMinh": "Máy chiếu phim (nhóm 90.07) và máy chiếu hình ảnh nhóm 90.08."
+    },
+    {
+      "ma": "04-11-08",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8518 sang 9620 khớp sát nội dung câu trích nguồn nhom8518.nhom.",
+      "chungMinh": "Mặt khác, chân đế loại một chân (monopod), hai chân (bipod), ba chân (tripod) và các mặt hàng tương tự bị loại trừ (nhóm 96.20)."
+    },
+    {
+      "ma": "04-11-09",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8509 sang 8414 khớp sát nội dung câu trích nguồn nhom8509.nhom.",
+      "chungMinh": "(a) Các quạt gió hoặc quạt thông gió hoặc chụp hút có gắn quạt, đã hoặc chưa gắn với thiết bị lọc (nhóm 84.14)."
+    },
+    {
+      "ma": "04-11-10",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8404 sang 8414 khớp sát nội dung câu trích nguồn nhom8404.nhom.",
+      "chungMinh": "Các loại bơm (kể cả bơm phụt, dùng để tiếp nước cho nồi hơi), quạt gió và các loại máy khác thuộc nhóm 84.13 hoặc 84.14."
+    },
+    {
+      "ma": "04-11-11",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8517 sang 8518 khớp sát nội dung câu trích nguồn nhom8517.nhom.",
+      "chungMinh": "Khi xuất trình riêng rẽ, micro và bộ thu (có hay không kết hợp thành tay cầm điện thoại), và loa được phân loại trong nhóm 85.18"
+    },
+    {
+      "ma": "04-11-12",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8518 sang 8543 khớp sát nội dung câu trích nguồn nhom8518.nhom.",
+      "chungMinh": "Bộ trộn âm thanh và bộ cân bằng tần số âm thanh cũng (Audio mixers and equalisers) được phân loại vào nhóm 85.43."
+    },
+    {
+      "ma": "04-11-13",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8414 sang 8411 khớp sát nội dung câu trích nguồn nhom8414.nhom.",
+      "chungMinh": "Nhóm này không bao gồm): (a) Tua bin khí thải (nhóm 84.11)."
+    },
+    {
+      "ma": "04-11-14",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8418 sang 8414 khớp sát nội dung câu trích nguồn nhom8418.nhom.",
+      "chungMinh": "Bộ phận nén, như trình bày nêu trên, được xếp trong nhóm 84.14, dù chúng có được thiết kế đặc biệt để dùng trong máy làm lạnh."
+    },
+    {
+      "ma": "04-11-15",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9012 sang 8414 khớp sát nội dung câu trích nguồn nhom9012.nhom.",
+      "chungMinh": "Mặt khác, nhóm này không bao gồm bơm chân không (nhóm 84.14)"
+    },
+    {
+      "ma": "04-11-16",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8405 sang 8414 khớp sát nội dung câu trích nguồn nhom8405.nhom.",
+      "chungMinh": "(a) Thiết bị tạo gió có cơ cấu piston dịch chuyển tự do dùng cho tua bin khí (nhóm 84.14)."
+    },
+    {
+      "ma": "04-11-17",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 3920 sang 3919 khớp sát nội dung câu trích nguồn nhom3920.nhom.",
+      "chungMinh": "trừ những loại thuộc nhóm 39.18 hoặc 39.19"
+    },
+    {
+      "ma": "04-11-18",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9209 sang 8518 khớp sát nội dung câu trích nguồn nhom9209.nhom.",
+      "chungMinh": "nhưng trừ bộ khuếch đại âm tần và loa (nhóm 85.18)"
+    },
+    {
+      "ma": "04-11-19",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8708 sang 8414 khớp sát nội dung câu trích nguồn phan87.phan.",
+      "chungMinh": "(e) Bơm, máy nén và quạt (nhóm84.13 hoặc 84.14)."
+    },
+    {
+      "ma": "04-11-20",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7322 sang 8414 khớp sát nội dung câu trích nguồn nhom7322.nhom.",
+      "chungMinh": "Tuy nhiên, những bộ phận sau không được xem như các bộ phận rời: … (b) Quạt (nhóm 84.14)"
+    },
+    {
+      "ma": "04-11-21",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8467 sang 8414 khớp sát nội dung câu trích nguồn nhom8467.nhom.",
+      "chungMinh": "(c) Máy nén khí (nhóm 84.14)"
+    },
+    {
+      "ma": "04-11-22",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9033 sang 8414 khớp sát nội dung câu trích nguồn nhom9033.nhom.",
+      "chungMinh": "Bơm chân không (nhóm 84.14)"
+    },
+    {
+      "ma": "04-11-23",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9007 sang 8518 khớp sát nội dung câu trích nguồn nhom9007.nhom.",
+      "chungMinh": "Các micro, loa và amply (bộ tăng âm điện của tần số nghe được), ngoài các loại được gắn hoặc tạo thành 1 bộ phận không tách rời của những máy thuộc nhóm này (nhóm 85.18)."
+    },
+    {
+      "ma": "04-11-24",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8207 sang 8208 khớp sát nội dung câu trích nguồn nhom8207.nhom.",
+      "chungMinh": "(d) Dao và lưỡi cắt dùng cho máy hoặc các dụng cụ cơ khí (nhóm 82.08)."
+    },
+    {
+      "ma": "04-11-25",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8519 sang 8518 khớp sát nội dung câu trích nguồn nhom8519.nhom.",
+      "chungMinh": "(c) Micro, loa, bộ khuếch đại âm tần và các bộ khuếch đại âm tần điện được xuất trình riêng rẽ (nhóm 85.18)."
+    },
+    {
+      "ma": "04-11-26",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8414 sang 8437 khớp sát nội dung câu trích nguồn nhom8414.nhom.",
+      "chungMinh": "Nhóm này không bao gồm): … (d) Máy dùng để làm sạch, sàng lọc hoặc phân loại các loại hạt, rau đậu đã được làm khô (nhóm 84.37)."
+    },
+    {
+      "ma": "04-11-27",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8414 sang 8428 khớp sát nội dung câu trích nguồn nhom8414.nhom.",
+      "chungMinh": "Nhóm này không bao gồm): … (c) Máy nâng và băng chuyền khí nén (nhóm 84.28)."
+    },
+    {
+      "ma": "04-11-28",
+      "ketLuan": "SAI",
+      "vi": "Điều kiện nêu phụ kiện mũ và vật đội đầu không khớp câu trích: câu trích loại trừ chổi và bàn chải sang nhóm 96.03.",
+      "chungMinh": "Chổi và bàn chải (nhóm 96.03)."
+    },
+    {
+      "ma": "04-11-29",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9620 sang 8518 khớp sát nội dung câu trích nguồn nhom9620.nhom.",
+      "chungMinh": "(a) Chân đế dùng cho microphones (nhóm 85.18)."
+    },
+    {
+      "ma": "04-11-30",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8518 sang 6506 khớp sát nội dung câu trích nguồn nhom8518.nhom.",
+      "chungMinh": "(a) Mũ chụp đầu của nhân viên hàng không có gắn tai nghe có hoặc không có micro (nhóm 65.06)."
+    },
+    {
+      "ma": "04-11-31",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8716 sang 8414 khớp sát nội dung câu trích nguồn nhom8716.nhom.",
+      "chungMinh": "(b) Các máy móc và thiết bị lắp trên một khung đơn giản có bánh xe, được thiết kế để kéo, như các máy bơm hoặc máy nén khí lưu động (nhóm 84.13 hoặc 84.14)"
+    },
+    {
+      "ma": "04-11-32",
+      "ketLuan": "SAI",
+      "vi": "Nhóm đích 4202 không khớp câu trích: câu trích loại trừ thiết bị chiếu sáng cho xe có động cơ hoặc xe đạp sang nhóm 85.12, không phải 42.02.",
+      "chungMinh": "Do đó, khái niệm này không bao gồm thiết bị chiếu sáng cho xe có động cơ hoặc xe đạp (nhóm 85.12)"
+    },
+    {
+      "ma": "04-11-33",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 3921 sang 3919 khớp sát nội dung câu trích nguồn nhom3921.nhom.",
+      "chungMinh": "Nhóm này bao gồm các tấm, phiến, màng, lá và dải, từ plastic, trừ loại thuộc nhóm 39.18, 39.19 hoặc 39.20 hoặc thuộc Chương 54."
+    },
+    {
+      "ma": "04-11-34",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8518 sang 8517 khớp sát nội dung câu trích nguồn nhom8518.nhom.",
+      "chungMinh": "(b) Bộ điện thoại (nhóm 85.17)."
+    },
+    {
+      "ma": "04-11-35",
+      "ketLuan": "SAI",
+      "vi": "Nhóm đích 8467 không khớp câu trích: câu trích xếp miếng vải dệt đã qua một vài công đoạn gia công chưa hoàn thiện vào nhóm 63.07, không phải 84.67.",
+      "chungMinh": "Các miếng vải dệt đã qua một vài công đoạn gia công (như làm viền hoặc tạo đường viền cổ áo) dùng để sản xuất áo quần nhưng chưa được hoàn thiện đầy đủ và được xem như quần áo hoặc các chi tiết của quần áo (nhóm 63.07)"
+    },
+    {
+      "ma": "04-11-36",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9033 sang 8518 khớp sát nội dung câu trích nguồn nhom9033.nhom.",
+      "chungMinh": "thiết bị điện khuếch đại âm tần (nhóm 85.18)"
+    },
+    {
+      "ma": "04-11-37",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9403 sang 8518 khớp sát nội dung câu trích nguồn nhom9403.nhom.",
+      "chungMinh": "(k) Đồ nội thất được thiết kế riêng như bộ phận của các thiết bị thuộc nhóm 85.18 (nhóm 85.18), của nhóm 85.19 hoặc 85.21 (nhóm 85.22) hoặc của các nhóm từ 85.25 đến 85.28 (nhóm 85.29)."
+    },
+    {
+      "ma": "04-11-38",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8518 sang 8543 khớp sát nội dung câu trích nguồn nhom8518.nhom.",
+      "chungMinh": "Bộ khuếch đại cao tần hoặc trung tần được phân loại vào nhóm 85.43 như các thiết bị điện có chức năng riêng."
+    },
+    {
+      "ma": "04-11-39",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9401 sang 9504 khớp sát nội dung câu trích nguồn ch94.chuong.",
+      "chungMinh": "bàn bi-a hoặc đồ nội thất khác được cấu tạo đặc biệt dùng cho các trò chơi (nhóm 95.04)"
+    },
+    {
+      "ma": "04-11-40",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 3919 sang 3918 khớp sát nội dung câu trích nguồn nhom3919.nhom.",
+      "chungMinh": "trừ các tấm trải sàn, phủ tường hoặc phủ trần thuộc nhóm 39.18."
+    }
+  ]
+}

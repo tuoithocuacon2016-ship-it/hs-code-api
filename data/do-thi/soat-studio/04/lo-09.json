@@ -1,0 +1,247 @@
+{
+  "khuon": "soat@1",
+  "viec": "04",
+  "lo": 9,
+  "kq": [
+    {
+      "ma": "04-09-01",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9017 sang 9031 khớp sát nội dung câu trích nguồn nhom9017.nhom.",
+      "chungMinh": "Những dụng cụ được thiết kế đặc biệt để chỉ lắp cố định trên giá hoặc vật hỗ trợ khác hoặc nối với các máy móc hoặc các dụng cụ khác bằng cáp, hệ thống ống mềm...để tiến hành đo bị loại trừ (nhóm 9031)."
+    },
+    {
+      "ma": "04-09-02",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8421 sang 8474 khớp sát nội dung câu trích nguồn nhom8421.nhom.",
+      "chungMinh": "(f) Máy nghiền ly tâm (nhóm 84.74)."
+    },
+    {
+      "ma": "04-09-03",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9031 sang 9024 khớp sát nội dung câu trích nguồn nhom9031.nhom.",
+      "chungMinh": "Tuy nhiên, các động lực kế để thử các đặc tính của vật liệu bị loại trừ (nhóm 90.24)."
+    },
+    {
+      "ma": "04-09-04",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8445 sang 8421 khớp sát nội dung câu trích nguồn nhom8445.nhom.",
+      "chungMinh": "Máy chiết xuất nước bằng ly tâm (nhóm 84.21)."
+    },
+    {
+      "ma": "04-09-05",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9106 sang 9031 khớp sát nội dung câu trích nguồn nhom9106.nhom.",
+      "chungMinh": "Các đồng hồ dùng để đo thời gian chạy bằng điện hay điện tử nếu không có máy kiểu đồng hồ hoặc không có động cơ đồng bộ bị loại trừ (nhóm 90.31)."
+    },
+    {
+      "ma": "04-09-06",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8437 sang 8421 khớp sát nội dung câu trích nguồn nhom8437.nhom.",
+      "chungMinh": "(b) Máy lọc không khí và “quạt gió” được dùng để tách bụi ra khỏi không khí thải thoát ra từ máy lựa chọn hoặc máy giần sàng (nhóm 84.21)."
+    },
+    {
+      "ma": "04-09-07",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8421 sang 8479 khớp sát nội dung câu trích nguồn nhom8421.nhom.",
+      "chungMinh": "(b) Máy điều hoà không khí thuộc nhóm 84.15 hoặc máy hút ẩm không khí thuộc nhóm 84.79."
+    },
+    {
+      "ma": "04-09-08",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8466 sang 8421 khớp sát nội dung câu trích nguồn nhom8466.nhom.",
+      "chungMinh": "(b) Bộ lọc dầu bằng từ hoặc điện từ (nhóm 84.21)."
+    },
+    {
+      "ma": "04-09-09",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8438 sang 8421 khớp sát nội dung câu trích nguồn nhom8438.nhom.",
+      "chungMinh": "(d) Máy li tâm và máy lọc (nhóm 84.21)."
+    },
+    {
+      "ma": "04-09-10",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9031 sang 9030 khớp sát nội dung câu trích nguồn nhom9031.nhom.",
+      "chungMinh": "(h) Dụng cụ, thiết bị đo và kiểm tra các đại lượng điện và để đo hoặc phát hiện bức xạ ion thuộc nhóm 90.30."
+    },
+    {
+      "ma": "04-09-11",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8421 sang 9018 khớp sát nội dung câu trích nguồn nhom8421.nhom.",
+      "chungMinh": "(d) Máy chạy (thẩm tách) thận nhân tạo (nhóm 90.18)."
+    },
+    {
+      "ma": "04-09-12",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9031 sang 9018 khớp sát nội dung câu trích nguồn nhom9031.nhom.",
+      "chungMinh": "(e) Dụng cụ và thiết bị y học, giải phẫu, v.v... thuộc nhóm 90.18."
+    },
+    {
+      "ma": "04-09-13",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9031 sang 9015 khớp sát nội dung câu trích nguồn nhom9031.nhom.",
+      "chungMinh": "Chú ý rằng nhóm này loại trừ thủy chuẩn được dùng chuyên dụng cho các công việc quan trắc (nhóm 90.15)."
+    },
+    {
+      "ma": "04-09-14",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8434 sang 8421 khớp sát nội dung câu trích nguồn nhom8434.nhom.",
+      "chungMinh": "(b) Máy tách kem, máy ép lọc và các loại máy hoặc thiết bị lọc hoặc gạn lọc khác (nhóm 84.21)."
+    },
+    {
+      "ma": "04-09-15",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9503 sang 8421 khớp sát nội dung câu trích nguồn ch95.chuong.",
+      "chungMinh": "… thiết bị lọc hay tinh chế chất lỏng hoặc chất khí (nhóm 84.21)"
+    },
+    {
+      "ma": "04-09-16",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9031 sang 9017 khớp sát nội dung câu trích nguồn nhom9031.nhom.",
+      "chungMinh": "(d) Dụng cụ đo chiều dài, dùng tay (nhóm 90.17)."
+    },
+    {
+      "ma": "04-09-17",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8421 sang 8486 khớp sát nội dung câu trích nguồn nhom8421.nhom.",
+      "chungMinh": "(g) Máy sấy khô bằng phương pháp quay ly tâm để sản xuất tấm bán dẫn (nhóm 84.86)."
+    },
+    {
+      "ma": "04-09-18",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9031 sang 9027 khớp sát nội dung câu trích nguồn nhom9031.nhom.",
+      "chungMinh": "Nhưng nhóm này loại trừ các mặt phẳng quang học chuẩn (nhóm 90.01), và các giao thoa kế dùng để đo các chỉ số khúc xạ (nhóm 90.27)."
+    },
+    {
+      "ma": "04-09-19",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9031 sang 8533 khớp sát nội dung câu trích nguồn nhom9031.nhom.",
+      "chungMinh": "Tuy nhiên, các điện trở được biết như “các dây đo biến dạng” thuộc nhóm 85.33."
+    },
+    {
+      "ma": "04-09-20",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8438 sang 8421 khớp sát nội dung câu trích nguồn nhom8438.nhom.",
+      "chungMinh": "(b) Máy tách ly tâm và máy ép lọc (nhóm 84.21)."
+    },
+    {
+      "ma": "04-09-21",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9031 sang 9011 khớp sát nội dung câu trích nguồn nhom9031.nhom.",
+      "chungMinh": "(b) Kính hiển vi (nhóm 90.11 hoặc 90.12)"
+    },
+    {
+      "ma": "04-09-22",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8435 sang 8421 khớp sát nội dung câu trích nguồn nhom8435.nhom.",
+      "chungMinh": "(b) Máy ép ly tâm, máy ép lọc và máy móc hoặc thiết bị lọc hoặc gạn lọc khác (nhóm 84.21)."
+    },
+    {
+      "ma": "04-09-23",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9031 sang 9012 khớp sát nội dung câu trích nguồn nhom9031.nhom.",
+      "chungMinh": "(b) Kính hiển vi (nhóm 90.11 hoặc 90.12)"
+    },
+    {
+      "ma": "04-09-24",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8437 sang 8421 khớp sát nội dung câu trích nguồn nhom8437.nhom.",
+      "chungMinh": "(b) Máy làm khô ly tâm (nhóm 84.21)."
+    },
+    {
+      "ma": "04-09-25",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9031 sang 9005 khớp sát nội dung câu trích nguồn nhom9031.nhom.",
+      "chungMinh": "(a) Dụng cụ thiên vãn thuộc nhóm 90.05."
+    },
+    {
+      "ma": "04-09-26",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9008 sang 9031 khớp sát nội dung câu trích nguồn nhom9008.nhom.",
+      "chungMinh": "Các máy chiếu biên dạng (nhóm 90.31)."
+    },
+    {
+      "ma": "04-09-27",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8466 sang 9031 khớp sát nội dung câu trích nguồn nhom8466.nhom.",
+      "chungMinh": "(g) Thiết bị đo lường và kiểm tra (nhóm 90.31)."
+    },
+    {
+      "ma": "04-09-28",
+      "ketLuan": "SAI",
+      "vi": "Điều kiện nêu máy phát đinamô/xoay chiều hoàn toàn không khớp câu trích: câu trích loại trừ vệ tinh viễn thông sang nhóm 88.02.",
+      "chungMinh": "Vệ tinh viễn thông (nhóm 88.02)."
+    },
+    {
+      "ma": "04-09-29",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8509 sang 8421 khớp sát nội dung câu trích nguồn nhom8509.nhom.",
+      "chungMinh": "(d) Các máy sấy khô quần áo bằng li tâm (nhóm 84.21)"
+    },
+    {
+      "ma": "04-09-30",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9031 sang 9024 khớp sát nội dung câu trích nguồn nhom9031.nhom.",
+      "chungMinh": "(f) Máy hoặc thiết bị kiểm tra các tính chất cơ của vật liệu (nhóm 90.24)."
+    },
+    {
+      "ma": "04-09-31",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9031 sang 9026 khớp sát nội dung câu trích nguồn nhom9031.nhom.",
+      "chungMinh": "(g) Dụng cụ, thiết bị đo lưu lượng... thuộc nhóm 90.26."
+    },
+    {
+      "ma": "04-09-32",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9031 sang 9015 khớp sát nội dung câu trích nguồn nhom9031.nhom.",
+      "chungMinh": "Tuy nhiên, các công cụ, cũng được gọi là nghiêng kế, dùng để quan trắc độ cao đất liền bị loại trừ (nhóm 90.15)."
+    },
+    {
+      "ma": "04-09-33",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8466 sang 9031 khớp sát nội dung câu trích nguồn nhom8466.nhom.",
+      "chungMinh": "Tuy nhiên, nhóm này không bao gồm các thiết bị mà bản thân chúng chính là các thiết bị quang học , ví dụ kính hiển vi định tâm (nhóm 90.11), kính ngắm sắp thẳng hàng hoặc nằm ngang và thiết bị kiểm tra chiếu hình (nhóm 90.31) v.v.."
+    },
+    {
+      "ma": "04-09-34",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8421 sang 8474 khớp sát nội dung câu trích nguồn nhom8421.nhom.",
+      "chungMinh": "Máy đúc kim loại ly tâm (để đúc các ống đúc) (nhóm 84.54) hoặc cho xi măng chưa đông kết (ví dụ: để đúc các ống bê tông) (nhóm 84.74)."
+    },
+    {
+      "ma": "04-09-35",
+      "ketLuan": "SAI",
+      "vi": "Nhóm đích 8505 không khớp câu trích: câu trích xếp các mặt phẳng quang học chuẩn vào nhóm 90.01 (và giao thoa kế vào 90.27), không phải 85.05.",
+      "chungMinh": "Nhưng nhóm này loại trừ các mặt phẳng quang học chuẩn (nhóm 90.01), và các giao thoa kế dùng để đo các chỉ số khúc xạ (nhóm 90.27)."
+    },
+    {
+      "ma": "04-09-36",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9031 sang 9015 khớp sát nội dung câu trích nguồn nhom9031.nhom.",
+      "chungMinh": "(c) Dụng cụ và thiết bị về quan trắc... thuộc nhóm 90.15."
+    },
+    {
+      "ma": "04-09-37",
+      "ketLuan": "SAI",
+      "vi": "Nhóm đích 9017 không khớp câu trích: câu trích xếp gậy chống, roi vào nhóm 66.02 và bộ phận vào 66.03, không phải 90.17.",
+      "chungMinh": "(h) Gậy chống để đi bộ, roi, roi điều khiển súc vật hoặc các mặt hàng tương tự (nhóm 66.02), hoặc các bộ phận của chúng (nhóm 66.03);"
+    },
+    {
+      "ma": "04-09-38",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9025 sang 9031 khớp sát nội dung câu trích nguồn nhom9025.nhom.",
+      "chungMinh": "Nhóm này không tính các hoả kế, những công cụ loại compa, dùng để đo độ co của một mẫu nghiệm bằng đất sét v.v... lấy ra từ lò gốm trong quá trình nung để xác định đặc tính nung (nhóm 90.17 hoặc 90.31)."
+    },
+    {
+      "ma": "04-09-39",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9031 sang 9001 khớp sát nội dung câu trích nguồn nhom9031.nhom.",
+      "chungMinh": "Nhưng nhóm này loại trừ các mặt phẳng quang học chuẩn (nhóm 90.01), và các giao thoa kế dùng để đo các chỉ số khúc xạ (nhóm 90.27)."
+    },
+    {
+      "ma": "04-09-40",
+      "ketLuan": "SAI",
+      "vi": "Điều kiện nêu áp kế đo áp suất chất lỏng/khí hoàn toàn không khớp câu trích: câu trích loại trừ thiết bị chưng cất và thiết bị ngưng tụ khác sang nhóm 84.19.",
+      "chungMinh": "Thiết bị chưng cất và các thiết bị ngưng tụ khác thuộc nhóm 84.19"
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "khuon": "soat@1",
+  "viec": "04",
+  "lo": 10,
+  "kq": [
+    {
+      "ma": "04-10-01",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8413 sang 8467 khớp sát nội dung câu trích nguồn nhom8413.nhom.",
+      "chungMinh": "Bình bơm dầu và súng phun dầu mỡ hoạt động bằng tay (nhóm 82.05) và súng phun dầu mỡ bằng khí nén (nhóm 84.67)."
+    },
+    {
+      "ma": "04-10-02",
+      "ketLuan": "SAI",
+      "vi": "Nhóm đích 8419 không khớp câu trích: câu trích xếp các máy rửa bát đĩa vào nhóm 84.22, không phải 84.19.",
+      "chungMinh": "(e) Các máy rửa bát đĩa (nhóm 84.22)."
+    },
+    {
+      "ma": "04-10-03",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9401 sang 9019 khớp sát nội dung câu trích nguồn nhom9401.nhom.",
+      "chungMinh": "Ghế quay để thử phản xạ có thể điều chỉnh tốc độ (nhóm 90.19)."
+    },
+    {
+      "ma": "04-10-04",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7318 sang 8309 khớp sát nội dung câu trích nguồn nhom7318.nhom.",
+      "chungMinh": "(b) Nút có ren (nhóm 83.09)."
+    },
+    {
+      "ma": "04-10-05",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8401 sang 8413 khớp sát nội dung câu trích nguồn nhom8401.nhom.",
+      "chungMinh": "Bơm các loại (nhóm 84.13 hoặc 84.14),"
+    },
+    {
+      "ma": "04-10-06",
+      "ketLuan": "RONG",
+      "vi": "Điều kiện bỏ sót phạm vi giới hạn trong câu trích là loại sử dụng trong trạm xăng hoặc trong gara.",
+      "dieuKienMoi": "Bơm để bơm nhiên liệu và dầu bôi trơn, loại sử dụng trong trạm xăng hoặc trong gara",
+      "chungMinh": "Bơm để bơm nhiên liệu và dầu bôi trơn, loại sử dụng trong trạm xăng hoặc trong gara (nhóm 84.13)."
+    },
+    {
+      "ma": "04-10-07",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8413 sang 6909 khớp sát nội dung câu trích nguồn nhom8413.nhom.",
+      "chungMinh": "Bơm (ví dụ: đối với lưu chất ăn mòn) có chất liệu gốm sứ (nhóm 69.09)."
+    },
+    {
+      "ma": "04-10-08",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7318 sang 7317 khớp sát nội dung câu trích nguồn nhom7318.nhom.",
+      "chungMinh": "(a) Đinh vít được mài nhọn với đầu không xẻ rãnh (nhóm 73.17)."
+    },
+    {
+      "ma": "04-10-09",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9401 sang 9503 khớp sát nội dung câu trích nguồn ch94.chuong.",
+      "chungMinh": "Đồ nội thất có tính chất đồ chơi hoặc đèn (luminaires) và bộ đèn đồ chơi (nhóm 95.03)"
+    },
+    {
+      "ma": "04-10-10",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8413 sang 8424 khớp sát nội dung câu trích nguồn nhom8413.nhom.",
+      "chungMinh": "Thiết bị dùng để phun bắn, phun rải hoặc phun áp lực các chất lỏng (nhóm 84.24)."
+    },
+    {
+      "ma": "04-10-11",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8413 sang 8422 khớp sát nội dung câu trích nguồn nhom8413.nhom.",
+      "chungMinh": "Máy rót..., thuộc nhóm 84.22."
+    },
+    {
+      "ma": "04-10-12",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8413 sang 8705 khớp sát nội dung câu trích nguồn nhom8413.nhom.",
+      "chungMinh": "Xe cứu hoả (nhóm 87.05)."
+    },
+    {
+      "ma": "04-10-13",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8435 sang 8413 khớp sát nội dung câu trích nguồn nhom8435.nhom.",
+      "chungMinh": "(b) Bơm các loại rượu vang, nước quả, rượu táo,... kể cả nếu chúng là loại chuyên dùng (nhóm 84.13)."
+    },
+    {
+      "ma": "04-10-14",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8428 sang 8413 khớp sát nội dung câu trích nguồn nhom8428.nhom.",
+      "chungMinh": "(a) Các máy nâng chất lỏng dạng gầu, xích, vít, băng hoặc tương tự (nhóm 84.13)."
+    },
+    {
+      "ma": "04-10-15",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8413 sang 8705 khớp sát nội dung câu trích nguồn nhom8413.nhom.",
+      "chungMinh": "Tuy nhiên, nhóm này không bao gồm các xe chuyên dụng được gắn cố định với bơm bê tông (nhóm 87.05)."
+    },
+    {
+      "ma": "04-10-16",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9401 sang 8714 khớp sát nội dung câu trích nguồn nhom9401.nhom.",
+      "chungMinh": "Các mặt hàng của nhóm 87.14 (ví dụ: yên xe)."
+    },
+    {
+      "ma": "04-10-17",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9401 sang 9404 khớp sát nội dung câu trích nguồn nhom9401.nhom.",
+      "chungMinh": "Các loại đệm, đệm ghế loại dài, có gắn lò xo hoặc bọc hoặc lắp bên trong bằng vật liệu bất kỳ hoặc bằng cao su xốp hoặc plastic xốp, đã hoặc chưa bọc nếu được trình bày riêng thì bị loại trừ (nhóm 94.04)"
+    },
+    {
+      "ma": "04-10-18",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9401 sang 9018 khớp sát nội dung câu trích nguồn ch94.chuong.",
+      "chungMinh": "Ghế nha khoa có gắn kèm các dụng cụ chữa răng thuộc nhóm 90.18 hoặc ống nhổ dùng trong nha khoa (nhóm 90.18)"
+    },
+    {
+      "ma": "04-10-19",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7307 sang 7318 khớp sát nội dung câu trích nguồn nhom7307.nhom.",
+      "chungMinh": "(b) Bulông, đai ốc, đinh vít, ... sử dụng trong lắp ráp phụ kiện của ống hoặc ống dẫn (nhóm 73.18)."
+    },
+    {
+      "ma": "04-10-20",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7318 sang 8308 khớp sát nội dung câu trích nguồn nhom7318.nhom.",
+      "chungMinh": "Nhóm này không bao gồm các loại đinh tán có dạng ống hoặc phân nhánh đôi dùng cho tất cả các mục đích (nhóm 83.08) nhưng những đinh tán mà chỉ rỗng từng phần vẫn được phân loại trong nhóm này."
+    },
+    {
+      "ma": "04-10-21",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8414 sang 8413 khớp sát nội dung câu trích nguồn nhom8414.nhom.",
+      "chungMinh": "Nhóm này không bao gồm): … (b) Bơm nhũ tương (nhóm 84.13)."
+    },
+    {
+      "ma": "04-10-22",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7302 sang 7318 khớp sát nội dung câu trích nguồn nhom7302.nhom.",
+      "chungMinh": "Đinh vít, bu lông, đai ốc, đinh tán và đinh ray được sử dụng để cố định các vật liệu xây dựng đường ray (nhóm 73.17 và 73.18)."
+    },
+    {
+      "ma": "04-10-23",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8708 sang 8413 khớp sát nội dung câu trích nguồn phan87.phan.",
+      "chungMinh": "(e) Bơm, máy nén và quạt (nhóm84.13 hoặc 84.14)."
+    },
+    {
+      "ma": "04-10-24",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9401 sang 6602 khớp sát nội dung câu trích nguồn nhom9401.nhom.",
+      "chungMinh": "Gậy tay cầm có thể chuyển thành ghế (nhóm 66.02)."
+    },
+    {
+      "ma": "04-10-25",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8404 sang 8413 khớp sát nội dung câu trích nguồn nhom8404.nhom.",
+      "chungMinh": "Các loại bơm (kể cả bơm phụt, dùng để tiếp nước cho nồi hơi), quạt gió và các loại máy khác thuộc nhóm 84.13 hoặc 84.14."
+    },
+    {
+      "ma": "04-10-26",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9209 sang 9401 khớp sát nội dung câu trích nguồn nhom9209.nhom.",
+      "chungMinh": "(e) Ghế đẩu để ngồi chơi đàn pianô (nhóm 94.01)"
+    },
+    {
+      "ma": "04-10-27",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8432 sang 8413 khớp sát nội dung câu trích nguồn nhom8432.nhom.",
+      "chungMinh": "(b) Máy đẩy chất lỏng và bơm chất lỏng (bao gồm trục bơm để đặt trên những bánh xe của máy nông nghiệp để phun, hoặc tưới, v.v..) (nhóm 84.13)."
+    },
+    {
+      "ma": "04-10-28",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8424 sang 8413 khớp sát nội dung câu trích nguồn nhom8424.nhom.",
+      "chungMinh": "(b) Bơm cứu hoả có hoặc không gắn bình chứa, nhóm 84.13 (loại không tự hành) hoặc nhóm 87.05 (loại tự hành)."
+    },
+    {
+      "ma": "04-10-29",
+      "ketLuan": "SAI",
+      "vi": "Điều kiện nêu thiết bị điện điều khiển từ xa và lấy nét cho camera truyền hình không khớp câu trích: câu trích loại trừ thiết bị thu truyền hình, màn hình video và máy chiếu video sang nhóm 85.28.",
+      "chungMinh": "(c) Thiết bị thu dùng cho truyền hình (có hoặc không gắn với thiết bị thu sóng đài phát thanh, thiết bị ghi hoặc tái tạo âm thanh hoặc hình ảnh) và các màn hình video và máy chiếu video (nhóm 85.28)."
+    },
+    {
+      "ma": "04-10-30",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9401 sang 9403 khớp sát nội dung câu trích nguồn nhom9401.nhom.",
+      "chungMinh": "Ghế đẩu và ghế để cuối giường (có hoặc không đung đưa được) được thiết kế để đặt chân, xe tập đi trẻ em và hòm đựng quần áo và những hòm tương tự có công dụng phụ như ghế (nhóm 94.03)."
+    },
+    {
+      "ma": "04-10-31",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 6307 sang 9401 khớp sát nội dung câu trích nguồn nhom6307.nhom.",
+      "chungMinh": "Ghế của trẻ sơ sinh loại dùng để mắc vào vật khác (như đặt vào ghế sau của xe ô tô) bị loại trừ ra khỏi nhóm này (thuộc nhóm 94.01)."
+    },
+    {
+      "ma": "04-10-32",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8716 sang 8413 khớp sát nội dung câu trích nguồn nhom8716.nhom.",
+      "chungMinh": "(b) Các máy móc và thiết bị lắp trên một khung đơn giản có bánh xe, được thiết kế để kéo, như các máy bơm hoặc máy nén khí lưu động (nhóm 84.13 hoặc 84.14)"
+    },
+    {
+      "ma": "04-10-33",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8413 sang 8205 khớp sát nội dung câu trích nguồn nhom8413.nhom.",
+      "chungMinh": "Bình bơm dầu và súng phun dầu mỡ hoạt động bằng tay (nhóm 82.05) và súng phun dầu mỡ bằng khí nén (nhóm 84.67)."
+    },
+    {
+      "ma": "04-10-34",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9026 sang 8413 khớp sát nội dung câu trích nguồn ch90.chuong.",
+      "chungMinh": "Chương này không bao gồm: … (g) Bơm có gắn các thiết bị đo lường, thuộc nhóm 84.13;"
+    },
+    {
+      "ma": "04-10-35",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9503 sang 8413 khớp sát nội dung câu trích nguồn ch95.chuong.",
+      "chungMinh": "Chương này không bao gồm: … (m) Bơm chất lỏng (nhóm 84.13)"
+    },
+    {
+      "ma": "04-10-36",
+      "ketLuan": "SAI",
+      "vi": "Nhóm đích 8525 không khớp câu trích: câu trích xếp kim chải vào nhóm 84.48, không phải 85.25.",
+      "chungMinh": "Kim chải (nhóm 84.48)"
+    },
+    {
+      "ma": "04-10-37",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8428 sang 8413 khớp sát nội dung câu trích nguồn nhom8428.nhom.",
+      "chungMinh": "Nhưng nhóm này không bao gồm các máy đẩy chất lỏng của nhóm 84.13"
+    },
+    {
+      "ma": "04-10-38",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7318 sang 9209 khớp sát nội dung câu trích nguồn nhom7318.nhom.",
+      "chungMinh": "(d) Đinh gỗ dùng cho đàn piano và các bộ phận được cắt ren tuông tự của các nhạc cụ (nhóm 92.09)."
+    },
+    {
+      "ma": "04-10-39",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9401 sang 9402 khớp sát nội dung câu trích nguồn nhom9401.nhom.",
+      "chungMinh": "Ghế thuộc nhóm 94.02."
+    },
+    {
+      "ma": "04-10-40",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8708 sang 9401 khớp sát nội dung câu trích nguồn phan87.phan.",
+      "chungMinh": "(12) Ghế ngồi của phương tiện thuộc nhóm 94.01."
+    }
+  ]
+}
