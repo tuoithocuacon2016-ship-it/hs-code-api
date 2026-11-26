@@ -1,0 +1,90 @@
+{
+  "khuon": "soat2ve@1",
+  "lo": 9,
+  "kq": [
+    {
+      "id": "C5:6307>5911:9869fb48ea9c",
+      "ketLuan": "CAN_CU_YEU",
+      "vi": "Chú giải 59.11 không nêu \"Cổ bạt mềm, khớp nối ống gió\" (mục (5) là khớp nối dùng đánh bóng) và loại trừ nhóm 59.08–59.10; câu trích cũ từ Chú giải phân chương cũng không có trong chú giải 63.07.",
+      "trichTotHon": {
+        "nguon": "nhom5911.nhom",
+        "trich": "Tất cả các sản phẩm dệt dùng cho các mục đích kỹ thuật (trừ các sản phẩm thuộc các nhóm từ 59.08 đến 59.10) được phân loại trong nhóm này và không được phân loại ở nơi nào khác trong Phần XI (xem Chú giải 8 (b) của Chương này)"
+      }
+    },
+    {
+      "id": "C5:6913>6914:c4eb16338ffb",
+      "ketLuan": "CAN_CU_YEU",
+      "vi": "Điều kiện rộng hơn chú giải 69.14 vì bỏ sót giới hạn \"không thuộc các nhóm khác của chương này hoặc ở các chương khác\" (chú giải 69.13(B) nêu đồ ăn và đồ dùng gia đình hữu dụng vào 69.11–69.12); trích cũ của 69.13 cũng bị cụt ở \"v.v :\".",
+      "trichTotHon": {
+        "nguon": "nhom6914.nhom",
+        "trich": "Nhóm này gồm toàn bộ các sản phẩm bằng gốm, sứ không thuộc các nhóm khác của chương này hoặc ở các chương khác của Danh mục hàng hoá.… (2) Chậu hoa không trang trí (ví dụ dùng trong làm vườn)… (6) Lọ… trưng bày trong hiệu thuốc, cửa hàng bánh mứt kẹo)."
+      }
+    },
+    {
+      "id": "C5:6913>9403:447ac114d102",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 69.13 không gồm sản phẩm thuộc nhóm mô tả cụ thể hơn, và chú giải 94.03 nêu đích danh tủ bầy hàng, đồ dùng có ngăn (bao gồm cả kệ đơn cố định vào tường); nên thay trích cũ bị cụt bằng trích 94.03.",
+      "chungMinh": "Tuy nhiên, nhóm này không gồm các sản phẩm thuộc các nhóm mô tả cụ thể hơn của Danh mục… Nhóm này bao gồm những đồ nội thất có công dụng chung (ví dụ: tủ, tủ bầy hàng, bàn… giá sách, và những đồ dùng có ngăn khác, (bao gồm cả kệ đơn được trình bày để cố định chúng vào tường), vv..)",
+      "trichTotHon": {
+        "nguon": "nhom9403.nhom",
+        "trich": "Nhóm này bao gồm những đồ nội thất có công dụng chung (ví dụ: tủ, tủ bầy hàng, bàn, bàn điện thoại, bàn giấy, bàn viết có ngăn kéo, giá sách, và những đồ dùng có ngăn khác, (bao gồm cả kệ đơn được trình bày để cố định chúng vào tường), vv..)"
+      }
+    },
+    {
+      "id": "C5:6914>6913:e1b362641cdc",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 69.14 chỉ gồm sản phẩm gốm sứ không thuộc nhóm khác, còn chú giải 69.13 bao gồm sản phẩm gốm sứ thiết kế chủ yếu để trang trí và các sản phẩm chỉ dùng để đỡ/chứa sản phẩm trang trí khác; trích cũ của 69.14 bị cụt sau \"không bao gồm:\".",
+      "chungMinh": "Nhóm này gồm toàn bộ các sản phẩm bằng gốm, sứ không thuộc các nhóm khác của chương này… Nhóm này bao gồm các loại sản phẩm bằng gốm, sứ được thiết kế chủ yếu để trang trí… và các sản phẩm chỉ được dùng để đỡ hoặc chứa các sản phẩm trang trí khác hoặc để tăng thêm hiệu quả trang trí",
+      "trichTotHon": {
+        "nguon": "nhom6913.nhom",
+        "trich": "Nhóm này bao gồm các loại sản phẩm bằng gốm, sứ được thiết kế chủ yếu để trang trí nội thất… (A) Các sản phẩm… hoàn toàn là các sản phẩm trang trí, và các sản phẩm chỉ được dùng để đỡ hoặc chứa các sản phẩm trang trí khác hoặc để tăng thêm hiệu quả trang trí"
+      }
+    },
+    {
+      "id": "C5:7007>3919:90ea229891d1",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 70.07 nêu nhựa dùng thay thế kính an toàn phân loại vào Chương 39, và chú giải 39.19 bao gồm tất cả sản phẩm hình dạng phẳng tự dính nhạy cảm với áp suất bằng plastic.",
+      "chungMinh": "Nhựa được sử dụng thay thế cho kính an toàn sẽ được phân loại tùy theo vật liệu cấu thành (Chương 39).… Nhóm này bao gồm tất cả các sản phẩm hình dạng phẳng tự dính bằng plastic… Tuy nhiên, nhóm này giới hạn đối với các sản phẩm hình dạng phẳng nhạy cảm với áp suất"
+    },
+    {
+      "id": "C5:7019>8201:4290ea12d061",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 82.01 quy định đích danh dụng cụ cầm tay dùng trong nông nghiệp, làm vườn, lâm nghiệp gồm cả dụng cụ thu hoạch hoa quả dù có gắn tay cầm hay không; nên thay trích cũ của 70.19 bằng trích 82.01.",
+      "chungMinh": "Nhóm này bao gồm dụng cụ cầm tay chủ yếu sử dụng trong nông nghiệp làm vườn hoặc lâm nghiệp… (7) Các dụng cụ gia công bằng tay khác thuộc loại được sử dụng trong nông nghiệp, nghề làm vườn và lâm nghiệp. Những dụng cụ này bao gồm… thu hoạch hoa quả… Tất cả những dụng cụ trên nằm trong nhóm này cho dù chúng có gắn tay cầm hoặc không",
+      "trichTotHon": {
+        "nguon": "nhom8201.nhom",
+        "trich": "(7) Các dụng cụ gia công bằng tay khác thuộc loại được sử dụng trong nông nghiệp, nghề làm vườn và lâm nghiệp. Những dụng cụ này bao gồm… thu hoạch hoa quả… Tất cả những dụng cụ trên nằm trong nhóm này cho dù chúng có gắn tay cầm hoặc không"
+      }
+    },
+    {
+      "id": "C5:7304>8421:53b3d92a123a",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 73.04 mục (f) loại trừ ống đã làm thành bộ phận máy móc đặc thù sang Phần XVI, và chú giải 84.21 phần BỘ PHẬN bao gồm bộ phận của thiết bị lọc hoặc thiết bị tinh chế.",
+      "chungMinh": "(f) Các ống, ống dẫn và các thanh dạng rỗng được làm thành những sản phẩm đặc thù có thể nhận dạng… các bộ phận máy móc khác (Phần XVI)… BỘ PHẬN Theo các quy tắc chung về phân loại các bộ phận (xem phần Chú giải tổng quát của Phần XVI), nhóm này cũng bao gồm bộ phận của các thiết bị lọc hoặc thiết bị tinh chế được nêu ở trên."
+    },
+    {
+      "id": "C5:7323>8210:6c0277b68b8c",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 73.23 mục (d) loại trừ máy chiết nước trái cây sang Chương 82, và chú giải 82.10 bao gồm công cụ cơ khí không dùng điện nặng không quá 10 kg dùng chế biến đồ ăn/uống (kể cả máy ép hoa quả).",
+      "chungMinh": "(d) Các đồ gia dụng có đặc tính của các dụng cụ… máy chiết nước trái cây, máy ép rau, máy nghiền rau (Chương 82).… Nhóm này bao gồm các cộng cụ cơ khí không dùng điện, nói chung là đồ dùng cầm tay nặng không quá 10 kg dùng để chế biến, pha chế hoặc phục vụ việc làm đồ ăn hoặc đồ uống.… máy ép hoa quả và thịt"
+    },
+    {
+      "id": "C5:7604>8419:90a18bced9a0",
+      "ketLuan": "CAN_CU_YEU",
+      "vi": "Điều kiện quá rộng khi gộp mọi \"Bộ tản nhiệt, thiết bị trao đổi nhiệt hoặc làm mát cơ khí thuộc Phần XVI\" vào 84.19 (trong khi 84.19(B) chỉ mô tả bộ trao đổi nhiệt giữa lưu chất nóng/lạnh và loại trừ 84.04); trích cũ cũng không nằm trong chú giải 76.04.",
+      "trichTotHon": {
+        "nguon": "nhom8419.nhom",
+        "trich": "(B) Bộ trao đổi nhiệt trong đó lưu chất nóng (khí nóng, hơi nước hoặc chất lỏng nóng) và lưu chất lạnh được đẩy qua các dòng song song, nhưng thường ngược chiều nhau, được tách biệt bởi vách kim loại mỏng theo cách một lưu chất được làm lạnh và lưu chất kia được làm nóng."
+      }
+    },
+    {
+      "id": "C5:7604>8708:46595698ca7b",
+      "ketLuan": "CAN_CU_YEU",
+      "vi": "Chú giải 87.08 trong gói không nêu mục bộ tản nhiệt (két nước làm mát) mà chỉ nêu \"các nắp của bộ tản nhiệt\" ở mục (B), đồng thời đòi hỏi cả hai điều kiện (i) và (ii) mà điều kiện bỏ sót; trích cũ cũng ngoài chú giải 76.04.",
+      "trichTotHon": {
+        "nguon": "nhom8708.nhom",
+        "trich": "Nhóm này bao gồm toàn bộ các phụ tùng và bộ phận phụ trợ của xe cơ giới từ nhóm 87.01 đến 87.05, với điều kiện là chúng phải đáp ứng cả hai điều kiện sau đây: (i) Chúng phải được xác định là bộ phận phù hợp để sử dụng duy nhất và chủ yếu… và (ii) Chúng phải không bị loại trừ"
+      }
+    }
+  ]
+}

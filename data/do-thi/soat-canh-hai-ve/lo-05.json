@@ -1,0 +1,85 @@
+{
+  "khuon": "soat2ve@1",
+  "lo": 5,
+  "kq": [
+    {
+      "id": "C5:5903>6116:439557da339b",
+      "ketLuan": "SAI",
+      "vi": "Chú giải nhóm đích 61.16 nói ngược lại khi loại trừ đích danh mục (d) \"“Găng tay” cọ xát dùng để xoa bóp hoặc dùng cho vệ sinh (nhóm 63.02)\" và mục (c) găng tay dệt không dệt kim/móc (62.16), trái với điều kiện ghi \"Găng tay vệ sinh, ... găng tay may sẵn đã hoàn thiện\".",
+      "trichTotHon": {
+        "nguon": "nhom6116.nhom",
+        "trich": "Nhóm này không bao gồm:… (c) Găng tay, găng tay hở ngón và găng tay bao dệt, không được dệt kim hoặc móc (nhóm 62.16). (d) “Găng tay” cọ xát dùng để xoa bóp hoặc dùng cho vệ sinh (nhóm 63.02)."
+      }
+    },
+    {
+      "id": "C5:5903>6302:55a78549ff36",
+      "ketLuan": "CAN_CU_YEU",
+      "vi": "Điều kiện rộng hơn chú giải 63.02 vì gộp chung \"khăn lau\", trong khi chú giải 63.02 mục (4) loại trừ đích danh khăn lau sàn nhà, khăn lau đĩa, khăn lau chùi sạch, khăn lau bụi sang nhóm 63.07.",
+      "trichTotHon": {
+        "nguon": "nhom6302.nhom",
+        "trich": "(3) Khăn phòng vệ sinh, như khăn tay hoặc khăn mặt… khăn tắm, khăn tắm biển, khăn mặt và găng tay vệ sinh. (4) … Các mặt hàng như: khăn lau sàn nhà, khăn lau đĩa, khăn lau chùi sạch, khăn lau bụi và khăn lau chùi tương tự… được loại ra khỏi nhóm này (nhóm 63.07)"
+      }
+    },
+    {
+      "id": "C5:5907>5903:f93236cb0380",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 59.07 loại trừ các sản phẩm thuộc nhóm 59.01 đến 59.06 và chú giải 59.03 bao gồm vải dệt đã ngâm tẩm, phủ, tráng hoặc ép với plastic; trích hiện có của 59.07 bị cụt sau dấu hai chấm nên cần thay bằng câu mở đầu 59.07.",
+      "chungMinh": "Nhóm này gồm vải dệt (không kể các sản phẩm thuộc nhóm từ 59.01 đến 59.06)… Nhóm này bao gồm các loại vải dệt đã được ngâm tẩm, phủ, tráng hoặc ép với plastic (ví dụ như poly (vinyl chloride )).",
+      "trichTotHon": {
+        "nguon": "nhom5907.nhom",
+        "trich": "Nhóm này gồm vải dệt (không kể các sản phẩm thuộc nhóm từ 59.01 đến 59.06), đã được ngâm tẩm, phủ hoặc tráng, với điều kiện việc ngâm tẩm, phủ, tráng có thể nhìn thấy bằng mắt thường"
+      }
+    },
+    {
+      "id": "C5:5907>5909:9b92f403478d",
+      "ketLuan": "CAN_CU_YEU",
+      "vi": "Chú giải 59.09 chỉ nêu ống mềm làm bằng vật liệu dệt để dẫn chất lỏng (như ống chữa cháy), không có câu chữ nào trong gói chứng minh \"Cổ bạt mềm, khớp nối ống gió\" thuộc nhóm 59.09.",
+      "trichTotHon": {
+        "nguon": "nhom5909.nhom",
+        "trich": "Nhóm này bao gồm ống mềm, ví dụ ống chữa cháy và các loại ống dẫn tương tự làm bằng vật liệu dệt để dẫn chất lỏng."
+      }
+    },
+    {
+      "id": "C5:5907>5911:1b77d315aa82",
+      "ketLuan": "CAN_CU_YEU",
+      "vi": "Trích hiện có bị cụt sau dấu hai chấm; chú giải 59.11 không nêu \"cổ bạt mềm, khớp nối ống gió\" (mục (5) là đĩa/khớp nối/tấm cho máy đánh bóng) và điều kiện cũng bỏ sót loại trừ các nhóm 59.08–59.10 cùng phụ tùng Phần XVII.",
+      "trichTotHon": {
+        "nguon": "nhom5911.nhom",
+        "trich": "Tất cả các sản phẩm dệt dùng cho các mục đích kỹ thuật (trừ các sản phẩm thuộc các nhóm từ 59.08 đến 59.10) được phân loại trong nhóm này và không được phân loại ở nơi nào khác trong Phần XI (xem Chú giải 8 (b) của Chương này)"
+      }
+    },
+    {
+      "id": "C5:5907>6005:65944df40083",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 59.07 loại trừ vải có lớp ngâm tẩm/phủ/tráng không thấy bằng mắt thường sang các Chương 50–55, 58 hoặc 60, và chú giải 60.05 bao gồm vải dệt kim sợi dọc khổ rộng trên 30 cm chứa dưới 5% sợi đàn hồi/cao su.",
+      "chungMinh": "Vải dệt, trong đó việc ngâm tẩm, phủ hoặc tráng không thể nhìn thấy hoặc có thể nhìn thấy là do có sự thay đổi màu sắc… bị loại ra khỏi nhóm này… thường được phân loại vào các Chương từ 50 đến 55, 58 hoặc 60.… nhóm này bao gồm vải dệt kim sợi dọc có khổ rộng trên 30 cm, không chứa sợi đàn hồi (elastomeric) hoặc sợi cao su hoặc có tỷ trọng sợi đàn hồi (elastomeric) hoặc sợi cao su dưới 5%."
+    },
+    {
+      "id": "C5:5907>6307:d5fb3e880d30",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 59.07 mục (d) loại trừ vải đã hoàn thiện (may sẵn) và chú giải 63.07 bao gồm các mặt hàng may sẵn từ bất cứ vật liệu dệt nào chưa được đề cập chi tiết hơn ở nhóm khác của Phần XI.",
+      "chungMinh": "(d) Vải đã được ngâm tẩm, phủ, tráng đã hoàn thiện như đã mô tả tại Phần (II) của Chú giải tổng quát Phần XI.… Nhóm này bao gồm các mặt hàng may sẵn làm từ bất cứ vật liệu dệt nào, không được đề cập một cách chi tiết hơn ở trong nhóm khác của phần XI hoặc ở nơi khác trong Danh mục."
+    },
+    {
+      "id": "C5:5909>3917:c8ebdf0832ad",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 59.09 chỉ bao gồm ống mềm làm bằng vật liệu dệt để dẫn chất lỏng, còn chú giải 39.17 bao gồm ống, ống dẫn và ống vòi rỗng bằng plastic dùng vận chuyển, dẫn hoặc phân phối khí hoặc chất lỏng.",
+      "chungMinh": "Nhóm này bao gồm ống mềm, ví dụ ống chữa cháy và các loại ống dẫn tương tự làm bằng vật liệu dệt để dẫn chất lỏng.… (i) các sản phẩm rỗng, bán thành phẩm hoặc thành phẩm, loại được sử dụng phổ biến cho việc vận chuyển, dẫn hoặc phân phối các chất khí hoặc lỏng"
+    },
+    {
+      "id": "C5:5909>5907:abdd7cb10c75",
+      "ketLuan": "CAN_CU_YEU",
+      "vi": "Điều kiện bỏ sót hai giới hạn cốt lõi trong chú giải 59.07 là \"không kể các sản phẩm thuộc nhóm từ 59.01 đến 59.06\" (như vải phủ plastic 59.03 hay cao su 59.06) và \"có thể nhìn thấy bằng mắt thường\", nên rộng hơn chú giải nhóm đích.",
+      "trichTotHon": {
+        "nguon": "nhom5907.nhom",
+        "trich": "Nhóm này gồm vải dệt (không kể các sản phẩm thuộc nhóm từ 59.01 đến 59.06), đã được ngâm tẩm, phủ hoặc tráng, với điều kiện việc ngâm tẩm, phủ, tráng có thể nhìn thấy bằng mắt thường"
+      }
+    },
+    {
+      "id": "C5:5909>6307:50cdc968dc4e",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 59.09 giới hạn ở ống mềm bằng vật liệu dệt để dẫn chất lỏng, còn chú giải 63.07 bao gồm các mặt hàng may sẵn đã hoàn thiện từ vật liệu dệt không được đề cập chi tiết hơn ở nhóm khác của Phần XI.",
+      "chungMinh": "Nhóm này bao gồm các mặt hàng may sẵn làm từ bất cứ vật liệu dệt nào, không được đề cập một cách chi tiết hơn ở trong nhóm khác của phần XI hoặc ở nơi khác trong Danh mục."
+    }
+  ]
+}
