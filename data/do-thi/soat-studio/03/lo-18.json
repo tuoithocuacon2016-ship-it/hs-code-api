@@ -1,0 +1,103 @@
+{
+  "khuon": "soat@1",
+  "viec": "03",
+  "lo": 18,
+  "kq": [
+    {
+      "ma": "03-18-01",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 84.30 bao gồm dàn khoan cố định ngoài biển và loại trừ dàn khoan nổi hoặc ngầm sang nhóm 89.05, hai vế đúng chiều.",
+      "chungMinh": "Dàn khoan cố định được sử dụng để tìm kiếm hoặc khai thác dầu hoặc khí tự nhiên ngoài biển cũng được phân loại ở đây."
+    },
+    {
+      "ma": "03-18-02",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 84.55 loại trừ máy uốn, gấp, làm thẳng, làm phẳng kim loại sang nhóm 84.62, giữ lại máy cán tạo hình qua trục cán.",
+      "chungMinh": "máy uốn, gấp, làm thẳng hoặc máy làm phẳng (nhóm 84.62) không được coi như là máy cán"
+    },
+    {
+      "ma": "03-18-03",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 84.55 loại trừ máy cán ép vật liệu khác ngoài kim loại sang nhóm 84.20, hai vế chính xác.",
+      "chungMinh": "Các máy tương tự dùng để cán các vật liệu khác kim loại, ví dụ máy cán ép bị loại trừ (nhóm 84.20)."
+    },
+    {
+      "ma": "03-18-04",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 84.30 phân tách máy thi công liền khối cơ khí (84.30) với máy lắp trên khung xe ô tô tải có động cơ đẩy (87.05).",
+      "chungMinh": "Một số loại máy thuộc nhóm này (ví dụ: máy đóng cọc và nhổ cọc, máy khoan dầu...) thường được lắp ráp trên một khung của xe ô tô tải"
+    },
+    {
+      "ma": "03-18-05",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 84.87 loại trừ bộ phận chỉ dùng/chủ yếu dùng cho máy cụ thể (như máy 84.44–84.47 thuộc 84.48), giữ lại phụ tùng dùng chung.",
+      "chungMinh": "Nhóm này bao gồm tất cả các bộ phận của máy móc không hoạt động bằng điện, ngoại trừ: (a) Các máy được thiết kế để chỉ dùng hoặc chủ yếu"
+    },
+    {
+      "ma": "03-18-06",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 84.48 loại trừ trực tiếp máy bơm dùng trong ép đùn sợi nhân tạo sang nhóm 84.13, hai vế đúng chiều.",
+      "chungMinh": "(a) Máy bơm được sử dụng trong ép đùn sợi nhân tạo (nhóm 84.13)."
+    },
+    {
+      "ma": "03-18-07",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 84.30 loại trừ dụng cụ cầm tay làm việc bằng tay, khí nén, thủy lực hoặc có động cơ gắn chung sang nhóm 84.67.",
+      "chungMinh": "Nhưng nhóm này loại trừ các dụng cụ như vậy làm việc bằng tay, khí nén, thủy lực hoặc có động cơ gắn chung (nhóm 84.67)."
+    },
+    {
+      "ma": "03-18-08",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 84.48 loại trừ go và bộ dây đai bằng sợi dệt hoặc dây dệt sang nhóm 59.11, giữ lại go kim loại.",
+      "chungMinh": "Nhóm này không bao gồm go và bộ dây đai của sợi dệt hoặc dây dệt (nhóm 59.11)."
+    },
+    {
+      "ma": "03-18-09",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 84.48 loại trừ phương tiện ghi dùng điều khiển Jacquard sang nhóm 85.23, giữ lại bìa đục lỗ cơ học dùng kèm máy Jacquard.",
+      "chungMinh": "(d) Phương tiện ghi dùng để điều khiển Jacquard hoặc các máy tương tự (nhóm 85.23)."
+    },
+    {
+      "ma": "03-18-10",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 84.30 phân định rõ công cụ làm việc tạo thành máy hoàn chỉnh (84.30) với bộ phận rời dùng cho máy nhóm 84.30 (84.31).",
+      "chungMinh": "các công cụ làm việc vẫn thuộc nhóm này với điều kiện chúng tạo thành máy của nhóm này, hoặc thuộc nhóm 84.31 nếu chúng là bộ phận"
+    },
+    {
+      "ma": "03-18-11",
+      "ketLuan": "BO",
+      "vi": "Đảo ngược hoàn toàn hai vế: đầu mũi khoan, mài dùng trong nha khoa bị loại trừ khỏi 68.04 sang nhóm 90.18, còn mũi mài dùng trên dụng cụ cơ khí/cầm tay thuộc nhóm 68.04.",
+      "chungMinh": "(c) Đầu mũi khoan, mài dùng trong nha khoa (nhóm 90.18)."
+    },
+    {
+      "ma": "03-18-12",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 85.08 mô tả máy hút bụi hút vật liệu và lọc không khí, phân tách hoàn toàn với máy cán kim loại thuộc 84.55.",
+      "chungMinh": "Máy hút bụi thực hiện 2 chức năng chính: hút các vật liệu, bao gồm cả bụi bẩn, và lọc luồng không khí."
+    },
+    {
+      "ma": "03-18-13",
+      "ketLuan": "BO",
+      "vi": "Đảo ngược hoàn toàn hai vế: đệm và gioăng bằng tấm kim loại kết hợp vật liệu khác hoặc bộ đệm thuộc nhóm 84.84, còn phụ tùng xe cơ giới khác không phải đệm/gioăng thuộc nhóm 87.08.",
+      "chungMinh": "(A) ĐỆM VÀ GIOĂNG TƯƠNG TỰ LÀM BẰNG TẤM KIM LOẠI MỎNG KẾT HỢP VỚI CÁC VẬT LIỆU KHÁC HOẶC BẰNG HAI HOẶC NHIỀU LỚP KIM LOẠI"
+    },
+    {
+      "ma": "03-18-14",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 84.48 loại trừ máy tết hoặc máy xoắn sợi chuẩn bị xơ sợi dệt sang nhóm 84.45, hai vế đúng chiều.",
+      "chungMinh": "Nhóm này không bao gồm máy tết hoặc máy xoắn sợi thuộc nhóm 84.45."
+    },
+    {
+      "ma": "03-18-15",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 84.30 loại trừ các loại máy nông nghiệp, làm vườn hoặc lâm nghiệp sang nhóm 84.32, giữ lại máy khai phá đất công trình.",
+      "chungMinh": "Ngoại trừ các loại máy tự hành thuộc nhóm 84.29 và các loại máy nông nghiệp, làm vườn hoặc lâm nghiệp (nhóm 84.32)"
+    },
+    {
+      "ma": "03-18-16",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 84.48 loại trừ kim thuộc loại sử dụng trên máy khâu sang nhóm 84.52, giữ lại kim máy dệt kim/thêu/tuyn.",
+      "chungMinh": "(c) Kim thuộc loại được sử dụng trên máy khâu (nhóm 84.52)."
+    }
+  ]
+}

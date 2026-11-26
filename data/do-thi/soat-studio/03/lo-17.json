@@ -1,0 +1,103 @@
+{
+  "khuon": "soat@1",
+  "viec": "03",
+  "lo": 17,
+  "kq": [
+    {
+      "ma": "03-17-01",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 84.15 loại trừ thiết bị chỉ làm nóng bằng điện không thay đổi độ ẩm sang nhóm 85.16, hai vế đúng chiều.",
+      "chungMinh": "(c) Các loại thiết bị, cho dù có gắn một quạt gió chạy bằng động cơ, chỉ có chức năng duy nhất là thay đổi hoặc nhiệt độ hoặc độ ẩm"
+    },
+    {
+      "ma": "03-17-02",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 84.17 chỉ gồm lò công nghiệp/phòng thí nghiệm không dùng điện, tách khỏi lò dùng năng lượng điện thuộc nhóm 85.14.",
+      "chungMinh": "Nhóm này bao gồm các lò nung và lò luyện dùng trong công nghiệp hoặc trong phòng thí nghiệm không dùng điện"
+    },
+    {
+      "ma": "03-17-03",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 84.17 loại trừ trực tiếp lò chuyển sang nhóm 84.54, hai vế chuẩn xác.",
+      "chungMinh": "(c) Lò chuyển (nhóm 84.54)."
+    },
+    {
+      "ma": "03-17-04",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 84.17 quy định thiết bị nâng/xử lý là phần hợp thành không tách rời thì đi theo lò 84.17, còn tách rời độc lập thuộc 84.28.",
+      "chungMinh": "Các thiết bị nâng hoặc xử lý này sẽ được phân loại theo lò nếu chúng là một phần hợp thành không tách rời của lò"
+    },
+    {
+      "ma": "03-17-05",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 84.16 loại trừ thanh đốt và ghi lò tĩnh không phải cơ khí (như loại cho lò sưởi trung tâm nhóm 73.22), hai vế đúng chiều.",
+      "chungMinh": "Nhóm này không bao gồm các thanh đốt và ghi lò không thuộc dạng cơ khí, sử dụng trong công nghiệp hoặc các ngành khác."
+    },
+    {
+      "ma": "03-17-06",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 84.16 bao gồm bộ nạp nhiên liệu cơ khí cho nồi hơi sưởi trung tâm, tách biệt với bản thân nồi hơi nước sưởi trung tâm 84.03.",
+      "chungMinh": "Nhóm này bao gồm các bộ nạp nhiên liệu cơ khí dùng trong nồi hơi sưởi trung tâm (kể cả loại dùng trong gia đình)."
+    },
+    {
+      "ma": "03-17-07",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 84.17 bao gồm lò xử lý nhiệt vật liệu phân hạch phục hồi bằng đốt nhiên liệu, khác với lò phản ứng hạt nhân nhóm 84.01.",
+      "chungMinh": "(11) Lò được thiết kế đặc biệt để nung chảy, nung kết hoặc xử lý nhiệt đối với vật liệu phân hạch được phục hồi"
+    },
+    {
+      "ma": "03-17-08",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 84.16 gồm đầu đốt và thiết bị cấp nhiên liệu cơ khí độc lập, tách với buồng đốt/ghi lò cố định lắp liền nồi hơi 84.02.",
+      "chungMinh": "Nhóm này bao gồm một loạt các thiết bị dùng cho việc đốt và cấp nhiên liệu cơ khí hoặc tự động cho lò nung các loại"
+    },
+    {
+      "ma": "03-17-09",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 84.16 loại trừ thanh đốt và ghi lò tĩnh thông dụng không thuộc dạng cơ khí sang nhóm 73.26, hai vế đúng chiều.",
+      "chungMinh": "Nhóm này không bao gồm các thanh đốt và ghi lò không thuộc dạng cơ khí, sử dụng trong công nghiệp hoặc các ngành khác."
+    },
+    {
+      "ma": "03-17-10",
+      "ketLuan": "BO",
+      "vi": "Đảo ngược hoàn toàn hai vế: dải bện từ sợi monofilament mặt cắt ngang trên 1 mm hoặc dải plastic rộng trên 5 mm thuộc nhóm 46.01 (vật liệu tết bện), còn kích thước nhỏ hơn thuộc nhóm 58.08.",
+      "chungMinh": "Dải bện làm từ sợi monofilament có diện tích mặt cắt ngang trên 1 mm hoặc làm từ dải và các dạng tương tự độ rộng trên 5mm bằng plastic"
+    },
+    {
+      "ma": "03-17-11",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 84.16 cho phép băng tải than tích hợp cùng đầu đốt/máy nạp nhiên liệu vào lò, tách với băng tải xếp dỡ độc lập thuộc 84.28.",
+      "chungMinh": "Loại đầu đốt này đôi khi còn bao gồm một băng tải than và bộ phận nghiền."
+    },
+    {
+      "ma": "03-17-12",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 84.17 loại trừ lò không dùng trong công nghiệp hoặc phòng thí nghiệm (dùng gia đình) sang nhóm 73.21.",
+      "chungMinh": "(a) Lò không dùng trong công nghiệp hoặc trong phòng thí nghiệm (nhóm 73.21)."
+    },
+    {
+      "ma": "03-17-13",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 84.17 loại trừ trực tiếp máy lọc dầu, lò hấp, lò hơi nước và lò sấy thuộc nhóm 84.19, hai vế đúng chiều.",
+      "chungMinh": "(b) Các thiết bị thuộc nhóm 84.19, kể cả máy lọc dầu, lò hấp, lò hơi nước và lò sấy."
+    },
+    {
+      "ma": "03-17-14",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 84.16 gồm ghi lò cơ khí có chuyển động phân phát nhiên liệu, khác với thanh đốt/ghi lò tĩnh dùng bếp sưởi gia dụng 73.21.",
+      "chungMinh": "Đây là các thiết bị có thiết kế khác nhau, đảm nhận phân phát than lên bệ đốt và di chuyển thẳng qua lò"
+    },
+    {
+      "ma": "03-17-15",
+      "ketLuan": "BO",
+      "vi": "Đảo ngược hoàn toàn hai vế: máy dùng để ép, kết tụ hoặc ngâm tẩm gỗ bị loại trừ khỏi 84.65 sang nhóm 84.79, còn máy công cụ tạo hình/gia công bề mặt gỗ thuộc nhóm 84.65.",
+      "chungMinh": "những máy dùng để ép, kết tụ hoặc ngâm tẩm gỗ (nhóm 84.79)"
+    },
+    {
+      "ma": "03-17-16",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 84.30 áp dụng cho xe lu lăn đường thiết kế đẩy/kéo không tự hành, còn loại tự hành thuộc nhóm 84.29.",
+      "chungMinh": "Xe lu lăn đường, được thiết kế để đẩy hoặc kéo"
+    }
+  ]
+}
