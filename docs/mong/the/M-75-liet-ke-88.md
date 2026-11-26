@@ -1,9 +1,9 @@
 # M-75 — Vấn đề chỉ liệt kê được — Chương 88
 
 ## Tổng quan
-- Tổng số bản ghi: **32** (**15** `CHI_LIET_KE`, **17** `BO_QUA`).
+- Tổng số bản ghi: **34** (**15** `CHI_LIET_KE`, **19** `BO_QUA`).
 - Tỷ lệ phủ câu kích hoạt (ngoài `phan:XVII` đã xử lý tại `XVII.jsonl`): **100%**.
-- Số câu `LUAT` rà soát mở rộng (Luật 4): đã kiểm toàn bộ 5 câu `LUAT` trúng mở rộng trong Chương 88; bổ sung trực tiếp `bieu:8804#1`, `bieu:88062#1`, `bieu:880730#1` vào `CHI_LIET_KE`.
+- Số câu `LUAT` rà soát mở rộng `/dùng|sử dụng|phù hợp|thích hợp|bộ phận|chưa lắp ráp|chưa hoàn chỉnh|chưa hoàn thiện|đặc trưng cơ bản|ở dạng bộ/i` (Luật 4): **13/13** câu `LUAT` đã được xét và ghi đủ vào `88.jsonl` (bổ sung `bieu:8801#1` và `chuong:88:cg:1#2` đánh `BO_QUA`).
 
 ## Kiểm tra luật M-75
 - Luật 1: Các mục liệt kê minh hoạ và mô tả ứng dụng thông thường (`8804:ct:1#2`, `8805:ct:3#1`, `8807:ct:7#1`, `8807:ct:15#1`) đánh `BO_QUA`; giữ `CHI_LIET_KE` cho điều kiện công dụng/bộ phận luật định (`88.04–88.07`, `8806.2`, `8802:ct:4#1`, `8805:ct:18#1`, `8807:ct:2#1`, `kq:3#1`).
