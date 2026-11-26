@@ -1,0 +1,247 @@
+{
+  "khuon": "soat@1",
+  "viec": "04",
+  "lo": 2,
+  "kq": [
+    {
+      "ma": "04-02-01",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8481 sang 7017 khớp sát nội dung câu trích nguồn nhom8481.nhom.",
+      "chungMinh": "Vòi, khoá vòi, van và những thiết bị tương tự được làm bằng … hoặc bằng thuỷ tinh (nhóm 70.17 hoặc 70.20)."
+    },
+    {
+      "ma": "04-02-02",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8714 sang 8481 khớp sát nội dung câu trích nguồn phan87.phan.",
+      "chungMinh": "các mặt hàng thuộc nhóm 84.81 hoặc 84.82 hoặc, các mặt hàng thuộc nhóm 84.83 với điều kiện là chúng cấu thành các bộ phận bên trong của động cơ hay mô tơ"
+    },
+    {
+      "ma": "04-02-03",
+      "ketLuan": "SAI",
+      "vi": "Điều kiện sai hoàn toàn so với câu trích: điều kiện nêu bơm khí và máy thổi ly tâm trong khi câu trích loại trừ cơ cấu lau kính chắn gió xe ô tô sang 84.79.",
+      "chungMinh": "(l) Cơ cấu lau kính chắn gió xe ô tô thuộc nhóm 84.79."
+    },
+    {
+      "ma": "04-02-04",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8481 sang 7020 khớp sát nội dung câu trích nguồn nhom8481.nhom.",
+      "chungMinh": "Vòi, khoá vòi, van và những thiết bị tương tự được làm bằng … hoặc bằng thuỷ tinh (nhóm 70.17 hoặc 70.20)."
+    },
+    {
+      "ma": "04-02-05",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8547 sang 8536 khớp sát nội dung câu trích nguồn nhom8547.nhom.",
+      "chungMinh": "Các khớp nối chữ T, chữ thập, v.v..., gắn với các đầu nối điện bị loại trừ (nhóm 85.35 hoặc 85.36)."
+    },
+    {
+      "ma": "04-02-06",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8424 sang 8481 khớp sát nội dung câu trích nguồn nhom8424.nhom.",
+      "chungMinh": "(b) Các béc phun (Phần XV hoặc nhóm 84.81 nếu chúng được gắn với van, vòi các loại hoặc các thiết bị khác dùng để điều chỉnh dòng chất lỏng."
+    },
+    {
+      "ma": "04-02-07",
+      "ketLuan": "SAI",
+      "vi": "Câu trích chỉ định nghĩa mô-đun LED, không nêu quy tắc loại trừ cảm biến chuyển động dạng mô-đun đóng ngắt từ nhóm 85.42 sang 85.36.",
+      "chungMinh": "(a) “Mô-đun đi-ốt phát quang (LED)” là nguồn sáng điện dựa trên các đi-ốt phát quang (LED) được bố trí trong các mạch điện và chứa thêm các phần tử như phần tử điện, cơ, nhiệt hoặc quang học. Chúng cũng chứa các phần tử chủ động riêng biệt, phần tử thụ động riêng biệt, hoặc các sản phẩm thuộc nhóm 85.36 hoặc 85.42 nhằm mục đích cung cấp nguồn điện hoặc điều khiển nguồn điện. Mô-đun đi-ốt phát quang (LED) không có đầu đèn được thiết kế để cho phép dễ dàng lắp đặt hoặc thay thế trong đèn điện và đảm bảo tiếp xúc cơ và điện."
+    },
+    {
+      "ma": "04-02-08",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7609 sang 8481 khớp sát nội dung câu trích nguồn nhom7609.nhom.",
+      "chungMinh": "Các khớp nối với vòi, van... (nhóm 84.81)."
+    },
+    {
+      "ma": "04-02-09",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8481 sang 8434 khớp sát nội dung câu trích nguồn nhom8481.nhom.",
+      "chungMinh": "được phân loại như những bộ phận của những máy liên quan … máy kích thích dùng cho máy vắt sữa (nhóm 84.34)"
+    },
+    {
+      "ma": "04-02-10",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7507 sang 8481 khớp sát nội dung câu trích nguồn nhom7507.nhom.",
+      "chungMinh": "Phụ kiện để ghép nối với vòi, van (nhóm 84.81)."
+    },
+    {
+      "ma": "04-02-11",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8481 sang 8424 khớp sát nội dung câu trích nguồn nhom8481.nhom.",
+      "chungMinh": "Đầu vòi phun dạng quay (sprinkler) dùng cho việc lắp đặt hệ thống chống cháy, đầu vòi phun dạng quay tưới vườn cơ học và những thứ tương tự không thuộc nhóm này (nhóm 84.24)."
+    },
+    {
+      "ma": "04-02-12",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8481 sang 8413 khớp sát nội dung câu trích nguồn nhom8481.nhom.",
+      "chungMinh": "Máy bơm hơi nước hoặc bơm phun (nhóm 84.13)."
+    },
+    {
+      "ma": "04-02-13",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8481 sang 8412 khớp sát nội dung câu trích nguồn nhom8481.nhom.",
+      "chungMinh": "được phân loại như những bộ phận của những máy liên quan … van trượt cho động cơ hơi nước (nhóm 84.12)"
+    },
+    {
+      "ma": "04-02-14",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8481 sang 6909 khớp sát nội dung câu trích nguồn nhom8481.nhom.",
+      "chungMinh": "Vòi, khoá vòi, van và những thiết bị tương tự được làm bằng cao su lưu hoá không cứng (nhóm 40.16), gốm (nhóm 69.03 hoặc 69.09)"
+    },
+    {
+      "ma": "04-02-15",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8481 sang 8409 khớp sát nội dung câu trích nguồn nhom8481.nhom.",
+      "chungMinh": "một số bộ phận máy mà kết hợp với một van hoàn chỉnh, hoặc điều chỉnh dòng chảy của chất lỏng bên trong một máy mặc dù bản thân chúng không tạo ra một van hoàn chỉnh, được phân loại như những bộ phận của những máy liên quan, ví dụ, ống dẫn, van xả cho những động cơ đốt trong (nhóm 84.09)"
+    },
+    {
+      "ma": "04-02-16",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8481 sang 8479 khớp sát nội dung câu trích nguồn nhom8481.nhom.",
+      "chungMinh": "Vòi có kết hợp với một thiết bị đo để chia kem, rượu, sữa,v.v.. (nhóm 84.79)."
+    },
+    {
+      "ma": "04-02-17",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9001 sang 8536 khớp sát nội dung câu trích nguồn nhom9001.nhom.",
+      "chungMinh": "Đầu nối cho sợi quang học, bó hoặc cáp sợi quang học (nhóm 85.36)."
+    },
+    {
+      "ma": "04-02-18",
+      "ketLuan": "SAI",
+      "vi": "Nhóm đích 9403 không khớp câu trích: câu trích quy định quần áo hoặc hàng may mặc đã qua sử dụng khác thuộc nhóm 63.09, không phải 94.03.",
+      "chungMinh": "Quần áo hoặc hàng may mặc đã qua sử dụng khác thuộc nhóm 63.09"
+    },
+    {
+      "ma": "04-02-19",
+      "ketLuan": "SAI",
+      "vi": "Điều kiện sai hoàn toàn so với câu trích: điều kiện nêu bơm, máy nén, quạt trong khi câu trích loại trừ đèn, bộ đèn và bộ phận của chúng thuộc nhóm 94.05.",
+      "chungMinh": "(d) Đèn và bộ đèn và các bộ phận của chúng thuộc nhóm 94.05."
+    },
+    {
+      "ma": "04-02-20",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8481 sang 8487 khớp sát nội dung câu trích nguồn nhom8481.nhom.",
+      "chungMinh": "được phân loại như những bộ phận của những máy liên quan … núm bơm mỡ không tự động (nhóm 84.87)"
+    },
+    {
+      "ma": "04-02-21",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8007 sang 8481 khớp sát nội dung câu trích nguồn nhom8007.nhom.",
+      "chungMinh": "phụ kiện của ống, ống dẫn đã lắp vòi, khóa, van,... (nhóm 84.81)"
+    },
+    {
+      "ma": "04-02-22",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7307 sang 8481 khớp sát nội dung câu trích nguồn nhom7307.nhom.",
+      "chungMinh": "(e) Các phụ tùng được trang bị với vòi, van, van phân phối, ... (nhóm 84.81)."
+    },
+    {
+      "ma": "04-02-23",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8481 sang 8467 khớp sát nội dung câu trích nguồn nhom8481.nhom.",
+      "chungMinh": "Ống bơm mỡ hoạt động bằng khí nén (nhóm 84.67)."
+    },
+    {
+      "ma": "04-02-24",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8481 sang 8412 khớp sát nội dung câu trích nguồn nhom8481.nhom.",
+      "chungMinh": "Máy điều tốc li tâm dùng cho động cơ hơi nước (nhóm 84.12)."
+    },
+    {
+      "ma": "04-02-25",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8487 sang 8481 khớp sát nội dung câu trích nguồn nhom8487.nhom.",
+      "chungMinh": "Bộ phận thuộc nhóm 84.81 tới 84.84."
+    },
+    {
+      "ma": "04-02-26",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8403 sang 8481 khớp sát nội dung câu trích nguồn nhom8403.nhom.",
+      "chungMinh": "(d) Vòi, van dẫn hơi nước hoặc dẫn nước nóng (nhóm 84.81)."
+    },
+    {
+      "ma": "04-02-27",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8481 sang 9026 khớp sát nội dung câu trích nguồn nhom8481.nhom.",
+      "chungMinh": "được xếp vào nhóm này nếu dụng cụ hoặc thiết bị được gắn vào hoặc được thiết kế để gắn trực tiếp vào vòi, van, v.v., và với điều kiện thiết bị kết hợp đó có đặc tính chủ yếu của một hàng hóa thuộc nhóm này. Nếu không thoả mãn những điều kiện đó, chúng được phân vào nhóm 90.26 … hoặc nhóm 90.32."
+    },
+    {
+      "ma": "04-02-28",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8481 sang 9032 khớp sát nội dung câu trích nguồn nhom8481.nhom.",
+      "chungMinh": "được xếp vào nhóm này nếu dụng cụ hoặc thiết bị được gắn vào hoặc được thiết kế để gắn trực tiếp vào vòi, van, v.v., và với điều kiện thiết bị kết hợp đó có đặc tính chủ yếu của một hàng hóa thuộc nhóm này. Nếu không thoả mãn những điều kiện đó, chúng được phân vào nhóm 90.26 … hoặc nhóm 90.32."
+    },
+    {
+      "ma": "04-02-29",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8481 sang 8424 khớp sát nội dung câu trích nguồn nhom8481.nhom.",
+      "chungMinh": "Thiết bị phun không khí,v.v.. (nhóm 84.24)."
+    },
+    {
+      "ma": "04-02-30",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8481 sang 8414 khớp sát nội dung câu trích nguồn nhom8481.nhom.",
+      "chungMinh": "được phân loại như những bộ phận của những máy liên quan … van hút hoặc van nén dùng cho máy nén không khí hoặc khí khác (nhóm 84.14)"
+    },
+    {
+      "ma": "04-02-31",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7806 sang 8481 khớp sát nội dung câu trích nguồn nhom7806.nhom.",
+      "chungMinh": "trừ các phụ kiện để ghép nối với vòi, van v.v. (nhóm 84.81)"
+    },
+    {
+      "ma": "04-02-32",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8708 sang 8481 khớp sát nội dung câu trích nguồn phan87.phan.",
+      "chungMinh": "(a) Vòi, vòi nuớc, van và các thiết bị tương tự (ví dụ, vòi hút tản nhiệt, van săm) (nhóm 84.81)."
+    },
+    {
+      "ma": "04-02-33",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8481 sang 8468 khớp sát nội dung câu trích nguồn nhom8481.nhom.",
+      "chungMinh": "Ống thổi để hàn bằng gas (nhóm 84.68)."
+    },
+    {
+      "ma": "04-02-34",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7322 sang 8481 khớp sát nội dung câu trích nguồn nhom7322.nhom.",
+      "chungMinh": "Những bộ phận sau không được xem như các bộ phận rời của lò sưởi. … (c) Các vòi, van nước nóng hoặc hơi nước,... (nhóm 84.81)."
+    },
+    {
+      "ma": "04-02-35",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8545 sang 8536 khớp sát nội dung câu trích nguồn nhom8545.nhom.",
+      "chungMinh": "Nhóm này không bao gồm các chổi kim loại phủ bên ngoài bằng một lớp bôi trơn than chì (nhóm 85.35 hoặc 85.36)."
+    },
+    {
+      "ma": "04-02-36",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8481 sang 6903 khớp sát nội dung câu trích nguồn nhom8481.nhom.",
+      "chungMinh": "Vòi, khoá vòi, van và những thiết bị tương tự được làm bằng cao su lưu hoá không cứng (nhóm 40.16), gốm (nhóm 69.03 hoặc 69.09)"
+    },
+    {
+      "ma": "04-02-37",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 7907 sang 8481 khớp sát nội dung câu trích nguồn nhom7907.nhom.",
+      "chungMinh": "các phụ kiện đã lắp với vòi, khóa, van,... (nhóm 84.81)"
+    },
+    {
+      "ma": "04-02-38",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8481 sang 4016 khớp sát nội dung câu trích nguồn nhom8481.nhom.",
+      "chungMinh": "Vòi, khoá vòi, van và những thiết bị tương tự được làm bằng cao su lưu hoá không cứng (nhóm 40.16)"
+    },
+    {
+      "ma": "04-02-39",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 8544 sang 8536 khớp sát nội dung câu trích nguồn nhom8544.nhom.",
+      "chungMinh": "các đầu nối dùng cho sợi quang học, bó hoặc sợi cáp quang của nhóm 85.36"
+    },
+    {
+      "ma": "04-02-40",
+      "ketLuan": "DUNG",
+      "vi": "Điều kiện loại trừ từ 9033 sang 8536 khớp sát nội dung câu trích nguồn nhom9033.nhom.",
+      "chungMinh": "rơ le (nhóm 85.36)"
+    }
+  ]
+}
