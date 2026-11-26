@@ -1,0 +1,87 @@
+{
+  "khuon": "soat2ve@1",
+  "lo": 4,
+  "kq": [
+    {
+      "id": "C5:5607>9503:bd82cd3f371f",
+      "ketLuan": "CAN_CU_YEU",
+      "vi": "Chú giải 95.03 chỉ xếp bộ phận/phụ trợ cho diều đồ chơi vào 95.03 kèm điều kiện \"không phải là các mặt hàng bị loại trừ bởi Chú giải 1 của Chương này\" (không có trong gói) và không nêu dây diều cuốn trên tay quay/ống cuốn; chú giải 56.07 cũng không loại trừ sang 95.03.",
+      "trichTotHon": {
+        "nguon": "nhom9503.nhom",
+        "trich": "(vii) Khinh khí cầu và diều đồ chơi.… Nhóm này cũng bao gồm các bộ phận và đồ phụ trợ… phù hợp để chỉ sử dụng hoặc chủ yếu sử dụng cho các mặt hàng trên, với điều kiện là chúng không phải là các mặt hàng bị loại trừ bởi Chú giải 1 của Chương này."
+      }
+    },
+    {
+      "id": "C5:5702>5704:320a9d904a2c",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải nhóm đích 57.04 nêu đích danh các loại thảm và hàng dệt trải sàn khác bằng phớt (nỉ) thuộc nhóm 57.04; trích hiện có về lớp lót trải sàn không chứng minh ranh giới 57.02–57.04 nên cần thay bằng trích từ 57.04.",
+      "chungMinh": "Nhóm này bao gồm các loại thảm và các loại hàng dệt trải sàn khác, bằng phớt, về mặt ý nghĩa của thuật ngữ “phớt”, xem Chú giải chi tiết nhóm 56.02.",
+      "trichTotHon": {
+        "nguon": "nhom5704.nhom",
+        "trich": "Nhóm này bao gồm các loại thảm và các loại hàng dệt trải sàn khác, bằng phớt, về mặt ý nghĩa của thuật ngữ “phớt”, xem Chú giải chi tiết nhóm 56.02."
+      }
+    },
+    {
+      "id": "C5:5704>5702:7be25718bfe8",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 57.04 giới hạn ở thảm/hàng dệt trải sàn bằng phớt, còn chú giải 57.02 nêu đích danh thảm Wilton, Brussel, Axminster và thảm dệt thủ công Kelem, Schumacks, Karamanie thuộc nhóm 57.02.",
+      "chungMinh": "(1) Thảm Wilton và các loại thảm tương tự.… tấm thảm loại Brussel… (2) Thảm Axminster… (7) Thảm “Kelem”, “Schumacks”, “Karamanie” và các thảm được dệt thủ công tương tự."
+    },
+    {
+      "id": "C5:5802>6307:237b1c7a595b",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải nhóm đích 63.07 nêu đích danh mặt hàng may sẵn mục (1) khăn lau sàn, khăn lau bát, đĩa, khăn lau bụi và các loại khăn lau tương tự; trích hiện có của 58.02 bị cụt sau dấu hai chấm nên cần thay bằng trích từ 63.07.",
+      "chungMinh": "Nhóm này bao gồm các mặt hàng may sẵn làm từ bất cứ vật liệu dệt nào, không được đề cập một cách chi tiết hơn ở trong nhóm khác của phần XI hoặc ở nơi khác trong Danh mục. Cụ thể, nhóm này bao gồm: (1) Khăn lau sàn, khăn lau bát, đĩa, khăn lau bụi và các loại khăn lau tương tự",
+      "trichTotHon": {
+        "nguon": "nhom6307.nhom",
+        "trich": "Nhóm này bao gồm các mặt hàng may sẵn làm từ bất cứ vật liệu dệt nào… (1) Khăn lau sàn, khăn lau bát, đĩa, khăn lau bụi và các loại khăn lau tương tự (được hoặc không thấm tẩm các chế phẩm làm sạch, nhưng loại trừ các sản phẩm thuộc nhóm 34.01 hoặc 34.05)"
+      }
+    },
+    {
+      "id": "C5:5902>5402:73ff8de159d9",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải nhóm 59.02 chỉ gồm vải mành dùng làm lốp, còn chú giải nhóm đích 54.02 nêu đích danh sợi filament tổng hợp (trừ chỉ khâu, chưa đóng gói bán lẻ), kể cả sợi monofilament có độ mảnh dưới 67 decitex.",
+      "chungMinh": "Nhóm này bao gồm sợi filament tổng hợp (trừ chỉ khâu) gồm: (1) Sợi monofilament (monophin) có độ mảnh dưới 67 decitex. (2) Sợi multifilament… Tuy nhiên, các loại sợi nói trên bị loại trừ khỏi nhóm này nếu chúng tạo nên sợi xe của nhóm 56.07 hoặc sợi đã được đóng gói để bán lẻ thuộc nhóm 54.06",
+      "trichTotHon": {
+        "nguon": "nhom5402.nhom",
+        "trich": "Nhóm này bao gồm sợi filament tổng hợp (trừ chỉ khâu) gồm: (1) Sợi monofilament (monophin) có độ mảnh dưới 67 decitex. (2) Sợi multifilament… bị loại trừ khỏi nhóm này nếu… đã được đóng gói để bán lẻ thuộc nhóm 54.06"
+      }
+    },
+    {
+      "id": "C5:5903>5907:1e8e58d61c0f",
+      "ketLuan": "CAN_CU_YEU",
+      "vi": "Trích hiện có của 59.03 bị cụt sau dấu hai chấm; điều kiện rộng hơn chú giải 59.07 vì bỏ sót điều kiện bắt buộc \"có thể nhìn thấy bằng mắt thường\" và bỏ sót loại trừ các nhóm 59.01 đến 59.06 (như vải cao su hóa 59.06).",
+      "trichTotHon": {
+        "nguon": "nhom5907.nhom",
+        "trich": "Nhóm này gồm vải dệt (không kể các sản phẩm thuộc nhóm từ 59.01 đến 59.06), đã được ngâm tẩm, phủ hoặc tráng, với điều kiện việc ngâm tẩm, phủ, tráng có thể nhìn thấy bằng mắt thường"
+      }
+    },
+    {
+      "id": "C5:5903>6001:511e7ab9c913",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải nhóm đích 60.01 khẳng định nguyên văn vải dệt kim hoặc móc nổi vòng, kể cả được ngâm tẩm, tráng, phủ hoặc dát mỏng, vẫn được phân loại trong nhóm 60.01.",
+      "chungMinh": "Vải dệt kim hoặc móc nổi vòng, được ngâm tẩm, tráng, phủ hoặc dát mỏng, vẫn được phân loại trong nhóm này."
+    },
+    {
+      "id": "C5:5903>6004:6032cd1748ae",
+      "ketLuan": "SAI",
+      "vi": "Chú giải nhóm 60.04 trong gói ghi ngược lại là \"khổ rộng không quá 30 cm\" (trái với điều kiện \"khổ rộng trên 30 cm\"), đồng thời loại trừ \"vải có tạo vòng lông thuộc nhóm 60.01\" nên cũng không chứng minh cho \"vải giả lông thú dệt kim\".",
+      "trichTotHon": {
+        "nguon": "nhom6004.nhom",
+        "trich": "Loại trừ vải có tạo vòng lông thuộc nhóm 60.01, nhóm này bao gồm vải dệt kim hoặc móc có khổ rộng không quá 30 cm, có tỷ trọng sợi đàn hồi hoặc sợi cao su từ 5% trở lên."
+      }
+    },
+    {
+      "id": "C5:5903>6005:006497a71b74",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 59.03 loại trừ vải ngâm tẩm/phủ/tráng không nhận thấy bằng mắt thường sang các Chương 50–55, 58 hoặc 60, và chú giải 60.05 bao gồm vải dệt kim sợi dọc khổ rộng trên 30 cm không chứa hoặc chứa dưới 5% sợi đàn hồi/cao su.",
+      "chungMinh": "Vải dệt được ngâm tẩm, phù, hoặc tráng, không thể nhận thấy bằng mắt thường hoặc có thể nhìn thấy được là do sự thay đổi về màu sắc thì được phân vào các Chương 50 đến 55, 58 hoặc 60.… nhóm này bao gồm vải dệt kim sợi dọc có khổ rộng trên 30 cm, không chứa sợi đàn hồi (elastomeric) hoặc sợi cao su hoặc có tỷ trọng sợi đàn hồi (elastomeric) hoặc sợi cao su dưới 5%."
+    },
+    {
+      "id": "C5:5903>6006:ae1ad430ad86",
+      "ketLuan": "DUNG",
+      "vi": "Chú giải 59.03 chuyển vải có lớp phủ/tráng không thấy bằng mắt thường sang Chương 60, và chú giải 60.06 bao gồm vải dệt kim sợi ngang và vải móc khổ rộng hơn 30 cm không chứa hoặc chứa dưới 5% sợi đàn hồi/cao su.",
+      "chungMinh": "Vải dệt được ngâm tẩm, phù, hoặc tráng, không thể nhận thấy bằng mắt thường hoặc có thể nhìn thấy được là do sự thay đổi về màu sắc thì được phân vào các Chương 50 đến 55, 58 hoặc 60.… Nhóm này bao gồm, ví dụ như vải dệt kim sợi ngang và vải móc có khổ rộng hơn 30 cm, không chứa sợi đàn hồi hoặc sợi cao su hoặc có tỷ trọng sợi đàn hồi hoặc sợi cao su dưới 5%."
+    }
+  ]
+}
