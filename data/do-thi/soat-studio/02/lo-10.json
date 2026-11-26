@@ -1,0 +1,79 @@
+{
+  "khuon": "soat@1",
+  "viec": "02",
+  "lo": 10,
+  "kq": [
+    {
+      "ma": "02-10-01",
+      "ketLuan": "PHAN_BIET",
+      "vi": "Chú giải 71.14 đối chiếu đặc trưng và kích cỡ lớn hơn của đồ kỹ nghệ vàng bạc nhóm 71.14 so với đồ kim hoàn trang sức nhóm 71.13.",
+      "chungMinh": "Nói chung những hàng hóa này nhiều hơn các đồ kim hoàn thuộc nhóm 71.13; bao gồm:"
+    },
+    {
+      "ma": "02-10-02",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Đoạn văn thuộc phần Tổng quát Phân chương II gốm sứ dính cuối chú giải 69.03, nêu quy tắc chung phân loại đồ ăn/gia dụng vào 69.11–69.12.",
+      "chungMinh": "ngoại trừ trường hợp bộ đồ ăn, bộ đồ nhà bếp, đồ gia dụng và đồ sứ vệ sinh khác, được xếp vào nhóm 69.11 khi bằng sứ (china) và nhóm 69.12 nếu thuộc loại đồ gốm, sứ khác."
+    },
+    {
+      "ma": "02-10-03",
+      "ketLuan": "PHAN_BIET",
+      "vi": "Chú giải 70.04 nêu tiêu chí độ dày mỏng hơn và phương pháp kéo/thổi để phân biệt kính nhóm 70.04 với thủy tinh đúc nhóm 70.03.",
+      "chungMinh": "Nhìn chung, kính thuộc nhóm này có thể có các độ dày khác nhau nhưng mỏng hơn so với thủy tinh đúc thuộc nhóm 70.03."
+    },
+    {
+      "ma": "02-10-04",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Đoạn trích là tiêu đề nhóm kế tiếp 70.18 bị dính vào cuối văn bản chú giải 70.17, chỉ mang tính tham chiếu ranh giới tài liệu.",
+      "chungMinh": "70.18 - Hạt bi thủy tinh, thủy tinh giả ngọc trai, thủy tinh giả đá quý hoặc đá bán quý và các đồ vật nhỏ tương tự bằng thủy tinh"
+    },
+    {
+      "ma": "02-10-05",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Đoạn văn thuộc phần Tổng quát Phân chương II sắt thép không hợp kim dính cuối chú giải 72.05, chỉ liệt kê tổng quan nhóm 72.06.",
+      "chungMinh": "PHÂN CHƯƠNG II: SẮT VÀ THÉP KHÔNG HỢP KIM… (1) Thỏi đúc hoặc các dạng thô khác như thanh, cọc, khối, cục bao gồm cả thép ở trạng thái nấu chảy (nhóm 72.06)."
+    },
+    {
+      "ma": "02-10-06",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Chú giải 62.10 loại trừ áo quần may từ vải chần 58.11 sang 62.01 hoặc 62.02 chứ không sang 58.11; 58.11 chỉ là vải nhận diện diện loại trừ.",
+      "chungMinh": "Nhóm này không bao gồm:… (b) Áo quần làm từ các sản phẩm dệt đã chần ở dạng chiếc thuộc nhóm 58.11 (thường được phân loại vào nhóm 62.01 hoặc 62.02)."
+    },
+    {
+      "ma": "02-10-07",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Đoạn văn thuộc phần Tổng quát Phân chương II sắt thép không hợp kim dính cuối chú giải 72.05, liệt kê tổng quan sản phẩm cán phẳng 72.08–72.12.",
+      "chungMinh": "PHÂN CHƯƠNG II: SẮT VÀ THÉP KHÔNG HỢP KIM… (3) Các sản phẩm được cán phẳng (nhóm 72.08 tới 72.12)."
+    },
+    {
+      "ma": "02-10-08",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Đoạn văn là Phụ lục danh mục đá quý/bán quý nhóm 71.03 nằm cuối Chương 71 bị dính sau chú giải 71.18, chỉ mang tính tham chiếu.",
+      "chungMinh": "PHỤ LỤC… Danh mục các loại đá quý hoặc bán quý được xếp trong nhóm 71.03"
+    },
+    {
+      "ma": "02-10-09",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Đoạn văn thuộc phần Tổng quát Phân chương II gốm sứ dính cuối chú giải 69.03, nêu quy tắc chung phân loại đồ sứ ăn uống vào 69.11.",
+      "chungMinh": "ngoại trừ trường hợp bộ đồ ăn, bộ đồ nhà bếp, đồ gia dụng và đồ sứ vệ sinh khác, được xếp vào nhóm 69.11 khi bằng sứ (china) và nhóm 69.12 nếu thuộc loại đồ gốm, sứ khác."
+    },
+    {
+      "ma": "02-10-10",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Chú giải 87.08 nhắc dải xe cơ giới 87.01–87.05 để xác định phương tiện đích dùng phụ tùng 87.08, không phải loại trừ hay nguyên liệu.",
+      "chungMinh": "Nhóm này bao gồm toàn bộ các phụ tùng và bộ phận phụ trợ của xe cơ giới từ nhóm 87.01 đến 87.05"
+    },
+    {
+      "ma": "02-10-11",
+      "ketLuan": "NGUYEN_LIEU",
+      "vi": "Chú giải 54.07 quy định vải dệt thoi của nhóm được dệt từ sợi filament tổng hợp hoặc sợi monofilament hay dải thuộc nhóm 54.04.",
+      "chungMinh": "Nhóm này bao gồm các loại vải dệt… làm bằng sợi filament tổng hợp hoặc bằng sợi monofilament hoặc dải thuộc nhóm 54.04"
+    },
+    {
+      "ma": "02-10-12",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Đoạn văn thuộc phần Tổng quát Phân chương II sắt thép không hợp kim dính cuối chú giải 72.05, liệt kê tổng quan bán thành phẩm nhóm 72.07.",
+      "chungMinh": "PHÂN CHƯƠNG II: SẮT VÀ THÉP KHÔNG HỢP KIM… (2) Bán thành phẩm như cán thô, phôi thanh, cốt thép tròn, tấm, thanh, mảnh được tạo hình thô bằng phương pháp rèn, kể cả phôi để tạo các sản phẩm dạng góc, khuôn hoặc hình (nhóm 72.07)."
+    }
+  ]
+}

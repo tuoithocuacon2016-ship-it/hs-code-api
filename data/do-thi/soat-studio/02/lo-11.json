@@ -1,0 +1,79 @@
+{
+  "khuon": "soat@1",
+  "viec": "02",
+  "lo": 11,
+  "kq": [
+    {
+      "ma": "02-11-01",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Đoạn văn thuộc phần Tổng quát Phân chương II sắt thép không hợp kim dính cuối chú giải 72.05, liệt kê tổng quan thanh que nhóm 72.14–72.15.",
+      "chungMinh": "(4) Thanh và que, cán nóng, ở dạng cuộn cuốn không đều (nhóm 72.13) và các thanh và que khác (nhóm 72.14 hoặc 72.15)"
+    },
+    {
+      "ma": "02-11-02",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Đoạn văn thuộc phần Tổng quát Phân chương II sắt thép không hợp kim dính cuối chú giải 72.05, liệt kê tổng quan dây sắt thép nhóm 72.17.",
+      "chungMinh": "(6) Dây (nhóm 72.17)."
+    },
+    {
+      "ma": "02-11-03",
+      "ketLuan": "LOAI_TRU",
+      "vi": "Chú giải 85.42 loại trừ các đơn vị riêng biệt như nam châm nhóm 85.05 khỏi định nghĩa mạch tích hợp đa thành phần (MCO).",
+      "chungMinh": "được loại trừ khỏi định nghĩa của mạch tích hợp đa thành phần (MCO) (ví dụ, máy biến điện (nhóm 85.04) hoặc nam châm (nhóm 85.05)."
+    },
+    {
+      "ma": "02-11-04",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Đoạn văn thuộc phần Tổng quát Phân chương II sắt thép không hợp kim dính cuối chú giải 72.05, liệt kê tổng quan thanh que nhóm 72.14.",
+      "chungMinh": "(4) Thanh và que, cán nóng, ở dạng cuộn cuốn không đều (nhóm 72.13) và các thanh và que khác (nhóm 72.14 hoặc 72.15)"
+    },
+    {
+      "ma": "02-11-05",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Đoạn văn thuộc phần Tổng quát Phân chương II sắt thép không hợp kim dính cuối chú giải 72.05, liệt kê tổng quan sản phẩm cán phẳng 72.08–72.12.",
+      "chungMinh": "(3) Các sản phẩm được cán phẳng (nhóm 72.08 tới 72.12)."
+    },
+    {
+      "ma": "02-11-06",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Đoạn văn thuộc phần Tổng quát Phân chương III thép không gỉ dính cuối chú giải 72.17, liệt kê tổng quan dải nhóm 72.18–72.23.",
+      "chungMinh": "Phân chương này bao gồm thép không gỉ theo các dạng được nêu tại nhóm 72.18 tới 72.23."
+    },
+    {
+      "ma": "02-11-07",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Đoạn văn thuộc phần Tổng quát Phân chương II sắt thép không hợp kim dính cuối chú giải 72.05, liệt kê tổng quan góc khuôn hình nhóm 72.16.",
+      "chungMinh": "(5) Góc, khuôn và hình (nhóm 72.16)."
+    },
+    {
+      "ma": "02-11-08",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Chú giải 05.04 chỉ nêu công dụng hạ nguồn của ruột động vật dùng để sản xuất chỉ catgut nhóm 30.06, không phải 30.06 là nguyên liệu của 05.04.",
+      "chungMinh": "Chúng cũng được sử dụng để sản xuất chỉ catgut phẫu thuật vô trùng (nhóm 30.06), dây để căng vợt tennis (nhóm 42.06) hoặc dây nhạc cụ (nhóm 92.09)."
+    },
+    {
+      "ma": "02-11-09",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Đoạn văn thuộc phần Tổng quát Phân chương II sắt thép không hợp kim dính cuối chú giải 72.05, liệt kê tổng quan thanh que cuộn 72.13.",
+      "chungMinh": "(4) Thanh và que, cán nóng, ở dạng cuộn cuốn không đều (nhóm 72.13) và các thanh và que khác (nhóm 72.14 hoặc 72.15)"
+    },
+    {
+      "ma": "02-11-10",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Chú giải 72.23 dẫn chiếu sang chú giải các nhóm 72.06–72.17 để tham khảo mức độ gia công cho phép của sản phẩm thép không gỉ.",
+      "chungMinh": "Tất cả các sản phẩm này có thể đã được gia công với điều kiện là chúng không có các đặc tính của sản phẩm thuộc các nhóm khác (xem Chú giải các nhóm 72.06 tới 72.17)."
+    },
+    {
+      "ma": "02-11-11",
+      "ketLuan": "NGUYEN_LIEU",
+      "vi": "Chú giải 73.08 nêu các kết cấu xây dựng kim loại đôi khi lắp ghép tấm dây đan hoặc lưới kéo giãn thuộc nhóm 73.14 làm bộ phận cấu thành.",
+      "chungMinh": "Các kết cấu như vậy đôi khi lắp vào các sản phẩm thuộc các nhóm khác ví dụ như các tấm dây kim loại đan hoặc sản phẩm dạng lưới được tạo hình bằng phương pháp đột dập và kéo giãn thành lưới thuộc nhóm 73.14."
+    },
+    {
+      "ma": "02-11-12",
+      "ketLuan": "DAN_CHIEU",
+      "vi": "Đoạn văn thuộc phần Tổng quát Phân chương III thép không gỉ dính cuối chú giải 72.17, liệt kê tổng quan các nhóm 72.18–72.23.",
+      "chungMinh": "Phân chương này bao gồm thép không gỉ theo các dạng được nêu tại nhóm 72.18 tới 72.23."
+    }
+  ]
+}
