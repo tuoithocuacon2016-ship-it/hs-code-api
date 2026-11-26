@@ -1,0 +1,103 @@
+{
+  "khuon": "soat@1",
+  "viec": "03",
+  "lo": 9,
+  "kq": [
+    {
+      "ma": "03-09-01",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 63.09 bao gồm quần áo và sản phẩm may mặc đã qua sử dụng thỏa điều kiện, phân biệt với trang phục dệt kim móc mới thuộc 61.14.",
+      "chungMinh": "Để được phân vào nhóm này, các mặt hàng trong danh sách liệt kê hạn chế tại đoạn (1) và (2) của Chú giải này, cần phải thỏa mãn cả hai điều kiện sau đây."
+    },
+    {
+      "ma": "03-09-02",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 61.11 áp dụng cho quần áo và hàng phụ trợ trẻ em cao không quá 86 cm, tách khỏi quần nịt/bít tất người cao trên 86 cm thuộc 61.15.",
+      "chungMinh": "khái niệm \"quần áo và hàng may mặc phụ trợ dùng cho trẻ em\" áp dụng cho các sản phẩm dùng cho trẻ có chiều cao không quá 86cm."
+    },
+    {
+      "ma": "03-09-03",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 61.11 loại trừ trực tiếp mũ bonnet trẻ em dệt kim hoặc móc sang nhóm 65.05, hai vế đúng chiều.",
+      "chungMinh": "(a) Mũ bonnet dành cho trẻ em, dệt kim hoặc móc (nhóm 65.05)."
+    },
+    {
+      "ma": "03-09-04",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 61.14 loại trừ thiết bị bảo vệ dùng cho thể thao như mặt nạ, tấm che ngực sang nhóm 95.06, giữ lại trang phục thể thao dệt kim.",
+      "chungMinh": "Tuy nhiên, các thiết bị bảo vệ dùng cho thể thao hoặc trò chơi ( ví dụ như: mặt nạ và các tấm che ngực dùng cho môn đấu kiếm"
+    },
+    {
+      "ma": "03-09-05",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 62.02 loại trừ quần áo làm từ vải đã ngâm tẩm tráng phủ hoặc phớt (56.02, 56.03, 59.03, 59.06, 59.07) sang nhóm 62.10.",
+      "chungMinh": "Tuy nhiên, nhóm này không bao gồm quần áo làm từ vải thuộc nhóm 56.02, 56.03, 59.03, 59.06 hoặc 59.07 (nhóm 62.10)."
+    },
+    {
+      "ma": "03-09-06",
+      "ketLuan": "BO",
+      "vi": "Đảo ngược hoàn toàn hai vế: đinh, vít, bu lông, đai ốc bằng nhôm có công dụng chung thuộc nhóm 76.16, còn bộ phận phụ kiện chuyên dùng cho xe có động cơ thuộc nhóm 87.08.",
+      "chungMinh": "(1) Đinh, đinh bấm, ghim dập (trừ các loại thuộc nhóm 83.05), vít, bu lông, đai ốc, vít treo, đinh tán, chốt hãm, chốt định vị, vòng đệm"
+    },
+    {
+      "ma": "03-09-07",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 90.21 quy định dụng cụ chỉnh hình và đai giữ sau phẫu thuật thuộc 90.21, tách biệt khỏi trang phục dệt kim móc nhóm 61.14.",
+      "chungMinh": "(I) DỤNG CỤ CHỈNH HÌNH … - Để trợ giúp hay giữ các bộ phận cơ thể sau khi ốm dậy, sau khi phẫu thuật hoặc chấn thương."
+    },
+    {
+      "ma": "03-09-08",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 61.13 loại trừ quần áo trẻ sơ sinh thuộc nhóm 61.11 (chiều cao không quá 86 cm), hai vế đúng chiều.",
+      "chungMinh": "Trừ quần áo của trẻ sơ sinh thuộc nhóm 61.11 nhóm này bao gồm tất cả các loại quần áo may từ các loại vải dệt kim hoặc móc thuộc nhóm 59.03"
+    },
+    {
+      "ma": "03-09-09",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 61.11 dùng ngưỡng chiều cao không quá 86 cm để tách áo dệt kim trẻ em (61.11) với áo bó/áo chui đầu (61.10).",
+      "chungMinh": "áp dụng cho các sản phẩm dùng cho trẻ có chiều cao không quá 86cm."
+    },
+    {
+      "ma": "03-09-10",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 42.03 bao gồm hàng may mặc bằng da thuộc hoặc da tổng hợp, tách khỏi hàng may sẵn bằng vải dệt nhóm 62.02.",
+      "chungMinh": "bao gồm tất cả hàng may mặc và đồ phụ trợ quần áo (trừ các loại được quy định dưới đây), bằng da thuộc hoặc da thuộc tổng hợp."
+    },
+    {
+      "ma": "03-09-11",
+      "ketLuan": "BO",
+      "vi": "Đảo ngược hoàn toàn hai vế: bộ phận quang học gắn khung tạm để bảo vệ khi chuyên chở bị loại trừ khỏi 90.02 sang nhóm 90.01, còn bộ phận đã lắp cố định vào giá đỡ mới thuộc nhóm 90.02.",
+      "chungMinh": "(a) Các bộ phận quang học được gắn một khung tạm thời chỉ có một mục đích để bảo vệ khi chuyên chở (nhóm 90.01)."
+    },
+    {
+      "ma": "03-09-12",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 61.14 áp dụng cho trang phục khác sản xuất bằng dệt kim hoặc móc, tách khỏi trang phục không dệt kim/móc thuộc nhóm 62.11.",
+      "chungMinh": "Nhóm này bao gồm các loại quần áo dệt kim hoặc móc chưa được mô tả chi tiết tại các nhóm trước thuộc Chương này."
+    },
+    {
+      "ma": "03-09-13",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 61.11 loại trừ trực tiếp khăn bỉm và tã lót cho trẻ sang nhóm 96.19, hai vế đúng chiều.",
+      "chungMinh": "(b) Khăn (bỉm) và tã lót cho trẻ (nhóm 96.19)."
+    },
+    {
+      "ma": "03-09-14",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 63.07 bao gồm mặt hàng dệt may sẵn khác chưa hoàn thiện thành quần áo, tách khỏi quần áo dệt kim hoàn chỉnh thuộc 61.14.",
+      "chungMinh": "Nhóm này bao gồm các mặt hàng may sẵn làm từ bất cứ vật liệu dệt nào, không được đề cập một cách chi tiết hơn ở trong nhóm khác của phần XI hoặc ở nơi khác trong Danh mục."
+    },
+    {
+      "ma": "03-09-15",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 61.11 áp dụng ngưỡng chiều cao không quá 86 cm để tách găng tay dệt kim móc cho trẻ nhỏ (61.11) với nhóm 61.16.",
+      "chungMinh": "áp dụng cho các sản phẩm dùng cho trẻ có chiều cao không quá 86cm."
+    },
+    {
+      "ma": "03-09-16",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 95.03 bao gồm đồ chơi và búp bê cùng đồ cho búp bê, phân biệt với trang phục dệt kim móc dùng cho người thuộc nhóm 61.14.",
+      "chungMinh": "(B) Xe dành cho búp bê (ví dụ, xe đẩy), kể cả kiểu gấp."
+    }
+  ]
+}

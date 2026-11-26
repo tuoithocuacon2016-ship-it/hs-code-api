@@ -1,0 +1,103 @@
+{
+  "khuon": "soat@1",
+  "viec": "03",
+  "lo": 12,
+  "kq": [
+    {
+      "ma": "03-12-01",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 69.10 loại trừ phụ kiện vệ sinh nhỏ và thiết bị vệ sinh dịch chuyển bằng sứ sang nhóm 69.11, giữ lại thiết bị gắn cố định.",
+      "chungMinh": "nhóm này không gồm các phụ kiện vệ sinh hoặc các phụ kiện nhỏ cho nhà tắm, như đĩa đựng xà bông, hộp đựng đá kỳ, giá để bàn chải đánh răng"
+    },
+    {
+      "ma": "03-12-02",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 69.10 loại trừ thiết bị vệ sinh có thể dịch chuyển bằng gốm trừ sứ sang nhóm 69.12, hai vế đúng chiều.",
+      "chungMinh": "các thiết bị vệ sinh có thể dịch chuyển như bồn tắm, tiểu treo; các sản phẩm này được xếp vào nhóm 69.11 hoặc 69.12."
+    },
+    {
+      "ma": "03-12-03",
+      "ketLuan": "BO",
+      "vi": "Đảo ngược hoàn toàn hai vế: bộ quần áo thể thao thuộc nhóm 61.12 (không áp dụng khái niệm bộ đồng bộ 61.04), còn bộ quần áo đồng bộ thông thường thuộc nhóm 61.04.",
+      "chungMinh": "Khái niệm \"bộ quần áo đồng bộ\" không áp dụng cho bộ quần áo thể thao hoặc bộ quần áo trượt tuyết, thuộc nhóm 61.12"
+    },
+    {
+      "ma": "03-12-04",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 68.05 loại trừ đá mài dạng tròn có vật đỡ cứng gắn lớp ép kết khối sang nhóm 68.04, hai vế đúng chiều.",
+      "chungMinh": "Tuy nhiên nhóm này không bao gồm các đá mài dạng hình tròn có vật đỡ cứng (ví dụ, bằng bìa, gỗ, kim loại) được gắn với lớp ép kết khối"
+    },
+    {
+      "ma": "03-12-05",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 70.06 loại trừ kính an toàn (kính tôi) sang nhóm 70.07, giữ lại kính thuộc 70.03–70.05 đã gia công cạnh/bề mặt.",
+      "chungMinh": "Tuy nhiên, nhóm này không bao gồm kính an toàn (nhóm 70.07)"
+    },
+    {
+      "ma": "03-12-06",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 70.06 chỉ áp dụng cho kính 70.03–70.05 đã uốn cong, gia công cạnh, khắc, khoan sau sản xuất, tách khỏi kính 70.05 chưa gia công.",
+      "chungMinh": "Nhóm này bao gồm kính thuộc các loại được đề cập trong các nhóm 70.03 đến 70.05, những loại đã trải qua một hay các quá trình được đề cập"
+    },
+    {
+      "ma": "03-12-07",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 69.09 loại trừ bình chứa dùng trong gia đình và nhà bếp sang nhóm 69.11 hoặc 69.12, hai vế đúng chiều.",
+      "chungMinh": "(c) Các bình chứa dùng trong gia đình và nhà bếp (hộp đựng chè, thùng đựng bánh mì, hộp đựng bánh bích qui,...) (nhóm 69.11 hoặc 69.12)"
+    },
+    {
+      "ma": "03-12-08",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 69.09 bao gồm đồ gốm sứ dùng trong phòng thí nghiệm hoặc kỹ thuật, phân biệt với bộ đồ ăn/đồ gia dụng bằng sứ thuộc 69.11.",
+      "chungMinh": "(1) Đồ dùng trong phòng thí nghiệm (ví dụ, cho mục đích nghiên cứu hoặc công nghiệp...), như chén nung và nắp của chén nung"
+    },
+    {
+      "ma": "03-12-09",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 69.07 bao gồm phiến lát đường và tấm lát bằng gốm sứ dùng lát nền, ốp tường, tách khỏi đồ gia dụng/vệ sinh bằng sứ nhóm 69.11.",
+      "chungMinh": "Nhóm này bao gồm phiến lát đường và tấm lát bằng gốm, sứ, bao gồm cả gạch lát nền, thường được sử dụng để lát hoặc ốp tường, lát nền"
+    },
+    {
+      "ma": "03-12-10",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 69.13 bao gồm sản phẩm gốm sứ thiết kế chủ yếu để trang trí, phân tách khỏi gạt tàn không trang trí/đồ gia dụng bằng sứ thuộc 69.11.",
+      "chungMinh": "Nhóm này bao gồm các loại sản phẩm bằng gốm, sứ được thiết kế chủ yếu để trang trí nội thất trong nhà, văn phòng phòng họp, nhà thờ"
+    },
+    {
+      "ma": "03-12-11",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 69.09 loại trừ các bộ phận cách điện sang nhóm 85.46, giữ lại đồ dùng phòng thí nghiệm/kỹ thuật không cách điện.",
+      "chungMinh": "(f) Các thiết bị điện (ví dụ: bộ chuyển mạch, hộp nối, công tắc, cầu chì....) thuộc các nhóm từ 85.33 đến 85.38 cũng như các bộ phận cách điện"
+    },
+    {
+      "ma": "03-12-12",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 69.09 loại trừ rõ các sản phẩm chịu lửa được thiết kế chịu nhiệt độ cao sang nhóm 69.03.",
+      "chungMinh": "Tuy nhiên nhóm này không bao gồm sản phẩm chịu lửa các loại được thiết kế để chịu được các mức nhiệt độ cao"
+    },
+    {
+      "ma": "03-12-13",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 69.09 gồm bình chứa chuyên chở/đóng gói sản phẩm và đồ thí nghiệm, tách khỏi hộp lọ mục đích chung dùng cửa hàng thuộc 69.14.",
+      "chungMinh": "(3) Bình chứa các loại dùng để chuyên chở hoặc đóng gói sản phẩm"
+    },
+    {
+      "ma": "03-12-14",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 68.14 gồm mica kết khối hoặc bồi giấy bìa, tách biệt rõ với bìa/giấy ráp phủ bột mài hoặc hạt mài thuộc nhóm 68.05.",
+      "chungMinh": "Nhóm này gồm mica tự nhiên đã được gia công hơn mức chỉ xẻ và đẽo (ví dụ, được cắt thành hình) và cũng gồm các sản phẩm chứa mica kết khối"
+    },
+    {
+      "ma": "03-12-15",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 69.09 loại trừ các bình chứa dùng trong gia đình sang nhóm 69.11 (bằng sứ), giữ lại đồ chuyên chở/đóng hàng/thí nghiệm.",
+      "chungMinh": "(trừ các bình chứa có khắc chia độ dùng trong gia đình);"
+    },
+    {
+      "ma": "03-12-16",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 69.09 áp dụng cho sản phẩm từ gốm thủy tinh hóa, phân tách với sản phẩm bằng gốm kim loại (cermet) thuộc nhóm 81.13.",
+      "chungMinh": "Nhóm này gồm toàn bộ các sản phẩm khác nhau thường được làm từ gốm đã được thủy tinh hóa (đồ gốm, sứ hoặc đồ sứ, gốm steatit, v.v)"
+    }
+  ]
+}

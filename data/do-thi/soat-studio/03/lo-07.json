@@ -1,0 +1,103 @@
+{
+  "khuon": "soat@1",
+  "viec": "03",
+  "lo": 7,
+  "kq": [
+    {
+      "ma": "03-07-01",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 55.12 loại trừ băng đã tẩm thuốc hoặc đóng gói để bán lẻ sang nhóm 30.05, hai vế đúng chiều.",
+      "chungMinh": "Băng, đã tẩm thuốc hoặc đã đóng gói để bán lẻ thì bị loại trừ (nhóm 30.05)."
+    },
+    {
+      "ma": "03-07-02",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 68.15 bao gồm xơ carbon và sản phẩm từ xơ carbon, tách khỏi vải xơ staple tổng hợp pha bông thuộc nhóm 55.13.",
+      "chungMinh": "(2) Xơ carbon và các sản phẩm bằng xơ carbon. Xơ carbon thường được làm bằng cách carbon hoá polyme hữu cơ ở dạng sợi."
+    },
+    {
+      "ma": "03-07-03",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 68.15 bao gồm xơ carbon và các mặt hàng từ carbon, phân tách rõ với sợi từ xơ staple nhân tạo thuộc nhóm 55.11.",
+      "chungMinh": "(2) Xơ carbon và các sản phẩm bằng xơ carbon. Xơ carbon thường được làm bằng cách carbon hoá polyme hữu cơ ở dạng sợi."
+    },
+    {
+      "ma": "03-07-04",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 70.19 bao gồm sợi thủy tinh và các sản phẩm từ sợi thủy tinh, phân biệt với sợi từ xơ staple nhân tạo nhóm 55.11.",
+      "chungMinh": "Nhóm này bao gồm chính sợi thủy tinh và sợi thủy tinh (kể cả bông thủy tinh như đã được định nghĩa trong Chú giải 4 của Chương này) được làm thành các dạng khác nhau"
+    },
+    {
+      "ma": "03-07-05",
+      "ketLuan": "BO",
+      "vi": "Đảo ngược hoàn toàn hai vế: túi ngủ được đệm lót bị loại trừ khỏi 63.06 sang nhóm 94.04, còn đệm khí cắm trại thuộc nhóm 63.06.",
+      "chungMinh": "(b) Túi ngủ được đệm, lót và nệm nhồi, gối và đệm (nhóm 94.04)."
+    },
+    {
+      "ma": "03-07-06",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 55.13 áp dụng cho vải xơ staple tổng hợp dưới 85% pha bông, phân biệt với vải có tỷ trọng bông từ 85% trở lên thuộc 52.08.",
+      "chungMinh": "Có tỷ trọng xơ staple tổng hợp dưới 85%;"
+    },
+    {
+      "ma": "03-07-07",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 70.19 bao gồm sợi thủy tinh và các mặt hàng từ sợi thủy tinh, tách biệt khỏi vải xơ staple tổng hợp pha bông nhóm 55.13.",
+      "chungMinh": "Nhóm này bao gồm chính sợi thủy tinh và sợi thủy tinh (kể cả bông thủy tinh như đã được định nghĩa trong Chú giải 4 của Chương này) được làm thành các dạng khác nhau"
+    },
+    {
+      "ma": "03-07-08",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 55.12 quy định vải dệt từ xơ staple tổng hợp tỷ trọng từ 85% trở lên, tách khỏi vải dệt từ sợi filament thuộc nhóm 54.07.",
+      "chungMinh": "có tỷ trọng xơ staple tổng hợp từ 85% trở lên"
+    },
+    {
+      "ma": "03-07-09",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 56.03 loại trừ băng dùng trong y tế đã tẩm thuốc hay đóng gói bán lẻ sang nhóm 30.05, hai vế đúng chiều.",
+      "chungMinh": "(a) Băng dùng trong y tế, đã tẩm thuốc hay đã đóng gói để bán lẻ (nhóm 30.05)."
+    },
+    {
+      "ma": "03-07-10",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 68.12 gồm sợi amiăng đã gia công và các mặt hàng từ amiăng, phân biệt với vải xơ staple tổng hợp pha bông nhóm 55.13.",
+      "chungMinh": "Nhóm này gồm sợi amiăng được gia công hơn mức làm đập, làm sạch, chọn lọc hoặc phân loại (ví dụ, sợi đã được chải và nhuộm)."
+    },
+    {
+      "ma": "03-07-11",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 55.13 giới hạn trọng lượng không vượt quá 170 g/m2, còn lớn hơn 170 g/m2 sang nhóm 55.14, hai vế chính xác.",
+      "chungMinh": "Trọng lượng không vượt quá 170g/m2."
+    },
+    {
+      "ma": "03-07-12",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 56.03 loại trừ rõ các sản phẩm không dệt được phủ bằng bột mài hoặc hạt mài sang nhóm 68.05.",
+      "chungMinh": "(k) Các sản phẩm không dệt được phủ bằng bột mài hoặc hạt mài (nhóm 68.05)"
+    },
+    {
+      "ma": "03-07-13",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 56.03 loại trừ các loại phớt xuyên kim sang nhóm 56.02, giữ lại sản phẩm không dệt trong nhóm 56.03.",
+      "chungMinh": "(c) Các loại phớt xuyên kim (nhóm 56.02)."
+    },
+    {
+      "ma": "03-07-14",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 55.13 loại trừ băng đã tẩm thuốc hoặc đóng gói để bán lẻ sang nhóm 30.05, hai vế đúng chiều.",
+      "chungMinh": "Băng, đã tẩm thuốc hoặc đã đóng gói để bán lẻ thì bị loại trừ (nhóm 30.05)."
+    },
+    {
+      "ma": "03-07-15",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 56.03 loại trừ các sản phẩm không dệt sử dụng trong kỹ thuật sang nhóm 59.11, hai vế chuẩn xác.",
+      "chungMinh": "(ij) Các sản phẩm không dệt sử dụng trong kỹ thuật, thuộc nhóm 59.11."
+    },
+    {
+      "ma": "03-07-16",
+      "ketLuan": "DUYET",
+      "vi": "Chú giải 56.03 loại trừ sản phẩm không dệt đã ngâm tẩm, tráng phủ xà phòng hay chất tẩy rửa sang nhóm 34.01.",
+      "chungMinh": "(b) Các sản phẩm không dệt, đã ngâm tẩm, tráng, phủ hoặc bọc với các chất hoặc các chế phẩm"
+    }
+  ]
+}
