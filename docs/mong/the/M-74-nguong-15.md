@@ -11,3 +11,7 @@
 
 ## Kết quả tự kiểm
 - `khuon`: 0 lỗi · Cổng 4/5: 0 lỗi · `kiemDaiAnhEm`: 0 lỗi · `doiChieuRanhGoi`: 0 thiếu · `test-ho-so-ma`, `test-ho-so-ma-tra`, `test-lop-kho`: đạt.
+
+## Sửa bổ sung theo QT (@1ef7120e)
+- Chuyển bản ghi `chuong:15:cg:1:c#1` (`≤ 15%` sản phẩm nhóm 04.05) từ `chuong:15` sang `bieu:1517` (Luật 7).
+- Bổ sung `NGUONG` bù cho `bieu:15149` (`≥ 2%` axit eruxic, `ghiChu: "phuDinh: bieu:15141"` — Luật 1). Tổng bản ghi sau sửa: **45**.
